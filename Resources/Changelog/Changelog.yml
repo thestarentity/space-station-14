@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: NoreUhh
-  changes:
-  - message: The Syndicate Cyborg Martyr Module can now be used multiple times.
-    type: Tweak
-  id: 9030
-  time: '2025-10-03T23:35:01.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/40224
 - author: K-Dynamic
   changes:
   - message: Adds smart equip function to pocket 1, pocket 2, and suit storage slots.
@@ -3987,3 +3980,10 @@
   id: 9537
   time: '2026-02-21T23:54:26.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/42984
+- author: lyxcaster
+  changes:
+  - message: Made glasses actually correct short-sighted vision!
+    type: Tweak
+  id: 9538
+  time: '2026-02-22T00:07:34.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/42990
