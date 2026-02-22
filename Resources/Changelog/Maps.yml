@@ -1001,4 +1001,12 @@
   id: 122
   time: '2026-02-07T07:01:55.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/42822
+- author: Vortebo
+  changes:
+  - message: On Relic, small changes to e.g. spawns, wiring, pipes, signage have been
+      made to slightly reduce friction in gameplay. Slightly.
+    type: Tweak
+  id: 123
+  time: '2026-02-22T22:16:29.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/42921
 Order: 2
