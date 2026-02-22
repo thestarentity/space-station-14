@@ -1018,4 +1018,15 @@
   id: 124
   time: '2026-02-22T23:06:42.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/42911
+- author: Blackern5000
+  changes:
+  - message: Entirely remade the Vegan Meatball magnet wreck to better work as a wreck
+      for salvage.
+    type: Tweak
+  - message: The Vegan Meatball magnet wreck should no longer pollute space with dozens
+      of enemies after despawning
+    type: Fix
+  id: 125
+  time: '2026-02-22T23:20:39.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/42994
 Order: 2
