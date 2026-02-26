@@ -3982,3 +3982,11 @@
   id: 9544
   time: '2026-02-25T23:33:16.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/41812
+- author: SlamBamActionman
+  changes:
+  - message: Tweaked German, Scottish (previously Dwarfish) and Southern accents to
+      not outright replace words.
+    type: Tweak
+  id: 9545
+  time: '2026-02-26T17:45:58.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43030
