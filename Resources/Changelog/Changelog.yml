@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Lordbrandon12
-  changes:
-  - message: Fixed issue allowing space heater temperature to be set above the allowed
-      limit.
-    type: Fix
-  id: 9042
-  time: '2025-10-07T12:53:59.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/40453
 - author: IProduceWidgets
   changes:
   - message: Vox that take excessive amounts of fire damage will now burn into fried
@@ -3996,3 +3988,11 @@
   id: 9552
   time: '2026-02-28T14:37:26.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43066
+- author: ScarKy0
+  changes:
+  - message: Makeshift Juicers now correctly craft in your hands instead of being
+      a construction ghost.
+    type: Fix
+  id: 9553
+  time: '2026-02-28T14:54:14.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43075
