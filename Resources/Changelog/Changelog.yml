@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: Princess-Cheeseballs
   changes:
-  - message: Wizard is now only a midround spawn.
-    type: Tweak
-  id: 9164
-  time: '2025-10-23T15:29:38.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/40983
-- author: Princess-Cheeseballs
-  changes:
   - message: Explosions now scale properly with reagent quantity
     type: Fix
   id: 9165
@@ -4067,3 +4060,12 @@
   id: 9675
   time: '2026-04-28T15:37:53.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/39269
+- author: AndrewFenriz
+  changes:
+  - message: Amanita and Plump pies have been given new sprites
+    type: Tweak
+  - message: Amanita and Plump pies can now be sliced
+    type: Add
+  id: 9676
+  time: '2026-04-30T01:39:33.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43674
