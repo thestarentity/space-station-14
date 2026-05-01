@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: emberwinters
-  changes:
-  - message: Diphenhydramine now respects its maximum drowsiness
-    type: Fix
-  id: 9168
-  time: '2025-10-28T17:14:19.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/41169
 - author: kosticia
   changes:
   - message: Kira special drink has been renamed to the citrus bikeshed.
@@ -4076,3 +4069,11 @@
   id: 9679
   time: '2026-05-01T19:13:40.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43823
+- author: Princess-Cheeseballs
+  changes:
+  - message: Grindable entities as sources of reagents show up in the chemistry guidebook
+      again.
+    type: Fix
+  id: 9680
+  time: '2026-05-01T20:14:44.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43743
