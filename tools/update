@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Convenience wrapper for ss14-update.py — uses the venv automatically.
+# Usage (from repo root):
+#   tools/update          # translate what changed since last run
+#   tools/update --init   # initialize snapshot (first time only)
+#   tools/update --dry-run
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$SCRIPT_DIR/.venv/bin/python" "$SCRIPT_DIR/ss14-update.py" "$@"
