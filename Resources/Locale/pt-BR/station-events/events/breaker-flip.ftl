@@ -1,0 +1,1 @@
+station-event-breaker-flip-announcement = Com base em { $data }, optamos por desativar APCs específicos para evitar danos ao equipamento. Por favor, entre em contato com o departamento de engenharia para reativá-los.

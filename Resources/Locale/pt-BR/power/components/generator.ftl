@@ -1,0 +1,36 @@
+generator-clogged = { CAPITALIZE(THE($generator)) } desliga abruptamente!
+portable-generator-verb-start = Iniciar gerador
+portable-generator-verb-start-msg-unreliable = Inicie o gerador. Isso pode levar algumas tentativas.
+portable-generator-verb-start-msg-reliable = Ligue o gerador.
+portable-generator-verb-start-msg-unanchored = O gerador deve ser fixado primeiro!
+portable-generator-verb-stop = Desligar gerador
+portable-generator-start-fail = Você puxa o cabo, mas ele não ligou.
+portable-generator-start-success = Você puxa o cabo, e ele se acende com um zumbido.
+portable-generator-ui-title = Gerador Portátil
+portable-generator-ui-status-stopped = Parado:
+portable-generator-ui-status-starting = Iniciando:
+portable-generator-ui-status-running = Em execução:
+portable-generator-ui-start = Iniciar
+portable-generator-ui-stop = Pare
+portable-generator-ui-target-power-label = Potência Alvo (kW):
+portable-generator-ui-efficiency-label = Eficiência:
+portable-generator-ui-fuel-use-label = Uso de combustível:
+portable-generator-ui-fuel-left-label = Combustível restante:
+portable-generator-ui-clogged = Contaminantes detectados no tanque de combustível!
+portable-generator-ui-eject = Expulsar
+portable-generator-ui-eta = (~{ $minutes } min)
+portable-generator-ui-unanchored = Desancorado
+portable-generator-ui-current-output = Saída atual: { $voltage }
+portable-generator-ui-network-stats = Rede:
+portable-generator-ui-network-stats-value = { POWERWATTS($supply) } / { POWERWATTS($load) }
+portable-generator-ui-network-stats-not-connected = Não conectado
+power-switchable-generator-examine = A saída de energia está definida para { $voltage }.
+power-switchable-generator-switched = Mudou para { $voltage }!
+power-switchable-voltage =
+    { $voltage ->
+        [HV] [cor=laranja]HV[/cor]
+        [MV] [color=amarelo]MV[/color]
+       *[LV] [cor=verde]LV[/cor]
+    }
+power-switchable-switch-voltage = Mude para { $voltage }
+fuel-generator-verb-disable-on = Desligue o gerador primeiro!

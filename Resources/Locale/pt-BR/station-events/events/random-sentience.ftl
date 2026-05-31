@@ -1,0 +1,39 @@
+## Phrases used for where central command got this information.
+
+random-sentience-event-data-1 = varreduras de nossos sensores de longo alcance
+random-sentience-event-data-2 = nossos sofisticados modelos probabilísticos
+random-sentience-event-data-3 = nossa onipotência
+random-sentience-event-data-4 = o tráfego de comunicações na sua estação
+random-sentience-event-data-5 = emissões de energia que detectamos
+random-sentience-event-data-6 = [REDACTED]
+
+## Phrases used to describe the level of intelligence, though it doesn't actually affect anything.
+
+random-sentience-event-strength-1 = A entidade sentiente fraca foi detectada. Ela não representa uma ameaça imediata, mas pode causar alguns problemas.
+random-sentience-event-strength-2 = primata
+random-sentience-event-strength-3 = moderado
+random-sentience-event-strength-4 = A entidade sentiente está se tornando mais forte. Ela está se manifestando em todos os níveis da estação. A comunicação com ela é possível, mas não se sabe se ela está consciente do que está fazendo. A única coisa que se sabe é que ela está se tornando mais forte a cada segundo.
+random-sentience-event-strength-5 = comando /não
+random-sentience-event-strength-6 = Palhaço
+random-sentience-event-strength-7 = baixo
+random-sentience-event-strength-8 = AI da Estação
+
+## Announcement text
+
+station-event-random-sentience-announcement =
+    Com base em { $data }, acreditamos que alguns dos tripulantes da estação possuem consciência.{ $amount ->
+        [1] { $kind1 }
+        [2] { $kind1 } e { $kind2 }
+        [3] { $kind1 }, { $kind2 } e { $kind3 }
+       *[other] { $kind1 }, { $kind2 }, { $kind3 }, etc.
+    }seres desenvolveram inteligência de nível { $strength }, e a capacidade de se comunicar.
+
+## Ghost role description
+
+station-event-random-sentience-role-description = Você é um ser consciente { $name }, trazido à vida através da magia espacial.
+# Flavors
+station-event-random-sentience-flavor-mechanical = Mecânico
+station-event-random-sentience-flavor-organic = orgânico
+station-event-random-sentience-flavor-primate = primata
+station-event-random-sentience-flavor-kobold = Kobold
+station-event-random-sentience-flavor-inanimate = inanimado

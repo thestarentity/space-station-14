@@ -1,0 +1,11 @@
+cmd-motd-desc = Imprime ou define a Mensagem do Dia.
+cmd-motd-help = Exibe a mensagem do dia (motd) para todos os tripulantes. Use /no_think para não exibir a mensagem.
+cmd-get-motd-desc = Exibe a Mensagem do Dia.
+cmd-get-motd-help = Mostra a mensagem do dia.
+cmd-set-motd-desc = Define ou limpe a Mensagem do Dia.
+cmd-set-motd-help = Define a mensagem que será exibida para todos os tripulantes ao conectarem-se à estação.
+cmd-set-motd-hint-head = Clique no botão "Definir MOTD" para definir a mensagem que será exibida para todos os tripulantes.
+cmd-set-motd-hint-cont = Clique no botão "Enviar" para definir a mensagem.
+cmd-set-motd-cleared-motd-message = Mensagem do Dia limpa.
+cmd-set-motd-set-motd-message = Defina a Mensagem do Dia para "{ $motd }".
+motd-wrap-message = Mensagem do Dia: { $motd }

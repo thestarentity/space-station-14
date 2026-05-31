@@ -1,0 +1,9 @@
+access-overrider-window-privileged-id = ID de Acesso Privilegiado:
+access-overrider-window-eject-button = Expulsar
+access-overrider-window-insert-button = Inserir
+access-overrider-window-target-label = Dispositivo conectado:
+access-overrider-window-no-target = Nenhum dispositivo conectado
+access-overrider-window-missing-privileges = O acesso a este dispositivo não pode ser modificado. O ID inserido está faltando as seguintes permissões:
+access-overrider-window-missing-privileges-no-id = O acesso a este dispositivo não pode ser modificado. Faltam as seguintes permissões:
+access-overrider-cannot-modify-access = Você não tem privilégios suficientes para modificar esse dispositivo!
+access-overrider-out-of-range = O dispositivo conectado está muito longe

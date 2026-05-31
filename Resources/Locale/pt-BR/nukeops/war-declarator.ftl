@@ -1,0 +1,15 @@
+war-declarator-not-working = O dispositivo emite sons de bip, mas nada acontece...
+war-declarator-ui-header = Declaração de Guerra
+war-declarator-ui-war-button = DECLARAR GUERRA!
+war-declarator-ui-try-war-button = Tentar declarar guerra
+war-declarator-conditions-small-crew = Não há operativos nucleares suficientes para declarar guerra!
+war-declarator-conditions-left-outpost = Shuttle saiu do posto avançado do sindicato
+war-declarator-conditions-time-out = O tempo para declaração de guerra expirou
+war-declarator-conditions-ready = O shuttle pode sair do posto avançado!
+war-declarator-conditions-unknown = ID desconhecido
+war-declarator-boost-possible = Apto a declarar guerra
+war-declarator-boost-impossible = Impossível declarar guerra
+war-declarator-boost-declared = Guerra declarada! O shuttle pode estar desativado por...
+war-declarator-boost-timer = Tempo restante: { $time } minutos.
+war-declarator-default-message = Um grupo periférico do sindicato declarou a intenção de destruir totalmente a estação com um dispositivo nuclear e desafia a tripulação a tentar impedi-los.
+war-declarator-message-placeholder = Escreva uma declaração de guerra personalizada aqui...

@@ -1,0 +1,11 @@
+selectable-lock-verb-category-name = Adicionar trava
+selectable-lock-no-lock-verb = Nenhum bloqueio
+selectable-lock-no-lock-popup = Nenhuma trava foi adicionada a { THE($target) }.
+selectable-lock-voice-verb = Trava de Voz
+selectable-lock-voice-popup = Foi adicionado um bloqueio de voz a { THE($target) }.
+selectable-lock-tool-prying-verb = Furar
+selectable-lock-tool-prying-popup = Foi adicionada uma trava de ferramenta de arrombamento a { THE($target) }.
+selectable-lock-tool-screwing-verb = Ferramenta de Trava (Chave de Fenda)
+selectable-lock-tool-screwing-popup = Foi adicionado um trava de ferramenta de apertar a { THE($target) }.
+selectable-lock-tool-cutting-verb = Ferramenta de Bloqueio (Cortador de Fios)
+selectable-lock-tool-cutting-popup = Foi adicionado um bloqueio de ferramenta de corte a { THE($target) }.

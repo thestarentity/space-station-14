@@ -1,0 +1,11 @@
+magic-mirror-component-activate-user-has-no-hair = Você não tem cabelo!
+magic-mirror-add-slot-self = Você está se dando alguns cabelos.
+magic-mirror-remove-slot-self = Você está removendo parte do seu cabelo.
+magic-mirror-change-slot-self = Você está mudando seu corte de cabelo.
+magic-mirror-change-color-self = Você está mudando a cor do seu cabelo.
+magic-mirror-add-slot-target = O cabelo está sendo adicionado a você por { THE($user) }.
+magic-mirror-remove-slot-target = Seu cabelo está sendo cortado por { THE($user) }.
+magic-mirror-change-slot-target = Seu corte de cabelo está sendo alterado por { THE($user) }.
+magic-mirror-change-color-target = O seu cabelo está sendo alterado pela { THE($user) }.
+magic-mirror-blocked-by-hat-self = Você precisa tirar o chapéu antes de mudar o cabelo.
+magic-mirror-blocked-by-hat-self-target = Você tenta mudar o cabelo de { POSS-ADJ($target) }, mas as roupas de { POSS-ADJ($target) } ficam no caminho.

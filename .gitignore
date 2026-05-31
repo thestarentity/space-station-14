@@ -312,3 +312,7 @@ Resources/MapImages
 
 # C# Dev Kit cache file
 *.lscache
+
+# Translation tools — exclude venv and logs
+tools/.venv/
+tools/*.log

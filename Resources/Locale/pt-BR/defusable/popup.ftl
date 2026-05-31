@@ -1,0 +1,9 @@
+defusable-popup-begun = { CAPITALIZE(THE($name)) } emite bipes; sua luz está acesa!
+defusable-popup-defuse = { CAPITALIZE(THE($name)) } bipa uma última vez, enquanto a luz se apaga para sempre.
+defusable-popup-boom = { CAPITALIZE(THE($name)) } ruges enquanto a bomba interna explode!
+defusable-popup-fried = { CAPITALIZE(THE($name)) } faíscas, mas falha em iniciar a contagem regressiva.
+defusable-popup-cant-anchor = { CAPITALIZE(THE($name)) } parece estar parafusado ao chão!
+defusable-popup-wire-bolt-pulse = Os parafusos ficam girando por um momento.
+defusable-popup-wire-proceed-pulse = { CAPITALIZE(THE($name)) } zumbi ameaçadoramente!
+defusable-popup-wire-proceed-cut = O display digital em { THE($name) } desativa.
+defusable-popup-wire-chirp = { CAPITALIZE(THE($name)) } chilre.

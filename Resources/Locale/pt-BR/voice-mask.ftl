@@ -1,0 +1,12 @@
+voice-mask-default-name-override = ID desconhecido
+voice-mask-name-change-window = Alterar Nome da Máscara de Voz
+voice-mask-name-change-info = Digite o nome que você quer imitar.
+voice-mask-name-change-speech-style = Estilo de fala
+voice-mask-name-change-set = Definir nome
+voice-mask-name-change-set-description = Mude o nome que os outros ouvem para algo diferente.
+voice-mask-name-change-toggle = Alternar máscara de voz
+voice-mask-name-change-accent-toggle = Desativar acento
+voice-mask-popup-toggle = Máscara de voz alternada.
+voice-mask-popup-accent-toggle = Alternância de sotaque ativada.
+voice-mask-popup-success = Nome definido com sucesso.
+voice-mask-popup-failure = O nome não pôde ser definido.

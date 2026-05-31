@@ -1,0 +1,11 @@
+stethoscope-verb = Escute com o estetoscópio
+stethoscope-nothing = Você não ouve nada.
+stethoscope-normal = Você ouve respiração normal.
+stethoscope-raggedy = Você ouve respiração ofegante.
+stethoscope-hyper = Você ouve respiração ofegante.
+stethoscope-irregular = Você ouve respiração ofegante com um padrão irregular.
+stethoscope-fucked = Você ouve respiração nervosa e ofegante, intercalada com curtos suspiros.
+stethoscope-delta-steady = É estável.
+stethoscope-delta-improving = Está melhorando.
+stethoscope-delta-worsening = Está piorando.
+stethoscope-combined-status = { $absolute } { $delta }

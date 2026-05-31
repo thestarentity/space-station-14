@@ -1,0 +1,10 @@
+set-game-preset-command-description = Define o preset do jogo para o número especificado de rodadas futuras. Também pode exibir o título e a descrição de outro preset na sala de espera para enganar os jogadores.
+set-game-preset-command-help-text = definirpresetdejogo <id> [número de rodadas, padrão 1] [preset de decoy]
+set-game-preset-command-hint-1 = Configuração de jogo: Use o comando "setgamepreset" para definir uma configuração de jogo padrão.
+set-game-preset-command-hint-2 = [numero de rodadas]
+set-game-preset-command-hint-3 = [pré-configuração de isca]
+set-game-preset-optional-argument-not-integer = Se o argumento 2 for fornecido, ele deve ser um número.
+set-game-preset-preset-error = Não foi possível encontrar o preset do jogo "{ $preset }"
+set-game-preset-decoy-error = Se o argumento 3 for fornecido, ele deve ser um preset válido. Não foi possível encontrar o preset do jogo "{ $preset }"
+set-game-preset-preset-set-finite = Defina o preset do jogo como "{ $preset }" para os próximos { $rounds } rounds.
+set-game-preset-preset-set-finite-with-decoy = Defina o preset do jogo como "{ $preset }" para as próximas { $rounds } rodadas, mostrando { $decoy } na sala de espera.

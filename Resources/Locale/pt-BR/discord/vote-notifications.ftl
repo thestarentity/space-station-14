@@ -1,0 +1,11 @@
+custom-vote-webhook-name = Voto Personalizado Realizado
+custom-vote-webhook-footer = servidor: { $serverName }, rodada: { $roundId } { $runLevel }
+custom-vote-webhook-cancelled = Voto cancelado
+custom-vote-webhook-option-pending = Aguardando aprovação do voto personalizado.
+custom-vote-webhook-option-cancelled = Valor inválido.
+votekick-webhook-name = Votekick em Andamento
+votekick-webhook-description = Iniciador: { $initiator }; Alvo: { $target }
+votekick-webhook-cancelled-admin-online = Voto cancelado devido a administradores online
+votekick-webhook-cancelled-admin-target = Voto cancelado devido ao alvo ser um administrador
+votekick-webhook-cancelled-antag-target = Voto cancelado devido ao alvo ser um antag
+votekick-ban-reason = Votekick: { $reason }

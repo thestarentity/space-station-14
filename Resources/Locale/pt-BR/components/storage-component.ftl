@@ -1,0 +1,13 @@
+comp-storage-no-item-size = Valor inválido.
+comp-storage-cant-insert = Não pode inserir.
+comp-storage-too-big = Muito grande!
+comp-storage-insufficient-capacity = Sem espaço!
+comp-storage-invalid-container = Isso não vai lá dentro!
+comp-storage-anchored-failure = Não é possível inserir um item ancrado.
+comp-storage-cant-drop = Você não pode soltar { THE($entity) }!
+comp-storage-window-title = Item de Armazenamento
+comp-storage-window-weight = { $weight }/{ $maxWeight }, Tamanho Máximo: { $size }
+comp-storage-window-slots = Slots: { $itemCount }/{ $maxCount }, Tamanho Máximo: { $size }
+comp-storage-window-dummy = Falso
+comp-storage-verb-open-storage = Abrir Armazenamento
+comp-storage-verb-close-storage = Fechar Armazenamento

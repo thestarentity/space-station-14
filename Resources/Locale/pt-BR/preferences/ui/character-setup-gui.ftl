@@ -1,0 +1,13 @@
+character-setup-gui-character-setup-label = Configuração do personagem
+character-setup-gui-character-setup-adminremarks-button = Observações do Administrador
+character-setup-gui-character-setup-stats-button = Estatísticas
+character-setup-gui-character-setup-rules-button = Regras
+character-setup-gui-character-setup-close-button = Fechar válvula de liberação
+character-setup-gui-create-new-character-button = Criar novo slot...
+character-setup-gui-create-new-character-button-tooltip = É permitido um máximo de { $maxCharacters } personagens.
+character-setup-gui-character-picker-button-delete-button = Excluir
+character-setup-gui-character-picker-button-confirm-delete-button = Confirmar
+character-setup-gui-save-panel-title = Alterações não salvas do personagem
+character-setup-gui-save-panel-save = Salvar
+character-setup-gui-save-panel-nosave = Não salvar
+character-setup-gui-save-panel-cancel = Cancelar

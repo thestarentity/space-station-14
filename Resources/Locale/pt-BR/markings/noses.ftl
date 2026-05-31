@@ -1,0 +1,10 @@
+marking-HumanNoseSchnozz = Schnozz
+marking-HumanNoseSchnozz-schnozz = Nariz
+marking-HumanNoseNubby = Nariz Nuboso
+marking-HumanNoseNubby-nubby = Nariz
+marking-HumanNoseDroop = Nariz Caído
+marking-HumanNoseDroop-droop = Nariz
+marking-HumanNoseBlob = Nariz Borrachudo
+marking-HumanNoseBlob-blob = Nariz
+marking-HumanNoseUppie = Nariz Uppie
+marking-HumanNoseUppie-uppie = Nariz

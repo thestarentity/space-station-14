@@ -1,0 +1,10 @@
+changeling-catalog-arm-blade-name = Lâmina de Braço Retrátil
+changeling-catalog-arm-blade-desc = Transforme seu braço em uma terrível lâmina de carne. Pode ser ativado/desativado.
+changeling-catalog-flesh-clothing-name = Roupas de Carne
+changeling-catalog-flesh-clothing-desc = A superfície do seu corpo se adaptará para imitar as roupas de qualquer pessoa em que você se transformar. No entanto, esses itens de vestuário são não funcionais e o tornarão fácil de identificar como um changeling se alguém tentar removê-los. Pode ser ativado/desativado.
+changeling-catalog-voice-mimic-name = Mimicagem de Voz
+changeling-catalog-voice-mimic-desc = Mude suas coordenadas vocais conforme quiser para imitar tripulantes existentes (e imaginários). Perfeito para atrair presas.
+changeling-catalog-biodegrade-name = Biodegradar
+changeling-catalog-biodegrade-desc = Você aprende a utilizar glândulas ácidas dentro do seu corpo para vomitar ácido sobre restrições, libertando-se.
+changeling-catalog-sting-dna-name = Extraia DNA
+changeling-catalog-sting-dna-desc = Aprenda a utilizar sua ferrão para absorver a identidade de vítimas incautas. Não concede DNA para sua coleção ou progresso em objetivos.

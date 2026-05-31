@@ -1,0 +1,14 @@
+reagent-name-oxygen = oxigênio
+reagent-desc-oxygen = Um gás oxidante e incolor.
+reagent-name-plasma = plasma
+reagent-desc-plasma = Pó mágico espacial bem legal. Provavelmente você não deveria comer isso, mas nós dois sabemos que vai comer de qualquer forma.
+reagent-name-tritium = trítio
+reagent-desc-tritium = Pó mágico radioativo de fadas espaciais.
+reagent-name-carbon-dioxide = dióxido de carbono
+reagent-desc-carbon-dioxide = Você realmente não tem a menor ideia do que isso é.
+reagent-name-nitrogen = nitrogênio
+reagent-desc-nitrogen = Um gás incolor, inodoro e inerte. Muito estável.
+reagent-name-nitrous-oxide = óxido nitroso
+reagent-desc-nitrous-oxide = Você sabe como tudo parece mais engraçado quando você está cansado? Bem...
+reagent-name-frezon = frezon
+reagent-desc-frezon = Um refrigerante altamente eficaz... e alucinógeno.

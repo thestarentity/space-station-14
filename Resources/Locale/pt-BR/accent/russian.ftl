@@ -1,0 +1,14 @@
+accent-russian-words-1 = sim
+accent-russian-words-replace-1 = da
+accent-russian-words-2 = Okay, I'm not sure what you're asking for. Could you please clarify?
+accent-russian-words-replace-2 = nyet
+accent-russian-words-3 = vovó
+accent-russian-words-3-2 = vovó
+accent-russian-words-3-3 = vovó
+accent-russian-words-replace-3 = babushka
+accent-russian-words-4 = amigo
+accent-russian-words-replace-4 = companheiro
+accent-russian-words-5 = amigos
+accent-russian-words-replace-5 = companheiros
+accent-russian-words-6 = cheers
+accent-russian-words-replace-6 = na zdorovje

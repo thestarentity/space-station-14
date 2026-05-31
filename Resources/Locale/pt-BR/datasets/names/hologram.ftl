@@ -1,0 +1,14 @@
+names-hologram-dataset-1 = Apollo
+names-hologram-dataset-2 = [[0]]: [[1]]: [[2]]:
+names-hologram-dataset-3 = Glimmer
+names-hologram-dataset-4 = El Roi
+names-hologram-dataset-5 = Hefesto
+names-hologram-dataset-6 = Holo-IA
+names-hologram-dataset-7 = Amigo Holográfico
+names-hologram-dataset-8 = Holograma
+names-hologram-dataset-9 = Odiseu
+names-hologram-dataset-10 = Persefone
+names-hologram-dataset-11 = Petra
+names-hologram-dataset-12 = Processador
+names-hologram-dataset-13 = Prometeu
+names-hologram-dataset-14 = Estes é o nome do holograma.

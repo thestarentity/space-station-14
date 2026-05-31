@@ -1,0 +1,14 @@
+comp-space-heater-ui-title = Unidade de Controle de Temperatura
+comp-space-heater-ui-thermostat = Termostato:
+comp-space-heater-ui-mode = Modo
+comp-space-heater-ui-increase-temperature-range = Aumente a temperatura para o nível máximo.
+comp-space-heater-ui-decrease-temperature-range = Diminuir a faixa de temperatura
+comp-space-heater-mode-Auto = Automático
+comp-space-heater-mode-Heat = Calor
+comp-space-heater-mode-Cool = Resfriar
+comp-space-heater-ui-power-consumption = Nível de energia:
+comp-space-heater-ui-Low-power-consumption = Baixo
+comp-space-heater-ui-Medium-power-consumption = Médio
+comp-space-heater-ui-High-power-consumption = Alto
+comp-space-heater-device-name = aquecedor de espaço
+comp-space-heater-unanchored = O { $device } não está fixado.

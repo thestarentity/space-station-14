@@ -1,0 +1,16 @@
+job-supervisors-centcom = Comando Central
+job-supervisors-captain = O Capitão
+job-supervisors-hop = O Chefe de Pessoal
+job-supervisors-hos = O Chefe de Segurança
+job-supervisors-ce = O Engenheiro-Chefe
+job-supervisors-cmo = O Chefe Médico
+job-supervisors-rd = O Diretor de Pesquisa
+job-supervisors-qm = O Comprador de Materiais
+job-supervisors-service = Chefs, Botanists, o Barman e o Chefe de Pessoal
+job-supervisors-engineering = Engenheiros da Estação, Técnicos Atmosféricos e o Engenheiro-Chefe
+job-supervisors-medicine = Médicos, Enfermeiros, Químicos e o Chefe Médico
+job-supervisors-security = Oficiais de Segurança, o Guardião e o Chefe de Segurança
+job-supervisors-science = Cientistas e o Diretor de Pesquisa
+job-supervisors-hire = quem te contrata
+job-supervisors-everyone = absolutamente todos
+job-supervisors-nobody = Ninguém

@@ -1,0 +1,12 @@
+advertisement-smite-1 = SMITE! Satisfaça sua sede!
+advertisement-smite-2 = Um raio eldritch de limão e laranja!
+advertisement-smite-3 = Mais de 1 milhão de bebidas vendidas!
+advertisement-smite-4 = SMITE! Rola 2d8 para FLAVOR.
+advertisement-smite-5 = SMITE! Vamos acabar com aquela papelada!
+advertisement-smite-6 = O zelador tem rancor contra você!
+advertisement-smite-7 = SMITE! Não vai te deixar bêbado.
+advertisement-smite-8 = É hora de lima e laranja!
+thankyou-smite-1 = Smite faz o certo!
+thankyou-smite-2 = Você DEFINITIVAMENTE queria lima-limão!
+thankyou-smite-3 = O escritório não vai saber o que o atingiu.
+thankyou-smite-4 = Satisfaça sua sede.

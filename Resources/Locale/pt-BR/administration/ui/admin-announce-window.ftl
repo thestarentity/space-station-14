@@ -1,0 +1,10 @@
+admin-announce-title = Faça um anúncio
+admin-announce-announcement-placeholder = Anúncio...
+admin-announce-announcer-placeholder = Anunciante
+admin-announce-announcer-default = Comando Central
+admin-announce-button = Anunciar
+admin-announce-type-station = Estação
+admin-announce-type-server = Servidor
+admin-announce-keep-open = Mantenha aberto
+cmd-announceui-desc = Abre a interface de anúncios.
+cmd-announceui-help = Use: anunciarui

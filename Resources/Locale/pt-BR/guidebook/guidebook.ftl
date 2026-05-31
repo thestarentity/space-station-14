@@ -1,0 +1,8 @@
+guidebook-window-title = Guia
+guidebook-placeholder-text = Selecione uma entrada.
+guidebook-placeholder-text-2 = Se você é novo, vá para "Novo? Comece aqui!"
+guidebook-filter-placeholder-text = Filtrar itens
+guidebook-parser-error = Erro do Parser
+guidebook-error-message = Ocorreu um erro ao carregar o guia. Por favor, tente novamente mais tarde.
+guidebook-monkey-unspin = Desenrosque o Macaco
+guidebook-monkey-disco = Macaco de Disco

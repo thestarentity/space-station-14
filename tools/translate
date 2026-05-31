@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Convenience wrapper — uses the venv automatically.
+# Usage (from repo root):  tools/translate --folder alert-levels --dry-run
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$SCRIPT_DIR/.venv/bin/python" "$SCRIPT_DIR/ss14-translate.py" "$@"

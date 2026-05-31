@@ -1,0 +1,15 @@
+bible-heal-success-self = Você acerta { THE($target) } com { THE($bible) }, e suas feridas se fecham em um flash de luz sagrada!
+bible-heal-success-others = { CAPITALIZE(THE($user)) } acerta { THE($target) } com { THE($bible) }, e suas feridas se fecham em um flash de luz sagrada!
+bible-heal-success-none-self = Você acertou { THE($target) } com { THE($bible) }, mas eles não têm ferimentos que você possa curar!
+bible-heal-success-none-others = { CAPITALIZE(THE($user)) } acerta { THE($target) } com { THE($bible) }!
+bible-heal-fail-self = Você acerta { THE($target) } com { THE($bible) }, e ele cai com um triste thwack, deixando { OBJECT($target) } tonto!
+bible-heal-fail-others = { CAPITALIZE(THE($user)) } acerta { THE($target) } com { THE($bible) }, e acerta com um triste thack, deixando { OBJECT($target) } tonto!
+bible-sizzle = O livro chia em suas mãos!
+bible-summon-verb = Chamar familiar
+bible-summon-verb-desc = Invocar um familiar que ajudará você e ganhará inteligência humana-like uma vez habitado por uma alma.
+bible-summon-requested = Seu familiar chegará uma vez que uma alma disposta se manifestar.
+bible-summon-respawn-ready = { CAPITALIZE(THE($book)) } surge com poder etéreo. { CAPITALIZE(POSS-ADJ($book)) } residente está em casa novamente.
+necro-heal-success-self = Você acerta { THE($target) } com { THE($bible) }, e a carne de { POSS-ADJ($target) } se torce enquanto derrete!
+necro-heal-success-others = { CAPITALIZE(THE($user)) } acerta { THE($target) } com { THE($bible) }, e a carne de { POSS-ADJ($target) } se torce enquanto derrete!
+necro-heal-fail-self = Você acerta { THE($target) } com { THE($bible) }, e ele cai com um triste thwack, falhando em atingir { OBJECT($target) }.
+necro-heal-fail-others = { CAPITALIZE(THE($user)) } acerta { THE($target) } com { THE($bible) }, e acerta com um triste thack, falhando em atingir { OBJECT($target) }.

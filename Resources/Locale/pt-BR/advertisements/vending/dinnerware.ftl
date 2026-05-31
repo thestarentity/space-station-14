@@ -1,0 +1,10 @@
+advertisement-dinnerware-1 = Hmm, produtos alimentícios!
+advertisement-dinnerware-2 = Comida e acessórios para comida.
+advertisement-dinnerware-3 = Pegue seus pratos!
+advertisement-dinnerware-4 = Você gosta de garfos?
+advertisement-dinnerware-5 = Gosto de garfos.
+advertisement-dinnerware-6 = Uau, utensílios.
+advertisement-dinnerware-7 = Você realmente não precisa dessas...
+advertisement-dinnerware-8 = Pegue-os se quiser!
+advertisement-dinnerware-9 = Tenho certeza de que bécheres são um must-have.
+advertisement-dinnerware-10 = POR QUE EXISTEM TANTOS TIPOS DE CAFÉS?

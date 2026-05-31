@@ -1,0 +1,12 @@
+trigger-on-voice-examine = A tela mostra: "{ $keyphrase }"
+trigger-on-voice-uninitialized = A tela mostra: Não inicializado...
+trigger-on-voice-record = Gravar
+trigger-on-voice-stop = Pare
+trigger-on-voice-clear = Gravação limpa
+trigger-on-voice-default = Redefinir para o padrão
+trigger-on-voice-start-recording = Iniciando gravação.
+trigger-on-voice-stop-recording = Parou de gravar.
+trigger-on-voice-record-failed-too-long = Mensagem muito longa, tente novamente.
+trigger-on-voice-record-failed-too-short = Mensagem muito curta, tente novamente.
+trigger-on-voice-recorded = Gravado com sucesso!
+trigger-on-voice-set-default = Definir como frase-chave padrão: "{ $keyphrase }"

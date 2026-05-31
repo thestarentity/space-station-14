@@ -1,0 +1,14 @@
+advertisement-happyhonk-1 = Honk! Honk! Por que não pedir um Happy Honk Meal hoje?
+advertisement-happyhonk-2 = Palhaços merecem um abraço, se você vir um, certifique-se de mostrar sua apreciação.
+advertisement-happyhonk-3 = Se você encontrar o Honkador Dourado, ore aos deuses, você é uma pessoa muito sortuda.
+advertisement-happyhonk-4 = Happy Honk: é uma refeição, é um negócio, tem um brinquedo de plástico que vai te fazer gritar de alegria.
+advertisement-happyhonk-5 = O que é preto, branco e todo vermelho? O mímico e ela morreu de trauma craniano por impacto.
+advertisement-happyhonk-6 = Quantos oficiais de segurança são necessários para prendê-lo? Três, um para bater você até a morte, um para colocar as algemas e outro para jogar seu corpo na manutenção.
+advertisement-happyhonk-7 = Happy Honk não é responsável pela qualidade dos alimentos colocados dentro de nossas caixas de refeições Happy Honk.
+advertisement-happyhonk-8 = Por que não pedir nosso prato limitado de Happy Honk do Mímico?
+advertisement-happyhonk-9 = Happy Honk é uma marca registrada da Honk! co. e é muito superior à Robust Nukie Food corp.
+advertisement-happyhonk-10 = Nossas refeições Happy Honk certamente oferecerão uma grande surpresa!
+thankyou-happyhonk-1 = Honk!
+thankyou-happyhonk-2 = Honk honk!
+thankyou-happyhonk-3 = Compartilhe a diversão! Honk!
+thankyou-happyhonk-4 = Vai lá, escorrega nas pessoas! Honk!

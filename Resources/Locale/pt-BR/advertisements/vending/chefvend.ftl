@@ -1,0 +1,13 @@
+advertisement-chefvend-1 = Pelo menos sessenta por cento dos nossos ovos inteiros, garantido!
+advertisement-chefvend-2 = Arroz, arroz, bebê.
+advertisement-chefvend-3 = Coloque um pouco de manteiga nisso!
+advertisement-chefvend-4 = Você é digno do seu sal? Nós somos.
+advertisement-chefvend-5 = Hmm, carne.
+advertisement-chefvend-6 = Domine a força da farinha.
+advertisement-chefvend-7 = Mostre aos seus clientes quem é o melhor chef por aí com nosso molho de churrasco famoso em toda a galáxia, vencedor de prêmios.
+advertisement-chefvend-8 = Eu adoro comida, especialmente ovos crus, cara.
+advertisement-chefvend-9 = Aproveite algumas boas velhas ovos crus!
+thankyou-chefvend-1 = É hora de cozinhar!
+thankyou-chefvend-2 = Obrigado por confiar em nossos ingredientes de qualidade!
+thankyou-chefvend-3 = Isso deveria satisfazer o que eles estão querendo!
+thankyou-chefvend-4 = Vai fazer aqueles hambúrgueres!

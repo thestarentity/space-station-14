@@ -1,0 +1,11 @@
+advertisement-magivend-1 = Sling usa a forma correta com MagiVend!
+advertisement-magivend-2 = Seja o seu próprio Houdini! Use o MagiVend!
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
+advertisement-magivend-5 = > MFW
+advertisement-magivend-6 = HONK!
+advertisement-magivend-7 = EI NATH
+advertisement-magivend-8 = Destrua a estação!
+advertisement-magivend-9 = Hardware para dobrar o espaço-tempo!
+advertisement-magivend-10 = 1234 LOONIES LOL!
+advertisement-magivend-11 = NAR'SIE, LEVANTE-SE!!!

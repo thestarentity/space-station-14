@@ -1,0 +1,17 @@
+admin-ui-panic-bunker-window-title = Abrigo de Pânico
+admin-ui-panic-bunker-enabled = Bunker de Pânico Ativado
+admin-ui-panic-bunker-disabled = Pânico Bunker Desativado
+admin-ui-panic-bunker-tooltip = O abrigo de pânico restringe os jogadores de entrar se sua conta for muito nova ou se eles não tiverem tempo suficiente de jogo no total nesse servidor.
+admin-ui-panic-bunker-disable-automatically = Desativar Automaticamente
+admin-ui-panic-bunker-disable-automatically-tooltip = Desativa o abrigo de pânico automaticamente quando um administrador se conecta.
+admin-ui-panic-bunker-enable-automatically = Ativar Automaticamente
+admin-ui-panic-bunker-enable-automatically-tooltip = Habilita o bunker de pânico automaticamente quando não houver administradores online.
+admin-ui-panic-bunker-count-deadminned-admins = Contagem de Deadmins
+admin-ui-panic-bunker-count-deadminned-admins-tooltip = Contagem de administradores desadminizados ao habilitar e desabilitar automaticamente o abrigo de pânico.
+admin-ui-panic-bunker-show-reason = Mostrar Motivo
+admin-ui-panic-bunker-show-reason-tooltip = Mostra ao usuário o motivo pelo qual ele foi bloqueado de se conectar pelo abrigo de pânico.
+admin-ui-panic-bunker-min-account-age = Idade mínima da conta
+admin-ui-panic-bunker-min-overall-minutes = Tempo mínimo de jogo total
+admin-ui-panic-bunker-is-enabled = O bunker de pânico está atualmente ativado.
+admin-ui-panic-bunker-enabled-admin-alert = O bunker de pânico foi ativado.
+admin-ui-panic-bunker-disabled-admin-alert = O bunker de pânico foi desativado.

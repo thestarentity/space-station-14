@@ -1,0 +1,13 @@
+health-examinable-silicon-none = Não há danos óbvios a serem vistos.
+health-examinable-silicon-Blunt-15 = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } amassos leves no chassis de { POSS-ADJ($target) }.[/color]
+health-examinable-silicon-Blunt-50 = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } chassis está severamente amassado![/color]
+health-examinable-silicon-Blunt-100 = [color=crimson]O chassis { CAPITALIZE(POSS-ADJ($target)) } está quase completamente destruído![/color]
+health-examinable-silicon-Slash-8 = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } algumas riscadas leves.[/color]
+health-examinable-silicon-Slash-30 = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } arranhões significativos na carcaça de { POSS-ADJ($target) }.[/color]
+health-examinable-silicon-Slash-75 = [color=crimson]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } grandes rasgões na placa de { POSS-ADJ($target) }![/color]
+health-examinable-silicon-Slash-100 = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } chassis está arrancado![/color]
+health-examinable-silicon-Piercing-50 = [color=crimson]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } furos grandes por todo o { POSS-ADJ($target) } chassis![/color]
+health-examinable-silicon-Heat-15 = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } queimaduras superficiais em { POSS-ADJ($target) } chassis.[/color]
+health-examinable-silicon-Heat-50 = [color=orange]O chassis { CAPITALIZE(POSS-ADJ($target)) } está significativamente queimado.[/color]
+health-examinable-silicon-Heat-75 = [color=orange]O chassis { CAPITALIZE(POSS-ADJ($target)) } está parcialmente derretido![/color]
+health-examinable-silicon-Shock-50 = { CAPITALIZE(POSS-ADJ($target)) } circuitos parecem parcialmente queimados!

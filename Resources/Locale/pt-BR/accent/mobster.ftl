@@ -1,0 +1,43 @@
+accent-mobster-prefix-1 = Nyehh,
+accent-mobster-suffix-boss-1 = você viu?
+accent-mobster-suffix-boss-2 = , esquece disso.
+accent-mobster-suffix-boss-3 = , entendeu?
+accent-mobster-suffix-minion-1 = , yeah!
+accent-mobster-suffix-minion-2 = , chefe diz!
+accent-mobster-words-1 = deixe-me
+accent-mobster-words-replace-1 = vem pra cá
+accent-mobster-words-2 = deveria
+accent-mobster-words-replace-2 = devia
+accent-mobster-words-3 = o
+accent-mobster-words-replace-3 = da
+accent-mobster-words-4 = eles
+accent-mobster-words-replace-4 = dém
+accent-mobster-words-5 = ataque
+accent-mobster-words-replace-5 = bater
+accent-mobster-words-6 = Matar
+accent-mobster-words-replace-6 = bater
+accent-mobster-words-7 = matar
+accent-mobster-words-replace-7 = bater
+accent-mobster-words-8 = morto
+accent-mobster-words-replace-8 = dormindo com os peixes
+accent-mobster-words-9 = eae
+accent-mobster-words-replace-9 = ey'o
+accent-mobster-words-10 = eae
+accent-mobster-words-replace-10 = ey'o
+accent-mobster-words-11 = olá
+accent-mobster-words-replace-11 = ey'o
+accent-mobster-words-12 =
+    Okay, I'm gonna need to translate this text into Brazilian Portuguese. Let me read through it carefully to understand the context and the specific terms that need to be translated. The user mentioned that they are a Space Station 14 video game translator, so I should be aware of the game's terminology and ensure that proper nouns and UI labels are consistent with the provided glossary.
+    
+    First, I'll check the mandatory rules to make sure I follow them correctly. The tokens like 
+accent-mobster-words-replace-12 = regras
+accent-mobster-words-13 = você
+accent-mobster-words-replace-13 = vocês
+accent-mobster-words-14 = ter que
+accent-mobster-words-replace-14 = tem que
+accent-mobster-words-15 = vai para
+accent-mobster-words-replace-15 = boutta
+accent-mobster-words-16 = apoiar
+accent-mobster-words-replace-16 = boutta
+accent-mobster-words-17 = aqui
+accent-mobster-words-replace-17 = 'é

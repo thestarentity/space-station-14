@@ -1,0 +1,10 @@
+advertisement-ammo-1 = Estação de Libertação: Seu único destino para tudo relacionado à segunda emenda!
+advertisement-ammo-2 = Seja um patriota hoje, pegue uma arma!
+advertisement-ammo-3 = Armas de qualidade por preços baixos!
+advertisement-ammo-4 = Melhor morto do que vermelho!
+advertisement-ammo-5 = Flutue como um astronauta, esfaqueie como uma bala!
+advertisement-ammo-6 = Expresse seu segundo emenda hoje!
+advertisement-ammo-7 = As armas não matam pessoas, mas você pode!
+advertisement-ammo-8 = Quem precisa de responsabilidades quando você tem armas?
+advertisement-ammo-9 = Matar pessoas é divertido!
+advertisement-ammo-10 = Vai atirar neles!

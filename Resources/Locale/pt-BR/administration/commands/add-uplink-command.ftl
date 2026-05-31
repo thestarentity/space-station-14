@@ -1,0 +1,9 @@
+cmd-adduplink-desc = Cria um uplink no item selecionado e vincula-o à conta do usuário
+cmd-adduplink-help = Uso: adduplink [username] [item-id] [discountEnabled]
+add-uplink-command-completion-1 = Nome de usuário (padrão é o próprio)
+add-uplink-command-completion-2 = Uplink uid (padrão para PDA)
+add-uplink-command-completion-3 = O desconto de uplink está ativado?
+add-uplink-command-error-1 = O jogador selecionado não controla nenhuma entidade
+add-uplink-command-error-2 = Falha ao adicionar uplink ao jogador
+add-uplink-command-success-pda = Uplink adicionado ao PDA do jogador com código { $code }
+add-uplink-command-success-implant = Uplink adicionado ao jogador como implante

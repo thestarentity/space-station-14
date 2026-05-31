@@ -1,0 +1,11 @@
+command-description-inventory-getflags = Obtém todas as entidades nas posições da entidade de inventário com fiação que correspondem a um determinado sinalizador de posição.
+command-description-inventory-getnamed = Obtém todas as entidades nas posições do piped inventory entity que correspondem a um certo nome de posição.
+command-description-inventory-forceput = Coloca uma entidade dada na primeira entidade com tubulação que tenha um slot correspondente à bandeira fornecida, apagando qualquer item que estiver nesse slot anteriormente.
+command-description-inventory-forcespawn = Spawn a given prototype on the first piped entity that has a slot matching the given flag, deleting any item previously in that slot.
+command-description-inventory-put = Coloca uma entidade dada na primeira entidade com tubulação que tem um slot correspondente à bandeira fornecida, desequipando qualquer item anteriormente nesse slot.
+command-description-inventory-spawn = Spawn a given prototype on the first piped entity that has a slot matching the given flag, unequipping any item previously in that slot.
+command-description-inventory-tryput = Tenta colocar uma entidade dada na primeira entidade com tubulação que tem um slot correspondente à bandeira fornecida, falhando se houver algum item atualmente nesse slot.
+command-description-inventory-tryspawn = Tenta gerar uma protótipo específica no primeiro entidade conectada que possui um slot compatível com a bandeira fornecida, falhando se houver algum item atualmente nesse slot.
+command-description-inventory-ensure = Coloca uma entidade específica na primeira entidade com tubulação que tenha um slot correspondente à bandeira fornecida, caso não exista, passando pelo UID de quem estiver no slot no final.
+command-description-inventory-ensurespawn = Spawn a given prototype on the first piped entity that has a slot matching the given flag, if none exists, passing through the UID of whatever is in the slot by the end.
+command-description-inventory-contents = Obtém as entidades nos slots de inventário das entidades com tubulação e as passa adiante.

@@ -1,0 +1,9 @@
+changeling-cloner-component-empty = Ele está vazio.
+changeling-cloner-component-filled = Ele tem uma amostra de DNA dentro.
+changeling-cloner-component-spent = Ele já foi usado.
+changeling-cloner-component-reset-verb = Redefinir DNA
+changeling-cloner-component-reset-popup = Você apaga o armazenamento de DNA do injetor.
+changeling-cloner-component-draw-user = Você começa a extrair DNA de { THE($target) }.
+changeling-cloner-component-draw-target = { CAPITALIZE(THE($user)) } começa a extrair DNA de você.
+changeling-cloner-component-inject-user = Você começa a injetar DNA em { THE($target) }.
+changeling-cloner-component-inject-target = { CAPITALIZE(THE($user)) } começa a injetar DNA em você.

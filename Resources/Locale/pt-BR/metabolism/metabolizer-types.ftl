@@ -1,0 +1,11 @@
+metabolizer-type-animal = Animal
+metabolizer-type-bloodsucker = Sangue-sugador
+metabolizer-type-dragon = Dragão
+metabolizer-type-human = Prefixes de operação de nomes - conjunto de dados 44
+metabolizer-type-slime = Bolacha
+metabolizer-type-vox = Vox
+metabolizer-type-rat = Rato
+metabolizer-type-plant = Planta
+metabolizer-type-dwarf = Anão
+metabolizer-type-moth = Moth
+metabolizer-type-arachnid = Aranha

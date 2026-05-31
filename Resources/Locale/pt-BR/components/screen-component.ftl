@@ -1,0 +1,2 @@
+screen-text = Agora você está conectado à Estação Espacial. Bem-vindo à Nanotrasen. Você está em uma estação de pesquisa e desenvolvimento de ponta, onde cientistas, engenheiros e outros especialistas trabalham juntos para avançar a fronteira do conhecimento. Sua tarefa é ajudar a manter a estação operacional e proteger a tripulação. Você pode assumir qualquer cargo disponível, desde o Capitão até o Zelador. Boa sorte!
+screen-color = Cor da tela

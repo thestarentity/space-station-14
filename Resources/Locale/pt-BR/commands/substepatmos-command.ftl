@@ -1,0 +1,12 @@
+cmd-substepatmos-desc = Avança a simulação de atmosfera em um único atmostick para a entidade de grade fornecida. Pausa implicitamente a simulação de atmosfera.
+cmd-substepatmos-help = Uso: { $command } <EntityUid>
+cmd-error-no-grid-provided-or-invalid-grid = Você deve fornecer uma entidade de grade ou estar em cima de uma grade para subpasso.
+cmd-error-couldnt-parse-entity = A entidade fornecida não pôde ser analisada ou não existe. Tente ficar em uma grade que você deseja subpasso.
+cmd-error-no-gridatmosphere = A entidade fornecida não possui um componente GridAtmosphere.
+cmd-error-no-gastileoverlay = A entidade fornecida não possui um GasTileOverlayComponent.
+cmd-error-no-mapgrid = A entidade fornecida não possui um MapGridComponent.
+cmd-error-no-xform = A entidade fornecida não possui um TransformComponent?
+cmd-error-no-valid-map = A grade fornecida não está em um mapa válido?
+cmd-substepatmos-info-implicitly-paused-simulation = Simulação de atmosfera pausada implicitamente em { $grid }.
+cmd-substepatmos-info-substepped-grid = Simulação atmosférica subpasso por um atmostick em { $grid }.
+cmd-substepatmos-completion-grid-substep = UID da grade que você deseja substep. Automaticamente usa a grade em que você está se você deixar em branco.

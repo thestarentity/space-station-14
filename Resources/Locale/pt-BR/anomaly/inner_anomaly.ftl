@@ -1,0 +1,16 @@
+inner-anomaly-start-message-pyro = Você pode sentir a fogo insano dentro de você. Você se tornou o anfitrião de uma anomalia piroclástica.
+inner-anomaly-start-message-shock = Raio elétrico tremendo em suas pontas dos dedos! Você se tornou o anfitrião de uma anomalia elétrica.
+inner-anomaly-start-message-shadow = Há uma escuridão impenetrável saindo de você... Você se tornou o anfitrião de uma anomalia sombra.
+inner-anomaly-start-message-frost = O gelo está prendendo seus ossos. Você se tornou o anfitrião de uma anomalia de gelo.
+inner-anomaly-start-message-flora = Folhas e flores brotam através da sua pele! Você se tornou o anfitrião de uma anomalia floral.
+inner-anomaly-start-message-bluespace = Seus pensamentos estão acelerados como loucos! Você se tornou o anfitrião de uma anomalia de bluespace.
+inner-anomaly-start-message-flesh = O seu corpo está crescendo descontroladamente. Você se tornou o anfitrião de uma anomalia de carne.
+inner-anomaly-start-message-grav = Tudo se torna pesado e leve ao mesmo tempo de forma anormal... Você se tornou o anfitrião de uma anomalia gravitacional.
+inner-anomaly-start-message-tech = Sua cabeça está zumbindo com a quantidade de informação caótica! Você se tornou o anfitrião de uma anomalia tecnológica.
+inner-anomaly-start-message-rock = Os cristais estão crescendo através dos seus ossos! Você se tornou o anfitrião de uma anomalia de rocha.
+inner-anomaly-start-message-santa = Você está ficando obcecado com o espírito natalino! Você se tornou o anfitrião de uma anomalia de Natal.
+inner-anomaly-end-message = A atividade anormal dentro de você desaparece sem deixar rastros...
+inner-anomaly-severity-info-50 = Você sente que a anomalia está tomando metade do seu corpo.
+inner-anomaly-severity-info-75 = Você sente que a anomalia está tomando conta de grande parte do seu corpo.
+inner-anomaly-severity-info-90 = Você sente que a anomalia está quase completamente tomando conta do seu corpo.
+inner-anomaly-severity-info-100 = A anomalia dentro de você está crescendo de forma incontrolável, causando uma dor imensa e rasgando você por dentro!

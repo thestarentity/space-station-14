@@ -1,0 +1,13 @@
+cmd-changecvar-no-arguments = Você deve especificar uma cvar.
+cmd-changecvar-cvar-not-registered = A cvar { $cvar } não está registrada.
+cmd-changecvar-cvar-not-allowed = Você não pode alterar este cvar.
+cmd-changecvar-value-out-of-range = O valor está fora do intervalo. O intervalo é { $min } a { $max }.
+cmd-changecvar-desc = Alterar o valor de uma cvar.
+cmd-changecvar-help = Uso: changecvar <cvar | ? | search> <valor>
+cmd-changecvar-available-cvars = Listando cvars disponíveis:
+cmd-changecvar-no-cvars = Nenhum cvar encontrado que você possa alterar.
+cmd-changecvar-success = A CVar { $cvar } foi alterada de "{ $old }" para "{ $value }".
+cmd-changecvar-search-no-arguments = Você deve especificar um termo de pesquisa.
+cmd-changecvar-search-no-matches = Nenhum cvar encontrado correspondente ao termo de pesquisa.
+cmd-changecvar-search-matches = Encontrado { $count } cvars correspondentes ao termo de pesquisa:
+cmd-changecvar-arg-name = <name | ? | search>

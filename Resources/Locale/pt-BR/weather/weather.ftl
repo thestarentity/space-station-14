@@ -1,0 +1,14 @@
+cmd-weatherremove-desc = Remova o clima específico do mapa.
+cmd-weatherset-desc = Remove todas as condições climáticas, exceto a especificada. Se a condição climática especificada não existir no mapa, ela será adicionada.
+cmd-weatheradd-desc = Adicione um clima específico ao mapa.
+cmd-weatherremove-help = weatherremove <mapId> <prototype>
+cmd-weatherset-help = weatherset <mapId> <prototype / null>
+cmd-weatheradd-help = Adicione um clima ao mapa com o ID especificado. Use "prototype" para usar um clima pré-definido ou "null" para criar um novo.
+cmd-weather-error-no-arguments = Não há argumentos suficientes!
+cmd-weather-error-unknown-proto = Protótipo de clima desconhecido!
+cmd-weather-error-wrong-time = O horário está no formato errado!
+cmd-weather-error-wrong-map = O mapa com o MapId { $id } não existe!
+cmd-weather-error-no-weather = Este tempo não existe no mapa selecionado!
+cmd-weather-hint-map-id = ID do Mapa
+cmd-weather-hint-prototype = Proto-tipo de entidade de clima
+cmd-weather-hint-time = Duração em segundos (deixe vazio para duração infinita)

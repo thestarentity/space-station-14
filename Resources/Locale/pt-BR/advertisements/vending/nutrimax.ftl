@@ -1,0 +1,9 @@
+advertisement-nutrimax-1 = Nós amamos plantas!
+advertisement-nutrimax-2 = Você não quer alguns?
+advertisement-nutrimax-3 = Os dedos mais verdes já vistos.
+advertisement-nutrimax-4 = Nós gostamos de plantas grandes.
+advertisement-nutrimax-5 = Solo macio...
+advertisement-nutrimax-6 = Agora com baldes incluídos!
+advertisement-nutrimax-7 = Quanto maior a planta, melhor!
+thankyou-nutrimax-1 = Vamos plantar!
+thankyou-nutrimax-2 = Brincadeira com um pouco de solo!

@@ -1,0 +1,15 @@
+entity-effect-status-effect-Stun = surpreendendo
+entity-effect-status-effect-KnockedDown = knockdown
+entity-effect-status-effect-Jitter = tremor
+entity-effect-status-effect-SeeingRainbows = hallucinações
+entity-effect-status-effect-Muted = inabilidade de falar
+entity-effect-status-effect-Stutter = gagueando
+entity-effect-status-effect-ForcedSleep = inconsciência
+entity-effect-status-effect-Drunk = embriaguez
+entity-effect-status-effect-PressureImmunity = imunidade à pressão
+entity-effect-status-effect-Pacified = pacificação de combate
+entity-effect-status-effect-RatvarianLanguage = padrões da língua ratvariana
+entity-effect-status-effect-StaminaModifier = stamina modificado
+entity-effect-status-effect-RadiationProtection = proteção contra radiação
+entity-effect-status-effect-Drowsiness = sonolência
+entity-effect-status-effect-Adrenaline = adrenalina

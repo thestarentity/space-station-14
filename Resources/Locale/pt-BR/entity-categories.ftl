@@ -1,0 +1,8 @@
+entity-category-name-actions = Ações
+entity-category-name-game-rules = Regras do Jogo
+entity-category-name-objectives = Objetivos
+entity-category-name-roles = Papel do Mente
+entity-category-name-mapping = Mapeamento
+entity-category-name-donotmap = Não mapear
+entity-category-name-status-effects = Efeitos de Status
+entity-category-suffix-donotmap = Não mapear

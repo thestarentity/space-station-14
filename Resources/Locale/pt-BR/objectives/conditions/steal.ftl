@@ -1,0 +1,9 @@
+objective-condition-steal-title-no-owner = Roube o { $itemName }.
+objective-condition-steal-title-alive-no-owner = Roube { $itemName }.
+objective-condition-steal-title = Roube o { $owner }'s { $itemName }.
+objective-condition-steal-description = Nós precisamos que você roube { $itemName }. Não seja pego.
+objective-condition-steal-station = Estação Espacial
+objective-condition-steal-Ian = corgi do chefe de pessoal
+objective-condition-thief-description = O { $itemName } seria uma excelente adição à minha coleção!
+objective-condition-thief-animal-description = O { $itemName } seria uma excelente adição à minha coleção! Mais importante ainda, vivo.
+objective-condition-thief-multiply-description = Preciso pegar { $count } { MAKEPLURAL($itemName) } (qualquer um) e levar comigo.

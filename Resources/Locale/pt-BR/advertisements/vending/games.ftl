@@ -1,0 +1,14 @@
+advertisement-goodcleanfun-1 = Fuja para um mundo de fantasia!
+advertisement-goodcleanfun-2 = Aproveite seu vício em apostas!
+advertisement-goodcleanfun-3 = Arruine suas amizades!
+advertisement-goodcleanfun-4 = Vamos para a iniciativa!
+advertisement-goodcleanfun-5 = Elfos e anões!
+advertisement-goodcleanfun-6 = Computadores paranoicos!
+advertisement-goodcleanfun-7 = Totalmente não satânico!
+advertisement-goodcleanfun-8 = Divertimento garantido para sempre!
+advertisement-goodcleanfun-9 = Crypts and Carps!
+advertisement-goodcleanfun-10 = Brincadeira com amigos!
+thankyou-goodcleanfun-1 = Divirta-se!
+thankyou-goodcleanfun-2 = Agora você está brincando com poder!
+thankyou-goodcleanfun-3 = Vai lá, joga!
+thankyou-goodcleanfun-4 = Comece a criar seus cadastros de personagens!

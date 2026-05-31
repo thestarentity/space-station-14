@@ -1,0 +1,16 @@
+cargoproduct-category-name-armory = Armaria
+cargoproduct-category-name-atmospherics = Atmosfera
+cargoproduct-category-name-cargo = Cargo
+cargoproduct-category-name-circuitboards = Placas de circuito
+cargoproduct-category-name-emergency = Emergência
+cargoproduct-category-name-engineering = Engenharia
+cargoproduct-category-name-food = Comida
+cargoproduct-category-name-fun = Divertido
+cargoproduct-category-name-hydroponics = Hidroponia
+cargoproduct-category-name-livestock = Gado
+cargoproduct-category-name-materials = Materiais
+cargoproduct-category-name-medical = Nome Médico do Tipo Borg
+cargoproduct-category-name-science = Ciência
+cargoproduct-category-name-security = Segurança
+cargoproduct-category-name-service = Serviço
+cargoproduct-category-name-shuttle = Shuttle

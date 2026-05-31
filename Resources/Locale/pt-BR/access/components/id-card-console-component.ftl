@@ -1,0 +1,14 @@
+id-card-console-window-privileged-id = ID de Acesso Privilegiado:
+id-card-console-window-target-id = ID do Alvo:
+id-card-console-window-full-name-label = Nome completo:
+id-card-console-window-save-button = Salvar
+id-card-console-window-job-title-label = Cargo:
+id-card-console-window-eject-button = Expulsar
+id-card-console-window-insert-button = Inserir
+id-card-console-window-job-selection-label = Configuração de cargo (define o departamento e o ícone do cargo):
+id-card-console-window-select-all-button = Conceder todos
+id-card-console-window-deselect-all-button = Revogar todos
+access-id-card-console-component-no-hands-error = Você não tem mãos.
+id-card-console-privileged-id = ID Privilegiado
+id-card-console-target-id = ID do Alvo
+id-card-console-damaged = Integridade estrutural comprometida, ejetando conteúdo.

@@ -1,0 +1,27 @@
+### GasTankComponent stuff.
+
+# Examine text showing pressure in tank.
+comp-gas-tank-examine = Pressão: [color=orange]{ PRESSURE($pressure) }[/color].
+# Examine text when internals are active.
+comp-gas-tank-connected = Ele está conectado a um componente externo.
+# Examine text when valve is open or closed.
+comp-gas-tank-examine-open-valve = A válvula de liberação de gás está [color=red]aberta[/color].
+comp-gas-tank-examine-closed-valve = A válvula de liberação de gás está [color=green]fechada[/color].
+
+## ControlVerb
+
+control-verb-open-control-panel-text = Abrir Painel de Controle
+
+## UI
+
+gas-tank-window-internals-toggle-button = Alternar
+gas-tank-window-output-pressure-label = Pressão de Saída
+gas-tank-window-tank-pressure-text = Pressão: { $tankPressure } kPA
+gas-tank-window-internal-text = Internals: { $status }
+gas-tank-window-internal-connected = [cor=verde]Conectado[/cor]
+gas-tank-window-internal-disconnected = [cor=vermelho]Desconectado[/cor]
+
+## Valve
+
+comp-gas-tank-open-valve = Abra a válvula
+comp-gas-tank-close-valve = Feche a válvula

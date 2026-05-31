@@ -1,0 +1,11 @@
+shuttle-timer-eta = ETA
+shuttle-timer-etd = ETD
+shuttle-timer-shuttle-time = Tempo do Shuttle
+shuttle-timer-source-time = Tempo
+shuttle-timer-dest-time = Tempo de Destino
+shuttle-timer-shuttle-map = Mapa do Shuttle
+shuttle-timer-source-map = SourceMap
+shuttle-timer-dest-map = DestMap
+shuttle-timer-docked = Atracado
+shuttle-timer-bye = TCHAU!
+shuttle-timer-kill = MATE

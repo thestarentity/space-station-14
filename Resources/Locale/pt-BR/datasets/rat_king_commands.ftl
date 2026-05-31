@@ -1,0 +1,11 @@
+rat-king-command-stay-1 = Sentado!
+rat-king-command-stay-2 = Pare!
+rat-king-command-stay-3 = Pare!
+rat-king-command-follow-1 = Calcanhar!
+rat-king-command-follow-2 = Segui!
+rat-king-command-cheese-1 = Ataque!
+rat-king-command-cheese-2 = Sic!
+rat-king-command-cheese-3 = Mata!
+rat-king-command-cheese-4 = Queijo 'Em!
+rat-king-command-loose-1 = Livre!
+rat-king-command-loose-2 = Solto!

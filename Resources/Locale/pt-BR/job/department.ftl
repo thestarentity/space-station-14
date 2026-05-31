@@ -1,0 +1,11 @@
+department-Cargo = Cargo
+department-Civilian = Civilian
+department-Command = Comando
+department-CentralCommand = Comando Central
+department-Engineering = Engenharia
+department-Medical = Nome Médico do Tipo Borg
+department-Security = Segurança
+department-Science = Ciência
+department-Silicon = Silício
+department-Specific = Especifico do Departamento
+department-Unknown = ID desconhecido

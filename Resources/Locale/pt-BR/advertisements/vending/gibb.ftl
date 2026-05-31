@@ -1,0 +1,12 @@
+advertisement-gibb-1 = Delicioso!
+advertisement-gibb-2 = Recomendado por pelo menos um médico!
+advertisement-gibb-3 = Mais de 1 milhão de bebidas vendidas!
+advertisement-gibb-4 = Doutor Gibb, qual é o pior que poderia acontecer?
+advertisement-gibb-5 = Dra. Gibb, a explosão de sabor!
+advertisement-gibb-6 = Acredite em mim, sou um médico!
+advertisement-gibb-7 = A melhor infusão de açúcar da galáxia!
+advertisement-gibb-8 = A Cola Espacial pode ser Gibbada!
+thankyou-gibb-1 = O Dr. está em... seu estômago!
+thankyou-gibb-2 = Você é bem-vindo!
+thankyou-gibb-3 = Aproveite as 42 sabores!
+thankyou-gibb-4 = Aproveite a doçura!
