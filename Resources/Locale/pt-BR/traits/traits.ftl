@@ -37,18 +37,9 @@ trait-spanish-name = Acento espanhol
 trait-spanish-desc = Olá senhor, onde está a biblioteca.
 trait-scottish-name = Acento escocês
 trait-scottish-desc = Você está falando como um escocês de verdade!
-trait-painnumbness-name =
-    Numb
-    
-    Anestésico
-    
-    Anestésico
-    
-    Anestésico
-    
-    Anestésico
+trait-painnumbness-name = Entorpecido
 trait-painnumbness-desc = Você não sente dor, estando insensível a quão ferido pode estar.
 trait-hemophilia-name = Hemofilia
 trait-hemophilia-desc = Seu corpo não consegue formar coágulos sanguíneos.
-trait-impaired-mobility-name = Mobility Reduzida
+trait-impaired-mobility-name = Mobilidade Reduzida
 trait-impaired-mobility-desc = Você tem dificuldade para se mover sem um auxílio de mobilidade.

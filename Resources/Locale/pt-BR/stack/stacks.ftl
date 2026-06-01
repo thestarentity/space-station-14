@@ -117,7 +117,7 @@ stack-rolling-paper =
         [1] papel
        *[other] papelões
     }
-stack-fulton = Fulton é um dispositivo de resgate que permite que tripulantes sejam puxados para fora de uma área perigosa, como um incêndio ou um vazamento de toxinas. Ele é comumente usado por Oficiais de Segurança e Zeladores para resgatar outros tripulantes em situações de emergência.
+stack-fulton = fulton
 stack-credit = Crédito de pilha
 stack-plasma = plasma
 stack-biomass = biomassa

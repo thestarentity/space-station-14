@@ -66,7 +66,7 @@ anomaly-sync-connect-verb-text = Anexar anomalia
 anomaly-sync-connect-verb-message = Anexe uma anomalia próxima a { THE($machine) }.
 anomaly-sync-disconnect-verb-text = Desconectar anomalia
 anomaly-sync-disconnect-verb-message = Desconecte a anomalia conectada de { THE($machine) }.
-anomaly-generator-ui-title = Gerador de Anomalias
+anomaly-generator-ui-title = v1.1
 anomaly-generator-fuel-display = Combustível:
 anomaly-generator-cooldown = Tempo de recarga: [color=gray]{ $time }[/color]
 anomaly-generator-no-cooldown = Cooldown: [color=gray]Completo[/color]
@@ -86,7 +86,7 @@ anomaly-command-pulse = Pulsa uma anomalia alvo
 anomaly-command-supercritical = Torna uma anomalia-alvo supercrítica
 # Flavor text on the footer
 anomaly-generator-flavor-left = A anomalia pode surgir dentro do operador.
-anomaly-generator-flavor-right = O gerador de anomalias está prestes a causar uma perturbação no espaço-tempo. Prepare-se para uma experiência única, cheia de mistérios e possíveis consequências imprevisíveis.
+anomaly-generator-flavor-right = v1.1
 anomaly-behavior-unknown = [color=red]ERRO. Não pode ser lido.[/color]
 anomaly-behavior-title = Análise de Desvio de Comportamento:
 anomaly-behavior-point = [color=gold]Anomalia produz { $mod }% dos pontos[/color]

@@ -29,4 +29,4 @@ atmos-alerts-window-no-data-available = Nenhum dado disponível
 atmos-alerts-window-alerts-being-silenced = Silenciando alertas...
 atmos-alerts-window-toggle-overlays = Alternar exibição de alarmes
 atmos-alerts-window-flavor-left = Entre em contato com um técnico atmosférico para obter assistência
-atmos-alerts-window-flavor-right = Agora, você pode ajustar os níveis de alerta atmosférico com mais facilidade. Use o botão "setalertlevel" para definir o nível desejado.
+atmos-alerts-window-flavor-right = v1.8

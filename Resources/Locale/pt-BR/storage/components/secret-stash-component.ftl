@@ -15,7 +15,7 @@ comp-secret-stash-verb-insert-message-no-item = Esconde { THE($item) } na { $sta
 comp-secret-stash-verb-take-out-item = Pegar item
 comp-secret-stash-verb-take-out-message-something = Leve o conteúdo da { $stashname } para fora.
 comp-secret-stash-verb-take-out-message-nothing = Não há nada dentro do { $stashname }.
-comp-secret-stash-verb-close = Fechar válvula de liberação
+comp-secret-stash-verb-close = Fechar
 comp-secret-stash-verb-cant-close = Você não pode fechar o { $stashname } com isso.
 comp-secret-stash-verb-open = Aberto
 

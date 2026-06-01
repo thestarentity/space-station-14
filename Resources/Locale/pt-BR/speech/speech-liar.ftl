@@ -1,6 +1,6 @@
 liar-word-1 = sim
-liar-word-replacement-1 = Okay, I'm not sure what you're asking for. Could you please clarify?
-liar-word-2 = Okay, I'm not sure what you're asking for. Could you please clarify?
+liar-word-replacement-1 = no
+liar-word-2 = no
 liar-word-replacement-2 = sim
 liar-word-3 = sim
 liar-word-replacement-3 = não

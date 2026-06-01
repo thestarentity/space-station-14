@@ -1,1 +1,1 @@
-item-status-not-held = Nenhum item segurado
+item-status-not-held = Vazio

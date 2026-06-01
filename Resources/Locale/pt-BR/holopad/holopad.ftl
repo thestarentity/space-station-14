@@ -39,7 +39,7 @@ holopad-ai-is-unable-to-activate-projector = Você não consegue ativar o projet
 # Mapping prototypes
 # General
 holopad-general-tools = Ferramentas
-holopad-general-cryosleep = Cryosleep é um estado de hibernação criogênica que permite que os tripulantes permaneçam em repouso por longos períodos de tempo, geralmente usado para viagens espaciais de longa duração ou em situações de emergência. Durante o Cryosleep, o metabolismo do corpo é drasticamente reduzido, o que minimiza o consumo de recursos e mantém o corpo em um estado de preservação. O processo envolve o uso de câmaras de hibernação especializadas, onde os tripulantes são colocados em um estado de sono profundo, com monitoramento constante de vital signs e condições ambientais. O despertar do Cryosleep é um processo delicado que requer cuidados médicos e técnicos para garantir a segurança e a saúde do tripulante.
+holopad-general-cryosleep = Geral - Cryossono
 holopad-general-theater = Teatro
 holopad-general-disposals = Geral - Descartes
 holopad-general-eva = Armazenamento de EVA Geral

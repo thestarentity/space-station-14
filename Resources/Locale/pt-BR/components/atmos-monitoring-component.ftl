@@ -11,4 +11,4 @@ atmos-monitoring-window-show-pipe-network = Rede de tubulações
 atmos-monitoring-window-show-gas-pipe-sensors = Sensores de Tubulação de Gás
 atmos-monitoring-window-label-gases = Gases presentes
 atmos-monitoring-window-flavor-left = Entre em contato com um técnico atmosférico para obter assistência
-atmos-monitoring-window-flavor-right = O gerador de anomalias está prestes a causar uma perturbação no espaço-tempo. Prepare-se para uma experiência única, cheia de mistérios e possíveis consequências imprevisíveis.
+atmos-monitoring-window-flavor-right = v1.1

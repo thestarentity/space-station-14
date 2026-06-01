@@ -32,7 +32,7 @@ emergency-shuttle-console-denied = Acesso negado
 # UI
 emergency-shuttle-console-window-title = Console do Shuttle de Emergência
 emergency-shuttle-ui-engines = MOTORES:
-emergency-shuttle-ui-idle = Em caso de emergência, o shuttle está pronto para uso. Por favor, aguarde instruções do Comando Central.
+emergency-shuttle-ui-idle = Inativo
 emergency-shuttle-ui-repeal-all = Revoque Todos
 emergency-shuttle-ui-early-authorize = Autorização para Lançamento Antecipado
 emergency-shuttle-ui-authorize = AUTORIZAR
