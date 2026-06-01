@@ -1,0 +1,61 @@
+ent-ClothingEyesHudDiagnostic = painel de diagnóstico
+    .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueletais. Feito de see-borg-ium.
+
+ent-ClothingEyesHudMedical = Interface de Vida Médica
+    .desc = Um visor de apoio que varre os humanóides em vista e fornece dados precisos sobre seu estado de saúde.
+
+ent-ClothingEyesHudSecurity = Interface de Segurança
+    .desc = Um visor de apoio que escaneia os humanóides em vista e fornece dados precisos sobre seu status de identificação e registros de segurança.
+
+ent-ClothingEyesHudCommand = interface de administração
+    .desc = Um visor de apoio que varre os humanóides em vista e fornece dados precisos sobre o status de identificação deles.
+
+ent-ClothingEyesHudBeer = óculos de cerveja
+    .desc = Um par de óculos de sol Hud equipado com aparelhos para escanear reagentes, bem como fornecendo uma compreensão inata da viscosidade dos líquidos enquanto em movimento.
+
+ent-ClothingEyesHudFriedOnion = óculos de cebola frita
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudOnionBeer = óculos de thungerst
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudMedOnion = medonion hud
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudMedOnionBeer = medthungerst hud
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudMedSec = visão do medsec
+    .desc = Uma exibição de olhos que parece uma mistura de interfaces médicas e de segurança.
+
+ent-ClothingEyesHudMultiversal = interface multiversal
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudOmni = HUD do omnitool
+    .desc = Agora você pode ver através dos olhos de um alho frito.
+
+ent-ClothingEyesHudSyndicate = visor do sindicato
+    .desc = O visor de realidade aumentada profissional do sindicato, projetado para uma melhor detecção de humanóides e sua subsequente eliminação.
+
+ent-ClothingEyesHudSyndicateAgent = visor médico do sindicato
+    .desc = O Heads-up display profissional do Corpo do Sindicato, projetado para diagnóstico rápido do status da equipe.
+
+ent-ClothingEyesEyepatchHudMedical = HUD de óculos de pirata médico
+    .desc = Um visor de apoio que escaneia os humanóides em vista e fornece dados precisos sobre seu estado de saúde. Para verdadeiros patriotas.
+
+ent-ClothingEyesEyepatchHudMedicalFlipped = HUD de óculos de pirata médico
+
+ent-ClothingEyesEyepatchHudSecurity = visão de segurança com patch ocular
+    .desc = Um visor de apoio que escaneia os humanóides em vista e fornece dados precisos sobre seu status de identificação e registros de segurança. Para verdadeiros patriotas.
+
+ent-ClothingEyesEyepatchHudSecurityFlipped = visão de segurança com patch ocular
+
+ent-ClothingEyesEyepatchHudBeer = HUD de cerveja, olho de pescador
+    .desc = Um par de sunHud equipado com aparelhos para escanear reagentes, bem como fornecer uma compreensão inata da viscosidade dos líquidos em movimento. Para verdadeiros patriotas.
+
+ent-ClothingEyesEyepatchHudBeerFlipped = HUD de cerveja, olho de pescador
+
+ent-ClothingEyesEyepatchHudDiag = diagnóstico hud olho de pirata
+    .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueletais. Feito de see-borg-ium.
+
+ent-ClothingEyesEyepatchHudDiagFlipped = diagnóstico hud olho de pirata

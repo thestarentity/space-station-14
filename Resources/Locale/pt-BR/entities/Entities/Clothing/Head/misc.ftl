@@ -1,0 +1,59 @@
+ent-ClothingHeadHatBunny = orelhas de coelho
+    .desc = Orelhas de coelho fofas.
+
+ent-ClothingHeadHatCake = chapéu de bolo
+    .desc = Você coloca o bolo na cabeça. Brilhante.
+
+ent-ClothingHeadHatChickenhead = chicken head
+    .desc = É uma cabeça de galinha. Bok bok bok!
+
+ent-ClothingHeadHatFlowerWreath = guirlanda de flores
+    .desc = Um guirlanda de flores coloridas. Pode ser usada tanto na cabeça quanto no pescoço.
+
+ent-ClothingHeadHatPumpkin = chapéu de abóbora
+    .desc = Um jack o' lantern! Acredita-se que afaste espíritos malignos.
+
+ent-ClothingHeadHatPwig = Pwig
+    .desc = Sinceramente, essas parecem ridículas.
+
+ent-ClothingHeadMirror = espelho de cabeça
+    .desc = Duvido que até o CMO saiba como usar essa coisa.
+
+ent-ClothingHeadHatRichard = Richard
+    .desc = Você gosta de machucar pessoas?
+
+ent-ClothingHeadHatSkub = chapéu skub
+    .desc = Combina-se melhor com o traje Skub.
+
+ent-ClothingHeadHatShrineMaidenWig = lenço da virgem do santuário
+    .desc = Todos os lucros vão para a Hora do Templo Hakurei.
+
+ent-ClothingHeadHatCone = cone de aviso
+    .desc = Esse cone está tentando avisar você de algo!
+
+ent-ClothingHeadHatFancyCrown = coroa elegante
+    .desc = Cheira a rato morto. Vai deixar você falar como um!
+
+ent-ClothingHeadHatCatEars = orelhas de gato
+    .desc = NYAH!
+
+ent-ActionBecomeValid = Torne-se Válido
+    .desc = *notices your killsign* owo o que é isso
+
+ent-ClothingHeadHatDogEars = orelhas de cachorro
+    .desc = Apenas para bons meninos.
+
+ent-ClothingHeadHatSquid = squiddy
+    .desc = Assustar seus amigos com essa máscara eldritch.
+
+ent-ClothingHeadHatRedRacoon = chapéu de ouriço vermelho
+    .desc = Luva felpuda de um ouriço vermelho!
+
+ent-WaterDropletHat = gotas d'água
+    .desc = Faz amigos com 8 olhos 8 vezes mais adoráveis!
+
+ent-ClothingHeadHatHairflower = flor de cabelo
+    .desc = Uma linda flor de cabelo que pode ser inserida entre os fios de cabelo.
+
+ent-ClothingHeadPerformerWig = louva-a-deus do performer
+    .desc = Ao inspecionar mais de perto, parece que é feito de fibra óptica.

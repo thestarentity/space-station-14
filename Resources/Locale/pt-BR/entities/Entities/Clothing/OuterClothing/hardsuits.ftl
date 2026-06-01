@@ -1,0 +1,104 @@
+ent-ClothingOuterHardsuitAtmos = traje rígido de atmosfera
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui escudos térmicos.
+
+ent-ClothingOuterHardsuitEngineering = traje de engenharia
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui blindagem contra radiação.
+
+ent-ClothingOuterHardsuitSpatio = traje rígido do spationauta
+    .desc = Um hardsuit leve projetado para EVA industrial em zero gravidade.
+
+ent-ClothingOuterHardsuitSalvage = traje de mineração
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui placas reforçadas para encontros com vida selvagem.
+
+ent-ClothingOuterHardsuitGoliath = traje pesado goliath
+    .desc = Um hardsuit leve, adornado com uma mistura de pele grossa e quitinosa de goliath.
+
+ent-ClothingOuterHardsuitMaxim = traje pesado maxim de resgatador
+    .desc = Fogo. Calor. Essas coisas forjam grandes armas, também forjam grandes salvadores.
+
+ent-ClothingOuterHardsuitSecurity = traje de segurança
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui uma camada adicional de armadura.
+
+ent-ClothingOuterHardsuitBrigmedic = traje rígido do brigmedic
+    .desc = Especial hardsuit do anjo da guarda da cela. É a versão médica do hardsuit de segurança.
+
+ent-ClothingOuterHardsuitWarden = traje rígido do carcereiro
+    .desc = Um traje especializado para repressão, projetado para combater ambientes de baixa pressão.
+
+ent-ClothingOuterHardsuitCap = traje espacial blindado do capitão
+    .desc = Um traje espacial formal e armado, feito para o capitão da estação.
+
+ent-ClothingOuterHardsuitEngineeringWhite = traje de segurança do engenheiro-chefe
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão, feito para o engenheiro-chefe da estação.
+
+ent-ClothingOuterHardsuitMedical = traje rígido do chefe médico
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Confeccionado com materiais leves para facilitar os movimentos.
+
+ent-ClothingOuterHardsuitRd = traje rígido de pesquisa experimental
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui uma camada adicional de armadura.
+
+ent-ClothingOuterHardsuitSecurityRed = traje rígido do chefe de segurança
+    .desc = Um traje especial que protege contra ambientes perigosos e de baixa pressão. Possui uma camada adicional de armadura.
+
+ent-ClothingOuterHardsuitLuxury = traje pesado de mineração de luxo
+    .desc = Um traje de mineração reformado, inspirado nas cores do Quartel-Mestre. O forro de grafeno oferece menos proteção, mas permite movimentos muito mais fáceis.
+
+ent-ClothingOuterHardsuitSyndie = hardsuit vermelho-sangue
+    .desc = Um capacete pesado especialmente projetado para operações especiais. Propriedade dos Marauders de Gorlex.
+
+ent-ClothingOuterHardsuitSyndieMedic = macacão de médico de hardsuit vermelho-sangue
+    .desc = Um traje de combate pesado e ágil, especificamente projetado para operações de medicina de campo.
+
+ent-ClothingOuterHardsuitSyndieElite = traje pesado de elite do sindicato
+    .desc = Uma versão elite do traje rígido vermelho-sangue, com resistência à radiação e à prova de fogo aprimoradas. Propriedade dos Marauders de Gorlex.
+
+ent-ClothingOuterHardsuitSyndieCommander = traje pesado de comandante do sindicato
+    .desc = Uma versão reforçada do hardsuit vermelho sangue, especialmente desenvolvida para o comandante de uma equipe de operativos do sindicato. Possui armadura significativamente aprimorada para os mortais confrontos na linha de frente.
+
+ent-ClothingOuterHardsuitJuggernaut = traje de juggernaut cybersun
+    .desc = Uma roupa feita pelo departamento de P&D de ponta da Cybersun para ser hiper resistente.
+
+ent-ClothingOuterHardsuitWizard = traje rígido de bruxo
+    .desc = Um estranho traje incrustado com gemas que emana energias mágicas.
+
+ent-ClothingOuterHardsuitLing = traje espacial orgânico
+    .desc = Uma biomassa espacialmente adequada composta por tecidos resistentes à pressão e temperatura.
+
+ent-ClothingOuterHardsuitPirateEVA = traje EVA de espaço profundo
+    .desc = Um traje espacial pesado que oferece alguma proteção básica contra o frio e as duras realidades do espaço profundo.
+
+ent-ClothingOuterHardsuitPirateCap = capa de navegação de capitão pirata
+    .desc = Um antigo armadura de hardsuit, perfeito para se defender contra escorbuto espacial e escoteiros que usam ferramentas de boxe.
+
+ent-ClothingOuterHardsuitERTLeader = Traje de proteção do líder da equipe de resgate (ERT)
+    .desc = Um traje rígido protetor usado pelo líder de uma equipe de resposta a emergências.
+
+ent-ClothingOuterHardsuitERTChaplain = Hardsuit de Capelão ERT
+    .desc = Um traje rígido protetor usado pelos pregadores da Equipe de Resposta a Emergências.
+
+ent-ClothingOuterHardsuitERTEngineer = Traje de segurança do engenheiro ERT
+    .desc = Um traje rígido protetor usado pelos engenheiros da equipe de resposta a emergências.
+
+ent-ClothingOuterHardsuitERTMedical = Traje de proteção médico ERT
+    .desc = Um traje rígido protetor usado pelos médicos da equipe de resposta a emergências.
+
+ent-ClothingOuterHardsuitERTSecurity = Traje rígido da segurança ERT
+    .desc = Um traje rígido protetor usado pelos oficiais de segurança de uma equipe de resposta a emergências.
+
+ent-ClothingOuterHardsuitERTJanitor = Traje de proteção do zelador ERT
+    .desc = Um traje rígido protetor usado pelos zeladores da equipe de resposta a emergências.
+
+ent-ClothingOuterHardsuitDeathsquad = traje pesado da unidade de morte
+    .desc = Um traje de combate avançado preferido pelos comandos para uso em operações especiais.
+
+ent-ClothingOuterHardsuitCBURN = Traje exoesqueleto CBURN
+    .desc = Um exoesqueleto leve, porém resistente, utilizado em operações de limpeza especializadas.
+
+ent-ClothingOuterHardsuitClown = traje rígido do palhaço
+    .desc = Um traje rígido personalizado para palhaços.
+
+ent-ClothingOuterHardsuitMime = traje rígido do mímico
+    .desc = Um hardsuit personalizado para mímicos.
+
+ent-ClothingOuterHardsuitSanta = Traje de proteção de Papai Noel
+    .desc = Um traje rígido festivo e alegre que protege o generoso entregador de presentes durante as viagens de trenó no espaço. Oferece alguma resistência contra impactos de asteroides.

@@ -1,0 +1,29 @@
+ent-ClothingMaskBandBlack = bandana preta
+    .desc = Uma bandana preta para te deixar legal.
+
+ent-ClothingMaskBandBlue = bandana azul
+    .desc = Um lenço azul para te deixar legal.
+
+ent-ClothingMaskBandBotany = lenço de botânica
+    .desc = Um lenço de botânica para deixar você parecer legal, feito de fibras naturais.
+
+ent-ClothingMaskBandGold = bandana de ouro
+    .desc = Um lenço de ouro para te deixar legal.
+
+ent-ClothingMaskBandGreen = bandana verde
+    .desc = Um lenço verde para te deixar legal.
+
+ent-ClothingMaskBandGrey = bandana cinza
+    .desc = Um lenço cinza para te deixar parecer legal.
+
+ent-ClothingMaskBandRed = bandana vermelha
+    .desc = Um lenço vermelho para te deixar legal.
+
+ent-ClothingMaskBandSkull = bandana de crânio
+    .desc = Uma bandana com um crânio para te deixar ainda mais legal.
+
+ent-ClothingMaskBandMerc = bandana de mercenário
+    .desc = Para proteger a cabeça do sol, insetos e outros perigos do caminho mais alto.
+
+ent-ClothingMaskBandBrown = bandana marrom
+    .desc = Um lenço marrom para te deixar legal.

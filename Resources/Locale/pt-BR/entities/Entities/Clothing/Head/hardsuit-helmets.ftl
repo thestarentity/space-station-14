@@ -1,0 +1,104 @@
+ent-ClothingHeadHelmetHardsuitAtmos = capacete de traje rígido atmosférico
+    .desc = Um capacete especial de traje rígido projetado para trabalhar em ambientes de baixa pressão e alta temperatura.
+
+ent-ClothingHeadHelmetHardsuitEngineering = helmet de traje de engenharia
+    .desc = Um capacete de traje pesado de engenharia projetado para trabalhar em ambientes de baixa pressão e altamente radioativos.
+
+ent-ClothingHeadHelmetHardsuitSpatio = capacete de traje rígido de spationauta
+    .desc = Um capacete resistente projetado para operações industriais complexas no espaço.
+
+ent-ClothingHeadHelmetHardsuitSalvage = capacete de traje pesado de mineração
+    .desc = Um capacete especial projetado para trabalhar em ambientes perigosos e de baixa pressão. Possui blindagem reforçada para encontros com vida selvagem e dois faróis de inundação.
+
+ent-ClothingHeadHelmetHardsuitGoliath = capacete de traje rígido goliath
+    .desc = Um capacete de traje pesado resistente, infundido com a pele de um goliante e um olho estranho e fixo cortado de sua massa.
+
+ent-ClothingHeadHelmetHardsuitMaxim = capacete maxim de resgatador
+    .desc = Uma premonição de decadência percorre sua mente.
+
+ent-ClothingHeadHelmetHardsuitSecurity = capacete de traje de segurança
+    .desc = Capacete de traje rígido blindado para necessidades de segurança.
+
+ent-ClothingHeadHelmetHardsuitBrigmedic = capacete de traje pesado de brigadino
+    .desc = O capacete leve do traje de segurança da enfermaria. Protege contra vírus e palhaços.
+
+ent-ClothingHeadHelmetHardsuitWarden = capacete de traje rígido do carcereiro
+    .desc = Um capacete de revolta modificado. Surpreendentemente confortável.
+
+ent-ClothingHeadHelmetHardsuitCap = capacete de traje rígido do capitão
+    .desc = Um capacete de traje rígido especial, feito especialmente para o capitão da estação.
+
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = Capacete de traje rígido do engenheiro-chefe
+    .desc = Um capacete de traje pesado especial, feito para o engenheiro-chefe da estação.
+
+ent-ClothingHeadHelmetHardsuitMedical = helmet do traje rígido do chefe médico
+    .desc = Capacete de traje rígido médico leve que não restringe seus movimentos de cabeça.
+
+ent-ClothingHeadHelmetHardsuitRd = helmet de traje pesado de pesquisa experimental
+    .desc = Um capacete de traje pesado leve que não restringe seus movimentos de cabeça.
+
+ent-ClothingHeadHelmetHardsuitSecurityRed = Capacete de traje rígido do chefe de segurança
+    .desc = Capacete de traje de segurança pesado com o software NT-HUD top secret mais recente. Pertence ao Chefe de Segurança.
+
+ent-ClothingHeadHelmetHardsuitLuxury = luxury mining hardsuit helmet
+    .desc = Um capacete de traje pesado de mineração reformado, com forração de seda e uma antena extra (não funcional), porque você é aquele extra.
+
+ent-ClothingHeadHelmetHardsuitSyndie = capacete de traje rígido vermelho-sangue
+    .desc = Um capacete pesadamente armado projetado para trabalhos em operações especiais. Propriedade dos Marauders de Gorlex.
+
+ent-ClothingHeadHelmetHardsuitSyndieMedic = capacete de traje rígido de médico sindicalista vermelho-escuro
+    .desc = Um capacete avançado de traje rígido vermelho especificamente projetado para operações de medicos de campo.
+
+ent-ClothingHeadHelmetHardsuitSyndieElite = capacete de elite do sindicato
+    .desc = Uma versão elite do capacete do traje rígido vermelho-sangue, com resistência à radiação e à prova de fogo aprimoradas. Propriedade dos Marauders de Gorlex.
+
+ent-ClothingHeadHelmetHardsuitSyndieCommander = capacete do comandante do sindicato
+    .desc = Uma versão reforçada do capacete do traje rígido vermelho-sangue, especialmente desenvolvida para o comandante de uma equipe de operativos do sindicato. Possui uma armadura significativamente melhorada para os brutais confrontos nas linhas de frente.
+
+ent-ClothingHeadHelmetHardsuitCybersun = capacete de gigante cybersun
+    .desc = Feito de matéria vermelha comprimida, este capacete foi projetado na instalação da cromosfera Tau.
+
+ent-ClothingHeadHelmetHardsuitWizard = capacete de traje de segurança do bruxo
+    .desc = Um capacete estranho incrustado com gemas que emite energias mágicas.
+
+ent-ClothingHeadHelmetHardsuitLing = capacete espacial orgânico
+    .desc = Uma biomassa espacialmente adequada composta por tecidos resistentes à pressão e temperatura.
+
+ent-ClothingHeadHelmetHardsuitPirateEVA = casco de EVA para espaço profundo
+    .desc = Um capacete de EVA para espaço profundo, muito pesado, mas oferece boa proteção.
+
+ent-ClothingHeadHelmetHardsuitPirateCap = capacete de traje rígido do capitão pirata
+    .desc = Um capacete especial de traje rígido, feito para o capitão de um navio pirata.
+
+ent-ClothingHeadHelmetHardsuitERTLeader = Capacete de traje rígido do líder da equipe de resgate
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetHardsuitERTChaplain = Capacete de traje pesado do sacerdote da ERT
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetHardsuitERTEngineer = Capacete de traje pesado de engenheiro ERT
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetHardsuitERTMedical = Capacete de traje rígido médico ERT
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetHardsuitERTSecurity = Capacete de traje pesado de segurança ERT
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetHardsuitERTJanitor = Capacete de traje de segurança pesado do zelador ERT
+    .desc = Um capacete especial de traje rígido usado por membros de uma equipe de resposta a emergências.
+
+ent-ClothingHeadHelmetCBURN = Cabeça de traje exoesférico CBURN
+    .desc = Um capacete resistente à pressão e à fogo usado por unidades especiais de limpeza.
+
+ent-ClothingHeadHelmetHardsuitDeathsquad = capacete de traje pesado da unidade de morte
+    .desc = Um capacete robusto para operações especiais.
+
+ent-ClothingHeadHelmetHardsuitClown = capacete de traje pesado do palhaço
+    .desc = Um capacete de traje rígido de palhaço.
+
+ent-ClothingHeadHelmetHardsuitMime = capacete de traje rígido do mímico
+    .desc = Um capacete de traje pesado de mímico.
+
+ent-ClothingHeadHelmetHardsuitSanta = Bem-vindo ao capacete de traje rígido de Papai Noel
+    .desc = Um capacete de traje rígido com aparência festiva que fornece proteção ao generoso dador de presentes em ambientes de baixa pressão.

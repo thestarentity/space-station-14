@@ -1,0 +1,77 @@
+ent-ClothingHeadHelmetBasic = helmet
+    .desc = Equipamento padrão de segurança. Protege a cabeça contra impactos.
+
+ent-ClothingHeadHelmetMerc = helmet de mercenário
+    .desc = O capacete de combate é comumente usado por mercenários, é forte, leve e cheira a pólvora e à selva.
+
+ent-ClothingHeadHelmetSwat = Capacete SWAT
+    .desc = Um capacete extremamente robusto, comumente usado por forças paramilitares. Este tem o logotipo da Nanotrasen bordado na parte superior.
+
+ent-ClothingHeadHelmetSwatSyndicate = Capacete SWAT
+    .desc = Um capacete extremamente robusto, comumente usado por forças paramilitares. Ele é decorado com uma faixa sinistra em vermelho e preto.
+
+ent-ClothingHeadHelmetRiot = capacete de revolta leve
+    .desc = É um capacete especialmente projetado para proteger contra ataques de curta distância.
+
+ent-ClothingHeadHelmetBombSuit = capacete de traje de bomba
+    .desc = Um capacete pesado projetado para resistir à pressão gerada por uma bomba e a quaisquer fragmentos que a bomba possa produzir.
+
+ent-ClothingHeadHelmetJanitorBombSuit = capacete do traje de bomba do zelador
+    .desc = Um capacete pesado projetado para resistir a explosões causadas por reações químicas.
+
+ent-ClothingHeadHelmetCult = helmet da seita
+    .desc = Um capacete robusto e com aparência maliciosa de uma seita.
+
+ent-ClothingHeadHelmetSpaceNinja = helmet de ninja espacial
+    .desc = O que pode parecer um simples vestuário preto é, na verdade, um capacete de tecido nano-superfícil. Equipamento ninja padrão.
+
+ent-ClothingHeadHelmetTemplar = capacete de cavaleiro
+    .desc = Um capacete decorativo feito para lembrar os cavaleiros de antigamente.
+
+ent-ClothingHeadHelmetThunderdome = capacete thunderdome
+    .desc = Que a batalha comece!
+
+ent-ClothingHeadHelmetWizardHelm = capelo mágico
+    .desc = Um capacete de aparência estranha que certamente pertence a um verdadeiro usuário de magia.
+
+ent-ClothingHeadHelmetFire = capacete de fogo
+    .desc = O melhor amigo de um técnico de atmosfera. Oferece alguma resistência ao calor e fica legal.
+
+ent-ClothingHeadHelmetAtmosFire = helmet de fogo atmosférico
+    .desc = Um capacete para fogo atmosférico, capaz de manter o usuário fresco em qualquer situação.
+
+ent-ClothingHeadHelmetLing = helmete quitinoso
+    .desc = Uma massa quitinosa de armadura que consome tudo.
+
+ent-ClothingHeadHelmetERTLeader = Capacete do Líder ERT
+    .desc = Um capacete para uso em atmosfera, usado pelo líder de uma equipe de resposta a emergências da Nanotrasen. Possui destaques em azul.
+
+ent-ClothingHeadHelmetERTSecurity = Capacete de Segurança ERT
+    .desc = Um capacete para uso em atmosfera, usado por membros da equipe de resposta de emergência da Nanotrasen. Possui destaques em vermelho.
+
+ent-ClothingHeadHelmetERTMedic = Capacete Médico ERT
+    .desc = Um capacete para uso em atmosfera, usado por membros médicos da Equipe de Resposta a Emergências da Nanotrasen. Possui destaques em branco.
+
+ent-ClothingHeadHelmetERTEngineer = Capacete de Engenheiro ERT
+    .desc = Um capacete para uso em atmosfera, usado por membros da equipe de engenharia da equipe de resposta de emergência da Nanotrasen. Possui destaques em laranja.
+
+ent-ClothingHeadHelmetERTJanitor = Capacete de Zelador ERT
+    .desc = Um capacete para uso em atmosfera, usado por membros do serviço de limpeza da equipe de resposta de emergência da Nanotrasen. Possui destaques em roxo escuro.
+
+ent-ClothingHeadHelmetRaid = Capacete de Raide do Sindicato
+    .desc = Um capacete armado para uso com o traje de invasão do sindicato. Muito estiloso.
+
+ent-ClothingHeadHelmetBone = boné de ossos
+    .desc = Uma capacete legal feito com o crânio de seus inimigos.
+
+ent-ClothingHeadHelmetPodWars = helmet de aço II
+    .desc = Um capacete Ironclad II, um relicário das guerras dos ovos.
+
+ent-ClothingHeadHelmetJustice = capacete de justiça
+    .desc = Equipamento de segurança avançado. Protege a estação de indivíduos mal-intencionados.
+
+ent-ActionToggleJusticeHelm = Alternar Helm de Justiça
+    .desc = Ativa e desativa o capacete de justiça.
+
+ent-CardHelmet = capacete de papelão
+    .desc = Um capacete medieval feito de papelão.

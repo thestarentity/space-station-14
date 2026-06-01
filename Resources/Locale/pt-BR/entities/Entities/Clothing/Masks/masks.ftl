@@ -1,0 +1,114 @@
+ent-ClothingMaskGas = máscara de gás
+    .desc = Máscara que cobre o rosto e pode ser conectada a uma fonte de ar.
+
+ent-ClothingMaskGasSecurity = máscara de gás de segurança
+    .desc = Um capacete de gás padrão da Segurança.
+
+ent-ClothingMaskGasSyndicate = máscara de gás do sindicato
+    .desc = Uma máscara tática ajustável que pode ser conectada a uma fonte de ar.
+
+ent-ClothingMaskGasAtmos = máscara de gás atmosférico
+    .desc = Máscara de gás aprimorada utilizada por técnicos atmosféricos. Ela é resistente ao fogo!
+
+ent-ClothingMaskGasCaptain = máscara de gás do capitão
+    .desc = Nanotrasen cortou cantos e repintou uma máscara de gás atmosférico sobrando, mas não conte a ninguém.
+
+ent-ClothingMaskGasCentcom = Máscara de gás da CentCom
+    .desc = Oooh, ouro e verde. Chique! Isso deve ajudar enquanto você fica sentado no seu escritório.
+
+ent-ClothingMaskGasExplorer = máscara de gás do explorador
+    .desc = Máscara de gás militar que pode ser conectada a uma fonte de ar.
+
+ent-ClothingMaskBreathMedical = máscara médica
+    .desc = Uma máscara estéril ajustável que pode ser conectada a uma fonte de ar.
+
+ent-ClothingMaskBreathMedicalSecurity = máscara médica de estilo militar
+    .desc = Uma máscara médica com uma camada pequena de proteção contra danos e vírus, semelhante à usada nas unidades médicas da primeira guerra corporativa.
+
+ent-ClothingMaskBreath = máscara de respiração
+    .desc = Talvez valha a pena deixar isso ligado 24/7.
+
+ent-ClothingMaskClownBanana = lenço de palhaço com banana e máscara
+
+ent-ClothingMaskClownSecurity = lenço de palhaço e máscara de segurança
+    .desc = Uma máscara e um chapéu que podem ser considerados uma oximora duvidosa, mas que oferecem proteção.
+
+ent-ClothingMaskJoy = máscara de alegria
+    .desc = Expresse sua felicidade ou esconda seus sofrimentos com esta máscara de rosto sorridente com cortes de lágrimas de alegria.
+
+ent-ClothingMaskMime = máscara de mímico
+    .desc = A máscara tradicional do mímico. Ela tem uma expressão facial sinistra.
+
+ent-ClothingMaskSterile = máscara estéril
+    .desc = Uma máscara estéril projetada para ajudar a prevenir a propagação de doenças.
+
+ent-ClothingMaskMuzzle = boca
+    .desc = Para parar esse horrível barulho.
+
+ent-ClothingMaskPlague = máscara do médico da peste
+    .desc = Um mau presságio.
+
+ent-ClothingMaskCluwne = máscara de rosto e cabelo do palhaço
+    .desc = Rosto e cabelo do cluwne amaldiçoados.
+
+ent-ClothingMaskGasSwat = máscara de gás de SWAT
+    .desc = A máscara de gás de segurança de elite.
+
+ent-ClothingMaskGasMerc = máscara de gás mercenária
+    .desc = Levemente desatualizado, mas confiável máscara de gás do estilo militar.
+
+ent-ClothingMaskGasERT = máscara de gás ERT
+    .desc = A máscara de gás da equipe elite da ERT.
+
+ent-ClothingMaskGasDeathSquad = máscara de gás da quadrilha da morte
+    .desc = Um máscara de gás única para a equipe mais elite da NT.
+
+ent-ClothingMaskRat = máscara de rato
+    .desc = Uma máscara de rato que parece um rato. Talvez eles te confundam com outro rato.
+
+ent-ClothingMaskFox = máscara de raposa
+    .desc = O que o fox diz?
+
+ent-ClothingMaskBee = máscara de abelha
+    .desc = Pelo rei!
+
+ent-ClothingMaskBear = máscara de urso
+    .desc = Sou nebuloso, nebuloso, nebuloso, não sou um urso de jeito nenhum.
+
+ent-ClothingMaskRaven = máscara de corvo
+    .desc = Onde estou, morte... ou brilho.
+
+ent-ClothingMaskJackal = máscara de jacaré
+    .desc = É melhor não virar as costas para o dono da máscara, ela pode morder.
+
+ent-ClothingMaskBat = máscara de morcego
+    .desc = Um sugador de sangue à noite e um bicho fofo, cego à dia.
+
+ent-ClothingMaskNeckGaiter = máscara de pescoço
+    .desc = Um gaiter elegante para o pescoço, pode proteger contra o vento cósmico?
+
+ent-ClothingMaskNeckGaiterRed = gaiter de pescoço vermelho
+
+ent-ClothingMaskBlushingClown = máscara de palhaço corado
+    .desc = Uma máscara para um palhaço corado.
+
+ent-ClothingMaskBlushingMime = máscara de palhaço ruborizado
+    .desc = Essas bochechas vermelhas só querem ser acariciadas.
+
+ent-ClothingMaskSadMime = máscara de palhaço triste
+    .desc = Muitas pessoas pensam que esse é o aspecto de uma máscara de mímico real.
+
+ent-ClothingMaskScaredMime = máscara de mímico assustado
+    .desc = Parece que gritaria se não fosse uma máscara.
+
+ent-ClothingMaskMimeSecurity = máscara de segurança do mímico
+    .desc = Você tem o direito de permanecer em silêncio.
+
+ent-ClothingMaskItalianMoustache = bigode italiano
+    .desc = Feito com cabelos autênticos de bigode italiano. Dá ao usuário um forte desejo de gesticular de forma descontrolada.
+
+ent-ClothingMaskNinja = máscara de ninja
+    .desc = Uma máscara ajustável com nanotecnologia que atua tanto como um filtro de ar quanto uma declaração de moda pós-moderna.
+
+ent-ClothingMaskWeldingGas = máscara de gás de solda
+    .desc = Máscara de gás com óculos de solda e escudo facial integrados. Parece um crânio, claramente projetada por um nerd.

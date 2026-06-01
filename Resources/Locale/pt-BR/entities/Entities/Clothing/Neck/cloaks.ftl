@@ -1,0 +1,80 @@
+ent-ClothingNeckCloakCentcom = capa do comandante central
+    .desc = Um capa verde pomposa e elitista com uma bela bordadura dourada, confeccionada especificamente para o Comando Central. É tão pesada que a bordadura dourada pode ser real.
+
+ent-ClothingNeckCloakCap = capa do capitão
+    .desc = Um capa azul pomposa e confortável com uma bela borda dourada, embora não seja particularmente valiosa entre suas outras posses, certamente é elegante.
+
+ent-ClothingNeckCloakHos = Capa do Chefe de Segurança
+    .desc = Um magnífico capa escura e vermelha adequada para aqueles que podem afirmar domínio sobre os culpados. Tente ser civil na acusação!
+
+ent-ClothingNeckCloakCe = Capa do Engenheiro-Chefe
+    .desc = Um capa verde escuro com ornamentos azuis claros, dada aos que provaram sua habilidade para dominar a arte precisa da engenharia.
+
+ent-ClothingCloakCmo = Capa do Chefe Médico
+    .desc = Um capa azul estéril com uma cruz verde, irradiando um senso de dever e disposição para ajudar os outros.
+
+ent-ClothingNeckCloakRd = capa do diretor de pesquisa
+    .desc = Um capa branca com listras violetas, mostrando seu status como árbitro da tecnologia de ponta.
+
+ent-ClothingNeckCloakQm = capa do comissário de abastecimento
+    .desc = Um manto marrom forte com uma faixa refletiva, embora não tão elegante quanto outros, mostra suas habilidades de gerenciamento.
+
+ent-ClothingNeckCloakHop = capa do chefe de pessoal
+    .desc = Um capa azul com ombros vermelhos e botões dourados, provando que você é o guardião de qualquer airlock na estação.
+
+ent-ClothingNeckCloakHerald = capa do herói
+    .desc = Um capa vermelha com aparência maliciosa com pontas nas ombros.
+
+ent-ClothingNeckCloakNanotrasen = capa nanotrasen
+    .desc = Um imponente capa azul para representar a NanoTrasen.
+
+ent-ClothingNeckCloakCapFormal = capa formal do capitão
+    .desc = Um capa luxuosa e decorada para ocasiões especiais.
+
+ent-ClothingNeckCloakAdmin = manto de segurança
+    .desc = Weh!
+
+ent-ClothingNeckCloakSalvagerSupreme = capa do salvaguarda supremo
+    .desc = Usado pelos salvadores mais habilidosos, para alguém que dominou o espaço e fez do asteroide minerador seu reino. Eles não simplesmente dão essas coisas assim, sabe?
+
+ent-ClothingNeckCloakTrans = capa de vampiro
+    .desc = Usado por vampiros de alto escalão da sociedade transilvana de vampiros.
+
+ent-ClothingNeckCloakGoliathCloak = capa de gigante
+    .desc = Um capa feita da pele de fauna resistente de um planeta distante, embora seu valor protetor tenha desbotado com a idade.
+
+ent-ClothingNeckCloakPirateCap = capa do capitão pirata
+    .desc = Uma capa negra de pirata bastante atraente, completa com um motivo de crânio.
+
+ent-ClothingNeckCloakMoth = capa de mariposa
+    .desc = Um capa na forma de asas de mariposa é um elemento incomum e original da roupa que pode atrair a atenção dos outros. É feita de um tecido fino imitando asas de mariposa, com bordas suaves e fofas. A capa é fixada em volta do pescoço com cintas e possui um capuz na forma da cabeça de uma mariposa.
+
+ent-ClothingNeckCloakVoid = capa de vazio
+    .desc = Um manto de escuridão. Para aqueles que se voltaram para o lado sombrio da força.
+
+ent-ClothingNeckCloakAce = capa do piloto
+    .desc = Capa concedida aos melhores aces espaciais da Nanotrasen.
+
+ent-ClothingNeckCloakAro = capa de lobo-guará
+    .desc = Este capa faz com que os outros saibam que você é um lobo solitário.
+
+ent-ClothingNeckCloakAroace = capa do piloto de aerofólio
+    .desc = Capa concedida aos melhores pilotos da Nanotrasen em planetas com atmosferas habitáveis.
+
+ent-ClothingNeckCloakBi = capa venenosa
+    .desc = A cor violeta é um indicador claro de que você é venenoso.
+
+ent-ClothingNeckCloakIntersex = capa de ciclope
+    .desc = O círculo nesta capa representa um olho de um ciclope.
+
+ent-ClothingNeckCloakLesbian = capa poética
+    .desc = Esse manto pertence a um poeta antigo, você esqueceu qual um.
+
+ent-ClothingNeckCloakGay = capa de marketing multinível
+    .desc = Esse capa é muito procurada nos escritórios de marketing da Nanotrasen.
+
+ent-ClothingNeckCloakEnby = capa de caçador de tesouros
+    .desc = Este capa pertence a um caçador de tesouros avarento.
+
+ent-ClothingNeckCloakPan = capa do chef
+    .desc = Indicado para ser usado junto a uma frigideira.
