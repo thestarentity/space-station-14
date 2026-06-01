@@ -1,0 +1,107 @@
+ent-FoodSnackBoritos = boritos
+    .desc = Chipas de tortilha crocantes e salgadas. Você provavelmente poderia fazer nachos com essas.
+
+ent-FoodSnackCnDs = C&Ds
+    .desc = Legalmente, não podemos dizer que esses não derreterão em suas mãos.
+
+ent-FoodSnackCheesie = cheesie honkers
+    .desc = Snacks de cheesie tamanho de mordida que vão te deixar com o nariz cheio de leite.
+
+ent-FoodSnackChips = batata frita
+    .desc = What-The-Crisps do Comandante Riker.
+
+ent-FoodSnackChocolate = barra de chocolate
+    .desc = Tem o sabor de papelão.
+
+ent-FoodSnackChocolateBar = barra de chocolate
+    .desc = Tem o sabor de papelão.
+
+ent-FoodSnackEnergy = barra de energia
+    .desc = Uma barra de energia com bastante força.
+
+ent-FoodSnackEnergyBar = barra de energia
+    .desc = Uma barra de energia com bastante força.
+
+ent-FoodSnackPistachios = Sweetie's pistachios
+    .desc = Pistachios da marca Sweeties. Provavelmente não vão te dar doenças. Provavelmente.
+
+ent-FoodSnackPopcorn = pipoca
+    .desc = Cultivado em um planeta desconhecido, por um agricultor desconhecido, estourado por algum idiota em uma estação espacial.
+
+ent-FoodSnackRaisins = 4no raisins
+    .desc = As melhores passas do universo. Não tenho certeza do porquê.
+
+ent-FoodSnackSemki = bob's semki sunflower seeds
+    .desc = Orgulhosamente produzido pela corporação nutricional Bob Bobson. Perfeito para cuspir em pessoas.
+
+ent-FoodSnackSus = sus jerky
+    .desc = Algo sobre este pacote te deixa extremamente inquieto. A carne seca é boa, porém.
+
+ent-FoodSnackSyndi = syndi-cakes
+    .desc = Um biscoito extremamente úmido que tem gosto tão bom quanto depois de ser nuked.
+
+ent-DrinkRamen = ramen instantâneo
+    .desc = Um alimento barato com um sabor que te lembra os anos escolares.
+
+ent-DrinkHellRamen = hell ramen
+    .desc = Sabor super picante!
+
+ent-FoodSnackChowMein = chow mein
+    .desc = Um lanche de massa frita salgada. Parece que eles esqueceram de colocar as vegetais.
+
+ent-FoodSnackDanDanNoodles = dan dan noodles
+    .desc = Um lanche de macarrão Sichuan picante. O óleo de pimenta forma uma camada na superfície.
+
+ent-FoodSnackCookieFortune = biscoito da sorte
+    .desc = Um lanche de cartão ondulado entediante com uma sorte dentro. Surpresa! Você também é entediante.
+
+ent-FoodSnackNutribrick = nutribrick
+    .desc = Um tijolo cuidadosamente sintetizado, projetado para conter a maior proporção de nutrientes por volume. Tem um sabor horrível.
+
+ent-FoodSnackNutribrickOpen = nutribrick
+    .desc = Um tijolo cuidadosamente sintetizado, projetado para conter a maior proporção de nutrientes por volume. Tem um sabor horrível.
+
+ent-FoodSnackMREBrownie = brownie
+    .desc = Um brownie cuidadosamente misturado, feito para resistir a impactos brutais e condições adversas. Tem um sabor horrível.
+
+ent-FoodSnackMREBrownieOpen = brownie
+    .desc = Um brownie cuidadosamente misturado, feito para resistir a impactos brutais e condições adversas. Tem um sabor horrível.
+
+ent-FoodSnackSwirlLollipop = lollipop de roda
+    .desc = Um círculo enroscado de açúcar puro e concentrado. Quem é o maior criança do playground agora?
+
+ent-FoodPacketBoritosTrash = saco de boritos
+
+ent-FoodPacketCnDsTrash = saco de C&Ds
+
+ent-FoodPacketCheesieTrash = cheesie honkers
+
+ent-FoodPacketChipsTrash = batata frita
+
+ent-FoodPacketChocolateTrash = embrulho de chocolate
+
+ent-FoodPacketEnergyTrash = embrulho de barra energética
+
+ent-FoodPacketPistachioTrash = pacote de pistache
+
+ent-FoodPacketPopcornTrash = caixa de pipoca
+
+ent-FoodPacketRaisinsTrash = 4no raisins
+
+ent-FoodPacketSemkiTrash = pacote semki
+
+ent-FoodPacketSusTrash = sus jerky
+
+ent-FoodPacketSyndiTrash = caixa de syndi-cakes
+
+ent-FoodPacketCupRamenTrash = ramen instantâneo vazio
+
+ent-FoodPacketChowMeinTrash = caixa de chow mein vazia
+
+ent-FoodPacketDanDanTrash = caixa de dan dan vazia
+
+ent-FoodCookieFortune = papel da sorte
+    .desc = A previsão diz: O fim está próximo... e é toda sua culpa.
+
+ent-FoodPacketMRETrash = invólucro de MRE
+    .desc = Um invólucro de uso geral para uma variedade de produtos alimentares militares.

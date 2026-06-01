@@ -1,0 +1,50 @@
+ent-FoodBoxDonut = caixa de rosquinhas
+    .desc = Mmm, Rosquinhas.
+
+ent-FoodContainerEgg = caixa de ovos
+    .desc = Não os deixe cair!
+
+ent-FoodBoxPizza = caixa de pizza
+    .desc = Uma caixa para pizza. Ela mantém o calor, o cheiro e as lembranças dos melhores cinco minutos da sua vida.
+
+ent-FoodBoxNugget = frango crocante
+    .desc = De repente, você tem a vontade de negociar na bolsa de valores interestelar.
+
+ent-FoodBoxDonkpocket = caixa de donk-pockets
+    .desc = Aqueça no micro-ondas. O produto esfriará se não for consumido dentro de sete minutos.
+
+ent-FoodBoxDonkpocketSpicy = caixa de donk-pockets picantes
+
+ent-FoodBoxDonkpocketTeriyaki = caixa de donk-pockets com sabor teriyaki
+
+ent-FoodBoxDonkpocketPizza = caixa de donk-pockets com sabor de pizza
+
+ent-FoodBoxDonkpocketStonk = caixa de stonk-pockets limitada
+
+ent-FoodBoxDonkpocketCarp = caixa de donk-pocket de carpa
+
+ent-FoodBoxDonkpocketBerry = caixa de donk-pockets sabor berry
+
+ent-FoodBoxDonkpocketHonk = caixa de donk-pockets com sabor de banana
+
+ent-FoodBoxDonkpocketDink = caixa de dink-pockets
+    .desc = Zero carboidratos! Nenhuma necessidade de aquecer!
+
+ent-FoodBoxDonkpocketMoth = caixa de donk-pocket de mariposa
+
+ent-HappyHonk = happy honk meal
+    .desc = O brinquedo é mais comestível do que a comida.
+
+ent-HappyHonkNukie = refeição nukie robusta
+    .desc = Uma refeição sus com uma surpresa potencialmente explosiva.
+
+ent-HappyHonkNukieSnacks = caixa de lanches do sindicato feliz
+
+ent-HappyHonkCluwne = refeição triste do palhaço
+    .desc = Nada bom pode vir disso.
+
+ent-FoodMealHappyHonkBigBite = Refeição Honk Feliz Grande Mordida
+    .desc = Alguém pagou um bom dinheiro para que esse lanche rápido fosse enviado assim. Alguma razão, ele cheira fresco.
+
+ent-FoodBoxCloth = caixa de tecido marca FlutterSoft
+    .desc = A fibra é a refeição mais importante das moças hoje! Não pule ela ou use lixo do fundo do armário, compre tecido de alta qualidade da marca FlutterSoft em vez disso.

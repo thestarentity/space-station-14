@@ -1,0 +1,223 @@
+ent-WheatBushel = bushel de trigo
+    .desc = Suspiro... trigo... um grão?
+
+ent-MeatwheatBushel = bushel de trigo carneiro
+    .desc = Algumas espigas de trigo manchadas de sangue. Você pode esmagá-las para obter algo que passa por carne se apertar os olhos com força suficiente.
+
+ent-OatBushel = barril de aveia
+    .desc = Coma aveia, faça agachamentos.
+
+ent-Sugarcane = canas-de-açúcar
+    .desc = Doce doente.
+
+ent-Papercane = papercane roll
+    .desc = Por que precisamos cultivar papel mesmo?
+
+ent-FoodLaughinPeaPod = vagem de ervilha risível
+    .desc = A planta favorita do palhaço.
+
+ent-Log = tronco de tower-cap
+    .desc = É melhor que ruim, é bom!
+
+ent-SteelLog = tronco de steel-cap
+    .desc = O aço não cresce em árvores! Claro, ele cresce em cogumelos.
+
+ent-Nettle = urtiga
+    .desc = Preguiçoso e chatisco.
+
+ent-DeathNettle = urticária da morte
+    .desc = Essa urtiga está com fome de sangue.
+
+ent-FoodBanana = banana
+    .desc = Rico em potássio.
+
+ent-FoodMimana = mimana
+    .desc = Favorito do Mímico.
+
+ent-TrashBananaPeel = casca de banana
+
+ent-TrashBakedBananaPeel = casca de banana assada
+
+ent-TrashMimanaPeel = mimana peel
+
+ent-TrashBananiumPeel = casca de bananium
+
+ent-FoodCarrot = cenoura
+    .desc = É bom para os olhos!
+
+ent-FoodCabbage = brócolis
+    .desc = Ewwwwwwwww. Couve.
+
+ent-FoodGarlic = alho
+    .desc = Delicioso, mas com um odor potencialmente avassalador.
+
+ent-FoodLemon = limão
+    .desc = Quando a vida lhe dá limões, seja grato por não serem limes.
+
+ent-FoodLemoon = Lemoon
+    .desc = As pessoas dizem que a Lua é feita de queijo, mas a Lua é realmente feita de leite e louro!
+
+ent-FoodLime = lima
+    .desc = Cura a escorbuto espacial, permite que você atue como um pirata espacial.
+
+ent-FoodOrange = laranja
+    .desc = Saudável, muito laranja.
+
+ent-FoodExtradimensionalOrange = laranja extradimensional
+    .desc = Você mal consegue entender o que é isso.
+
+ent-FoodPineapple = abacaxi
+    .desc = Mmm, tropical.
+
+ent-FoodPotato = batata
+    .desc = O irlandês espacial morreu de fome após suas colheitas de batata morrerem. Tristemente, eles não conseguiram pescar peixe espacial devido ao fato de ser a terra da rainha. Falar sobre isso com qualquer membro do IRA espacial os deixará loucos de raiva.
+
+ent-FoodTomato = tomate
+    .desc = Eu digo to-mah-to, você diz tom-mae-to.
+
+ent-FoodBlueTomato = tomate azul
+    .desc = Este é azul.
+
+ent-FoodBloodTomato = tomate de sangue
+    .desc = Espera, isso não é ketchup...
+
+ent-FoodEggplant = Abóbora
+    .desc = Talvez tenha um frango dentro?
+
+ent-FoodApple = maçã
+    .desc = É um pequeno pedaço do Éden.
+
+ent-FoodGoldenApple = maçã dourada
+    .desc = Ele deveria ter a forma de um cubo, não é?
+
+ent-FoodCocoaPod = vagem de cacau
+    .desc = Você nunca pode ter muito chocolate!
+
+ent-FoodCorn = louro de milho
+    .desc = Precisa de um pouco de manteiga! E de um pouco de cozinha...
+
+ent-FoodCornTrash = caramelo de milho
+    .desc = Não sobrou nem um único grão.
+
+ent-FoodOnion = cebola
+    .desc = Nada para chorar.
+
+ent-FoodOnionRed = cebola vermelha
+    .desc = Roxo apesar do nome.
+
+ent-FoodMushroom = aglomerado de chantegril
+    .desc = Cantharellus Cibarius: Essas pequenas cogumelos amarelos alegres parecem deliciosos!
+
+ent-FoodPineappleSlice = fatia de abacaxi
+    .desc = Mmm, tropical.
+
+ent-FoodOnionSlice = fatia de cebola
+    .desc = Nada para chorar.
+
+ent-FoodOnionRedSlice = fatia de cebola vermelha
+    .desc = Roxo apesar do nome.
+
+ent-FoodChiliPepper = pimenta de caiena
+    .desc = Picante, melhor não tocar nos olhos.
+
+ent-FoodChillyPepper = pimenta gelada
+    .desc = Quente gelado.
+
+ent-FoodAloe = aloe
+    .desc = Uma planta fragrante com propriedades calmantes.
+
+ent-FoodPoppy = papoula
+    .desc = Uma flor com extratos frequentemente usados na produção de medicamentos.
+
+ent-FoodLily = lily
+    .desc = Uma linda flor laranja.
+
+ent-FoodLingzhi = lingzhi
+    .desc = Um cogumelo medicinal potente. Não exagere.
+
+ent-FoodAmbrosiaVulgaris = ambrosia vulgaris
+    .desc = Uma planta medicinal. Pode fazer você se sentir um pouco estranho.
+
+ent-FoodAmbrosiaDeus = ambrosia deus
+    .desc = Uma planta medicinal muito procurada. Pode ter alguns efeitos colaterais estranhos.
+
+ent-FoodGalaxythistle = galaxythistle
+    .desc = Uma planta medicinal usada por seus antitóxicos.
+
+ent-FoodGlasstle = glasstle
+    .desc = Uma planta cristalina frágil com muitas espinhas afiadas.
+
+ent-FoodFlyAmanita = Fly Amanita
+    .desc = Um cogumelo que parece delicioso, como os que você vê nos desenhos animados.
+
+ent-FoodGatfruit = gatfruit
+    .desc = Um delicioso fruto em forma de arma com um caule de madeira grosso.
+
+ent-FoodRealCapfruit = capfruit
+    .desc = Um fruto suave, mas liso, com a forma de uma arma de fogo.
+
+ent-FoodFakeCapfruit = capfruit
+
+ent-RiceBushel = barril de arroz
+    .desc = Pode ser moído para fazer arroz, perfeito para pudim ou sake.
+
+ent-FoodSoybeans = soja
+    .desc = Para aqueles que não conseguem suportar ver carne boa e velha.
+
+ent-FoodSpacemansTrumpet = trombeta do astronauta
+    .desc = Uma flor vibrante que cheira levemente a grama recém-cortada. Toque na flor parece manchar a pele algum tempo depois do contato, porém a maioria das outras superfícies parece não ser afetada por este fenômeno.
+
+ent-FoodKoibean = koibean
+    .desc = Esses feijões parecem um pouco suspeitos.
+
+ent-FoodWatermelon = Abacaxi
+    .desc = Objeto verde arredondado que você pode fatiar e comer.
+
+ent-FoodWatermelonSlice = fatia de melão
+    .desc = Fatia verde e vermelha suculenta.
+
+ent-FoodHolymelon = holymelon
+    .desc = A água dentro desse melão foi abençoada por algum deus que é particularmente fã de melancia.
+
+ent-FoodHolymelonSlice = fatia de holymelon
+    .desc = Fatia dourada e vermelha suculenta.
+
+ent-FoodGrape = uvas
+    .desc = A comida dos imperadores, dos habitantes da França Espacial (normalmente como vinho) e das mães de família que amam futebol. Um dia poderia ser usado na produção de vinho para o bartender, caso ele algum dia fique sem.
+
+ent-FoodBerries = mirtilos
+    .desc = Um punhado de vários tipos de bagas.
+
+ent-FoodBungo = bungo fruit
+    .desc = A fruta bungo humilde.
+
+ent-FoodBungoPit = bungo pit
+
+ent-FoodPeaPod = vagem de ervilha
+    .desc = O doce favorito de um pato!
+
+ent-FoodWorldPeas = cluster de world peas
+    .desc = Dizem que traz paz a qualquer um que o consuma.
+
+ent-FoodPumpkin = Abóbora
+    .desc = Um grande, laranja... baga. Sério.
+
+ent-FoodBluePumpkin = Abóbora Azul
+    .desc = Um grande, azul... baga. Sério.
+
+ent-CottonBol = cotton boll
+    .desc = Snack favorito das pessoas-morcegos, e tão fofo quanto elas.
+
+ent-PyrottonBol = pyrotton boll
+    .desc = Isso provavelmente vai te colocar em chamas.
+
+ent-FoodCherry = cereja
+    .desc = Cereja vermelha suculenta com uma semente no interior.
+
+ent-TrashCherryPit = caroço de cereja
+
+ent-FoodAnomalyBerry = baga anômala
+    .desc = Uma fruta azul estranha. Algo sobre ela não parece certo.
+
+ent-FoodBloonion = bloonion bulb
+    .desc = Uma estranha bola flutuante... Nada digno de chorar.

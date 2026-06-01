@@ -1,0 +1,122 @@
+ent-ReagentContainerFlour = saco de farinha
+    .desc = Um grande saco de farinha. Ótimo para cozinhar!
+
+ent-ReagentContainerFlourSmall = pacote de farinha
+    .desc = Um pacote de farinha. Ótimo para cozinhar!
+
+ent-ReagentContainerCornmeal = saco de farinha de milho
+    .desc = Um grande saco de farinha de milho. Ótimo para cozinhar!
+
+ent-ReagentContainerCornmealSmall = pacote de farinha de milho
+    .desc = Um pacote de farinha de milho. Ótimo para cozinhar!
+
+ent-ReagentContainerRice = saco de arroz
+    .desc = Um grande saco de arroz. Ótimo para cozinhar!
+
+ent-ReagentContainerRiceSmall = pacote de arroz
+    .desc = Um pacote de arroz. Ótimo para cozinhar!
+
+ent-ReagentContainerSugar = saco de açúcar
+    .desc = Um grande saco de açúcar espacial delicioso.
+
+ent-ReagentContainerSugarSmall = pacote de açúcar
+    .desc = Um pacote de açúcar espacial saboroso.
+
+ent-ReagentContainerOliveoil = óleo de azeitona
+    .desc = Azeite de oliva. Presumivelmente de azeitonas espaciais.
+
+ent-ReagentContainerMayo = maionese
+    .desc = Frasco de maionese.
+
+ent-FoodDough = massa
+    .desc = Um pedaço de massa.
+
+ent-FoodDoughSlice = fatia de massa
+    .desc = Uma fatia de massa. Pode ser cozinhada para virar um pão.
+
+ent-FoodDoughRope = corda de massa
+    .desc = Uma fina tira de massa. Pode ser cozinhada para virar um bagel.
+
+ent-FoodDoughCornmeal = massa de farinha de milho
+    .desc = Um pedaço de massa de farinha de milho.
+
+ent-FoodDoughCornmealSlice = fatia de massa de milho
+    .desc = Uma fatia de massa de farinha de milho.
+
+ent-FoodDoughTortilla = massa de tortilla
+    .desc = Um pedaço de massa de tortilla.
+
+ent-FoodDoughTortillaSlice = fatia de massa de tortilla
+    .desc = Uma fatia de massa de tortilla.
+
+ent-FoodDoughTortillaFlat = massa de tortilla achatada
+    .desc = Uma fatia achatada de massa de tortilla, cozinhe isso para obter uma casca de taco.
+
+ent-FoodDoughCotton = massa de algodão
+    .desc = Um pedaço de massa de tecido.
+
+ent-FoodDoughCottonSlice = fatia de massa de algodão
+    .desc = Uma fatia de massa de algodão.
+
+ent-FoodDoughCottonRope = corda de massa de algodão
+    .desc = Um fio fino de massa de algodão. Pode ser cozinhado para se tornar um bagel de algodão.
+
+ent-FoodDoughPastryBaseRaw = base de massa crua
+    .desc = Deve ser cozinhado antes de usar.
+
+ent-FoodDoughPastryBase = base de pão de forma
+    .desc = A base para qualquer pão de forma digno de respeito.
+
+ent-FoodDoughPie = massa de pão de ló
+    .desc = Cozinhe para obter uma torta.
+
+ent-FoodDoughFlat = massa plana
+    .desc = Uma massa achatada.
+
+ent-FoodDoughCottonFlat = massa de algodão plana
+    .desc = Uma massa de algodão achatada.
+
+ent-FoodDoughPizzaBaked = pão de pizza
+    .desc = Adicione ingredientes para fazer uma pizza.
+
+ent-FoodCakeBatter = massa de bolo
+    .desc = Cozinhe para obter um bolo.
+
+ent-FoodButter = pedaço de manteiga
+    .desc = Uma colherada de delicioso, dourado e gorduroso sabor.
+
+ent-FoodButterSlice = fatia de manteiga
+    .desc = Uma fatia deliciosa, dourada e gordurosa.
+
+ent-FoodCannabisButter = barrinha de manteiga de canabinóide
+    .desc = Adicione isso aos seus alimentos favoritos para um momento irie.
+
+ent-FoodCheese = roda de queijo
+    .desc = Uma grande roda de delicioso Cheddar.
+
+ent-FoodCheeseSlice = fatia de queijo
+    .desc = Uma fatia deliciosa de Cheddar. A roda de queijo da qual foi cortada não pode ter ido muito longe.
+
+ent-FoodChevre = log de cabra montesa
+    .desc = Um queijo Chèvre suave e cremoso.
+
+ent-FoodChevreSlice = disco de chèvre
+    .desc = Um pequeno disco de Chèvre cremoso. Um adorno ideal para pratos laterais franceses.
+
+ent-FoodTofu = Tofu
+    .desc = Bloco sólido branco com um sabor sutil.
+
+ent-FoodTofuSlice = fatia de tofu
+    .desc = Uma fatia de tofu. Ingrediente de diversos pratos vegetarianos.
+
+ent-FoodBadRecipe = comida queimada
+    .desc = Alguém deveria ser demitido da cozinha por isso.
+
+ent-FoodCocoaBeans = feijões de cacau
+    .desc = Você nunca pode ter muito chocolate!
+
+ent-FoodCroissantRaw = croissant cru
+    .desc = Uma deliciosa massa crocante e crocante, esperando para acontecer.
+
+ent-FoodCroissantRawCotton = croissant de algodão cru
+    .desc = Uma deliciosa combinação de crosta crocante e massa macia, pronto para ser saboreado.
