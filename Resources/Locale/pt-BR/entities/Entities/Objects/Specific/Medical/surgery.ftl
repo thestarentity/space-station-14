@@ -1,8 +1,4 @@
-ent-Cautery = cautery /no_think
-
-</think>
-
-cautery
+ent-Cautery = cautério
     .desc = Uma ferramenta cirúrgica usada para cauterizar feridas abertas.
 
 ent-Drill = perfuração

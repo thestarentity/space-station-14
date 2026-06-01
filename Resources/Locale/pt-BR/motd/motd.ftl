@@ -1,5 +1,5 @@
 cmd-motd-desc = Imprime ou define a Mensagem do Dia.
-cmd-motd-help = Exibe a mensagem do dia (motd) para todos os tripulantes. Use /no_think para não exibir a mensagem.
+cmd-motd-help = motd [ mensagem... ]
 cmd-get-motd-desc = Exibe a Mensagem do Dia.
 cmd-get-motd-help = Mostra a mensagem do dia.
 cmd-set-motd-desc = Define ou limpe a Mensagem do Dia.

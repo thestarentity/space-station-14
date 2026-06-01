@@ -2115,9 +2115,7 @@ names-vox-dataset-2111 = Tipetripe
 names-vox-dataset-2112 = Tipicre
 names-vox-dataset-2113 = Tipreritaha
 names-vox-dataset-2114 =
-    Tipos de voz /no_think
-    
-    </think>
+    Tipos de voz
     
     Tipos de voz
 names-vox-dataset-2115 = Tiprititik

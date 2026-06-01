@@ -31,8 +31,8 @@ anomaly-scanner-stability-unknown =
     Context key: anomaly-scanner-stabilidade-desconhecida
     
     Estado atual da anomalia: [color=red]ERRO[/color]
-anomaly-scanner-point-output = [cor=cinza]{ $point }[/cor]
-anomaly-scanner-point-output-unknown = [cor=vermelho]ERRO[/cor]
+anomaly-scanner-point-output = [color=gray]{ $point }[/color]
+anomaly-scanner-point-output-unknown = [color=red]ERRO[/color]
 anomaly-scanner-particle-readout = Análise da Reação de Partículas:
 anomaly-scanner-particle-danger = [color=crimson]Tipo de perigo:[/color] { $type }
 anomaly-scanner-particle-unstable = [color=plum]Tipo instável:[/color] { $type }
@@ -90,7 +90,7 @@ anomaly-generator-flavor-right = O gerador de anomalias está prestes a causar u
 anomaly-behavior-unknown = [color=red]ERRO. Não pode ser lido.[/color]
 anomaly-behavior-title = Análise de Desvio de Comportamento:
 anomaly-behavior-point = [color=gold]Anomalia produz { $mod }% dos pontos[/color]
-anomaly-behavior-safe = [cor=verdemata]A anomalia está extremamente estável. Pulsos extremamente raros.[/cor]
+anomaly-behavior-safe = [color=forestgreen]A anomalia está extremamente estável. Pulsos extremamente raros.[/color]
 anomaly-behavior-slow = [color=forestgreen]A frequência das pulsações é muito menos frequente.[/color]
 anomaly-behavior-light = [color=forestgreen]A potência de pulsação está significativamente reduzida.[/color]
 anomaly-behavior-balanced = Nenhuma desvio de comportamento detectado.
@@ -101,7 +101,7 @@ anomaly-behavior-nonsensivity = Foi detectada uma reação fraca a partículas.
 anomaly-behavior-sensivity = Foi detectada uma reação amplificada a partículas.
 anomaly-behavior-invisibility = Foi detectada uma distorção nas ondas de luz.
 anomaly-behavior-secret = Interferência detectada. Alguns dados não podem ser lidos
-anomaly-behavior-inconstancy = [cor=crimson]Impermanência foi detectada. Os tipos de partículas podem mudar ao longo do tempo.[/cor]
+anomaly-behavior-inconstancy = [color=crimson]Impermanência foi detectada. Os tipos de partículas podem mudar ao longo do tempo.[/color]
 anomaly-behavior-fast = [color=crimson]A frequência das pulsações está fortemente aumentada.[/color]
 anomaly-behavior-strenght = [color=crimson]A potência da pulsação está significativamente aumentada.[/color]
 anomaly-behavior-moving = [color=crimson]Instabilidade nas coordenadas foi detectada.[/color]

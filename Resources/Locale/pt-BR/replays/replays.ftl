@@ -20,7 +20,7 @@ replay-menu-none = Nenhum replay encontrado.
 # Main Menu Info Box
 replay-info-title = Informações do Replay
 replay-info-none-selected = Nenhum replay selecionado
-replay-info-invalid = [cor=vermelho]Replay inválido selecionado[/cor]
+replay-info-invalid = [color=red]Replay inválido selecionado[/color]
 replay-info-info =
     { "[" }color=gray]Selecionado:[/color]  { $name } ({ $file })
     { "[" }color=gray]Tempo:[/color]   { $time }

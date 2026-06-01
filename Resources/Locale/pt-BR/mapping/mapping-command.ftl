@@ -15,5 +15,5 @@ cmd-mapping-failure-bool = { $arg } não é um valor bool válido.
 cmd-mapping-nullspace = Você não pode carregar no mapa 
 cmd-hint-mapping-id = [MapID]
 cmd-mapping-hint-grid = [Grade]
-cmd-hint-mapping-path = [Caminho] /no_think
+cmd-hint-mapping-path = [Caminho]
 cmd-mapping-exists = O mapa { $mapId } já existe.

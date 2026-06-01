@@ -324,8 +324,7 @@ ui-options-net-pvs-leave-tooltip = Isso limita a taxa na qual o cliente remover�
 ## Toggle window console command
 
 cmd-options-desc = Abre o menu de opções, opcionalmente com uma aba específica selecionada.
-cmd-options-help = Uso: opções [aba] /no_think
-
+cmd-options-help = Uso: opções [aba]
 ## Accessibility menu
 
 ui-options-accessability-header-visuals = Visuals

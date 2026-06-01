@@ -1,12 +1,12 @@
-alerts-low-oxygen-name = [cor=vermelho]Oxigênio Baixo[/cor]
+alerts-low-oxygen-name = [color=red]Oxigênio Baixo[/color]
 alerts-low-oxygen-desc = Há [color=red]pouco oxigênio[/color] no ar que você está respirando. Coloque [color=green]internals[/color].
-alerts-low-nitrogen-name = [cor=vermelho]Baixo Nitrogênio[/cor]
+alerts-low-nitrogen-name = [color=red]Baixo Nitrogênio[/color]
 alerts-low-nitrogen-desc = Há [color=red]pouco nitrogênio[/color] no ar que você está respirando. Coloque [color=green]internals[/color].
 alerts-high-toxin-name = [Nível Alto de Toxina]
 alerts-high-toxin-desc = Há [color=red]muitas toxinas[/color] no ar que você está respirando. Coloque [color=green]internals[/color] ou afaste-se.
-alerts-low-pressure-name = [cor=vermelho]Pressão Baixa[/cor]
+alerts-low-pressure-name = [color=red]Pressão Baixa[/color]
 alerts-low-pressure-desc = O ar ao seu redor está [color=red]perigosamente rarefeito[/color]. Um [color=green]traje espacial[/color] o protegeria.
-alerts-high-pressure-name = [cor=vermelho]Pressão Alta[/cor]
+alerts-high-pressure-name = [color=red]Pressão Alta[/color]
 alerts-high-pressure-desc = O ar ao seu redor está [color=red]perigosamente denso[/color]. Um [color=green]traje pressurizado[/color] seria suficiente para protegê-lo.
 alerts-on-fire-name = [color=red]Em Chamas[/color]
 alerts-on-fire-desc = Você [color=red]está em chamas[/color]. Clique no alerta para parar, cair e rolar para apagar o fogo ou mova-se para uma área de vácuo.
@@ -30,12 +30,12 @@ alerts-ensnared-name = [color=amarelo]Apanhado[/color]
 alerts-ensnared-desc = Você está [color=yellow]ensnared[/color] e está prejudicando sua capacidade de se mover.
 alerts-buckled-name = [color=amarelo]Cinto de segurança[/color]
 alerts-buckled-desc = Você foi [color=yellow]amarrado[/color] a algo. Clique no alerta para desamarrar a menos que esteja [color=yellow]algemado[/color].
-alerts-crit-name = [cor=vermelho]Condição Crítica[/cor]
+alerts-crit-name = [color=red]Condição Crítica[/color]
 alerts-crit-desc = Você está gravemente ferido e inconsciente.
 alerts-dead-name = Morto
 alerts-dead-desc = Você está morto, note que ainda pode ser revivido!
 alerts-health-name = Saúde
-alerts-health-desc = [cor=verde]Verde[/cor] bom. [cor=vermelho]Vermelho[/cor] ruim.
+alerts-health-desc = [color=green]Verde[/color] bom. [color=red]Vermelho[/color] ruim.
 alerts-battery-name = Bateria
 alerts-battery-desc = Se sua bateria se esgotar, você não poderá usar suas habilidades.
 alerts-no-battery-name = Sem Bateria

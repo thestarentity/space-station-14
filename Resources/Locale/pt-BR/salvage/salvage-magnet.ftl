@@ -23,10 +23,10 @@ salvage-magnet-resources =
 salvage-magnet-resources-count =
     { $count ->
         [1] (Pobre)
-        [2] Recursos magnéticos de resgate: 
-        [3] Recursos magnéticos de resgate: 
-        [4] Salvage Magnet Resources: 
-        [5] Salvage Magnet Resources: 
+        [2] Recursos magnéticos de resgate:
+        [3] Recursos magnéticos de resgate:
+        [4] Salvage Magnet Resources:
+        [5] Salvage Magnet Resources:
        *[other] (Extraordinário)
     }
 # Debris
@@ -39,6 +39,6 @@ dungeon-config-proto-SwissCheeseAsteroid = Fragmentos de asteroide
 # Wrecks
 salvage-map-wreck = Resgatar naufrágio
 salvage-map-wreck-desc-size = Tamanho:
-salvage-map-wreck-size-small = [cor=lima]Pequeno[/cor]
+salvage-map-wreck-size-small = [color=lime]Pequeno[/color]
 salvage-map-wreck-size-medium = [color=cornflowerblue]Médio[/color]
-salvage-map-wreck-size-large = [cor=orchid]Grande[/cor]
+salvage-map-wreck-size-large = [color=orchid]Grande[/color]

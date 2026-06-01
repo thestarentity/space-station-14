@@ -44,9 +44,7 @@ ent-CigaretteSodiumPolyacrylate = Hábitos Insaudáveis
 
 ent-CigaretteMold = Experiência Abaixo do Lavatório
 
-ent-CigaretteLicoxide = Acordar /no
-
-Agora, você pode sentir o cheiro de Licoxide.
+ent-CigaretteLicoxide = Chamada de Despertar
 
 ent-CigaretteWeldingFuel = Molho de Plasma
 

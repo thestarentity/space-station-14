@@ -62,9 +62,8 @@ units-k-watt = kW
 units-m-watt = MW
 units-g-watt = GW
 units-u--watt-long =
-    Microrreto /no
-    
-    Microwatt /no
+    Microrreto
+    Microwatt
 units-m--watt-long = Miliwatt
 units-watt-long = Watt
 units-k-watt-long = Quilowatt

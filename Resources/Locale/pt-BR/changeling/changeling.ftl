@@ -28,7 +28,7 @@ changeling-transform-bui-drop-identity-cannot-drop = Não podemos descartar noss
 changeling-voice-mimic-window-title = Mimicagem de Voz
 # flesh clothing
 changeling-flesh-clothing-removed-popop = { CAPITALIZE(THE($item)) } se desfaz em restos carnosos!
-changeling-flesh-clothing-examine-wearer = [cor=crimson]Este item é uma parte camuflada do seu corpo. Ele desaparecerá se você o desequipar![/cor]
+changeling-flesh-clothing-examine-wearer = [color=crimson]Este item é uma parte camuflada do seu corpo. Ele desaparecerá se você o desequipar![/color]
 changeling-flesh-clothing-alert-name = Habilidade de Roupas de Carne
 changeling-flesh-clothing-alert-desc = Se a transformação de roupas está ativada. Clique para alternar.
 # biodegrade

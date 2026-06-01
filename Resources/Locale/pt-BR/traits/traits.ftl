@@ -38,23 +38,15 @@ trait-spanish-desc = Olá senhor, onde está a biblioteca.
 trait-scottish-name = Acento escocês
 trait-scottish-desc = Você está falando como um escocês de verdade!
 trait-painnumbness-name =
-    Numb /no_think
+    Numb
     
-    </think>
+    Anestésico
     
-    Anestésico /no_think
+    Anestésico
     
-    </think>
+    Anestésico
     
-    Anestésico /no_think
-    
-    </think>
-    
-    Anestésico /no_think
-    
-    </think>
-    
-    Anestésico /no_think
+    Anestésico
 trait-painnumbness-desc = Você não sente dor, estando insensível a quão ferido pode estar.
 trait-hemophilia-name = Hemofilia
 trait-hemophilia-desc = Seu corpo não consegue formar coágulos sanguíneos.

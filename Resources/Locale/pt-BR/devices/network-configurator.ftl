@@ -36,7 +36,7 @@ network-configurator-tooltip-clear = Limpar a lista de dispositivos dos alvos
 network-configurator-tooltip-copy = Copie a lista de dispositivos do alvo para a ferramenta segurada
 network-configurator-tooltip-show = Mostre uma visualização holográfica da lista de dispositivos dos alvos
 # examine
-network-configurator-examine-mode-link = [cor=vermelho]Link[/cor]
+network-configurator-examine-mode-link = [color=red]Link[/color]
 network-configurator-examine-mode-list = [color=verde]Lista[/color]
 network-configurator-examine-current-mode = Modo atual: { $mode }
 network-configurator-examine-switch-modes = Press { $key } para alternar modos

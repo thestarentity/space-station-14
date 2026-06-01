@@ -9,14 +9,14 @@ random-sentience-event-data-6 = [REDACTED]
 
 ## Phrases used to describe the level of intelligence, though it doesn't actually affect anything.
 
-random-sentience-event-strength-1 = A entidade sentiente fraca foi detectada. Ela não representa uma ameaça imediata, mas pode causar alguns problemas.
+random-sentience-event-strength-1 = humano
 random-sentience-event-strength-2 = primata
 random-sentience-event-strength-3 = moderado
-random-sentience-event-strength-4 = A entidade sentiente está se tornando mais forte. Ela está se manifestando em todos os níveis da estação. A comunicação com ela é possível, mas não se sabe se ela está consciente do que está fazendo. A única coisa que se sabe é que ela está se tornando mais forte a cada segundo.
-random-sentience-event-strength-5 = comando /não
+random-sentience-event-strength-4 = segurança
+random-sentience-event-strength-5 = comando
 random-sentience-event-strength-6 = Palhaço
 random-sentience-event-strength-7 = baixo
-random-sentience-event-strength-8 = AI da Estação
+random-sentience-event-strength-8 = IA
 
 ## Announcement text
 

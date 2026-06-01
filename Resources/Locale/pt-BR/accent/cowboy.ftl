@@ -112,14 +112,7 @@ accent-cowboy-words-56 = Ran
 accent-cowboy-replacement-56 = correu para longe
 accent-cowboy-words-57 = roubo
 accent-cowboy-replacement-57 = levantar as mãos
-accent-cowboy-words-58 =
-    Okay, let's see. The user provided a context key "accent-cowboy-words-58" and the command "run". They're likely referring to a specific mod or feature in Space Station 14 that adds cowboy-themed accents or words. Since the task is to translate the game's content into Brazilian Portuguese, I need to ensure that any cowboy-related terms are appropriately localized while maintaining the game's tone and style.
-    
-    First, I'll check if there are any specific terms in the context key that need translation. However, the context key itself doesn't contain any text to translate. The command "run" is straightforward and doesn't require translation as it's a common verb. 
-    
-    Next, I'll consider the glossary provided. Terms like "Space Station" become "Estação Espacial", "Nanotrasen" stays the same, and other UI elements and roles are translated consistently. Since the context key might relate to a mod or a specific set of words, I should ensure that any cowboy-related phrases are translated in a way that fits the theme, using informal Brazilian Portuguese as instructed.
-    
-    I should also make sure not to alter any placeholders like 
+accent-cowboy-words-58 = correr
 accent-cowboy-replacement-58 = vai embora
 accent-cowboy-words-59 = Correndo
 accent-cowboy-replacement-59 = correndo pra longe

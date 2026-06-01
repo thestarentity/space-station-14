@@ -23,10 +23,10 @@ admin-notes-hide = Ocultar
 admin-notes-delete-confirm = Confirmar exclusão
 admin-notes-edited = Última edição por { $author } em { $date }
 admin-notes-unbanned = Desbanido por { $admin } em { $date }
-admin-notes-message-desc = [cor=branco]Você recebeu  { $count ->
+admin-notes-message-desc = [color=white]Você recebeu { $count ->
         [1] uma mensagem administrativa
        *[other] mensagens administrativas
-    }desde a última vez que você jogou nesse servidor.
+    } desde a última vez que você jogou neste servidor.[/color]
 admin-notes-message-admin = De [bold]{ $admin }[/bold], escrito em { TOSTRING($date, "f") }:
 admin-notes-message-wait = O botão de aceitar será ativado após { $time } segundos.
 admin-notes-message-accept = Descartar permanentemente

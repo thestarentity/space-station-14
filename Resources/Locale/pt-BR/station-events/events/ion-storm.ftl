@@ -38,9 +38,7 @@ ion-storm-law-requires-subjects =
 ion-storm-law-allergic =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
         [true]
-            ESTÁ /no_think
-            
-            </think>
+            ESTÁ
             
             ESTÁ
        *[false] A tempestade de íons não afeta você.
@@ -48,9 +46,7 @@ ion-storm-law-allergic =
 ion-storm-law-allergic-subjects =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
         [true]
-            ESTÁ /no_think
-            
-            </think>
+            ESTÁ
             
             ESTÁ
        *[false] A tempestade de íons não afeta você.

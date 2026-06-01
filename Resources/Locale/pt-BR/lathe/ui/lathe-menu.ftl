@@ -4,7 +4,7 @@ lathe-menu-server-list = Lista de servidores
 lathe-menu-sync = Sincronizar
 lathe-menu-search-designs = Buscar designs
 lathe-menu-category-all = Todos
-lathe-menu-search-filter = Filtrar: /no_think
+lathe-menu-search-filter = Filtrar:
 lathe-menu-amount = Quantidade:
 lathe-menu-recipe-count =
     { $count ->

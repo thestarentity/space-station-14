@@ -28,8 +28,8 @@ traitor-role-greeting =
     Seus objetivos e palavras-código estão listados no menu de personagem. Use seu uplink para comprar as ferramentas que você precisará para esta missão.
     Morte a Nanotrasen!
 traitor-role-codewords =
-    As palavras-chave são: [cor = lightgray]
-    { $codewords }.[/cor]
+    As palavras-chave são: [color = lightgray]
+    { $codewords }.[/color]
     As palavras-chave podem ser usadas em conversas normais para se identificar discretamente a outros agentes do sindicato.
     Escute por elas e mantenha-as em segredo.
 traitor-role-uplink-code =

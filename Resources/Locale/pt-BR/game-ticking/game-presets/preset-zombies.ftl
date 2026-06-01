@@ -20,7 +20,7 @@ zombie-round-end-amount-none = [color=green]Todos os zumbis foram eliminados![/c
 zombie-round-end-amount-low = [color=green]Quase todos os zumbis foram exterminados.[/color]
 zombie-round-end-amount-medium = [color=yellow]{ $percent }% da tripulação foi transformada em zumbis.[/color]
 zombie-round-end-amount-high = [color=crimson]{ $percent }% da tripulação foi transformada em zumbis.[/color]
-zombie-round-end-amount-all = [cor=darkred]Toda a tripulação se tornou zumbis![/cor]
+zombie-round-end-amount-all = [color=darkred]Toda a tripulação se tornou zumbis![/color]
 zombie-round-end-survivor-count =
     { $count ->
         [one] Havia apenas um sobrevivente restante:

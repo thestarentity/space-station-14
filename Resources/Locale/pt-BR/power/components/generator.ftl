@@ -28,9 +28,9 @@ power-switchable-generator-examine = A saída de energia está definida para { $
 power-switchable-generator-switched = Mudou para { $voltage }!
 power-switchable-voltage =
     { $voltage ->
-        [HV] [cor=laranja]HV[/cor]
-        [MV] [color=amarelo]MV[/color]
-       *[LV] [cor=verde]LV[/cor]
+        [HV] [HV]HV[color=orange]
+        [MV] [MV]MV[/color]
+       *[LV] [color=yellow]LV[/color]
     }
 power-switchable-switch-voltage = Mude para { $voltage }
 fuel-generator-verb-disable-on = Desligue o gerador primeiro!

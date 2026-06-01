@@ -20,7 +20,7 @@ nukeops-cond-nukiesabandoned = Os operativos nucleares foram abandonados.
 nukeops-cond-allnukiesdead = Todos os operativos nucleares morreram.
 nukeops-cond-somenukiesalive = Alguns operativos nucleares morreram.
 nukeops-cond-allnukiesalive = Nenhum operativo nuclear morreu.
-nukeops-disk-location-title = Localização final do disco: /no_think
+nukeops-disk-location-title = Localização final do disco:
 nukeops-disk-carried-by =
     { " " }carregado por [color=White]{ $name }[/color], [color=orange]{ $job }[/color], { $location } { $user ->
         [unknown] { "" }

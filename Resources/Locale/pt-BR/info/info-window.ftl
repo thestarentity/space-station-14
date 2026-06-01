@@ -1,6 +1,5 @@
 ### Info Window
 
-
 ## General stuff
 
 ui-info-title = Selecione o tipo de Borg que você deseja criar. Cada tipo tem habilidades e características únicas.
@@ -9,7 +8,7 @@ ui-info-tab-tutorial = Tutorial
 
 ## Tutorial tab
 
-ui-info-text-controls = Você pode revisar e reatribuir os controles do SS14 na /no_think
+ui-info-text-controls = Você pode revisar e reatribuir os controles do SS14 na
 ui-info-header-intro = Bem-vindo à Estação Espacial. Você está prestes a embarcar em uma jornada cheia de ação, mistério e possíveis sobrevivências. Prepare-se para trabalhar em equipe, resolver problemas e, acima de tudo, sobreviver. Boa sorte, tripulante!
 ui-info-header-controls = Controles
 ui-info-header-gameplay = Jogabilidade

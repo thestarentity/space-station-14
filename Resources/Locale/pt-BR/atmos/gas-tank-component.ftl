@@ -18,8 +18,8 @@ gas-tank-window-internals-toggle-button = Alternar
 gas-tank-window-output-pressure-label = Pressão de Saída
 gas-tank-window-tank-pressure-text = Pressão: { $tankPressure } kPA
 gas-tank-window-internal-text = Internals: { $status }
-gas-tank-window-internal-connected = [cor=verde]Conectado[/cor]
-gas-tank-window-internal-disconnected = [cor=vermelho]Desconectado[/cor]
+gas-tank-window-internal-connected = [color=green]Conectado[/color]
+gas-tank-window-internal-disconnected = [color=red]Desconectado[/color]
 
 ## Valve
 

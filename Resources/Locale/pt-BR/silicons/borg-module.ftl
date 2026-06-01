@@ -1,7 +1,7 @@
 borg-module-fit = Este módulo se encaixa em { $types }.
 borg-type-all = [color=white]qualquer ciborgue[/color]
 borg-type-salvage = [resgate ciborgs]
-borg-type-engineer = [cor= #ff9900]engenheiros ciborgues[/cor]
+borg-type-engineer = [color= #ff9900]engenheiros ciborgues[/color]
 borg-type-generic = [color= #666680]ciborgs genéricos[/color]
 borg-type-janitor = [ciano]ciborgs zeladores[/ciano]
 borg-type-medical = [cyan]ciborgs médicos[/cyan]

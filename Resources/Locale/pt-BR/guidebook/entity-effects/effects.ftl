@@ -340,7 +340,7 @@ entity-effect-guidebook-electrocute =
     } o metabolizador para { NATURALFIXED($time, 3) } { MANY("second", $time) }
 entity-effect-guidebook-emote =
     { $chance ->
-        [1] Forçará /no_think
+        [1] Forçará
        *[other] forçar
     } o metabolizador para [bold][color=branco]{ $emote }[/color][/bold]
 entity-effect-guidebook-extinguish-reaction =
@@ -485,8 +485,8 @@ entity-effect-guidebook-plant-robust-harvest =
     }aumenta a potência da planta por { $increase } até um máximo de { $limit }. Causa a perda das sementes da planta uma vez que a potência atinge { $seedlesstreshold }. Tentar adicionar potência acima de { $limit } pode causar uma diminuição na produção com 10% de chance
 entity-effect-guidebook-plant-seeds-add =
     { $chance ->
-        [1] Restaura o /no_think
-       *[other] Restaurar o /no_think
+        [1] Restaura o
+       *[other] Restaurar o
     }sementes da planta
 entity-effect-guidebook-plant-seeds-remove =
     { $chance ->

@@ -2,18 +2,9 @@ signal-port-name-autoclose = Autoclose
 signal-port-description-autoclose = Alterna se o dispositivo deve se fechar automaticamente.
 signal-port-name-toggle = Alternar
 signal-port-description-toggle = Alterna o estado de um dispositivo.
-signal-port-name-on-receiver =
-    Okay, let's see. The user provided a context key "names-reptilian-female-dataset-121" and said "On /no_think". I need to translate the given text into Brazilian Portuguese following the rules and glossary provided.
-    
-    First, I check if there's any text to translate. The user only provided the context key and "On /no_think", which might be a command or instruction. According to the rules, if the input is only whitespace or tokens, output it unchanged. However, "On /no_think" isn't a token but a command. But since there's no actual text to translate, I should output the same as the input. 
-    
-    Wait, the user might have intended to provide a text for translation but forgot. However, based on the information given, there's no text to translate. The context key might be for a dataset, but without the actual text, I can't proceed. 
-    
-    Following the rules strictly, if there's no text to translate, I should output nothing or the same as input. But the user's message after the context key is "On /no_think", which might be a command to the AI. Since the user is asking for a translation, but there's no text provided, the correct response is to output the same as the input, which is the context key and the command. However, the rules state that if the input is only whitespace or tokens, output it unchanged. The context key is a token, so it should remain as is. 
-    
-    Therefore, the correct output is the same as the input: "names-reptilian-female-dataset-121" and "On /no_think" without any changes.
+signal-port-name-on-receiver = Ligar
 signal-port-description-on-receiver = Liga um dispositivo.
-signal-port-name-off-receiver = Desligado
+signal-port-name-off-receiver = Desligar
 signal-port-description-off-receiver = Desliga um dispositivo.
 signal-port-name-forward = Frente
 signal-port-description-forward = Faz um dispositivo (ex: esteira transportadora) operar na direção normal.
@@ -21,7 +12,7 @@ signal-port-name-reverse = Inverter
 signal-port-description-reverse = Faz um dispositivo (ex: esteira transportadora) operar na direção oposta.
 signal-port-name-open = Aberto
 signal-port-description-open = Abre um dispositivo.
-signal-port-name-close = Fechar válvula de liberação
+signal-port-name-close = Fechar
 signal-port-description-close = Fecha um dispositivo.
 signal-port-name-doorbolt = Trava da porta
 signal-port-description-doorbolt = Tranca a porta quando em ALTO.

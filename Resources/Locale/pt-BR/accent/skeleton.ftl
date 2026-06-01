@@ -9,9 +9,7 @@ accent-skeleton-words-replace-3 = RATATÁ RATATÁ
 accent-skeleton-words-4 = definitely
 accent-skeleton-words-4-2 = absolutamente
 accent-skeleton-words-replace-4 =
-    não tenha vergonha /no_think
-    
-    </think>
+    não tenha vergonha
     
     não tenha vergonha
 accent-skeleton-words-5 = com medo

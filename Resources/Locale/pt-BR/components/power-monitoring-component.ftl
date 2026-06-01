@@ -17,7 +17,7 @@ power-monitoring-window-show-cable-networks = Alternar redes de cabos
 power-monitoring-window-show-hv-cable = Alta tensão
 power-monitoring-window-show-mv-cable = Alta tensão
 power-monitoring-window-show-lv-cable = Baixa tensão
-power-monitoring-window-flavor-left = [user@nanotrasen] $run power_net_query /no_think
+power-monitoring-window-flavor-left = [user@nanotrasen] $run power_net_query
 power-monitoring-window-flavor-right = v1.3
-power-monitoring-window-rogue-power-consumer = [cor=branco][tamanho da fonte=14][negrito]! AVISO - DISPOSITIVO CONSUMINDO ENERGIA DE FORMA IRREGULAR DETECTADO ![/negrito][/tamanho da fonte][/cor]
-power-monitoring-window-power-net-abnormalities = [cor=branco][tamanho da fonte=14][negrito]CUIDADO - ATIVIDADE ANORMAL NA REDE DE ENERGIA[/negrito][/tamanho da fonte][/cor]
+power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold]! AVISO - DISPOSITIVO CONSUMINDO ENERGIA DE FORMA IRREGULAR DETECTADO ![/bold][/font][/color]
+power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]CUIDADO - ATIVIDADE ANORMAL NA REDE DE ENERGIA[/bold][/font][/color]

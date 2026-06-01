@@ -5,7 +5,7 @@ mothership-welcome = Bem-vindo ao núcleo da nave-mãe. Guie os xenoborgs para q
 xenoborg-shuttle-call = Detectamos que Xenoborgs tomaram a estação. Enviando um shuttle de emergência para recolher os tripulantes restantes.
 xenoborgs-borgsmajor = [Vitória do Xenoborg major!]
 xenoborgs-borgsminor = [Vitória do Xenoborg minor!]
-xenoborgs-neutral = [cor=branco]Resultado neutro![/cor]
+xenoborgs-neutral = [color=white]Resultado neutro![/color]
 xenoborgs-crewminor = [Vitória de tripulante menor!]
 xenoborgs-crewmajor = [Vitória maior da tripulação!]
 xenoborgs-cond-all-xenoborgs-dead-core-alive = Todos os xenoborgs foram destruídos. O núcleo da nave-mãe permanece à deriva no espaço.

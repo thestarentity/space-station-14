@@ -1,10 +1,9 @@
 ### Voting system related console commands
 
-
 ## 'createvote' command
 
 cmd-createvote-desc = Cria um voto
-cmd-createvote-help = Uso: createvote <'restart'|'preset'|'map'> /no_think
+cmd-createvote-help = Uso: createvote <'restart'|'preset'|'map'>
 cmd-createvote-cannot-call-vote-now = Você não pode chamar uma votação agora!
 cmd-createvote-invalid-vote-type = Tipo de voto inválido
 cmd-createvote-arg-vote-type = <tipo de voto>

@@ -19,5 +19,5 @@ bounty-manifest-list-start = Manifesto de itens
 bounty-console-tab-available-label = Disponível
 bounty-console-tab-history-label = Histórico
 bounty-console-history-empty-label = Nenhuma história de recompensa encontrada
-bounty-console-history-notice-completed-label = [cor=lima]Concluído[/cor]
+bounty-console-history-notice-completed-label = [color=limegreen]Concluído[/color]
 bounty-console-history-notice-skipped-label = [color=red]Pulado[/color] por { $id }

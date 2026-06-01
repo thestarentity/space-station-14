@@ -15,7 +15,7 @@ net-probe-label-network = Rede
 log-probe-program-name = LogProbe
 log-probe-scan = Baixei os logs de { $device }!
 log-probe-label-time = Tempo
-log-probe-label-accessor = Acessado por 
+log-probe-label-accessor = Acessado por
 log-probe-label-number = Número do Relatório
 log-probe-print-button = Imprimir Registros
 log-probe-printout-device = Dispositivo Escaneado: { $name }
@@ -76,14 +76,14 @@ wanted-list-reason-label = [color=darkgray]Motivo:[/color] [color=white]{ $reaso
 wanted-list-unknown-reason-label = motivo desconhecido
 wanted-list-initiator-label = [color=darkgray]Iniciador:[/color] [color=white]{ $initiator }[/color]
 wanted-list-unknown-initiator-label = Iniciador desconhecido
-wanted-list-status-label = [cor=cinzaescuro]status:[/cor]{ $status ->
-        [suspected] [color=amarelo]suspeito[/color]
-        [wanted] [color=red]desejado[/color]
-        [detained] [color=#b18644]detido[/color]
-        [paroled] [color=green]liberado[/color]
-        [discharged] [color=green]descarregado[/color]
-        [hostile] [color=darkred]hostil[/color]
-        [eliminated] [color=gray]eliminado[/color]
+wanted-list-status-label = [color=darkgray]status:[/color]{ $status ->
+        [suspected] [suspected]suspeito[color=yellow]
+        [wanted] [wanted]desejado[/color]
+        [detained] [color=red]detido[/color]
+        [paroled] [detained]liberado[color=#b18644]
+        [discharged] [paroled]descarregado[/color]
+        [hostile] [color=green]hostil[/color]
+        [eliminated] [discharged]eliminado[color=green]
        *[other] Permissões - Edição de Perfil de Administração - Título - Controle
     }
 wanted-list-history-table-time-col = Tempo
