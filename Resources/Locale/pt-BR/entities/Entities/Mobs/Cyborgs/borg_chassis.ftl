@@ -1,0 +1,38 @@
+ent-BorgChassisGeneric = Cyborg genérico
+
+ent-BorgChassisMining = ciborg de resgate
+
+ent-BorgChassisEngineer = engenheiro ciborguiano
+
+ent-BorgChassisJanitor = ciborg zelador
+
+ent-BorgChassisMedical = ciborg médico
+
+ent-BorgChassisService = ciborg de serviço
+
+ent-BorgChassisSyndicateAssault = ciborgue de assalto do sindicato
+    .desc = Um corpo magro e letal, uma máquina de matar com acesso a uma variedade de módulos mortais.
+
+ent-BorgChassisSyndicateMedical = ciborg médico do sindicato
+    .desc = Um cyborgue médico de combate. Tem potencial ofensivo limitado, mas compensa isso com suas capacidades de apoio.
+
+ent-BorgChassisSyndicateSaboteur = ciborg do sindicato sabotador
+    .desc = Um cyborgue de engenharia aprimorado, equipado com módulos ocultos. Seu projetor camaleão permite que ele se disfarce como um cyborgue Nanotrasen.
+
+ent-BorgChassisDerelict = ciborg abandonado
+    .desc = Um híbrido de homem e máquina que auxilia nas atividades da estação. Este está em um estado de grande desgaste.
+
+ent-EngineeringBorgChassisDerelict = ciborg engenheiro abandonado
+    .desc = Um híbrido homem-máquina que auxilia o departamento de engenharia. Este parece ter pedaços de cristais estranhos perfurando sua superfície.
+
+ent-JanitorBorgChassisDerelict = ciborg zelador abandonado
+    .desc = Um híbrido homem-máquina que ajuda o departamento de serviços. É um maior desastre do que qualquer coisa que ele possa limpar.
+
+ent-MedicalBorgChassisDerelict = ciborg médico abandonado
+    .desc = Um híbrido homem-máquina que auxilia o departamento médico. As agulhas desse não parecem muito higiênicas.
+
+ent-MiningBorgChassisDerelict = cyborg de recuperação de nave abandonada
+    .desc = Um híbrido homem-máquina que auxilia o departamento de carga. Este já viu o lado errado de um pedaço de gibtonite.
+
+ent-SyndicateAssaultBorgChassisDerelict = ciborgue de assalto do sindicato abandonado
+    .desc = Um corpo magro e letal, com acesso a uma variedade de módulos mortais. Este em particular é mais enferrujado-alaranjado do que vermelho-sangue.

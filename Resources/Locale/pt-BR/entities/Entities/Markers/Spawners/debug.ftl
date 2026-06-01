@@ -1,0 +1,1 @@
+ent-SpawnMobHuman = Urist Criador

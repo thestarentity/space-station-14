@@ -1,0 +1,14 @@
+ent-ActionGhostBoo = Ué!
+    .desc = Escarre os seus tripulantes por tédio!
+
+ent-ActionToggleLighting = Alternar Iluminação
+    .desc = Alternar renderização da luz para observar melhor áreas escuras.
+
+ent-ActionToggleFov = Alternar FoV
+    .desc = Alterna o campo de visão para ver o que os jogadores veem.
+
+ent-ActionToggleGhosts = Alternar Fantasmas
+    .desc = Alternar a visibilidade de outros fantasmas.
+
+ent-ActionToggleGhostHearing = Alternar audição de fantasmas
+    .desc = Alternar entre ouvir todas as mensagens e ouvir apenas as de rádio e as próximas.

@@ -1,0 +1,1 @@
+ent-RandomCloneSpawner = Clonagem Aleatória

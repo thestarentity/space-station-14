@@ -1,0 +1,1 @@
+ent-hoverentity = entidade suspensa
