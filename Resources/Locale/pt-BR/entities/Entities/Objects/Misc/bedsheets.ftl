@@ -1,0 +1,75 @@
+ent-BedsheetBlack = lençol preto
+
+ent-BedsheetBlue = lençol azul
+
+ent-BedsheetBrown = lençol marrom
+
+ent-BedsheetCaptain = lençol do capitão
+    .desc = Ele tem o símbolo da Nanotrasen nele, e foi tecido com um novo tipo revolucionário de fio, garantido para ter 0,01% de permeabilidade para a maioria das substâncias não químicas, popular entre a maioria dos capitães modernos.
+
+ent-BedsheetCE = Lençol do CE
+    .desc = Ele está decorado com um emblema de chave inglesa. É altamente refletivo e resistente a manchas, então você não precisa se preocupar em estragá-lo com óleo.
+
+ent-BedsheetCentcom = Lençol da CentCom
+    .desc = Teceido com fio nanotecnológico avançado para aquecimento e também muito decorado, essencial para todos os oficiais.
+
+ent-BedsheetClown = lençol do palhaço
+    .desc = Um cobertor arco-íris com uma máscara de palhaço tecida nele. Ele tem um leve cheiro de bananas.
+
+ent-BedsheetCMO = Lençol do CMO
+    .desc = É um cobertor esterilizado que possui um emblema em cruz. Há algumas penas de gato nele, provavelmente de Runtime.
+
+ent-BedsheetCosmos = lençol do cosmos
+    .desc = Feito a partir dos sonhos de quem admira as estrelas.
+
+ent-BedsheetCult = lençol de culto
+    .desc = Você pode sonhar com Nar'Sie se dormir com isso. Parece bastante rasgado e brilha com uma presença eldritch.
+
+ent-BedsheetGreen = lençol verde
+
+ent-BedsheetGrey = lençol cinza
+
+ent-BedsheetHOP = Lençol do HOP
+    .desc = Ele está decorado com um emblema de chave. Para aqueles raros momentos em que você pode descansar e abraçar Ian sem alguém gritar com você pelo rádio.
+
+ent-BedsheetHOS = Lençol do HOS
+    .desc = Ele está decorado com um emblema de escudo. Enquanto o crime não dorme, você sim, mas você ainda é A LEI!
+
+ent-BedsheetIan = Lençol de Ian
+
+ent-BedsheetMedical = lençol de cama médico
+    .desc = É um cobertor esterilizado comumente usado na enfermaria. A esterilização é anulada se um virologista estiver a bordo da estação.
+
+ent-BedsheetMime = lençol do mímico
+    .desc = Um cobertor listrado muito relaxante. Todo o barulho parece simplesmente desaparecer quando você está debaixo dos lençóis com isso.
+
+ent-BedsheetNT = lençol de cama NT
+    .desc = Ele tem o logotipo da Nanotrasen e uma aura de dever.
+
+ent-BedsheetOrange = lençol laranja
+
+ent-BedsheetPurple = lençol de cama roxo
+
+ent-BedsheetQM = Lençol do QM
+
+ent-BedsheetRainbow = lençol de arco-íris
+
+ent-BedsheetRD = Lençol do RD
+    .desc = Parece ter um emblema de béquer e é feito de material resistente ao fogo, embora provavelmente não o proteja contra os incêndios que você conhece no dia a dia.
+
+ent-BedsheetBrigmedic = A camisa de lençol do brigmedic
+    .desc = Não pior que o algodão.
+
+ent-BedsheetRed = lençol vermelho
+
+ent-BedsheetSyndie = lençol do sindicato
+    .desc = Ele tem um emblema do sindicato e exala uma aura de mal.
+
+ent-BedsheetUSA = Lençol americano
+
+ent-BedsheetWhite = lençol branco
+
+ent-BedsheetWiz = lençol mágico
+    .desc = Um tecido especial encantado com magia para que você tenha uma noite encantada. Ele até brilha!
+
+ent-BedsheetYellow = lençol amarelo

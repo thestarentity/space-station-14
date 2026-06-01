@@ -1,0 +1,285 @@
+ent-AlertsComputerCircuitboard = placa de alertas atmosféricos
+    .desc = Um circuito impresso para um computador de alertas atmosféricos.
+
+ent-AtmosMonitoringComputerCircuitboard = placa de monitoramento da rede atmosférica
+    .desc = Um circuito impresso para um monitor de rede atmosférica.
+
+ent-PowerComputerCircuitboard = placa de computador de monitoramento de energia
+    .desc = Um circuito impresso para um computador de monitoramento de energia.
+
+ent-MedicalRecordsComputerCircuitboard = placa do computador de registros médicos
+    .desc = Um circuito impresso para um computador de registros médicos.
+
+ent-CriminalRecordsComputerCircuitboard = placa de computador de registros criminais
+    .desc = Um circuito impresso para um computador de registros criminais.
+
+ent-StationRecordsComputerCircuitboard = placa de computador dos registros da estação
+    .desc = Um circuito impresso para um computador de registros da estação.
+
+ent-CargoRequestComputerCircuitboard = placa de computador de solicitação de carga
+    .desc = Um circuito impresso para um computador de solicitação de carga.
+
+ent-CargoRequestEngineeringComputerCircuitboard = placa de computador de solicitação de engenharia
+    .desc = Um circuito impresso para um computador de solicitação de engenharia.
+
+ent-CargoRequestMedicalComputerCircuitboard = placa de computador de solicitação médica
+    .desc = Um circuito impresso para um computador de solicitação médica.
+
+ent-CargoRequestScienceComputerCircuitboard = placa de computador de solicitação de ciência
+    .desc = Um circuito impresso para um computador de solicitação de ciências.
+
+ent-CargoRequestSecurityComputerCircuitboard = placa de computador de solicitação de segurança
+    .desc = Um circuito impresso para um computador de solicitação de segurança.
+
+ent-CargoRequestServiceComputerCircuitboard = placa de computador de solicitação de serviço
+    .desc = Um circuito impresso para um computador de solicitação de serviço.
+
+ent-FundingAllocationComputerCircuitboard = placa de computador de alocação de financiamento
+    .desc = Um circuito impresso para uma consola de cartão de alocação de financiamento.
+
+ent-CargoSaleComputerCircuitboard = placa de computador para venda de carga
+    .desc = Um circuito impresso para um computador de venda de carga.
+
+ent-CargoBountyComputerCircuitboard = placa de computador de recompensa de carga
+    .desc = Um circuito impresso para um computador de recompensa de carga.
+
+ent-SalvageJobBoardComputerCircuitboard = painel de empregos de resgate
+    .desc = Um circuito impresso para um computador de quadro de empregos de resgate.
+
+ent-SalvageExpeditionsComputerCircuitboard = placa de computador de expedições de resgate
+    .desc = Um circuito impresso para um computador de expedições de resgate.
+
+ent-CargoShuttleConsoleCircuitboard = placa de console do shuttle de carga
+    .desc = Um circuito impresso para um console de shuttle de carga.
+
+ent-SurveillanceCameraMonitorCircuitboard = painel de monitoramento de câmera de vigilância
+    .desc = Um circuito impresso para um monitor de câmera de vigilância.
+
+ent-SurveillanceWirelessCameraMonitorCircuitboard = placa de monitoramento de câmera sem fio de vigilância
+    .desc = Um circuito impresso para um monitor de câmera sem fio de vigilância.
+
+ent-XenoborgCameraMonitorCircuitboard = placa de monitoramento da câmera do xenoborg
+    .desc = Um circuito impresso para um monitor de câmera de xenoborg.
+
+ent-ComputerTelevisionCircuitboard = painel de televisão
+    .desc = Um circuito impresso para um computador de televisão.
+
+ent-ResearchComputerCircuitboard = Placa de computador de P&D
+    .desc = Um circuito impresso para um console de P&D.
+
+ent-AnalysisComputerCircuitboard = placa de computador de análise
+    .desc = Um circuito impresso para um console de análise.
+
+ent-TechDiskComputerCircuitboard = placa de terminal de disco de tecnologia
+    .desc = Um circuito impresso para um terminal de disco de tecnologia.
+
+ent-CrewMonitoringComputerCircuitboard = placa do computador de monitoramento de tripulantes
+    .desc = Um circuito impresso para um console de monitoramento de tripulantes.
+
+ent-IDComputerCircuitboard = Placa de computador de cartão de identificação
+    .desc = Um circuito impresso para uma consola de cartão de identificação.
+
+ent-BodyScannerComputerCircuitboard = placa de computador do scanner corporal
+    .desc = Um circuito impresso para um console de scanner corporal.
+
+ent-CommsComputerCircuitboard = placa de computador de comunicações
+    .desc = Um circuito impresso para um console de comunicações.
+
+ent-SyndicateCommsComputerCircuitboard = placa de computador de comunicações do sindicato
+    .desc = Um circuito impresso para um console de comunicações do sindicato.
+
+ent-WizardCommsComputerCircuitboard = placa de comunicação mágica
+    .desc = Um circuito impresso para um console de comunicações de bruxo.
+
+ent-CentcommCommsComputerCircuitboard = placa de comunicações do computador do comando central
+    .desc = Um circuito impresso para um console de comunicações do Comando Central.
+
+ent-RadarConsoleCircuitboard = placa de computador de scanner de massa
+
+ent-SolarControlComputerCircuitboard = placa do computador de controle solar
+    .desc = Um circuito impresso para um console de controle solar.
+
+ent-SpaceVillainArcadeComputerCircuitboard = placa de circuito do arcade do vilão espacial
+    .desc = Um circuito impresso para um computador de um cabinet de arcade de vilão espacial.
+
+ent-BlockGameArcadeComputerCircuitboard = placa de circuito do arcade do jogo de blocos
+    .desc = Um circuito impresso para um computador de um cabinet de arcade de um jogo de blocos.
+
+ent-ParticleAcceleratorComputerCircuitboard = Placa de computador da caixa de controle PA
+    .desc = Um circuito impresso para um computador de uma caixa de controle de acelerador de partículas.
+
+ent-ShuttleConsoleCircuitboard = placa de console do shuttle
+    .desc = Um circuito impresso para um console de shuttle.
+
+ent-SyndicateShuttleConsoleCircuitboard = placa de console do shuttle do sindicato
+    .desc = Um circuito impresso para um console de shuttle do sindicato.
+
+ent-CloningConsoleComputerCircuitboard = placa de computador da consola de clonagem
+    .desc = Um circuito impresso para um console de clonagem.
+
+ent-ComputerIFFCircuitboard = Placa de console IFF
+    .desc = Permite que você controle as características IFF deste veículo.
+
+ent-ComputerIFFSyndicateCircuitboard = placa de console IFF da sindicato
+    .desc = Permite que você controle o IFF e as características de camuflagem deste veículo.
+
+ent-ComputerMassMediaCircuitboard = painel de console do gerente de notícias
+    .desc = Escreva sua mensagem para o mundo!
+
+ent-SensorConsoleCircuitboard = placa de console de monitoramento de sensores
+    .desc = Um circuito impresso para um console de monitoramento de sensores.
+
+ent-RoboticsConsoleCircuitboard = placa de controle de robótica
+    .desc = Um circuito impresso para um console de controle de robótica.
+
+ent-ComputerXenoborgsControlCircuitboard = placa de controle da consola de xenoborgs
+    .desc = Um circuito impresso para um console de controle de xenoborg.
+
+ent-StationAiUploadCircuitboard = Placa de console de upload da IA
+    .desc = Um circuito impresso para um console de upload de IA.
+
+ent-StationAiFixerCircuitboard = Placa de console de restauração da IA
+    .desc = Um circuito impresso para um console de restauração de IA.
+
+ent-AlertsComputerCircuitboard = placa do computador de alertas atmosféricos
+    .desc = Um circuito impresso para um computador de alertas atmosféricos.
+
+ent-AtmosMonitoringComputerCircuitboard = placa de monitoramento da rede atmosférica
+    .desc = Um circuito impresso para um monitor de rede atmosférica.
+
+ent-PowerComputerCircuitboard = placa de computador de monitoramento de energia
+    .desc = Um circuito impresso para um computador de monitoramento de energia.
+
+ent-MedicalRecordsComputerCircuitboard = placa do computador de registros médicos
+    .desc = Um circuito impresso para um computador de registros médicos.
+
+ent-CriminalRecordsComputerCircuitboard = placa de computador de registros criminais
+    .desc = Um circuito impresso para um computador de registros criminais.
+
+ent-StationRecordsComputerCircuitboard = placa de computador dos registros da estação
+    .desc = Um circuito impresso para um computador de registros da estação.
+
+ent-CargoRequestComputerCircuitboard = placa de computador de solicitação de carga
+    .desc = Um circuito impresso para um computador de solicitação de carga.
+
+ent-CargoRequestEngineeringComputerCircuitboard = placa de computador de solicitação de engenharia
+    .desc = Um circuito impresso para um computador de solicitação de engenharia.
+
+ent-CargoRequestMedicalComputerCircuitboard = placa de computador de solicitação médica
+    .desc = Um circuito impresso para um computador de solicitação médica.
+
+ent-CargoRequestScienceComputerCircuitboard = placa de computador de solicitação de ciência
+    .desc = Um circuito impresso para um computador de solicitação de ciências.
+
+ent-CargoRequestSecurityComputerCircuitboard = placa de computador de solicitação de segurança
+    .desc = Um circuito impresso para um computador de solicitação de segurança.
+
+ent-CargoRequestServiceComputerCircuitboard = placa de computador de solicitação de serviço
+    .desc = Um circuito impresso para um computador de solicitação de serviço.
+
+ent-FundingAllocationComputerCircuitboard = placa de computador de alocação de financiamento
+    .desc = Um circuito impresso para uma consola de cartão de alocação de financiamento.
+
+ent-CargoSaleComputerCircuitboard = placa de computador para venda de carga
+    .desc = Um circuito impresso para um computador de venda de carga.
+
+ent-CargoBountyComputerCircuitboard = placa de computador de recompensa de carga
+    .desc = Um circuito impresso para um computador de recompensa de carga.
+
+ent-SalvageJobBoardComputerCircuitboard = painel de empregos de resgate
+    .desc = Um circuito impresso para um computador de quadro de empregos de resgate.
+
+ent-SalvageExpeditionsComputerCircuitboard = placa de computador de expedições de resgate
+    .desc = Um circuito impresso para um computador de expedições de resgate.
+
+ent-CargoShuttleConsoleCircuitboard = placa de console do shuttle de carga
+    .desc = Um circuito impresso para um console de shuttle de carga.
+
+ent-SurveillanceCameraMonitorCircuitboard = painel de monitoramento de câmera de vigilância
+    .desc = Um circuito impresso para um monitor de câmera de vigilância.
+
+ent-SurveillanceWirelessCameraMonitorCircuitboard = placa de monitoramento de câmera sem fio de vigilância
+    .desc = Um circuito impresso para um monitor de câmera de vigilância sem fio.
+
+ent-XenoborgCameraMonitorCircuitboard = placa de monitoramento da câmera do xenoborg
+    .desc = Um circuito impresso para um monitor de câmera de xenoborg.
+
+ent-ComputerTelevisionCircuitboard = painel de televisão
+    .desc = Um circuito impresso para um computador de televisão.
+
+ent-ResearchComputerCircuitboard = Placa de computador de P&D
+    .desc = Um circuito impresso para um console de P&D.
+
+ent-AnalysisComputerCircuitboard = placa de computador de análise
+    .desc = Um circuito impresso para um console de análise.
+
+ent-TechDiskComputerCircuitboard = placa de terminal de disco de tecnologia
+    .desc = Um circuito impresso para um terminal de disco de tecnologia.
+
+ent-CrewMonitoringComputerCircuitboard = placa do computador de monitoramento de tripulantes
+    .desc = Um circuito impresso para um console de monitoramento de tripulantes.
+
+ent-IDComputerCircuitboard = Placa de computador de cartão de identificação
+    .desc = Um circuito impresso para um console de cartão de identificação.
+
+ent-BodyScannerComputerCircuitboard = placa de computador do scanner corporal
+    .desc = Um circuito impresso para um console de scanner corporal.
+
+ent-CommsComputerCircuitboard = placa de computador de comunicações
+    .desc = Um circuito impresso para um console de comunicações.
+
+ent-SyndicateCommsComputerCircuitboard = placa de computador de comunicações do sindicato
+    .desc = Um circuito impresso para um console de comunicações do sindicato.
+
+ent-WizardCommsComputerCircuitboard = placa de comunicação mágica
+    .desc = Um circuito impresso para um console de comunicações de bruxo.
+
+ent-CentcommCommsComputerCircuitboard = placa de comunicações do computador do comando central
+    .desc = Um circuito impresso para um console de comunicações do Comando Central.
+
+ent-RadarConsoleCircuitboard = placa de computador de scanner de massa
+
+ent-SolarControlComputerCircuitboard = placa do computador de controle solar
+    .desc = Um circuito impresso para um console de controle solar.
+
+ent-SpaceVillainArcadeComputerCircuitboard = placa de circuito do arcade do vilão espacial
+    .desc = Um circuito impresso para um computador de um cabinet de arcade de vilão espacial.
+
+ent-BlockGameArcadeComputerCircuitboard = placa de circuito do arcade do jogo de blocos
+    .desc = Um circuito impresso para um computador de um cabinet de arcade de um jogo de blocos.
+
+ent-ParticleAcceleratorComputerCircuitboard = Placa de computador da caixa de controle PA
+    .desc = Um circuito impresso para um computador de uma caixa de controle de acelerador de partículas.
+
+ent-ShuttleConsoleCircuitboard = placa de console do shuttle
+    .desc = Um circuito impresso para um console de shuttle.
+
+ent-SyndicateShuttleConsoleCircuitboard = placa de console do shuttle do sindicato
+    .desc = Um circuito impresso para um console de shuttle do sindicato.
+
+ent-CloningConsoleComputerCircuitboard = placa de computador da consola de clonagem
+    .desc = Um circuito impresso para um console de clonagem.
+
+ent-ComputerIFFCircuitboard = Placa de console IFF
+    .desc = Permite que você controle as características IFF desse veículo.
+
+ent-ComputerIFFSyndicateCircuitboard = placa de console IFF da sindicato
+    .desc = Permite que você controle o IFF e as características de camuflagem deste veículo.
+
+ent-ComputerMassMediaCircuitboard = painel de console do gerente de notícias
+    .desc = Escreva sua mensagem para o mundo!
+
+ent-SensorConsoleCircuitboard = placa de console de monitoramento de sensores
+    .desc = Um circuito impresso para um console de monitoramento de sensores.
+
+ent-RoboticsConsoleCircuitboard = placa de controle de robótica
+    .desc = Um circuito impresso para um console de controle de robótica.
+
+ent-ComputerXenoborgsControlCircuitboard = placa de controle da consola de xenoborgs
+    .desc = Um circuito impresso para um console de controle de xenoborg.
+
+ent-StationAiUploadCircuitboard = Placa de console de upload da IA
+    .desc = Um circuito impresso para um console de upload de IA.
+
+ent-StationAiFixerCircuitboard = Placa de console de restauração da IA
+    .desc = Um circuito impresso para um console de restauração de IA.

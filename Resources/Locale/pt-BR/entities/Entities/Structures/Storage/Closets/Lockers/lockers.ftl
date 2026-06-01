@@ -1,0 +1,78 @@
+ent-LockerBooze = armazenamento de bebidas alcoólicas
+    .desc = Este é o lugar onde o bartender guarda a bebida alcoólica.
+
+ent-LockerSteel = armário seguro
+
+ent-LockerQuarterMaster = locker do quartomestre
+
+ent-LockerSalvageSpecialist = equipamento do especialista de resgate
+    .desc = Esqueça o picareiro.
+
+ent-LockerCaptain = locker do capitão
+
+ent-LockerHeadOfPersonnel = Armário do Chefe de Pessoal
+
+ent-LockerChiefEngineer = locker do engenheiro-chefe
+
+ent-LockerElectricalSupplies = locker de suprimentos elétricos
+
+ent-LockerWeldingSupplies = locker de suprimentos de solda
+
+ent-LockerAtmospherics = locker do técnico de atmosfera
+
+ent-LockerEngineer = locker do engenheiro
+
+ent-LockerEvacRepair = emergência shuttle emergência locker
+    .desc = É emergência do começo ao fim.
+
+ent-LockerFreezerBase = congelador
+
+ent-LockerFreezer = congelador
+
+ent-LockerBotanist = Aba do Botanista
+
+ent-LockerMedicine = armário de medicamentos
+    .desc = Cheio até a brim de lixo médico.
+
+ent-LockerMedical = locker do médico
+
+ent-LockerParamedic = Armário do paramédico
+
+ent-LockerChemistry = locker de química
+
+ent-LockerChiefMedicalOfficer = locker do chefe médico
+
+ent-LockerResearchDirector = locker do diretor de pesquisa
+
+ent-LockerScientist = locker do cientista
+
+ent-LockerHeadOfSecurity = A fechadura do armário do chefe de segurança está travada.
+
+ent-LockerWarden = locker do carcereiro
+
+ent-LockerBrigmedic = locker do brigmedic
+
+ent-LockerSecurity = locker do oficial de segurança
+
+ent-GunSafe = arma segura
+
+ent-LockerPrisoner = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerDetective = armário do detetive
+    .desc = Normalmente frio e vazio... como o seu coração.
+
+ent-LockerEvidence = locker de evidências
+    .desc = Para armazenar sacos de cápsulas de munição e pertences de detidos.
+
+ent-LockerSyndicatePersonal = locker vermelho sangue
+    .desc = É um armário de armazenamento pessoal com um design vermelho sangue.
+
+ent-LockerBluespaceStation = locker de bluespace
+    .desc = Tecnologia avançada de armário.
+
+ent-LockerClown = locker do palhaço
+
+ent-LockerMime = locker do mímico
+
+ent-LockerRepresentative = locker do representante

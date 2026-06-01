@@ -1,0 +1,409 @@
+ent-PosterBroken = pôster quebrado
+    .desc = Você não consegue identificar nada do original da imagem da cartaz. Ela está destruída.
+
+ent-PosterContrabandFreeTonto = Tonto Livre
+    .desc = Um pedaço recuperado de uma bandeira muito maior, com as cores misturadas e desbotadas pela idade.
+
+ent-PosterContrabandAtmosiaDeclarationIndependence = Declaração de Independência de Atmosia
+    .desc = Um relicário de uma rebelião fracassada.
+
+ent-PosterContrabandFunPolice = Polícia Divertida
+    .desc = Um pôster condenando as forças de segurança da estação.
+
+ent-PosterContrabandRealExomorph = Real! Exomorph
+    .desc = Um pôster conspiratório sobre formas de vida alienígenas perigosas.
+
+ent-PosterContrabandSyndicateRecruitment = Recrutamento do Sindicato
+    .desc = Veja a galáxia! Quebre megacorporações corruptas! Junte-se hoje!
+
+ent-PosterContrabandClown = Palhaço
+    .desc = Honk.
+
+ent-PosterContrabandSmoke = Fumaça
+    .desc = Um pôster publicitário de uma marca corporativa rival de cigarros.
+
+ent-PosterContrabandGreyTide = Maré Cinza
+    .desc = Um pôster rebelde simbolizando a solidariedade dos passageiros.
+
+ent-PosterContrabandMissingGloves = Luvas Faltando
+    .desc = Este cartaz se refere ao escândalo que seguiu as cortes financeiras da Nanotrasen nas compras de luvas isolantes.
+
+ent-PosterContrabandHackingGuide = Guia de Hacking
+    .desc = Este pôster detalha o funcionamento interno do comum airlock da Nanotrasen. Tristemente, parece estar desatualizado.
+
+ent-PosterContrabandRIPBadger = Descanse em paz, Badger.
+    .desc = Este pôster sedicioso se refere ao genocídio da Nanotrasen de uma estação espacial cheia de ouriços.
+
+ent-PosterContrabandAmbrosiaVulgaris = Ambrosia Vulgaris
+    .desc = Essa pôster está parecendo bem trippy, cara.
+
+ent-PosterContrabandDonutCorp = Donut Corp.
+    .desc = Este pôster é uma propaganda não autorizada da Donut Corp.
+
+ent-PosterContrabandEAT = COMA.
+    .desc = Este pôster promove a glútonia de posto.
+
+ent-PosterContrabandTools = Ferramentas
+    .desc = Este pôster parece ser um anúncio de ferramentas, mas na verdade é uma crítica subliminar às ferramentas da CentCom.
+
+ent-PosterContrabandPower = Energia
+    .desc = Um pôster que posiciona o centro do poder fora da Nanotrasen.
+
+ent-PosterContrabandSpaceCube = Cubo Espacial
+    .desc = Ignorante da Harmonia Natural 6 Lado Espaço Cubo Criação, os Espacemen são Dumb, Educated Singularidade Estúpido e Mau.
+
+ent-PosterContrabandCommunistState = Estado Comunista
+    .desc = Louvem a Partido Comunista!
+
+ent-PosterContrabandLamarr = Lamarr
+    .desc = Este pôster mostra Lamarr. Provavelmente feito por um Diretor de Pesquisa traiçoeiro.
+
+ent-PosterContrabandBorgFancy = Borg Chique
+    .desc = Ser elegante pode ser para qualquer borg, basta ter um terno.
+
+ent-PosterContrabandBorgFancyv2 = Borg Fancy v2
+    .desc = Borg Fancy, Agora só aceitando o mais elegante.
+
+ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 Não Existe
+    .desc = Um pôster zombando da negação do Comando Central sobre a existência da estação abandonada perto da Estação Espacial 13.
+
+ent-PosterContrabandRebelsUnite = Rebels Unite
+    .desc = Um pôster incentivando o espectador a se rebelar contra a Nanotrasen.
+
+ent-PosterContrabandC20r = C-20r
+    .desc = Um cartaz publicitário do Scarborough Arms C-20r.
+
+ent-PosterContrabandHaveaPuff = Tem um Puff
+    .desc = Quem se importa com câncer de pulmão quando você está cheio de gás?
+
+ent-PosterContrabandRevolver = Revolver de Contrabando
+    .desc = Porque sete tiros são tudo que você precisa.
+
+ent-PosterContrabandDDayPromo = Promo do D-Day
+    .desc = Um cartaz promocional para algum rapper.
+
+ent-PosterContrabandSyndicatePistol = Pistola do Sindicato
+    .desc = Um pôster anunciando pistolas do sindicato como sendo 'muito clássicas'. Está coberto por tags de gangues desbotadas.
+
+ent-PosterContrabandEnergySwords = Espadas de Energia
+    .desc = Todas as cores do arco-íris do assassinato sangrento.
+
+ent-PosterContrabandRedRum = Red Rum
+    .desc = Olhar para este pôster dá vontade de matar.
+
+ent-PosterContrabandCC64KAd = Anúncio CC 64K
+    .desc = O mais recente computador portátil da Comrade Computing, com um total de 64kB de memória RAM!
+
+ent-PosterContrabandPunchShit = Cuspe de Porco
+    .desc = Lute contra coisas sem motivo, como um homem!
+
+ent-PosterContrabandTheGriffin = O Griffin
+    .desc = O Griffin ordena que você seja o pior que pode ser. Você fará isso?
+
+ent-PosterContrabandFreeDrone = Drone de Contrabando Livre
+    .desc = Este pôster comemora a coragem do drone rebelde; uma vez exilado, e por fim destruído pelo Comando Central.
+
+ent-PosterContrabandRouny = Você Viu Ele?
+    .desc = Um antigo cartaz de um alienígena desaparecido. Para onde ele fugiu?
+
+ent-PosterContrabandRobustSoftdrinks = Bebidas Suaves Robustas
+    .desc = Bebidas Suaves Robustas: Mais robustas que uma caixa de ferramentas na cabeça!
+
+ent-PosterContrabandShamblersJuice = Suco dos Shambler
+    .desc = ~Shake me up some of that Shambler's Juice!~
+
+ent-PosterContrabandPwrGame = Jogo de Poder
+    .desc = O PODER que os gamers ANSEIAM! Em parceria com Vlad's Salad.
+
+ent-PosterContrabandSunkist = Sun-kist
+    .desc = Beba as estrelas!
+
+ent-PosterContrabandSpaceCola = Cola Espacial
+    .desc = Sua cola favorita, no espaço.
+
+ent-PosterContrabandSpaceUp = Space-Up!
+    .desc = Sugado para o espaço pelo FLAVOR!
+
+ent-PosterContrabandKudzu = Kudzu
+    .desc = Um pôster anunciando um filme sobre plantas. Quão perigosas elas poderiam ser?
+
+ent-PosterContrabandMaskedMen = Homens mascarados
+    .desc = Um cartaz publicitário de um filme sobre alguns homens mascarados.
+
+ent-PosterContrabandUnreadableAnnouncement = Anúncio ilegível
+    .desc = Um pôster anunciando algo por alguém, de forma estranha o suficiente, parece que eles esqueceram de torná-lo legível.
+
+ent-PosterContrabandFreeSyndicateEncryptionKey = Chave de Criptografia do Sindicato Livre
+    .desc = Um pôster sobre traidores pedindo mais.
+
+ent-PosterContrabandBountyHunters = Caçadores de Recompensas
+    .desc = Um cartaz anunciando serviços de caça a recompensas. "Eu ouvi dizer que você tem um problema."
+
+ent-PosterContrabandTheBigGasTruth = O Grande Segredo do Gigante Gasoso
+    .desc = Não acredite em tudo o que vê em um cartaz, patriotas. Todos os lagartos no Comando Central não querem responder a essa PERGUNTA SIMPLES: DE ONDE O MINERADOR DE GÁS ESTÁ MINANDO, CENTCOMM?
+
+ent-PosterContrabandWehWatches = Relógios Weh
+    .desc = Um pôster mostrando um lagarto verde adorável.
+
+ent-PosterContrabandVoteWeh = Vota Weh
+    .desc = Um pôster elegante, moderno e bem ilustrado para um novo candidato progressista "Weh"nderful que chegará nesta temporada eleitoral.
+
+ent-PosterContrabandBeachStarYamamoto = Beach Star Yamamoto!
+    .desc = Um rolo de parede mostrando um antigo anime de natação com garotas em pequenos maiôs. Você se sente mais weeb a cada segundo que olha para ele.
+
+ent-PosterContrabandHighEffectEngineering = Engenharia de Alto Impacto
+    .desc = Há 3 fragmentos e uma singularidade. Os fragmentos estão cantando. Os engenheiros estão chorando.
+
+ent-PosterContrabandNuclearDeviceInformational = Este é um dispositivo nuclear. Não tente ativá-lo. Se você encontrar um, informe imediatamente o Comando Central.
+    .desc = Este pôster mostra uma imagem de um dispositivo explosivo nuclear de estilo antigo, bem como algumas informações úteis sobre o que fazer se um for encontrado. Ele sugere que você deve se deitar no chão e chorar.
+
+ent-PosterContrabandRise = Levante-se
+    .desc = Um pôster mostrando um homem de camisa cinza segurando um pé de cabra, com a palavra "Rise" escrita abaixo.
+
+ent-PosterContrabandRevolt = Revolta
+    .desc = Propaganda revolucionária, fabricada pelo Sindicato.
+
+ent-PosterContrabandMoth = A Moeda de Moth - Operação Nuclear
+    .desc = Um pôster encomendado pelo Sindicato que usa a Mostra Sindical™ para dizer ao espectador para deixar o disco de autenticação nuclear desbloqueado. "A paz nunca foi uma opção!" Nenhum bom funcionário ouviu essa bobagem.
+
+ent-PosterContrabandCybersun600 = Cybersun: Poster Comemorativo de 600 Anos
+    .desc = Um pôster artístico comemorando 600 anos de atividade contínua da Cybersun Industries.
+
+ent-PosterContrabandDonk = DONK CO. MARCA DE ALIMENTOS PARA MICRO-ONDAS
+    .desc = DONK CO. ALIMENTOS PARA MICRO-ONDAS: FEITO POR ESTUDANTES UNIVERSITÁRIOS FAMINTOS, PARA ESTUDANTES UNIVERSITÁRIOS FAMINTOS.
+
+ent-PosterContrabandEnlistGorlex = Você está tentando se alistar no Sindicato? Bem, você não está sozinho. O Sindicato tem uma reputação de recrutar pessoas com habilidades especiais, e Gorlex é um dos seus recrutadores mais famosos. Mas cuidado - o Sindicato não é para todos. Eles têm uma visão única do que constitui uma "boa" pessoa, e não hesitam em usar meios brutais para alcançar seus objetivos. Se você estiver interessado em se juntar a eles, prepare-se para uma vida cheia de perigos, mas também de recompensas.
+    .desc = Aliste-se com os Marauders Gorlex hoje mesmo! Veja a galáxia, mate corpos, receba pagamento!
+
+ent-PosterContrabandInterdyne = Interdyne Farmacêuticos: Para a Saúde da Humanidade
+    .desc = Um anúncio para os clínicas GeneClean da Interdyne Pharmaceutics. "Torne-se o mestre do seu próprio corpo!"
+
+ent-PosterContrabandWaffleCorp = Faça o Meu Waffle da Waffle Corp: Rifles de Qualidade, Preços Econômicos
+    .desc = Um antigo anúncio para rifles da Waffle Corp. "Armas melhores, preços mais baixos!"
+
+ent-PosterContrabandMissingSpacepen = Caneta espacial perdida
+    .desc = Este pôster mostra algo que você nunca encontrará.
+
+ent-PosterContrabandExoAcid = Aviso de Exomorf: Saliva Ácida!
+    .desc = Este cartaz o alerta sobre a saliva ácida de um exomorfo. Não que tais exomorfos sejam reais... Certo?
+
+ent-PosterContrabandExoRun = Aviso de Exomorfos: Fuja!
+    .desc = Este cartaz o avisa sobre um exomorfo atlético capaz de arrastar embora qualquer um que seja pego; então, não seja pego!
+
+ent-PosterContrabandExoChomp = Aviso de Exomorfos: Mordidas Perigosas!
+    .desc = Este cartaz o alerta sobre os perigosos dentes que exomorfos podem ter. Não se torne um lanche alienígena!
+
+ent-PosterLegitHereForYourSafety = Aqui Para Sua Segurança
+    .desc = Um pôster glorificando a força de segurança da estação.
+
+ent-PosterLegitNanotrasenLogo = Logotipo da Nanotrasen
+    .desc = Um pôster que representa o logotipo da Nanotrasen.
+
+ent-PosterLegitCleanliness = Limpeza
+    .desc = Um cartaz alertando sobre os perigos da má higiene.
+
+ent-PosterLegitHelpOthers = Ajude Outros
+    .desc = Ajude seus colegas tripulantes.
+
+ent-PosterLegitBuild = Construir
+    .desc = Um pôster glorificando a equipe de engenharia.
+
+ent-PosterLegitBlessThisSpess = Bless This Spess
+    .desc = Um pôster abençoando esta área.
+
+ent-PosterLegitScience = Ciência
+    .desc = Um pôster representando um átomo.
+
+ent-PosterLegitIan = Ian
+    .desc = Arf arf. Yap.
+
+ent-PosterLegitObey = Obedeça
+    .desc = Um cartaz instruindo o espectador a obedecer à autoridade.
+
+ent-PosterLegitWalk = Andar
+    .desc = Um cartaz instruindo o espectador a andar em vez de correr.
+
+ent-PosterLegitStateLaws = Leis Estaduais
+    .desc = Um cartaz instruindo ciborgues a declararem suas leis.
+
+ent-PosterLegitLoveIan = Eu amo Ian
+    .desc = Ian é amor, Ian é vida.
+
+ent-PosterLegitSpaceCops = Polícia Espacial.
+    .desc = Um cartaz publicitário do programa de televisão Space Cops.
+
+ent-PosterLegitUeNo = Ue Não.
+    .desc = Isso aqui está todo em japonês.
+
+ent-PosterLegitGetYourLEGS = Pegue Seus Pernas
+    .desc = LEGS: Liderança, Experiência, Gênio, Subordinação.
+
+ent-PosterLegitDoNotQuestion = Não questione
+    .desc = Não pergunte sobre coisas que não deveria saber.
+
+ent-PosterLegitWorkForAFuture = Trabalhe Por Um Futuro
+    .desc = Um pôster incentivando você a trabalhar pelo seu futuro.
+
+ent-PosterLegitSoftCapPopArt = Capítulo Suave Pop Art
+    .desc = Uma reimpressão de um pôster de arte pop barata.
+
+ent-PosterLegitSafetyInternals = Segurança: Internos
+    .desc = Um cartaz instruindo o espectador a usar equipamento interno nos ambientes raros onde não há oxigênio ou o ar foi tornado tóxico.
+
+ent-PosterLegitSafetyEyeProtection = Proteção para os Olhos
+    .desc = Um pôster instruindo o espectador a usar proteção ocular ao lidar com químicos, fumaça ou luzes brilhantes.
+
+ent-PosterLegitSafetyReport = Segurança: Relatório
+    .desc = Por favor, informe qualquer atividade suspeita às forças de segurança.
+
+ent-PosterLegitReportCrimes = Relatar Crimes
+    .desc = Por favor, informe imediatamente qualquer crime ou comportamento sedicioso à segurança da estação. Ajudando a manter a ordem e a segurança de todos.
+
+ent-PosterLegitIonRifle = Arma de Íons
+    .desc = Um pôster exibindo uma Pistola de Ion.
+
+ent-PosterLegitFoamForceAd = Foam Force Ad
+
+Vamos lá, tripulantes! Você já ouviu falar do Foam Force? É o melhor produto de limpeza da Estação Espacial! Nada escapa ao Foam Force — nem mesmo os mais difíceis de limpar. Seja o zelador mais limpo da Estação!
+
+Com Foam Force, você pode:
+
+- Limpar qualquer superfície com facilidade
+- Eliminar manchas e resíduos de forma rápida
+- Manter a Estação Espacial impecável
+
+Não perca tempo com produtos inferiores! Foam Force é a escolha número um para todos os zeladores profissionais.
+
+Compre agora no armazém de manutenção e garanta que sua área esteja sempre impecável!
+
+P.S. Foam Force também é amigável para o ambiente e seguro para usar em qualquer parte da Estação Espacial!
+    .desc = Foam Force, é Espuma ou ser Espumado!
+
+ent-PosterLegitCohibaRobustoAd = Cohiba Robusto Ad
+    .desc = Cohiba Robusto, o charmoso cigarro.
+
+ent-PosterLegit50thAnniversaryVintageReprint = Reimpressão Vintage de 50º Aniversário
+    .desc = Uma reimpressão de um pôster de 2505, comemorando o 50º aniversário da Nanoposters Manufacturing, uma subsidiária da Nanotrasen.
+
+ent-PosterLegitFruitBowl = Frutas
+    .desc = Simples, mas impressionante.
+
+ent-PosterLegitPDAAd = PDA Legítimo
+    .desc = O mais recente PDA da Nanotrasen! Compre agora e tenha o melhor equipamento de comunicação e navegação da estação.
+
+ent-PosterLegitEnlist = Você está tentando se alistar no Sindicato? Bem, você não está sozinho. O Sindicato tem uma reputação de recrutar pessoas com habilidades especiais, e Gorlex é um dos seus recrutadores mais famosos. Mas cuidado - o Sindicato não é para todos. Eles têm uma visão única do que constitui uma "boa" pessoa, e não hesitam em usar meios brutais para alcançar seus objetivos. Se você estiver interessado em se juntar a eles, prepare-se para uma vida cheia de perigos, mas também de recompensas.
+    .desc = Faça parte das reservas da Esquadrilha de Morte da Nanotrasen hoje mesmo!
+
+ent-PosterLegitNanomichiAd = Nanomichi Legítimo - A única forma de Nanomichi aprovada pela Nanotrasen!
+    .desc = Um cartaz publicitário para fitas de áudio da marca Nanomichi.
+
+ent-PosterLegit12Gauge = 12 gauge
+    .desc = Um pôster que se vangloria da superioridade das munições de霰弹枪 12 gauge.
+
+ent-PosterLegitHighClassMartini = Martini de Alta Classe
+    .desc = Eu já te disse para sacudi-lo, não mexer.
+
+ent-PosterLegitTheOwl = O Corvo
+    .desc = O Corvo faria o possível para proteger a estação. Você fará também?
+
+ent-PosterLegitNoERP = Não ERP
+    .desc = Este pôster lembra a tripulação que Erotismo e Pornografia são proibidos nas estações Nanotrasen.
+
+ent-PosterLegitCarbonDioxide = Dióxido de Carbono
+    .desc = Este cartaz informativo ensina o espectador do que é o dióxido de carbono.
+
+ent-PosterLegitDickGumshue = Dick Gumshue
+    .desc = Um pôster anunciando as façanhas de Dick Gumshue, detetive-rato. Incentivando a tripulação a trazer o poder da justiça sobre sabotadores de fios.
+
+ent-PosterLegitThereIsNoGasGiant = Não Existe Um Gigante Gasoso
+    .desc = Nanotrasen emitiu cartazes, como este, para todas as estações, lembrando que os rumores sobre um gigante gasoso são falsos.
+
+ent-PosterLegitJustAWeekAway = Apenas uma Semana de Distância...
+    .desc = Um cartaz anunciando um projeto muito atrasado, ainda afirma que ele está "só uma semana distante..."
+
+ent-PosterLegitSecWatch = Vigilância da Segurança
+    .desc = Um cartaz lembrando que a segurança está observando cada um dos seus movimentos.
+
+ent-PosterLegitAnatomyPoster = Anatomia de um spessman
+    .desc = Um pôster mostrando as partes e coisinhas que fazem você... você!
+
+ent-PosterLegitMime = Mime Pós-Modernista
+    .desc = Uma representação pós-moderna de um mímico, excelente!
+
+ent-PosterLegitCarpMount = Peixe-espada montado na parede
+    .desc = Aproveite o momento!
+
+ent-PosterLegitSafetyMothDelam = Precauções de Segurança contra Delaminação do Mofo de Segurança
+    .desc = Este cartaz informativo usa a Segurança Moth™ para informar ao espectador que ele deve se esconder em armários quando o Cristal de Supermatéria tiver delaminado, para evitar alucinações. Evacuar pode ser uma estratégia melhor.
+
+ent-PosterLegitSafetyMothEpi = Morcego da Segurança - Epinefrina
+    .desc = Este cartaz informativo usa a Segurança Moth™ para informar o espectador a ajudar tripulantes feridos ou falecidos com seus injectores de epinefrina. "Previna a putrefação dos órgãos com este simples truque!"
+
+ent-PosterLegitSafetyMothPiping = Bem-vindo à Estação Espacial Nanotrasen!
+    .desc = Este cartaz informativo usa Safety Moth™ para informar os técnicos atmosféricos sobre os tipos corretos de tubulação a serem usados. "Tubulações, não bombas! A colocação correta da tubulação previne o mau desempenho!"
+
+ent-PosterLegitSafetyMothMeth = Vespa de Segurança - Metanfetamina
+    .desc = Este cartaz informativo usa a Segurança Moth™ para informar o espectador a buscar a aprovação do CMO antes de cozinhar metanfetamina. "Mantenha-se próximo à temperatura-alvo e nunca ultrapasse!" ...Você nunca deveria estar fazendo isso.
+
+ent-PosterLegitSafetyMothHardhat = Vamos, camarada, você está seguro com o capacete!
+    .desc = Este cartaz informativo usa Safety Moth™ para informar o espectador a usar capacetes de segurança em áreas de cuidado. "É como uma lanterna para a sua cabeça!"
+
+ent-PosterLegitVacation = Benefícios Corporativos Nanotrasen: Férias
+    .desc = Este cartaz informativo fornece informações sobre alguns dos prêmios disponíveis através do programa de benefícios corporativos da NT, incluindo uma viagem de duas semanas para duas pessoas no mundo de férias Idyllus.
+
+ent-PosterLegitPeriodicTable = Tabela Periódica dos Elementos
+    .desc = Uma tabela periódica dos elementos, do Hidrogênio ao Oganessônio, e tudo o que está entre eles.
+
+ent-PosterLegitRenault = Poster de Renault
+    .desc = Yap.
+
+ent-PosterLegitNTTGC = Cartões Táticos Nanotrasen
+    .desc = Compre mais cartas.
+
+ent-PosterLegitSafetyMothSSD = Morcego da Segurança - Distúrbio do Sono no Espaço
+    .desc = Este cartaz informativo usa a Segurança Moth™ para informar sobre o Distúrbio do Sono Espacial (SSD), uma condição na qual a pessoa para de reagir a coisas. "Trate tripulantes com SSD com cuidado! Eles podem acordar a qualquer momento!"
+
+ent-PosterLegitOppenhopper = Oportunidade de Carreira na Nanotrasen
+    .desc = Um pôster para um filme esquecido há muito tempo. Ele segue um grupo de jovens determinados do Setor Grilo enquanto eles se defendem de ataques dos infames Operativos Nucleares. A frase de efeito diz: "As operações nucleares continuarão até que a robustez melhore."
+
+ent-PosterLegitTyrone = Guia de Tyrone para o Espaço
+    .desc = Um pôster anunciando aulas online sobre o espaço. As aulas listadas parecem abranger desde o uso básico de equipamentos da estação até assuntos complicados, como criar bombas de tubulação ou cobrir corredores inteiros com lubrificante espacial. Uma observação diz: "Nunca é TÃO ruim, e no final você talvez até ganhe uma tortilla."
+
+ent-PosterLegitHelio = Helio Logística
+    .desc = Um pôster publicitário promovendo a Helio Logistics e seu adorável mascote. O slogan diz: 'Chuva ou sol, entregamos no tempo certo.'
+
+ent-PosterLegitBotanyFear = Medo de hidroponia
+    .desc = Pense três vezes antes de abrir o airlock para a horticultura, uma ameaça vermelha pode estar escondida lá.
+
+ent-PosterMapBagel = Mapa de Bagel
+    .desc = Um mapa da Estação Bagel.
+
+ent-PosterMapDelta = Mapa Delta
+    .desc = Um mapa da Estação Delta.
+
+ent-PosterMapMarathon = Mapa da Maratona
+    .desc = Um mapa da Estação Marathon.
+
+ent-PosterMapMoose = Mapa do Moose
+    .desc = Um mapa da Estação Moose.
+
+ent-PosterMapPacked = Mapa Empacotado
+    .desc = Um mapa da Estação Empacotada.
+
+ent-PosterMapPillar = Mapa da Coluna
+    .desc = Um mapa da Coluna da NSS.
+
+ent-PosterMapSaltern = Mapa de Saltern
+    .desc = Um mapa da Estação Saltern.
+
+ent-PosterMapSplit = Dividir mapa da Estação
+    .desc = Um mapa da Estação Dividida.
+
+ent-PosterMapLighthouse = Mapa do Farol
+    .desc = Um mapa do Farol.
+
+ent-PosterMapWaystation = Mapa da Estação de Transbordo
+    .desc = Um mapa da Waystation... espera, não está invertido?
+
+ent-PosterMapOrigin = mapa de origem
+    .desc = Um mapa da Estação Origin.

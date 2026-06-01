@@ -1,0 +1,34 @@
+ent-DisposalHolder = suporte de descarte
+
+ent-DisposalPipeBroken = tubulação de descarte quebrada
+    .desc = Um BBP (tubo quebrado grande).
+
+ent-DisposalPipe = segmento de tubulação de descarte
+    .desc = Um segmento de tubulação enorme usado para construir sistemas de descarte.
+
+ent-DisposalTagger = tagiador de tubulação de descarte
+    .desc = Um tubo que marca entidades para roteamento.
+
+ent-DisposalSignaller = sinalizador de descarte
+    .desc = Um tubo que emite um sinal quando um item passa por ele.
+
+ent-DisposalTrunk = trunko de descarte
+    .desc = Um tronco de tubulação usado como ponto de entrada para sistemas de descarte.
+
+ent-DisposalRouter = rota de descarte
+    .desc = Um roteador de três vias. Entidades com tags correspondentes são direcionadas para o lado via filtros configuráveis.
+
+ent-DisposalJunction = junção de descarte
+    .desc = Um cruzamento de três vias. A seta indica onde os itens saem.
+
+ent-DisposalYJunction = junção y de descarte
+    .desc = Um cruzamento de três vias com outro ponto de saída.
+
+ent-DisposalXJunction = junção de descarte
+    .desc = Um cruzamento de quatro vias. A seta indica onde os itens saem.
+
+ent-DisposalBend = bend de descarte
+    .desc = Um tubo dobrado em um ângulo de 90 graus.
+
+ent-DisposalSignalRouter = rotação de sinal de descarte
+    .desc = Um roteador de três vias controlado por sinal.

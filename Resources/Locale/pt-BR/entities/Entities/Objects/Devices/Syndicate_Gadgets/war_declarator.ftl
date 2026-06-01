@@ -1,0 +1,5 @@
+ent-NukeOpsDeclarationOfWar = declarante da guerra
+    .desc = Envie uma declaração de hostilidade para o alvo, adiando sua saída do shuttle enquanto eles se preparam para seu ataque. Tal movimento ousado atrairá a atenção de poderosos benfeitores dentro do Sindicato, que fornecerão ao seu time uma quantidade massiva de cristais telecrystal bonus. Deve ser usado no início da missão, ou seus benfeitores perderão o interesse.
+
+ent-NukeOpsDeclarationOfWar = declarante de guerra
+    .desc = Envie uma declaração de hostilidade para o alvo, adiando sua saída do shuttle enquanto eles se preparam para seu ataque. Tal movimento ousado atrairá a atenção de poderosos benfeitores dentro do Sindicato, que fornecerão ao seu time uma quantidade massiva de cristais telecrystal extras. Deve ser usado no início da missão, ou seus benfeitores perderão o interesse.
