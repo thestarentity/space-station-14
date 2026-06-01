@@ -1,0 +1,71 @@
+ent-ClothingBackpackDuffelSurgeryFilled = mochila de lona cirúrgica
+    .desc = Uma grande mochila de malas para armazenar suprimentos médicos extras - parece que esta foi projetada para conter ferramentas cirúrgicas.
+
+ent-ClothingBackpackDuffelSyndicateFilledMedical = mochila cirúrgica do sindicato
+    .desc = Uma grande mochila contendo um completo conjunto de ferramentas cirúrgicas.
+
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = mochila de malas de sindicato cheia de medicina
+    .desc = Um grande saco de duffel contendo reagentes medicinais essenciais.
+
+ent-ClothingBackpackDuffelSyndicateFilledShotgun = Conjunto Bulldog
+    .desc = Leve e letal: Contém a popular Shotgun Bulldog, um tambor de balas de 12g e quatro tambores de balas de caça de 12g.
+
+ent-ClothingBackpackDuffelSyndicateFilledSMG = Conjunto C-20r
+    .desc = O clássico C-20r Submachine Gun, embalado com três carregadores.
+
+ent-ClothingBackpackDuffelSyndicateFilledRifle = Estoc DMR bundle
+    .desc = Para tiros de longa distância, o Estoc DMR. Vem com três carregadores.
+
+ent-ClothingBackpackDuffelSyndicateFilledRevolver = Duffle Bag (Syndicate) - Carregado com Revólver
+    .desc = Vai alto e orgulhoso com um Magnum Python totalmente carregado, junto com dois carregadores rápidos.
+
+ent-ClothingBackpackDuffelSyndicateFilledLMG = L6 Saw bundle
+    .desc = Mais dakka: A icônica L6 metralhadora leve, acompanhada de 2 caixas de munição.
+
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = Conjunto China-Lake
+    .desc = Um antigo lançador de granadas China-Lake com 11 munições de diferentes níveis de destruição.
+
+ent-ClothingBackpackDuffelSyndicateFilledCarbine = M-90gl conjunto
+    .desc = Um rifle de batalha versátil com um lançador de granadas anexado, incluindo 3 carregadores e 6 granadas com diversas capacidades.
+
+ent-ClothingBackpackDuffelSyndicateAmmoFilled = conjunto de munição
+    .desc = Recarregando! Contém 4 carregadores para o C-20r, 5 tambor para o Bulldog, 3 carregadores para o Estoc DMR e 2 caixas de munição para o L6 SAW.
+
+ent-ClothingBackpackDuffelSyndicateCarpSuit = mochila de lona para terno de carpinteiro do sindicato
+    .desc = Contém um traje de carpa e alguns amigos para brincar.
+
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = mochila de malas de pijamas do sindicato
+    .desc = Contém 3 conjuntos de pijamas do sindicato e 4 peluches para a melhor noite de sono.
+
+ent-ClothingBackpackDuffelSyndicateC4tBundle = conjunto de C-4 do sindicato
+    .desc = Contém muitas cargas de C-4.
+
+ent-ClothingBackpackDuffelSyndicateEVABundle = conjunto EVA do sindicato
+    .desc = Contém o traje EVA aprovado pelo Sindicato.
+
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = conjunto de traje pesado do sindicato
+    .desc = Contém o traje rígido característico do Sindicato, na cor vermelha sangue.
+
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = conjunto de traje rígido de elite do sindicato
+    .desc = Contém o hardsuit elite do Sindicato, que vem com algumas coisas extras dentro dele.
+
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = conjunto de extras para armadura pesada do sindicato
+    .desc = Contém coisas que você absolutamente quer ter ao comprar um hardsuit.
+
+ent-ClothingBackpackDuffelZombieBundle = conjunto zumbi do sindicato
+    .desc = Um kit completo para soltar os mortos-vivos em uma estação.
+
+ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = conjunto médico
+    .desc = Tudo o que você precisa para colocar seus companheiros de volta na batalha.
+
+ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = conjunto de decoração
+    .desc = Contém distrações, tanto auditivas quanto visuais. Cheiro chegando em breve.
+
+ent-ClothingBackpackDuffelAcolyteBundle = conjunto de armadura do acólito
+    .desc = Contém o Armadura do Acolito, o essencial para qualquer líder de seita.
+
+ent-ClothingBackpackDuffelSyndicateFilledStarterKit = conjunto básico de operativo
+    .desc = Contém uma arma, suprimentos médicos, ferramentas de arrombamento, munição extra e algumas utilidades simples.
+
+ent-ClothingBackpackDuffelSyndicateFilledHushpup = Hushpup de mochila de couro de sindicato preenchido
+    .desc = Contém o Hushpup, junto com uma caixa de balas de chumbo. Inclui um quarto.

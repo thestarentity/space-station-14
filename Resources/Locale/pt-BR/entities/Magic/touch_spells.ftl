@@ -1,0 +1,8 @@
+ent-ActionSmite = Esmaivar
+    .desc = Gib instantaneamente um alvo.
+
+ent-ActionCluwne = A Maldição do Cluwne
+    .desc = Transforma alguém em um Cluwne!
+
+ent-ActionSlippery = Pendente Perigoso
+    .desc = Torne alguém escorregadio.

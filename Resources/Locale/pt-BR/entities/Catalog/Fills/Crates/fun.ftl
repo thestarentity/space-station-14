@@ -1,0 +1,68 @@
+ent-CratePlants = caixa de plantas
+    .desc = Um pacote variado de plantas em vasos para deixar sua estação mais bonita!
+
+ent-CrateFunPlushie = caixa de peluche
+    .desc = Um monte de peluches macios. Jogue-os por aí e depois se pergunte como vai explicar essa compra à Nanotrasen.
+
+ent-CrateFunLizardPlushieBulk = caixa de brinquedos de lagarto em grande quantidade
+    .desc = Uma buncha de pelúcias de lagarto macios. Jogue-os por aí e depois se pergunte como vai explicar essa compra à NT.
+
+ent-CrateFunSharkPlushieBulk = caixa de brinquedos macios de tubarão (em grande quantidade)
+    .desc = Uma caixa cheia de uma variedade de todos os favoritos de todos, o amigo com nadadeiras. Rawr!
+
+ent-CrateFunInstrumentsVariety = coleção de instrumentos variados
+    .desc = Mantenha sua triste estação movendo e groovando com este pacote de variedades de instrumentos! Contém sete instrumentos diferentes.
+
+ent-CrateFunInstrumentsBrass = caixa de instrumentos de latão
+    .desc = Leve um pouco de jazz à estação com o conjunto de metais. Contém uma variedade de instrumentos de metais para toda a estação tocar.
+
+ent-CrateFunInstrumentsString = conjunto de instrumentos musicais
+    .desc = Toque ou pique, bata ou rasgue! Toque uma melodia suave ou derreta os rostos das pessoas com este pacote de instrumentos de corda.
+
+ent-CrateFunInstrumentsWoodwind = caixa de instrumentos de sopro
+    .desc = Se a atmos estiver fazendo o seu trabalho, use o ar para tocar música com esses instrumentos de sopro! Madeira real não é garantida em todos os itens.
+
+ent-CrateFunInstrumentsKeyedPercussion = conjunto de instrumentos de percussão com teclas
+    .desc = Acerte alguns teclados com alguns bastões ou suas mãos, com este conjunto de instrumentos de teclado e percussão da caixa.
+
+ent-CrateFunInstrumentsSpecial = Caixa especial de coletor de instrumentos divertidos
+    .desc = Faça um pouco de barulho com esta coletânea especial de instrumentos, talvez instrumentos? O Comando Central não se responsabiliza por nenhum trauma causado pelos conteúdos.
+
+ent-CrateFunInstrumentsRandom = coleção de instrumentos aleatórios
+    .desc = Uma caixa contendo vários instrumentos curados aleatoriamente, escolhidos cuidadosamente pelos melhores músicos do Comando Central!
+
+ent-CrateFunArtSupplies = materiais de arte
+    .desc = Faça alguns acidentes felizes com muitos lápis de cor!
+
+ent-CrateFunBoardGames = caixa de jogos de tabuleiro
+    .desc = As noites de jogo foram provadas para diminuir a tédio ou aumentar a fúria homicida, dependendo do jogo.
+
+ent-CrateFunSadTromboneImplants = implantes de trombone triste
+    .desc = A morte nunca foi tão divertida antes! Implante esses para tornar a morte um pouco mais feliz.
+
+ent-CrateFunLightImplants = implantes de luz
+    .desc = Ilumine sua pele com esses implantes!
+
+ent-CrateFunParty = caixa de festa
+    .desc = Uma festa inteira esperando para você abri-la. Inclui brindes de festa, bebidas para festa e até mesmo um bolo.
+
+ent-CrateFunWaterGuns = caixa de pistola de água
+    .desc = Um especial de verão com uma variedade de pistolas de água coloridas. Água não inclusa.
+
+ent-CrateFunFoamGuns = Caixa de Força de Espuma
+    .desc = Contém quatro kits de batalha Foam Force™. É [REDACTED] ou nada!
+
+ent-CrateFunBoxing = caixa de luta
+    .desc = Quer montar um clube de lutas subterrâneo ou organizar um torneio entre os tripulantes da estação? Essa caixa é perfeita para você!
+
+ent-CrateFunBikeHornImplants = implantes de campainha de bicicleta
+    .desc = Mil honks por dia mantêm os oficiais de segurança longe!
+
+ent-CrateFunMysteryFigurines = caixa de figuras misteriosas
+    .desc = Uma coleção de 10 caixas de Figurinas Misteriosas. Duplicatas não são reembolsáveis.
+
+ent-CrateFunDartsSet = conjunto de caixas de dardos
+    .desc = Uma caixa com tudo que você precisa para jogar darts de forma divertida.
+
+ent-CrateFunScurret = scurret hidratado
+    .desc = Espera, o que?

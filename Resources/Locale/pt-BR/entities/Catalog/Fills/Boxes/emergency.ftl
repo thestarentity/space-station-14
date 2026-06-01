@@ -1,0 +1,17 @@
+ent-BoxSurvival = caixa de sobrevivência
+    .desc = É uma caixa com internos básicos dentro.
+
+ent-BoxSurvivalEngineering = caixa de sobrevivência de capacidade expandida
+    .desc = É uma caixa com componentes básicos internamente. Esta está marcada para conter um tanque de capacidade ampliada.
+
+ent-BoxSurvivalSecurity = caixa de sobrevivência
+    .desc = É uma caixa com internos básicos dentro.
+
+ent-BoxSurvivalMedical = caixa de sobrevivência
+    .desc = É uma caixa com internos básicos dentro.
+
+ent-BoxHug = caixa de abraços
+    .desc = Uma caixa especial para pessoas sensíveis.
+
+ent-BoxSurvivalSyndicate = caixa de sobrevivência de capacidade expandida
+    .desc = É uma caixa com componentes básicos internamente. Esta está marcada para conter um tanque de capacidade ampliada.
