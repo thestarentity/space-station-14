@@ -4,7 +4,7 @@ cmd-tippy-help =
     Uso:  
 
 cmd-tippy-auto-1 = Agora você pode usar o atalho de teclado "T" para abrir o menu de ajuda do jogo.
-cmd-tippy-auto-2 = Okay, I'll take that as a command.
+cmd-tippy-auto-2 = mensagem
 cmd-tippy-auto-3 = protótipo de entidade
 cmd-tippy-auto-4 = tempo de fala, em segundos
 cmd-tippy-auto-5 = tempo de deslizamento, em segundos

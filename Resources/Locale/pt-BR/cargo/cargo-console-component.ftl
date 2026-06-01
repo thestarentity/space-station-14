@@ -66,7 +66,7 @@ cargo-console-paper-print-text = [head=2]Pedido #{ $orderNumber }[/head]
 cargo-shuttle-console-menu-title = Console do shuttle de carga
 cargo-shuttle-console-station-unknown = ID desconhecido
 cargo-shuttle-console-shuttle-not-found = Não encontrado
-cargo-shuttle-console-organics = Detected organic lifeforms on the shuttle
+cargo-shuttle-console-organics = Formas de vida orgânicas detectadas no shuttle
 cargo-no-shuttle = Não foi encontrado um shuttle de carga!
 # Funding allocation console
 cargo-funding-alloc-console-menu-title = Console de Alocação de Financiamento

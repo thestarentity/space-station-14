@@ -1,14 +1,14 @@
 ent-MagazineMagnumEmpty = carregador de pistola (.45 magnum qualquer)
-    .desc = 7-round single stack magazine for large-caliber pistols.
+    .desc = Carregador de pilha única com 7 munições para pistolas de grande calibre.
 
 ent-MagazineMagnum = carregador de pistola (.45 magnum)
     .desc = Carregador de 7 munições em pilha única para pistolas de calibre grande. Intendido para conter munição cinética de uso geral.
 
 ent-MagazineMagnumPractice = carregador de pistola (.45 magnum prática)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold harmless practice ammunition.
+    .desc = Carregador de pilha única com 7 munições para pistolas de grande calibre. Para munição de treino inofensiva.
 
 ent-MagazineMagnumUranium = carregador de pistola (.45 magnum urânio)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold exotic uranium-core ammunition.
+    .desc = Carregador de pilha única com 7 munições para pistolas de grande calibre. Para munição exótica com núcleo de urânio.
 
 ent-MagazineMagnumAP = carregador de pistola (.45 magnum perfurante)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold specialized armor-piercing ammunition.
+    .desc = Carregador de 7 munições em pilha única para pistolas de calibre grande. Intendido para conter munição especializada de perfuração de armaduras.

@@ -1,13 +1,13 @@
 ent-CartridgePistol = cartridge (.35 auto)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Standard kinetic ammunition is common and useful in most situations.
+    .desc = Indiscutivelmente o calibre mais popular do mercado, usado em todo tipo de pistolas e submetralhadoras. Munição cinética padrão, comum e útil na maioria das situações.
 
 ent-CartridgePistolPractice = cartridge (.35 auto prática)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
+    .desc = Indiscutivelmente o calibre mais popular do mercado, usado em todo tipo de pistolas e submetralhadoras. Munição de treino dispara um projétil de giz que causa leve ardor, mas nenhum dano duradouro.
 
 ent-CartridgePistolIncendiary = cartridge (.35 auto incendiary)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
+    .desc = Indiscutivelmente o calibre mais popular do mercado, usado em todo tipo de pistolas e submetralhadoras. Munição incendiária contém um composto auto-inflamável que faz os alvos pegarem fogo.
 
 ent-CartridgePistolUranium = cartridge (.35 auto urânio)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating targets from the inside.
+    .desc = Indiscutivelmente o calibre mais popular do mercado, usado em todo tipo de pistolas e submetralhadoras. Munição de urânio substitui o núcleo de chumbo por material físsil, irradiando os alvos por dentro.
 
 ent-CartridgePistolSpent = cartridge (.35 auto)

@@ -1,2 +1,2 @@
 ent-Ashtray = cinzeiro
-    .desc = Proven by scientists to improve the smoking experience by 37%!
+    .desc = Comprovado cientificamente que melhora a experiência de fumar em 37%!

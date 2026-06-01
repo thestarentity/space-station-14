@@ -85,7 +85,7 @@ ent-ActionGravityJump = Pular
 ent-ActionJumpBoost = Impulso de salto
 
 ent-ActionVulpkaninGravityJump = Pular
-    .desc = Use your agile legs to leap a short distance. Be careful not to bump into anything!
+    .desc = Use suas ágeis pernas para saltar uma curta distância. Cuidado para não esbarrar em nada!
 
 ent-ActionToggleRootable = Toggle Rootable
     .desc = Comece ou pare de estar fixado ao chão.

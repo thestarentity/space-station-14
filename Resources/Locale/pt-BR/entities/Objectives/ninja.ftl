@@ -2,7 +2,7 @@ ent-NinjaSurviveObjective = Sobreviva
     .desc = Você não seria um ninja muito bom se morresse, agora seria?
 
 ent-TerrorObjective = Chamar uma ameaça
-    .desc = Use your gloves on a communication console in order to bring another threat to the station.
+    .desc = Use suas luvas em um console de comunicações para trazer outra ameaça à estação.
 
 ent-MassArrestObjective = Defina todos como procurados
-    .desc = Use your gloves to hack a criminal records console, setting the entire station to be wanted!
+    .desc = Use suas luvas para hackear um console de registros criminais, colocando toda a estação em detenção.

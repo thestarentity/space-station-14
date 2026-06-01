@@ -1,5 +1,5 @@
 execution-verb-name = Executar
-execution-verb-message = Use your weapon to execute someone.
+execution-verb-message = Use sua arma para executar alguém.
 
 # All the below localisation strings have access to the following variables
 # attacker (the person committing the execution)

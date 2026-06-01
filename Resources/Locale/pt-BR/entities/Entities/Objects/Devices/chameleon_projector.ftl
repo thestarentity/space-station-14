@@ -7,7 +7,7 @@ ent-ChameleonProjector = projetor camaleão
 ent-ChameleonDisguise = Urist McKleiner
 
 ent-ActionDisguiseNoRot = Alternar Rotação
-    .desc = Use this to prevent your disguise from rotating, making it easier to hide in some scenarios.
+    .desc = Impede que seu disfarce gire, facilitando esconder-se em locais específicos.
 
 ent-ActionDisguiseAnchor = Alternar Ancoragem
     .desc = Para muitos objetos você quererá estar ancorado para não ser completamente óbvio.

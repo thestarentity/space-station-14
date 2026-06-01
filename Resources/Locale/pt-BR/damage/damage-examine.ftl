@@ -1,6 +1,6 @@
 # Damage examines
 damage-examinable-verb-text = Dano
-damage-examinable-verb-message = Examine the values of dano.
+damage-examinable-verb-message = Examinar os valores de dano.
 damage-hitscan = tiro direto
 damage-projectile = projétil
 damage-melee = corpo a corpo
