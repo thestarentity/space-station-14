@@ -22,6 +22,9 @@ air-alarm-ui-window-auto-mode-label = Modo automático
         [emagged] Emagado
        *[invalid] Inválido
     }
+air-alarm-ui-window-alarm-state = [color={ $color }]{ -air-alarm-state-name(state: $state) }[/color]
+air-alarm-ui-window-alarm-state-indicator = Estado: [color={ $color }]{ -air-alarm-state-name(state: $state) }[/color]
+air-alarm-ui-window-listing-title = { $address } : { -air-alarm-state-name(state: $state) }
 air-alarm-ui-window-pressure = { $pressure } kPa
 air-alarm-ui-window-pressure-indicator = Pressão: [color={ $color }]{ $pressure } kPa[/color]
 air-alarm-ui-window-temperature = { $tempC } °C ({ $temperature } K)

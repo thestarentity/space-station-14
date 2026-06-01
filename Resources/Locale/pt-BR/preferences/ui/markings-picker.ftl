@@ -5,6 +5,20 @@ markings-search = Pesquisar
         [one] Você pode selecionar uma marcação adicional.
        *[other] Você pode selecionar { $selectable } mais marcas.
     }
+markings-limits = { $required ->
+    [true] { $count ->
+        [-1] Selecione pelo menos uma marca.
+        [0] Você não pode selecionar nenhuma marca, mas de alguma forma precisa? Isso é um bug.
+        [one] Selecione uma marca.
+       *[other] Selecione pelo menos uma marca e até { $count } marcas. { -markings-selection(selectable: $selectable) }
+    }
+   *[false] { $count ->
+        [-1] Selecione qualquer número de marcas.
+        [0] Você não pode selecionar nenhuma marca.
+        [one] Selecione até uma marca.
+       *[other] Selecione até { $count } marcas. { -markings-selection(selectable: $selectable) }
+    }
+}
 markings-reorder = Reordenar marcas
 humanoid-marking-modifier-respect-limits = Respeite os limites
 humanoid-marking-modifier-respect-group-sex = Restrições de grupo de respeito & sexo

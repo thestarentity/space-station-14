@@ -30,8 +30,11 @@ ingestion-verb-drink = Beber
         [true] { " " }Você não tem a sensação de que poderia { $verb } mais.
        *[false] { "" }
     }
+edible-nom = Nom. { $flavors }{ -edible-satiated(satiated: $satiated, verb: "eat") }
 edible-nom-other = Nom.
+edible-slurp = Slurp. { $flavors }{ -edible-satiated(satiated: $satiated, verb: "drink") }
 edible-slurp-other = Sucção.
+edible-swallow = Você engoliu { THE($food) }.{ -edible-satiated(satiated: $satiated, verb: "swallow") }
 edible-gulp = Gulp. { $flavors }
 edible-gulp-other = Engolir.
 edible-has-used-storage = Você não pode { $verb } { THE($food) } com um item armazenado dentro.
@@ -53,4 +56,5 @@ edible-verb-pill = engolir
 ## Force feeding
 
 edible-force-feed = { CAPITALIZE(THE($user)) } está tentando fazer você { $verb } algo!
+edible-force-feed-success = { CAPITALIZE(THE($user)) } te forçou a { $verb } algo! { $flavors }{ -edible-satiated(satiated: $satiated, verb: $verb) }
 edible-force-feed-success-user = Você alimentou { THE($target) }

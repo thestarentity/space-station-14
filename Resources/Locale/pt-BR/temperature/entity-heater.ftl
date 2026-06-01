@@ -14,3 +14,5 @@ entity-heater-examined =
         [high] [color=vermelho]{ -entity-heater-setting-name(setting: "high") }[/color]
        *[other] { -entity-heater-setting-name(setting: "other") }
     }A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.
+entity-heater-switch-setting = Mudar para { -entity-heater-setting-name(setting: $setting) }
+entity-heater-switched-setting = Alterado para { -entity-heater-setting-name(setting: $setting) }.
