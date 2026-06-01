@@ -6,7 +6,7 @@ nukeops-welcome =
 nukeops-briefing = Seus objetivos são simples. Entregue a carga e saia antes que ela detonar. Iniciar missão.
 nukeops-opsmajor = [color=crimson]Vitória importante do Sindicato![/color]
 nukeops-opsminor = [color=crimson]Vitória menor do Sindicato![/color]
-nukeops-neutral = [color=amarelo]Resultado neutro![/color]
+nukeops-neutral = [color=yellow]Resultado neutro![/color]
 nukeops-crewminor = [Vitória de tripulante menor!]
 nukeops-crewmajor = [Vitória maior da tripulação!]
 nukeops-cond-nukeexplodedoncorrectstation = Os operativos nucleares conseguiram destruir a estação.

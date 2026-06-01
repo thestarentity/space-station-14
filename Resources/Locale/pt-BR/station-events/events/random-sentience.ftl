@@ -26,7 +26,7 @@ station-event-random-sentience-announcement =
         [2] { $kind1 } e { $kind2 }
         [3] { $kind1 }, { $kind2 } e { $kind3 }
        *[other] { $kind1 }, { $kind2 }, { $kind3 }, etc.
-    }seres desenvolveram inteligência de nível { $strength }, e a capacidade de se comunicar.
+    } seres desenvolveram inteligência de nível { $strength }, e a capacidade de se comunicar.
 
 ## Ghost role description
 

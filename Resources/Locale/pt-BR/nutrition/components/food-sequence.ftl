@@ -80,7 +80,7 @@ food-sequence-content-anomaly-berry = mirtilo anômalo
 
 # BURGERS
 
-food-sequence-burger-gen = { $content }hambúrguer
+food-sequence-burger-gen = { $content } hambúrguer
 food-sequence-burger-content-raw-meat = Carne crua
 food-sequence-burger-content-meat = carneiro
 food-sequence-burger-content-carp = carpo
@@ -122,7 +122,7 @@ food-sequence-burger-content-world-pea = Paz
 
 # COTTON BURGERS
 
-food-sequence-cotton-burger-gen = { $content }hambúrguer
+food-sequence-cotton-burger-gen = { $content } hambúrguer
 food-sequence-cotton-burger-content-cotton-bol = algodão
 food-sequence-cotton-burger-content-pyrotton-bol = Pyro
 food-sequence-cotton-burger-content-plushie-throngler = trongo

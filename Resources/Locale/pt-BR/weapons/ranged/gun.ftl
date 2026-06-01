@@ -3,7 +3,7 @@ gun-fire-rate-examine = A taxa de fogo é [color={ $color }]{ $fireRate }[/color
 gun-selector-verb = Mudar para { $mode }
 gun-selected-mode = Selecionado { $mode }
 gun-disabled = Você não pode usar armas!
-gun-set-fire-mode-examine = Defina para [color=amarelo]{ $mode }[/color].
+gun-set-fire-mode-examine = Defina para [color=yellow]{ $mode }[/color].
 gun-set-fire-mode-popup = Mudado para { $mode }
 gun-magazine-whitelist-fail = Isso não caberá na arma!
 gun-magazine-fired-empty = Não há munição!

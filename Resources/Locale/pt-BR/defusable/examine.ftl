@@ -5,5 +5,5 @@ defusable-examine-inactive = { CAPITALIZE(THE($name)) } está [color=lime]inativ
 defusable-examine-bolts =
     Os parafusos são { $down ->
         [true] para baixo
-       *[false] [color=verde]cima[/color]
+       *[false] [color=green]cima[/color]
     }A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.

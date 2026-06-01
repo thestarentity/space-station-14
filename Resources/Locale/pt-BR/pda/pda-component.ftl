@@ -1,7 +1,7 @@
 ### UI
 
 # For the PDA screen
-comp-pda-ui = ID: [color=white]{ $owner }[/color], [color=amarelo]{ $jobTitle }[/color]
+comp-pda-ui = ID: [color=white]{ $owner }[/color], [color=yellow]{ $jobTitle }[/color]
 comp-pda-ui-blank = ID:
 comp-pda-ui-owner = Proprietário: [color=white]{ $actualOwnerName }[/color]
 comp-pda-io-program-list-button = Programas

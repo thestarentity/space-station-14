@@ -19,12 +19,12 @@ ghost-roles-window-raffle-in-progress-button =
     Participar do sorteio ({ $time } restantes,{ $players ->
         [one] { $players } jogador
        *[other] { $players } jogadores
-    }Rifa em andamento
+    } Rifa em andamento
 ghost-roles-window-leave-raffle-button =
     Sair do sorteio ({ $time } restante,{ $players ->
         [one] { $players } jogador
        *[other] { $players } jogadores
-    }Rifa em andamento
+    } Rifa em andamento
 ghost-roles-window-request-role-button = Solicitar
 ghost-roles-window-request-role-button-timer = Solicitação ({ $time }s)
 ghost-roles-window-follow-role-button = Seguir

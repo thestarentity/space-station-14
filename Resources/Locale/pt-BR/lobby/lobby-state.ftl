@@ -8,7 +8,7 @@ lobby-state-ready-button-ready-up-state = Pronto
 lobby-state-player-status-not-ready = Não Pronto
 lobby-state-player-status-ready = Pronto
 lobby-state-player-status-observer = Observador
-lobby-state-player-status-round-not-started = O round ainda não começou
+lobby-state-player-status-round-not-started = A rodada ainda não começou
 lobby-state-player-status-round-time =
     O tempo da rodada é: { $hours } { $hours ->
         [1] hora

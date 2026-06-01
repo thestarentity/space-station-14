@@ -5,7 +5,7 @@ comp-stack-examine-detail-count =
     { $count ->
         [one] Há [color={ $markupCountColor }]{ $count }[/color] coisa
        *[other] Há [color={ $markupCountColor }]{ $count }[/color] coisas
-    }no stack.
+    } no stack.
 # Stack status control
 comp-stack-status = Contagem: [color=white]{ $count }[/color]
 

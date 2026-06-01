@@ -5,7 +5,7 @@ discord-watchlist-connection-header =
             
     
        *[other] { $players } jogadores em uma lista de observação têm
-    }conectado a { $serverName }
+    } conectado a { $serverName }
 discord-watchlist-connection-entry =
     - { $playerName } com a mensagem "{ $message }"{ $expiry ->
         [0] { "" }

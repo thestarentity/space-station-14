@@ -4,5 +4,5 @@ gas-miner-temperature-text = Temperatura do gás minerado: { $tempK }K ({ $tempC
 gas-miner-moles-cutoff-text = Corte de moléculas de gás: { $moles } moléculas.
 gas-miner-pressure-cutoff-text = Corte de pressão por causa da pressão externa: { $pressure } kPA.
 gas-miner-state-working-text = O minerador está [color=green]ativo[/color] e minerando gás.
-gas-miner-state-idle-text = O minerador está [color=amarelo]ocioso[/color] e não está minerando gás.
+gas-miner-state-idle-text = O minerador está [color=yellow]ocioso[/color] e não está minerando gás.
 gas-miner-state-disabled-text = O minerador está [color=red]desativado[/color] e não está minerando gás.

@@ -1,11 +1,11 @@
 salvage-job-rank-title-0 = [color=gray]Pescador de Recursos[/color]
 salvage-job-rank-title-1 = [color=white]Descarteiro[/color]
-salvage-job-rank-title-2 = [color=amarelo]Especialista[/color]
+salvage-job-rank-title-2 = [color=yellow]Especialista[/color]
 salvage-job-rank-title-MAX = [color=gold]Salvagista Supremo[/color]
 job-board-radio-announce = O nível do salvador foi aumentado para [bold]{ $rank }[/bold]! Novos pedidos podem ser comprados no Cargueiro.
 job-board-ui-window-title = Quadro de Empregos
 job-board-ui-label-rank = [bold]Patente:[/bold]
-job-board-ui-label-items = [color=vermelho]{ $item }[/color]
+job-board-ui-label-items = [color=red]{ $item }[/color]
 job-board-label-text = [head=2]Encomenda de Trabalho de Recuperação[/head]
     { "[italic]For use only on official off-station salvage shipments.[/italic]" }
     

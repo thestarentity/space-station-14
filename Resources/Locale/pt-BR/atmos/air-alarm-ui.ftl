@@ -12,7 +12,7 @@ air-alarm-ui-window-address-label = Endereço
 air-alarm-ui-window-device-count-label = Dispositivos Totais
 air-alarm-ui-window-resync-devices-label = Reconectar
 air-alarm-ui-window-mode-label = Modo
-air-alarm-ui-window-mode-select-locked-label = [bold][color=vermelho] Falha no seletor de modo! [/color][/bold]
+air-alarm-ui-window-mode-select-locked-label = [bold][color=red] Falha no seletor de modo! [/color][/bold]
 air-alarm-ui-window-auto-mode-label = Modo automático
 -air-alarm-state-name =
     { $state ->

@@ -1,5 +1,5 @@
 flatpack-unpack-no-room = Sem espaço para desembalar!
-flatpack-examine = Use a [color=amarelo]multitool[/color] to unpack this.
+flatpack-examine = Use a [color=yellow]multitool[/color] to unpack this.
 flatpack-entity-name = { $name } pacote plano
 flatpack-entity-description = Um flatpack usado para construir { INDEFINITE($name) } { $name }.
 flatpacker-item-slot-name = Encaixe da placa da máquina

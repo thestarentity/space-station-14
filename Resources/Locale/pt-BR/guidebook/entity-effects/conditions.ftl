@@ -46,7 +46,7 @@ entity-condition-guidebook-reagent-threshold =
 entity-condition-guidebook-mob-state-condition = o mob é { $state }
 entity-condition-guidebook-job-condition = o cargo do alvo é { $job }
 entity-condition-guidebook-solution-temperature =
-    a temperatura da solução é{ $max ->
+    a temperatura da solução é { $max ->
         [2147483648] pelo menos { NATURALFIXED($min, 2) }k
        *[other]
             { $min ->
@@ -55,7 +55,7 @@ entity-condition-guidebook-solution-temperature =
             }
     }
 entity-condition-guidebook-body-temperature =
-    a temperatura do corpo é{ $max ->
+    a temperatura do corpo é { $max ->
         [2147483648] pelo menos { NATURALFIXED($min, 2) }k
        *[other]
             { $min ->
@@ -64,18 +64,18 @@ entity-condition-guidebook-body-temperature =
             }
     }
 entity-condition-guidebook-organ-type =
-    o órgão metabolizador{ $shouldhave ->
+    o órgão metabolizador { $shouldhave ->
         [true] sim
        *[false] não é
     }{ INDEFINITE($name) } { $name } órgão
 entity-condition-guidebook-has-tag =
-    o alvo{ $invert ->
+    o alvo { $invert ->
         [true] não tem
        *[false] tem
-    }a tag { $tag }
+    } a tag { $tag }
 entity-condition-guidebook-this-reagent = este reagente
 entity-condition-guidebook-breathing =
-    o metabolizador é{ $isBreathing ->
+    o metabolizador é { $isBreathing ->
         [true] respirando normalmente
        *[false] sufocando
     }

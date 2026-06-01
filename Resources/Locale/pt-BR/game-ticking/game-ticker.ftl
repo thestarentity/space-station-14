@@ -1,5 +1,5 @@
 game-ticker-restart-round = Reiniciando rodada...
-game-ticker-start-round = O round está começando agora...
+game-ticker-start-round = A rodada está começando agora...
 game-ticker-start-round-cannot-start-game-mode-fallback = Falha ao iniciar o modo { $failedGameMode }! Alternando para o modo { $fallbackMode }...
 game-ticker-start-round-cannot-start-game-mode-restart = Falha ao iniciar o modo { $failedGameMode }! Reiniciando a rodada...
 game-ticker-start-round-invalid-map = O mapa selecionado { $map } não é elegível para o modo de jogo { $mode }. O modo de jogo pode não funcionar conforme o esperado...
@@ -18,14 +18,14 @@ game-ticker-get-info-text =
 game-ticker-get-info-preround-text =
     Olá e bem-vindo à [color=white]Estação Espacial 14![/color]
     A rodada atual é: [color=white]#{ $roundId }[/color]
-    A contagem atual de jogadores é: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color]{ $readyCount ->
-        [one] sim
-       *[other] são
-    }Pronto
+    A contagem atual de jogadores é: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
+        [one] pronto
+       *[other] prontos
+    })
     O mapa atual é: [color=white]{ $mapName }[/color]
     O modo de jogo atual é: [color=white]{ $gmTitle }[/color]
     >[color=yellow]{ $desc }[/color]
-game-ticker-no-map-selected = [color=amarelo]Mapa ainda não selecionado![/color]
+game-ticker-no-map-selected = [color=yellow]Mapa ainda não selecionado![/color]
 game-ticker-player-no-jobs-available-when-joining = Ao tentar entrar no jogo, nenhum cargo estava disponível.
 # Displayed in chat to admins when a player joins
 player-join-message = O jogador { $name } entrou.
@@ -42,5 +42,5 @@ latejoin-arrivals-teleport-to-spawn = Uma força misteriosa teleporta você do s
 preset-not-enough-ready-players = Não é possível iniciar { $presetName }. Requer { $minimumPlayers } jogadores, mas temos { $readyPlayersCount }.
 preset-no-one-ready = Não é possível iniciar { $presetName }. Nenhum jogador está pronto.
 game-run-level-PreRoundLobby = Lobby pré-jogo
-game-run-level-InRound = No round
+game-run-level-InRound = Em jogo
 game-run-level-PostRound = Pós-rodada

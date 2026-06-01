@@ -8,9 +8,9 @@ swap-teleporter-popup-teleport-other = { CAPITALIZE(THE($entity)) } ativa, e voc
 swap-teleporter-popup-teleport-fail = { CAPITALIZE(THE($entity)) } ativa e falha ao transportar você para qualquer lugar.
 swap-teleporter-verb-destroy-link = Destrua o Link Quântico
 swap-teleporter-examine-link-present = [color=forestgreen]Ele está ligado a outro dispositivo.[/color] Clique com o botão alternativo para quebrar o link quântico.
-swap-teleporter-examine-link-absent = [color=amarelo]Não está vinculado no momento.[/color] Use em outro dispositivo para estabelecer um link quântico.
+swap-teleporter-examine-link-absent = [color=yellow]Não está vinculado no momento.[/color] Use em outro dispositivo para estabelecer um link quântico.
 swap-teleporter-examine-time-remaining =
     Tempo restante para recarregar: [color=purple]{ $second } segundo{ $second ->
         [one] A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.
        *[other] O teletransportador está atualmente em uso por
-    }O teletransportador está pronto para ser usado novamente em
+    } O teletransportador está pronto para ser usado novamente em

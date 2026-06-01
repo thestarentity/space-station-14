@@ -1,10 +1,10 @@
 thief-backpack-window-title = Conjunto de Furtos
 thief-backpack-window-description =
     Dentro estão suas ferramentas do ofício, que desaparecerão quando você estiver pronto.
-    Escolha { $maxCount } diferente{ $maxCount ->
-        [1] Defina a temperatura para o efeito.
-       *[other] Define o nível de alerta da estação.
-    }Este é o inventário do ladrão. Você pode usar este inventário para carregar itens que não podem ser carregados no inventário normal.
+    Escolha { $maxCount } { $maxCount ->
+        [1] conjunto diferente
+       *[other] conjuntos diferentes
+    } da lista.
 thief-backpack-window-selected = Kits selecionados: ({ $selectedCount }/{ $maxCount })
 thief-backpack-window-approve-button = Aprovar
 thief-backpack-button-select = Selecione [  ]

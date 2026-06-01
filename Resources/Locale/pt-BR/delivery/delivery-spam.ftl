@@ -98,10 +98,10 @@ delivery-spam-4 = Cansado de ciência explodindo?
         { "[color=lightgray]Note: Spider Clan is not responsible for any punishment issued by your supervisors.[/color]" }
 delivery-spam-5 = Liberte todos os AXCESS!!
     .desc = Você já quis acesso total gratuito?!
-    .content = [head=3]Você já quis ter [italic][color=verde]Grátis [bold]Todo Axcess!?!?[/bold][/color][/italic][/head]
+    .content = [head=3]Você já quis ter [italic][color=green]Grátis [bold]Todo Axcess!?!?[/bold][/color][/italic][/head]
         { "[head=2]Well NOW YOU CAN!![/head]!" }
         
-        Tudo o que você precisa fazer é ligar para [color=azul]555-GOUR-LECKSSS[/color] e informar seu número de ID da Estação !!!
+        Tudo o que você precisa fazer é ligar para [color=blue]555-GOUR-LECKSSS[/color] e informar seu número de ID da Estação !!!
         Assim que você fizer isso, podemos simplesmente consultar remotamente a carteira do departamento de Carga da Sua Estação, retirando as taxas necessárias de três [italic] FÁCEIS[/italic] pagamentos, permitindo que você reivindique seu
         { "[head=2][color=green] [bolditalic] FREE AA!!!!!!!!!![/bolditalic][/color][/head]" }
         

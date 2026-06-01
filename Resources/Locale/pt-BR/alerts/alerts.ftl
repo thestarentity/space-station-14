@@ -20,15 +20,15 @@ alerts-weightless-desc =
     Botas magnéticas ou mochilas jetpack ajudariam você a se mover com mais controle.
 alerts-walking-name = Andando
 alerts-walking-desc = Você está andando, se movendo a um ritmo lento.
-alerts-stunned-name = [color=amarelo]Atordoado[/color]
+alerts-stunned-name = [color=yellow]Atordoado[/color]
 alerts-stunned-desc = Você está [color=yellow]atordoado[/color]! Algo está prejudicando sua capacidade de se mover ou interagir com objetos.
 alerts-knockdown-name = [color=yellow]Derrubado[/color]
 alerts-knockdown-desc = Você foi [color=yellow]Derrubado[/color]! Algo escorregou ou o empurraram, dificultando seus movimentos.
-alerts-handcuffed-name = [color=amarelo]Preso com algemas[/color]
+alerts-handcuffed-name = [color=yellow]Preso com algemas[/color]
 alerts-handcuffed-desc = Você está [color=yellow]amarrado[/color] e não pode usar as mãos. Se alguém o arrastar, você não será capaz de resistir.
-alerts-ensnared-name = [color=amarelo]Apanhado[/color]
+alerts-ensnared-name = [color=yellow]Apanhado[/color]
 alerts-ensnared-desc = Você está [color=yellow]ensnared[/color] e está prejudicando sua capacidade de se mover.
-alerts-buckled-name = [color=amarelo]Cinto de segurança[/color]
+alerts-buckled-name = [color=yellow]Cinto de segurança[/color]
 alerts-buckled-desc = Você foi [color=yellow]amarrado[/color] a algo. Clique no alerta para desamarrar a menos que esteja [color=yellow]algemado[/color].
 alerts-crit-name = [color=red]Condição Crítica[/color]
 alerts-crit-desc = Você está gravemente ferido e inconsciente.
@@ -44,13 +44,13 @@ alerts-internals-name = Alternar internos
 alerts-internals-desc = Ativa ou desativa os internos do seu tanque de gás.
 alerts-piloting-name = Pilotando o Shuttle
 alerts-piloting-desc = Você está pilotando um shuttle. Clique no alerta para parar.
-alerts-hunger-name = [color=amarelo]Faminto[/color]
+alerts-hunger-name = [color=yellow]Faminto[/color]
 alerts-hunger-desc = Alguns alimentos seriam bons agora mesmo.
 alerts-stamina-name = Energia
 alerts-stamina-desc = Dorme você se estiver muito baixo.
 alerts-starving-name = [color=red]Faminto[/color]
 alerts-starving-desc = Você está severamente desnutrido. As dores de fome tornam o simples ato de se mover uma tarefa difícil.
-alerts-thirsty-name = [color=amarelo]Cansado[/color]
+alerts-thirsty-name = [color=yellow]Cansado[/color]
 alerts-thirsty-desc = Algo para beber seria bom agora mesmo.
 alerts-parched-name = [color=red]Seco[/color]
 alerts-parched-desc = Você está extremamente com sede. A sede torna o movimento uma tarefa difícil.
@@ -68,7 +68,7 @@ alerts-bleed-name = [color=red]Sangramento[/color]
 alerts-bleed-desc = Você está [color=red]sangrando[/color].
 alerts-pacified-name = [color=green]Acalmado[/color]
 alerts-pacified-desc = Você foi pacificado; não será possível causar danos a criaturas vivas.
-alerts-adrenaline-name = [color=vermelho]Adrenalina[/color]
+alerts-adrenaline-name = [color=red]Adrenalina[/color]
 alerts-adrenaline-desc = Você está cheio de adrenalina: a dor não vai te atrapalhar.
 alerts-suit-power-name = Potência do Uniforme
 alerts-suit-power-desc = Quanto de energia seu traje de ninja espacial possui.

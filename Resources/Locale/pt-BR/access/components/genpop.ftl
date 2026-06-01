@@ -8,7 +8,7 @@ genpop-prisoner-id-examine-wait =
     } { $seconds } { $seconds ->
         [1] Aguarde enquanto examinamos as impressões digitais.
        *[other] segundos
-    }de sua sentença de { $sentence } minutos para { $crime }.
+    } de sua sentença de { $sentence } minutos para { $crime }.
 genpop-prisoner-id-examine-wait-perm = Você está cumprindo uma sentença permanente por { $crime }.
 genpop-prisoner-id-examine-served = Você cumpriu sua sentença para { $crime }.
 genpop-locker-name-default = armário de presidiário

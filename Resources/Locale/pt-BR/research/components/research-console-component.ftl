@@ -12,8 +12,8 @@ research-console-tier-discipline-info = Tier { $tier }, [color={ $color }]{ $dis
 research-console-tier-info-small = : Nível { $tier }
 research-console-cost = Custo: [color=orchid]{ $amount }[/color]
 research-console-unlocks-list-start = Desbloqueios:
-research-console-unlocks-list-entry = - [color=amarelo]{ $name }[/color]
-research-console-unlocks-list-entry-generic = - [color=verde]{ $text }[/color]
+research-console-unlocks-list-entry = - [color=yellow]{ $name }[/color]
+research-console-unlocks-list-entry-generic = - [color=green]{ $text }[/color]
 research-console-prereqs-list-start = Componente de placa de circuito.
 research-console-prereqs-list-entry = - [color=orchid]{ $text }[/color]
 research-console-no-access-popup = Acesso negado!

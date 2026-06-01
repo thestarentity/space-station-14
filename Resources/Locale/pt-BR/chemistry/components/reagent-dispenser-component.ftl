@@ -16,4 +16,4 @@ reagent-dispenser-window-eject-container-button = Ejetar recipiente
 reagent-dispenser-window-no-container-loaded-text = Nenhum recipiente carregado.
 reagent-dispenser-window-reagent-name-not-found-text = Nome do reagente não encontrado
 reagent-dispenser-window-unknown-reagent-text = Reagente desconhecido
-reagent-dispenser-window-quantity-label-text = { $quantity }unidade
+reagent-dispenser-window-quantity-label-text = { $quantity } unidade

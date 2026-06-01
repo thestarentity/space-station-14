@@ -39,7 +39,7 @@ contraband-examine-text-Magical =
         [reagent] [color={ $color }]Este reagente é uma substância mágica altamente ilegal![/color]
     }
 contraband-examine-text-avoid-carrying-around = [color=red][italic]Você provavelmente quer evitar carregar isso visivelmente por aí sem uma boa razão.[/italic][/color]
-contraband-examine-text-in-the-clear = [color=verde][itálico]Você deve estar em segurança para carregar isso visivelmente.[/itálico][/color]
+contraband-examine-text-in-the-clear = [color=green][itálico]Você deve estar em segurança para carregar isso visivelmente.[/itálico][/color]
 contraband-examinable-verb-text = Legalidade
 contraband-examinable-verb-message = Verifique a legalidade deste item.
 contraband-department-plural = { $department }

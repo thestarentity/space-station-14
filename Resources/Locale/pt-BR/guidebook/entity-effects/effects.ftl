@@ -342,7 +342,7 @@ entity-effect-guidebook-emote =
     { $chance ->
         [1] Forçará
        *[other] forçar
-    } o metabolizador para [bold][color=branco]{ $emote }[/color][/bold]
+    } o metabolizador para [bold][color=white]{ $emote }[/color][/bold]
 entity-effect-guidebook-extinguish-reaction =
     { $chance ->
         [1] Apaga

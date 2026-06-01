@@ -4,15 +4,14 @@
         [low] baixo
         [medium] médio
         [high] alto
-       *[other] Fonte desconhecida
+       *[other] desconhecido
     }
-entity-heater-examined =
-    Está definido para{ $setting ->
-        [off] { -entity-heater-setting-name(setting: "off") }
-        [low] { -entity-heater-setting-name(setting: "low") }
-        [medium] [color=orange]{ -entity-heater-setting-name(setting: "medium") }[/color]
-        [high] [color=vermelho]{ -entity-heater-setting-name(setting: "high") }[/color]
-       *[other] { -entity-heater-setting-name(setting: "other") }
-    }A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.
+entity-heater-examined = Está definido para { $setting ->
+    [off] [color=gray]{ -entity-heater-setting-name(setting: "off") }[/color]
+    [low] [color=yellow]{ -entity-heater-setting-name(setting: "low") }[/color]
+    [medium] [color=orange]{ -entity-heater-setting-name(setting: "medium") }[/color]
+    [high] [color=red]{ -entity-heater-setting-name(setting: "high") }[/color]
+   *[other] [color=purple]{ -entity-heater-setting-name(setting: "other") }[/color]
+}.
 entity-heater-switch-setting = Mudar para { -entity-heater-setting-name(setting: $setting) }
 entity-heater-switched-setting = Alterado para { -entity-heater-setting-name(setting: $setting) }.

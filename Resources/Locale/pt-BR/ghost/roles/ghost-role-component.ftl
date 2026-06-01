@@ -8,7 +8,7 @@ ghost-role-information-nonantagonist-rules =
     Você é [color={ role-type-crew-aligned-alternate-color }][bold]{ role-type-crew-aligned-name }[/bold][/color]. Geralmente, você não deve procurar prejudicar a estação e sua tripulação.
     Você não se lembra de nenhuma parte da sua vida anterior e não se lembra de nada que aprendeu como fantasma.
     Você é permitido lembrar conhecimento sobre o jogo em geral, como como cozinhar, como usar objetos, etc.
-    Você [color=vermelho]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. do seu personagem anterior.
+    Você [color=red]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. do seu personagem anterior.
 ghost-role-information-freeagent-rules =
     Você é um [color={ role-type-free-agent-color }][bold]{ role-type-free-agent-name }[/bold][/color]. Você está livre para agir como um antagonista ou um não antagonista.
     Você não se lembra de nenhuma parte da sua vida anterior, e não se lembra de nada que aprendeu como fantasma.
@@ -18,7 +18,7 @@ ghost-role-information-antagonist-rules =
     Você é um [color={ role-type-solo-antagonist-color }][bold]{ role-type-solo-antagonist-name }[/bold][/color]. Seus intenções são claras e prejudiciais para a estação e sua tripulação.
     Você não se lembra de nada da sua vida anterior, nem de nada que aprendeu como fantasma.
     Você é permitido lembrar conhecimento sobre o jogo em geral, como como cozinhar, como usar objetos, etc.
-    Você [color=vermelho]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. do seu personagem anterior.
+    Você [color=red]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. do seu personagem anterior.
 ghost-role-information-rules-team-antagonist =
     Você é um [color={ role-type-team-antagonist-color }][bold]{ role-type-team-antagonist-name }[/bold][/color]. Seus objetivos são claros e prejudicam a estação e sua tripulação.
     Você deve [bold]trabalhar com sua equipe[/bold] ou seguir diretrizes razoáveis de seus líderes de equipe.
@@ -29,7 +29,7 @@ ghost-role-information-familiar-rules =
     Você é um [color={ role-type-familiar-color }][bold]{ role-type-familiar-name }[/bold][/color]. Sirva os interesses de seu mestre, seja qual for sua intenção.
     Você não se lembra de nenhuma vida anterior, e não se lembra de nada que aprendeu como fantasma.
     Você é permitido lembrar conhecimento sobre o jogo em geral, como como cozinhar, como usar objetos, etc.
-    Você absolutamente [color=vermelho]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. de seu personagem anterior.
+    Você absolutamente [color=red]NÃO[/color] é permitido lembrar, dizer, por exemplo, o nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-silicon-rules =
     Você é um [color={ role-type-silicon-color }][bold]{ role-type-silicon-name }[/bold][/color]. Obedeça às suas leis. Você é um { role-type-free-agent-name } se não estiver atualmente vinculado a nenhuma lei.
     Você não se lembra de nenhuma parte da sua vida anterior, e não se lembra de nada que aprendeu como fantasma.
