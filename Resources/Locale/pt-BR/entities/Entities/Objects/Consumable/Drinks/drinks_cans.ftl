@@ -1,0 +1,59 @@
+ent-DrinkIcedTeaCan = lata de chá gelado
+    .desc = Uma refrescante lata de chá gelado.
+
+ent-DrinkLemonLimeCan = Lata de Suco de Limão e Limão
+    .desc = Você queria LARANJA. Ele deu a você Limão-Tamarindo.
+
+ent-DrinkLemonLimeCranberryCan = Lata de Cranberry Smite
+    .desc = Vocês querem um Smite Cranberry? Amado por administradores em todo lugar. Beba com moderação. Uma edição limitada para as festas!
+
+ent-DrinkGrapeCan = lata de refrigerante de uva
+    .desc = Bebida doce com sabor a uva e cor roxa profunda.
+
+ent-DrinkRootBeerCan = lata de cerveja raiz
+    .desc = Alguma dessa deliciosa cerveja de raiz, agora em uma lata portátil!
+
+ent-DrinkSodaWaterCan = lata de água tônica
+    .desc = Água tônica. Por que não fazer um scotch com tônica?
+
+ent-DrinkSpaceMountainWindCan = Can de Vento Solar
+    .desc = Vai direto por você como um vento solar.
+
+ent-DrinkSpaceUpCan = Lata de Space-Up
+    .desc = Tem o sabor de uma ruptura na estrutura na sua boca.
+
+ent-DrinkSolDryCan = Lata de Sol Seco
+    .desc = Refresco doce de gengibre da espaçonave!
+
+ent-DrinkStarkistCan = Lata Starkist
+    .desc = O sabor de uma estrela em forma líquida. E, um pouco de atum...?
+
+ent-DrinkTonicWaterCan = lata de água tônica
+    .desc = A quina tem um sabor estranho, mas pelo menos vai manter aquela Malária Espacial longe.
+
+ent-DrinkFourteenLokoCan = Lata de Fourteen Loko
+    .desc = O MBO aconselhou os tripulantes que o consumo de Fourteen Loko pode resultar em convulsões, cegueira, embriaguez ou até mesmo morte. Por favor, beba com responsabilidade.
+
+ent-DrinkChangelingStingCan = Can de Picada de Changeling
+    .desc = Você toma um gole minúsculo e sente uma sensação de queimadura...
+
+ent-DrinkDrGibbCan = Bebida de Dr. Gibb
+    .desc = Uma deliciosa mistura de 42 sabores diferentes.
+
+ent-DrinkNukieCan = Caneca de Cerveja Vermelha
+    .desc = Uma bebida artesanal feita com a mente descontrolada do Sindicato. Não recomendada pelos médicos.
+
+ent-DrinkEnergyDrinkCan = Lata de Bebida Energética Vermelha
+    .desc = Uma lata de Red Bool, com bastante cafeína para matar um cavalo.
+
+ent-DrinkShamblersJuiceCan = Lata de Suco de Shamblers
+    .desc = ~Shake me up some of that Shambler's Juice!~
+
+ent-DrinkPwrGameCan = Can de Energia para Jogo
+    .desc = A única bebida com PWR que verdadeiros gamers desejam. Quando um gamer fala sobre gamerfuel, é exatamente isso que ele está se referindo literalmente.
+
+ent-DrinkBeerCan = lata de cerveja
+    .desc = Pequena alegria, grande sabor, sem preocupações!
+
+ent-DrinkWineCan = lata de vinho
+    .desc = Sua maneira de esquecer todas as preocupações e se divertir!
