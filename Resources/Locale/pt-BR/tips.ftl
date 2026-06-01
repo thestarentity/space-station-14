@@ -1,3 +1,4 @@
+launcher-connecting-tip-title = Dica
 tips-dataset-1 = Se você estiver em chamas, pode clicar no alerta à direita da sua tela para parar, cair e rolar.
 tips-dataset-2 = Você pode visualizar e editar todas as atribuições de teclas usadas no jogo a qualquer momento através do menu Opções.
 tips-dataset-3 = Você pode acessar o guia do jogo através do menu de escape, ou pressionando o Numpad 0 por padrão.

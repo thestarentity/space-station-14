@@ -10,13 +10,14 @@ spray-painter-on-examined-painted-message = Parece que foi pintado recentemente.
 spray-painter-style-not-available = Não é possível aplicar o estilo selecionado a este objeto.
 spray-painter-verb-toggle-decals = Alternar pintura de decalques
 spray-painter-item-status-label = Decals: { $mode }
-spray-painter-item-status-add = [cor=verde]Adicionar[/cor]
-spray-painter-item-status-remove = [cor=vermelho]Remover[/cor]
+spray-painter-item-status-add = [color=green]Adicionar[/color]
+spray-painter-item-status-remove = [color=red]Remover[/color]
 spray-painter-item-status-off = [color=gray]Desligado[/color]
 # UI
 spray-painter-window-title = Pintura com Aerógrafo
 spray-painter-selected-style = Estilo selecionado:
 spray-painter-selected-decals = Decal selecionado:
+spray-painter-palette = Paleta
 spray-painter-use-custom-color = Use custom color
 spray-painter-use-snap-to-tile = Ajustar à tile
 spray-painter-angle-rotation = Rotação:

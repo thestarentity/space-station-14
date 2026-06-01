@@ -7,3 +7,4 @@ decal-placer-window-enable-snap = Ajustar à Tile
 decal-placer-window-enable-cleanable = Limpo
 decal-placer-window-palette = Paleta
 palette-color-picker-window-title = Paletas
+palette-color-picker-palette-label = Paleta

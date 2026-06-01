@@ -9,6 +9,8 @@ thief-backpack-window-selected = Kits selecionados: ({ $selectedCount }/{ $maxCo
 thief-backpack-window-approve-button = Aprovar
 thief-backpack-button-select = Selecione [  ]
 thief-backpack-button-deselect = Desmarcar [X]
+thief-backpack-set-label = Conjunto
+thief-backpack-description-label = Descrição
 
 # Sets
 

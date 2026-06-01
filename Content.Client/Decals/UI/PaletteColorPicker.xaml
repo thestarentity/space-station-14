@@ -5,7 +5,7 @@
     <BoxContainer Orientation="Vertical">
         <ItemList Name="PaletteList" VerticalExpand="True" Access="Public"/>
         <BoxContainer Orientation="Horizontal">
-            <Label Text="Palette"/>
+            <Label Text="{Loc 'palette-color-picker-palette-label'}"/>
             <OptionButton Name="Palettes"/>
         </BoxContainer>
     </BoxContainer>
