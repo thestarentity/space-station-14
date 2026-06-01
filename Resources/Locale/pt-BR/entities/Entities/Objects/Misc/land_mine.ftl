@@ -5,9 +5,3 @@ ent-LandMineModularUnarmed = mina modular
 
 ent-LandMineExplosiveUnarmed = mina explosiva
 
-ent-LandMineKickUnarmed = chute a mina
-
-ent-LandMineModularUnarmed = mina modular
-    .desc = Esse cara podia estar carregando qualquer número de perigos. Ou um campainha de bicicleta.
-
-ent-LandMineExplosiveUnarmed = mina explosiva
