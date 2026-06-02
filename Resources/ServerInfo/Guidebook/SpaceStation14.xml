@@ -1,51 +1,40 @@
-﻿<Document>
-# Station and Shifts
+﻿<Document># Estação e Turnos
 
-Every round of SS14 is a [bold]self-contained shift[/bold] that takes place on one of many different stations.
+Cada rodada do SS14 é um [bold]turno autônomo[/bold] que ocorre em uma das muitas estações diferentes.
 
-Rounds typically last from [color=cyan]45 to 90 minutes[/color], but players are free to leave and join at any point during a round.
+As rodadas geralmente duram de [color=cyan]45 a 90 minutos[/color], mas os jogadores estão livres para sair e entrar a qualquer momento durante uma rodada.
 
-## Shuttle Terminal
-If you join in the middle of a shift, you will likely spawn on the [color=lime]shuttle terminal[/color].
-Here you can grab drinks, converse with other players, and wait for the shuttle to take you to the station.
+## Terminal de Shuttle
+Se você se juntar no meio de um turno, provavelmente será gerado no [color=lime]terminal de shuttle[/color].
+Aqui você pode pegar bebidas, conversar com outros jogadores e esperar pelo shuttle que o levará à estação.
 
-Screens on the walls will give you an ETA for the shuttle.
-When it arrives, simply walk on to be transported to the station.
+Telas nas paredes darão a você uma previsão de chegada do shuttle.
+Quando ele chegar, basta caminhar para ser transportado para a estação.
 
-Make sure to stay inside the terminal and to not stand in the shuttle landing zone. [color=#EB2D3A][bold]You can be crushed by shuttles flying in[/bold][/color]
+Certifique-se de ficar dentro do terminal e não ficar na área de pouso do shuttle. [color=#EB2D3A][bold]Você pode ser esmagado por shuttles voando[/bold][/color]
 
-## Navigation
-Every station has a wide variety of locations to visit.
-These range from specific departments where work happens to common areas where you can relax and chat with others.
-
-<Box>
+## Navegação
+Cada estação tem uma grande variedade de locais para visitar.
+Esses variam de departamentos específicos onde o trabalho acontece a áreas comuns onde você pode relaxar e conversar com outros.<Box>
   <GuideEntityEmbed Entity="StationMap"/>
   <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="Directional Signs"/>
   <GuideEntityEmbed Entity="SignBridge" Caption="Marker Signs"/>
-</Box>
+</Box>[color=cyan]Mapas da Estação[/color] dão uma visão geral da estação inteira com marcadores coloridos indicando locais de diferentes coisas.
+Sinais regulares [color=cyan]nas paredes[/color] podem apontar para você diferentes departamentos.
 
-[color=cyan]Station maps[/color] give you an overview of the entire station with colored markers denoting locations of different things.
-Regular [color=cyan]signs[/color] on walls can point you to different departments.
+## Saindo da Estação
+No final do turno [color=gray](exceto em caso de [color=red][bold]desastre nuclear[/bold][/color])[/color], você sairá da estação via [color=lime]shuttle de evacuação[/color].
+Quando for chamado, uma mensagem será transmitida na estação alertando a tripulação e indicando sua [color=cyan]chegada em 10 minutos.[/color]
+Uma vez que chegar, você precisará ir até ele, embarcar nele e sobreviver à viagem até [bold]Comando Central[/bold].
 
-## Leaving the Station
-At the end of the shift [color=gray](barring a [color=red][bold]nuclear disaster[/bold][/color])[/color], you will leave the station via the [color=lime]evac shuttle[/color].
-When it's called, an announcement will play on the station alerting the crew and signaling its [color=cyan]arrival in 10 minutes.[/color]
-Once it arrives, you'll need to make your way over to it, board it, and then survive the trip to [bold]Central Command[/bold].
-
-The round doesn't officially end until you reach [bold]Central Command[/bold]
-
-<Box>
+O round não termina oficialmente até você chegar a [bold]Comando Central[/bold]<Box>
   <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
-</Box>
+</Box>Se você precisar sair de uma rodada cedo, pode fazê-lo através de uma [color=lime]unidade de sono criogênico[/color].
+Basta entrar e sair do jogo para armazenar seus pertences e garantir que eles não sejam roubados ou mal utilizados.
 
-If you need to leave a round early, you can do so through a [color=lime]cryogenic sleep unit[/color].
-Simply going inside and leaving the game will store your belongings and ensure that they are not stolen or misused.
+## Mais Informações
+Aprendendo os controles? [textlink="Clique aqui para ler sobre os diferentes controles" link="Controls"]
 
-## More Info
-Learning the controls? [textlink="Click here to read about the different controls" link="Controls"]
+Não sabe como executar uma função? [textlink="Clique aqui para ir para uma lista de departamentos" link="Jobs"]
 
-Don't know how to perform a job? [textlink="Click here to jump to a list of departments" link="Jobs"]
-
-Keep dying? [textlink="Click here to see a survival guide" link="Survival"]
-
-</Document>
+Morrer constantemente? [textlink="Clique aqui para ver um guia de sobrevivência" link="Survival"]</Document>

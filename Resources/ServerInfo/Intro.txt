@@ -1,8 +1,8 @@
-Welcome to Space Station 14! You have just started your shift aboard a Nanotrasen space station and along with your crewmates should cooperate, perform your job role to the best of your ability and have fun (not at the expense of others hopefully).
+Bem-vindo à Estação Espacial 14! Você acabou de começar seu turno a bordo de uma estação espacial da Nanotrasen e, junto com seus colegas de tripulação, deve cooperar, desempenhar seu cargo da melhor forma possível e se divertir (de preferência sem prejudicar os outros).
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues on shift in person or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+Por favor, certifique-se de que entende as regras do servidor (F1) e, se tiver dúvidas, consulte este guia, seus colegas no turno presencialmente, pelo rádio ou via discord. Você também pode pedir ajuda aos admins (ahelp) pressionando Escape > ajuda para admin e digitando uma mensagem para qualquer admin online. Faça isso especialmente se testemunhar alguém quebrando as regras.
 
-To reiterate, you are all a crew of people who work together (even the clown) and you should not be harming each other unless you have an extremely good reason (self defence) and even then, call security over radio, stun and detain, do not commit murder as a non antagonist (see antagonist further down).
+Reiterando: vocês são todos uma tripulação que trabalha em conjunto (até o palhaço) e não devem se machucar mutuamente, a menos que haja um motivo extremamente bom (legítima defesa) — e mesmo assim, chame a segurança pelo rádio, atordoe e detenha; não cometa assassinato sendo um não-antagonista (veja antagonistas mais abaixo).
 
 
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+Em vez de intenções, temos o modo de combate. Confira os controles abaixo para o atalho de teclado. Sem ele ativado, você não pode atacar ninguém — chega de se machucar com seu próprio pé de cabra.

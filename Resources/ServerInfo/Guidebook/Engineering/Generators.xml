@@ -50,7 +50,6 @@
     [color=#999999][italic]Low-maintenance passive power source[italic][/color]
   </Box>
 
-
   <Box>
     <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="" />
     <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="" />

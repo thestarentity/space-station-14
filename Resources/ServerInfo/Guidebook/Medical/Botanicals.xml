@@ -1,9 +1,6 @@
-<Document>
-# Botanicals
+<Document># Botânicas
 
-Botany and Chemistry can often work together to produce better medicine (or recreational cocktails). It may be worthwhile to give them the fertilizers they need, and request some medicinal plants in return.
-
-<Box>
+A Botânica e a Química podem frequentemente trabalhar juntas para produzir medicamentos melhores (ou coquetéis recreativos). Pode valer a pena dar a eles os fertilizantes de que precisam e pedir algumas plantas medicinais em troca.<Box>
 <GuideEntityEmbed Entity="FoodGalaxythistle"/>
 <GuideEntityEmbed Entity="FoodLingzhi"/>
 <GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>

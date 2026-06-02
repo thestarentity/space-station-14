@@ -1,11 +1,8 @@
-<Document>
-# Service
-[color=#9fed58]Service[/color] keeps the station clean, efficient and sane so that all other departments can do their jobs better and keep their staff happy. They also end up doing most of the paperwork on the station.
+<Document># Serviço
+O [color=#9fed58]Serviço[/color] mantém a estação limpa, eficiente e equilibrada, para que todos os outros departamentos possam fazer melhor o seu trabalho e manter seus funcionários felizes. Eles também acaba fazendo a maior parte do trabalho burocrático na estação.
 
-## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Service Workers, Chefs, Botanists, Bartenders, Janitors, Chaplains, Clowns, Mimes, Musicians, Lawyers, Librarians and Passengers. Service is run by the Head of Personnel.
-
-  <Box>
+## Pessoal
+O pessoal do [color=#9fed58]Serviço[/color] é composto por Trabalhadores de Serviço, Cozinheiros, Botânicos, Barman, Zeladores, Chapelões, Palhaços, Mímicos, Músicos, Advogados, Bibliotecários e Passageiros. O Serviço é liderado pelo Chefe de Pessoal.<Box>
     <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
     <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botanist"/>
     <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Bartender"/>
@@ -22,13 +19,10 @@
     <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Librarian"/>
     <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passenger"/>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
-  </Box>
+  </Box>## Trabalhando Juntos
+[color=#9fed58]Serviço[/color], apesar de ser o mais diverso, tende a ser, de longe, o departamento mais [color=#a4885c]interligado[/color].
+A maioria dos cargos de [color=#9fed58]Serviço[/color] requer [color=#a4885c]cooperação[/color] entre os trabalhadores.
+Chefs frequentemente precisam de ingredientes que apenas botanistas podem cultivar com eficiência. O bartender pode pedir bananas que apenas palhaços carregam em abundância.
+O advogado pode convidar o mímico para jogar charades para convencer o juiz de que seu cliente é inocente.
 
-## Working Together
-[color=#9fed58]Service[/color], despite being the most diverse, tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas that only clowns carry in abundance.
-The lawyer may invite the mime to play charades to convince the judge that their client is innocent.
-
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
-</Document>
+Muita [color=#a4885c]colaboração[/color] é necessária dentro e fora do [color=#9fed58]Serviço[/color]. Muitas vezes, o [color=#9fed58]Serviço[/color] é necessário por outros departamentos, então fique atento.</Document>

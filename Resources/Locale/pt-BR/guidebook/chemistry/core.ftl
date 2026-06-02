@@ -6,7 +6,7 @@ guidebook-reagent-effect-description =
         [1] { $effect }
        *[other] Tem uma chance de { NATURALPERCENT($chance, 2) } para { $effect }
     }{ $conditionCount ->
-        [0] A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.
+        [0] .
        *[other] { " " }quando { $conditions }.
     }
 guidebook-reagent-name = [bold][color={ $color }]{ CAPITALIZE($name) }[/color][/bold]

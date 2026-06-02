@@ -1,9 +1,5 @@
-<Document>
+<Document># Biológica
 
-# Biological
-
-These reagents include chemicals that you can get from certain materials and from living things. To get the other chemicals you have to use machines like the electrolyzer and the centrifuge.
-
-<GuideReagentGroupEmbed Group="Biological"/>
+Esses reagentes incluem químicos que você pode obter de certos materiais e de seres vivos. Para obter os outros químicos, você tem que usar máquinas como a eletrólise e a centrífuga.<GuideReagentGroupEmbed Group="Biological"/>
 
 </Document>

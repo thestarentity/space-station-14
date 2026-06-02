@@ -1,28 +1,18 @@
-<Document>
-# Bartender
-The bartender has a pretty simple job: serve drinks. People will come up to you and request drinks, and your job is just to hand it to them.
+<Document># Barman
+O barman tem um trabalho bem simples: servir bebidas. Pessoas virão até você e pedirão bebidas, e seu trabalho é apenas entregá-las.
 
-[textlink="Click here to see a complete list of drinks." link="Drinks"]
-
-<Box>
-The materials for these drinks can be found in various places:
-</Box>
+[textlink="Clique aqui para ver uma lista completa de bebidas." link="Drinks"]<Box>Os materiais para esses drinks podem ser encontrados em vários lugares:</Box>
 <Box>
 <GuideEntityEmbed Entity="BoozeDispenser"/>
 <GuideEntityEmbed Entity="SodaDispenser"/>
 <GuideEntityEmbed Entity="VendingMachineBooze"/>
 </Box>
 
-<Box>
-Don't forget containers to serve them in!
-</Box>
+<Box>Não se esqueça dos recipientes para servi-los!</Box>
 <Box>
 <GuideEntityEmbed Entity="DrinkGlass" Caption="Glass"/>
 <GuideEntityEmbed Entity="DrinkGlassCoupeShaped"/>
 <GuideEntityEmbed Entity="DrinkShotGlass"/>
 <GuideEntityEmbed Entity="DrinkShaker"/>
 <GuideEntityEmbed Entity="DrinkJigger"/>
-</Box>
-
-You can find a list of every drink that can be requested under the Reference Tables entry.
-</Document>
+</Box>Você pode encontrar uma lista de cada bebida que pode ser solicitada na entrada Tabelas de Referência.</Document>

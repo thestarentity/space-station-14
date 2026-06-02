@@ -44,7 +44,6 @@
   A mixture of gasses that is breathable to most species on the station.
   It consists of 21% oxygen and 79% nitrogen.
 
-
   ## Carbon Dioxide
   <Box>
     <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>

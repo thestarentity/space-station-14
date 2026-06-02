@@ -8,7 +8,6 @@
     <GuideEntityEmbed Entity="Chair" Caption=""/>
   </Box>
 
-
   The Construction Menu is how you build and craft objects in the game.
   It can be accessed by pressing [color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color].
 
@@ -20,8 +19,5 @@
   If you are building a mirrorable component (think: Gas Mixers/Filters), you can press [color=yellow][bold][keybind="EditorFlipObject"][/bold][/color] to flip the ghost.
 
   You can also use [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] and [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] to rotate an object clockwise or counterclockwise if it's already built, as long as it is unanchored (unwrenched).
-
-
-
 
 </Document>

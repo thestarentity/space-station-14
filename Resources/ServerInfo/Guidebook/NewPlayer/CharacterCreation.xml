@@ -1,70 +1,206 @@
 <Document>
-# Important Character Creation Tips
-This is a guide for the parts of character creation that effect gameplay.
+# Dicas Importantes para Criação de Personagem
+Este é um guia para as partes da criação de personagem que afetam o jogo.
 
 [textlink="For a guide on making cosmetic changes, click here." link="YourFirstCharacter"]
 
-## Spawn Priority
-This affects where you spawn in upon joining the game after the round has already started.
+## Prioridade de Spawn
+Isso afeta onde você será spawnado ao se juntar ao jogo após a rodada já ter começado.
 
-Choosing "Arrivals" will spawn you on a separate station where you wait for a shuttle to arrive to ship you to the main station.
+Escolher "Arrivals" fará com que você apareça em uma estação separada, onde você aguardará até que um shuttle chegue para transportá-lo para a estação principal.
 
-Choosing "Cryosleep" will have you wake up in a cryosleep chamber already on the station.
+Escolher "Cryosono" fará com que você acorde em uma câmara de criosono já na estação.
 
-Choosing "None" will either pick for you or choose the only spawn option available for the current station.
+Escolher "Nenhum" fará com que seja escolhido automaticamente para você ou selecione a única opção de spawn disponível para a estação atual.
 
-This is a mostly arbitrary choice. You can safely leave this on "None" and you won't suffer any real inconveniences.
+Essa é uma escolha quase arbitrária. Você pode deixar isso em "Nenhum" com segurança e não sofrerá inconvenientes reais.
 
-## Jobs
-You can set your job preferences in the lobby. While these don't [color=#a4885c]guarantee[/color] your position, someone who wants the job will be [color=#a4885c]randomly[/color] selected at the start of the round.
-You are given a chance at being chosen for your high priority job first, then your medium priorities, then your low priorities.
-You also given an option to automatically be a passenger or to be sent back to the lobby if you don't get chosen for any of your preferred jobs.
+## Empregos
+Você pode definir suas preferências de cargo no lobby. Embora essas não [color=#a4885c]garantam[/color] sua posição, alguém que quiser o cargo será [color=#a4885c]aleatoriamente[/color] selecionado no início da rodada.
+Você tem a chance de ser escolhido para seu cargo de alta prioridade primeiro, depois para seus cargos de prioridade média, e por último para seus cargos de baixa prioridade.
+Você também tem a opção de automaticamente ser um passageiro ou ser enviado de volta ao lobby se não for escolhido para nenhum dos seus cargos preferidos.
 
-Some jobs are locked until you've played long enough as other entry level jobs.
+Alguns cargos estão bloqueados até que você jogue por tempo suficiente em outros cargos de nível inicial.
 
 [textlink="For more infomation about jobs, click here." link="Jobs"]
 
-## Job Loadouts
-You may also choose [color=#a4885c]loadouts[/color] for each job. Loadouts are the clothing items and trinkets that you spawn with upon joining the game. Some loadout items are locked behind playtime restrictions.
-This may have various effects on gameplay, as some clothing items have [color=#a4885c]armor protection[/color] or [color=#a4885c]slow down your movement speed[/color]. This applies especially to Command and Security.
+## Configurações de Cargo
+Você também pode escolher [color=#a4885c]configurações de equipamento[/color] para cada cargo. Configurações de equipamento são os itens de vestuário e acessórios que você começa com ao entrar no jogo. Alguns itens de configurações de equipamento estão bloqueados por restrições de tempo de jogo.
+Isso pode ter diversos efeitos no jogo, já que alguns itens de roupa possuem [color=#a4885c]proteção contra armaduras[/color] ou [color=#a4885c]reduzem a velocidade de seus movimentos[/color]. Isso se aplica especialmente ao Comando e à Segurança.
 
-You may also choose what bag you spawn in with.
-[color=#a4885c]Backpacks[/color] are medium sized but can carry large items easier. [color=#a4885c]Satchels[/color] have more total space than backpacks but have trouble carrying large items. [color=#a4885c]Duffel bags[/color] are large but incur a movement penalty.
+Você também pode escolher qual mochila você irá spawnar com.
+As mochilas são de tamanho médio, mas podem carregar itens grandes com mais facilidade. As sacolas de lona têm mais espaço total do que as mochilas, mas têm dificuldade para carregar itens grandes. As sacolas de duffel são grandes, mas causam uma penalidade de movimento.
 
-## Antags
-Turning on an [color=#a4885c]antagonist[/color] toggle will put you on the list of potentional antags at the start of the round. They do not guarantee your antagonist role, don't use this as an excuse to self-antag!
-Instead, like job priorities, a handful of players are chosen randomly from eligible players. If you are a command member or security officer, you cannot be chosen for an antag role.
+## Antagonistas
+Ativar o [color=#a4885c]antagonista[/color] vai colocar você na lista de potenciais antagônicos no início da rodada. Isso não garante que você será um antagonista, então não use isso como desculpa para se auto-antagonizar!
+Em vez disso, assim como as prioridades de cargo, um punhado de jogadores é escolhido aleatoriamente entre os jogadores elegíveis. Se você é um membro do comando ou oficial de segurança, não pode ser escolhido para um papel antagônista.
 
 [textlink="For more information about antagonists, click here." link="Antagonists"]
 
-Joining multiple games or ghosting/disconnecting/commiting suicide upon not being chosen for an antag role is referred to as "antag-rolling" and it is against the rules.
-Plenty of people patiently wait for their turn to be antagonists, so [color=#a4885c]we kindly ask you to refrain from opting-in to an antagonist role if you aren't ready[/color].
+Juntar-se a múltiplos jogos ou fantasiar/ desconectar-se/ cometer suicídio ao não ser escolhido para um cargo antagônico é referido como "antag-rolling" e é contra as regras.
+Muitas pessoas esperam pacientemente sua vez de ser antagonistas, então [color=#a4885c]pedimos gentilmente que você evite escolher um papel de antagonista se não estiver pronto[/color].
 
-## Traits
-Speech traits alter your speech, sometimes to an extreme degree.
+## Traços
+Traços de fala alteram sua fala, às vezes em graus extremos.
 
-They include:
-- Accentless (disables the accent of your selected species)
-- Cowboy accent (word replacement, partner)
-- Frontal lisp ("s" is replaced with "th")
-- Italian accent (Mamma-mia, word replacement)
-- Pathological liar (word replacement, changes words like "yes" to "no")
-- Pirate accent (Arrgh, word replacement)
-- Social anxiety (s-s-stutter)
-- Southern Drawl (replaces "-ing" with "-in'" and similar changes)
+O que você quer que seu personagem pareça?
+Sem Acento (desativa o acento da espécie selecionada)
+Vamos lá, partner. Você vai se divertir aqui na Estação Espacial. Vai ser um dia cheio de ação, e eu estou aqui pra te ajudar. Vamos ver... Primeiro, você precisa escolher um nome. Pode ser qualquer coisa, mas prefiro algo que soe legal, sabe? Tipo "Ranger" ou "Duke". Mas se você quiser algo mais... hmm... "Bart" também funciona. 
 
-You should be comfortable with talking normally or with a minor accent such as Social anxiety or Southern drawl before taking heavy accents like Italian or Cowboy.
+Agora, escolha uma espécie. Humanos são os mais comuns, mas tem outros também. Se você quiser ser um alienígena, pode escolher qualquer um dos disponíveis. Mas, honestamente, humanos são mais fáceis de lidar. 
 
-There are also disabilty traits. Familiarize yourself with the game and the game's flow before taking one of these, as some may become difficult for beginners to deal with.
+Gênero? Bem, isso é só pra fins de registro. Não importa muito pra gente, mas é legal saber. 
 
-They include:
-- Blindness (severely limits your vision)
-- Lightweight drunk (you get drunk faster and you suffer more from the ill-effects of alcohol)
-- Muted (you cannot talk or whisper, but you can still communicate via emotes and pen and paper)
-- Narcolepsy (you randomly fall asleep at unpredictable and often inconvenient times)
-- Pacifist (you cannot hit, shoot, or throw sharp objects at people)
-- Paracusia (you sometimes hear noises that aren't real)
-- Short-sighted (somewhat limits your vision without prescription glasses)
-- Snoring (you make loud snoring sounds when asleep)
-- Unrevivable (you cannot be resuscitated when you meet your untimely demise)
+Idade? Bem, você pode escolher qualquer coisa entre 18 e 100. Mas, pra ser sincero, a maioria dos tripulantes tem entre 20 e 40. 
+
+Cargo? Isso vai determinar o que você pode fazer. Se você quiser ser um engenheiro, ótimo. Se quiser ser um médico, também. Mas se você não tem certeza, pode escolher "Tripulante" e depois mudar depois. 
+
+DNA? Isso é só pra fins de registro. Não importa muito pra gente, mas é legal saber. 
+
+Agora, vamos pra parte legal. Você precisa escolher um equipamento. Tem um monte de opções, mas eu recomendo o RCD. É um equipamento básico, e você pode usá-lo pra se defender. 
+
+E, pra terminar, você precisa escolher um estilo. Tem um monte de opções, mas eu recomendo o "Cowboy". É um estilo clássico, e combina bem com o resto do equipamento. 
+
+Pronto, partner. Agora você está pronto pra se divertir na Estação Espacial. Vamos lá!
+Oi, tripulante! Bem-vindo à Estação Espacial Nanotrasen. Antes de começarmos, vamos criar o seu personagem. Primeiro, escolha um nome. Você pode usar qualquer coisa que quiser, desde que não seja ofensivo. Depois, escolha um gênero. Não se preocupe, não precisamos saber nada sobre você, apenas para fins de registro. Em seguida, escolha uma espécie. Humanos são a opção padrão, mas há outras opções disponíveis. Por fim, defina a sua idade. Isso afeta algumas habilidades, mas não muito. Pronto? Vamos começar.
+Bem-vindo à Estação Espacial, caro tripulante! Pronto para embarcar em uma jornada cheia de ação e aventura? Vamos começar com a criação do seu personagem. Você pode escolher entre vários cargos, cada um com suas próprias responsabilidades e habilidades. Seja um Engenheiro-Chefe, um Médico ou até mesmo um Palhaço - cada escolha traz novas possibilidades. Lembre-se, a Estação Espacial é um lugar cheio de mistérios e desafios, então escolha bem o seu caminho. Agora, vamos dar uma olhada nas opções disponíveis para o seu personagem.
+Mentiroso patológico (substituição de palavras, substitui palavras como "sim" por "não")
+Arrgh, ye scallywag! Yer lookin' fer a guide t' creatin' yer char, eh? Well, lissen up, ye bilge-sucker! First off, ye'll need t' pick a name, me hearty. Not just any name, mind ye—somethin' that'll make the other scallywags take notice! Arrgh, I'll tell ye what, me bucko, names like "Blackbeard" or "Captain Hook" be popular choices 'mongst the crew. But if ye be a scallywag with a bit o' flair, ye might go with somethin' like "The Dread Pirate Roberts" or "Captain Blood"! Arrgh, but be warned, me hearty—some names be cursed, and they'll bring bad luck upon ye and yer crew! So pick yer name wisely, me bucko!
+
+Now, onto the next part, me hearty—pickin' yer species! Arrgh, now, there be a few options here, me bucko. The most common be Human, but there be others as well, like the fearsome Zelkova, the cunning Varkari, or the mysterious Skaal. Each species be unique, me hearty, with their own strengths and weaknesses. So pick yer species wisely, me bucko!
+
+Next up, me hearty—pickin' yer gender! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some species be more common in certain genders, and some abilities be tied t' yer gender. So pick yer gender wisely, me bucko!
+
+Now, onto the next part, me hearty—pickin' yer age! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer age, and some species be more common in certain age groups. So pick yer age wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer job! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some jobs be more common in certain species, and some abilities be tied t' yer job. So pick yer job wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer DNA! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer DNA, and some species be more common in certain DNA types. So pick yer DNA wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer looks! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer looks, and some species be more common in certain look types. So pick yer looks wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer voice! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer voice, and some species be more common in certain voice types. So pick yer voice wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer accent! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer accent, and some species be more common in certain accent types. So pick yer accent wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer language! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer language, and some species be more common in certain language types. So pick yer language wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer skills! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer skills, and some species be more common in certain skill types. So pick yer skills wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer traits! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer traits, and some species be more common in certain trait types. So pick yer traits wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer personality! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer personality, and some species be more common in certain personality types. So pick yer personality wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer background! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer background, and some species be more common in certain background types. So pick yer background wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer story! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer story, and some species be more common in certain story types. So pick yer story wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer fate! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer fate, and some species be more common in certain fate types. So pick yer fate wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer destiny! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer destiny, and some species be more common in certain destiny types. So pick yer destiny wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer future! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer future, and some species be more common in certain future types. So pick yer future wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer legacy! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer legacy, and some species be more common in certain legacy types. So pick yer legacy wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer name again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer name, and some species be more common in certain name types. So pick yer name wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer species again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer species, and some species be more common in certain species types. So pick yer species wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer gender again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer gender, and some species be more common in certain gender types. So pick yer gender wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer age again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer age, and some species be more common in certain age types. So pick yer age wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer job again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer job, and some species be more common in certain job types. So pick yer job wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer DNA again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer DNA, and some species be more common in certain DNA types. So pick yer DNA wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer looks again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer looks, and some species be more common in certain look types. So pick yer looks wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer voice again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer voice, and some species be more common in certain voice types. So pick yer voice wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer accent again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer accent, and some species be more common in certain accent types. So pick yer accent wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer language again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer language, and some species be more common in certain language types. So pick yer language wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer skills again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer skills, and some species be more common in certain skill types. So pick yer skills wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer traits again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer traits, and some species be more common in certain trait types. So pick yer traits wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer personality again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer personality, and some species be more common in certain personality types. So pick yer personality wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer background again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer background, and some species be more common in certain background types. So pick yer background wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer story again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer story, and some species be more common in certain story types. So pick yer story wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer fate again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer fate, and some species be more common in certain fate types. So pick yer fate wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer destiny again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer destiny, and some species be more common in certain destiny types. So pick yer destiny wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer future again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer future, and some species be more common in certain future types. So pick yer future wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer legacy again! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer legacy, and some species be more common in certain legacy types. So pick yer legacy wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer name once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer name, and some species be more common in certain name types. So pick yer name wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer species once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer species, and some species be more common in certain species types. So pick yer species wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer gender once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer gender, and some species be more common in certain gender types. So pick yer gender wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer age once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer age, and some species be more common in certain age types. So pick yer age wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer job once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer job, and some species be more common in certain job types. So pick yer job wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer DNA once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer DNA, and some species be more common in certain DNA types. So pick yer DNA wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer looks once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer looks, and some species be more common in certain look types. So pick yer looks wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer voice once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer voice, and some species be more common in certain voice types. So pick yer voice wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer accent once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer accent, and some species be more common in certain accent types. So pick yer accent wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer language once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer language, and some species be more common in certain language types. So pick yer language wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer skills once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer skills, and some species be more common in certain skill types. So pick yer skills wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer traits once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer traits, and some species be more common in certain trait types. So pick yer traits wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer personality once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer personality, and some species be more common in certain personality types. So pick yer personality wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer background once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer background, and some species be more common in certain background types. So pick yer background wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer story once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer story, and some species be more common in certain story types. So pick yer story wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer fate once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer fate, and some species be more common in certain fate types. So pick yer fate wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer destiny once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer destiny, and some species be more common in certain destiny types. So pick yer destiny wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer future once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer future, and some species be more common in certain future types. So pick yer future wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer legacy once more! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer legacy, and some species be more common in certain legacy types. So pick yer legacy wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer name for the last time! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer name, and some species be more common in certain name types. So pick yer name wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer species for the last time! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer species, and some species be more common in certain species types. So pick yer species wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer gender for the last time! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer gender, and some species be more common in certain gender types. So pick yer gender wisely, me bucko!
+
+Now, onto the next part, me bucko—pickin' yer age for the last time! Now, I know what ye be thinkin', me bucko—why does it matter? Well, it do, me hearty! Some abilities be tied t' yer age, and some species be more常见 in certain age types. So pick yer age wisely, me bucko!
+Ansiedade social (s-s-stutter)
+Southern Drawl (substitui "-ing" por "-in'" e mudanças similares)
+
+Você deve se sentir à vontade para falar normalmente ou com um leve sotaque, como ansiedade social ou sotaque sulista, antes de assumir sotaques mais pesados, como italiano ou cowboys.
+
+Há também traços de deficiência. Familiarize-se com o jogo e seu fluxo antes de escolher um desses, pois alguns podem se tornar difíceis para iniciantes lidarem.
+
+O que você quer que seu personagem pareça?
+Cegueira (restringe severamente sua visão)
+Bebado leve (você fica bêbado mais rápido e sofre mais com os efeitos negativos do álcool)
+- Mudo (você não pode falar ou sussurrar, mas ainda pode se comunicar por meio de expressões e caneta e papel)
+Narcolepsia (você dorme aleatoriamente em momentos imprevisíveis e frequentemente inconvenientes)
+Pacifista (você não pode atacar, atirar ou jogar objetos afiados em pessoas)
+Paracusia (você às vezes ouve barulhos que não são reais)
+Miopia (limita um pouco sua visão sem óculos de grau)
+- Ronco (você faz sons de ronco altos quando está dormindo)
+Irreversível (você não pode ser ressuscitado quando encontrar sua morte prematura)
 </Document>

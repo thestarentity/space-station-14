@@ -1,37 +1,63 @@
-﻿<Document>
-# Chemicals
+﻿<Document># Químicos
 
-Chemicals are a powerful tool that can cause a variety of effects when consumed. Some can be found in plants, purchased from cargo, or be synthesized through combination with other chemicals.
+Químicos são uma ferramenta poderosa que pode causar uma variedade de efeitos quando consumidos. Alguns podem ser encontrados em plantas, comprados no cargueiro ou sintetizados através da combinação com outros químicos.
 
-Knowing different types of chemicals and their effects is important for being able to manage injury and danger.
+Conhecer os diferentes tipos de químicos e seus efeitos é importante para conseguir gerenciar lesões e perigos.
 
-## Elements
-<GuideReagentGroupEmbed Group="Elements"/>
+## Elementos<GuideReagentGroupEmbed Group="Elements"/>## Medicina<GuideReagentGroupEmbed Group="Medicine"/>## Narcóticos<GuideReagentGroupEmbed Group="Narcotics"/>## Pirotecnia<GuideReagentGroupEmbed Group="Pyrotechnic"/>## Toxinas<GuideReagentGroupEmbed Group="Toxins"/>## Alimentos<GuideReagentGroupEmbed Group="Foods"/>## Botânica<GuideReagentGroupEmbed Group="Botanical"/>## Biológicos<GuideReagentGroupEmbed Group="Biological"/>## Especial<GuideReagentGroupEmbed Group="Special"/>
 
-## Medicine
-<GuideReagentGroupEmbed Group="Medicine"/>
+## Outros
+Aqui estão algumas receitas simples que você pode preparar no serviço de alimentação da estação:
 
-## Narcotics
-<GuideReagentGroupEmbed Group="Narcotics"/>
+### Bolo de Fubá
+**Ingredientes:**
+- 2 xícaras de fubá
+- 1 xícara de leite
+- 1 ovo
+- 1 colher de sopa de manteiga
+- 1 colher de chá de sal
+- 1 colher de chá de canela
 
-## Pyrotechnics
-<GuideReagentGroupEmbed Group="Pyrotechnic"/>
+**Modo de preparo:**
+1. Misture o fubá, o sal e a canela em uma tigela.
+2. Em outra tigela, bata o ovo, o leite e a manteiga até obter uma mistura homogênea.
+3. Adicione a mistura líquida à tigela com o fubá e misture bem.
+4. Unte uma forma de bolo e despeje a massa.
+5. Asse em forno pré-aquecido a 180°C por cerca de 30 minutos ou até que esteja dourado.
 
-## Toxins
-<GuideReagentGroupEmbed Group="Toxins"/>
+### Sopa de Legumes
+**Ingredientes:**
+- 1 kg de legumes (abóbora, cenoura, ervilha, etc.)
+- 1 cebola
+- 2 dentes de alho
+- 1 litro de água
+- 1 colher de sopa de óleo
+- Sal e pimenta a gosto
 
-## Foods
-<GuideReagentGroupEmbed Group="Foods"/>
+**Modo de preparo:**
+1. Corte os legumes em cubos e reserve.
+2. Em uma panela, aqueça o óleo e refogue a cebola e o alho até que fiquem dourados.
+3. Adicione os legumes e refogue por alguns minutos.
+4. Adicione a água e deixe cozinhar por cerca de 20 minutos ou até que os legumes estejam macios.
+5. Tempere com sal e pimenta a gosto.
 
-## Botanical
-<GuideReagentGroupEmbed Group="Botanical"/>
+### Pão de Queijo
+**Ingredientes:**
+- 2 xícaras de farinha de trigo
+- 1 xícara de leite
+- 1 ovo
+- 1 colher de sopa de manteiga
+- 1 colher de chá de sal
+- 1 colher de chá de fermento em pó
+- 1 xícara de queijo ralado
 
-## Biological
-<GuideReagentGroupEmbed Group="Biological"/>
+**Modo de preparo:**
+1. Em uma tigela, misture a farinha de trigo, o sal, o fermento em pó e o queijo ralado.
+2. Em outra tigela, bata o ovo, o leite e a manteiga até obter uma mistura homogênea.
+3. Adicione a mistura líquida à tigela com os ingredientes secos e misture bem.
+4. Unte uma forma de pão e despeje a massa.
+5. Asse em forno pré-aquecido a 180°C por cerca de 30 minutos ou até que esteja dourado.
 
-## Special
-<GuideReagentGroupEmbed Group="Special"/>
-
-## Other
+Esperamos que estas receitas ajudem a variar o cardápio da estação. Boa sorte na cozinha!
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

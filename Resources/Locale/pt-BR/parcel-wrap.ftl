@@ -7,5 +7,5 @@ parcel-wrap-popup-being-wrapped-self = Você começa a embrulhar um pacote em si
 parcel-wrap-examine-detail-uses =
     { $uses ->
         [one] Há [color={ $markupUsesColor }]{ $uses }[/color] uso restante
-       *[other] Há [color={ $markupUsesColor }]{ $uses }[/color] uso restante
-    }A bolta parece estar solta. Você pode tentar apertá-la com uma ferramenta de manutenção.
+       *[other] Há [color={ $markupUsesColor }]{ $uses }[/color] usos restantes
+    }.

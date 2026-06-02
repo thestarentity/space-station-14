@@ -1,38 +1,28 @@
-<Document>
-  # Diona
+<Document># Diona
 
-  <Box>
+Diona é uma entidade que se manifesta em áreas de alta energia, como reatores e equipamentos de alta tecnologia. Ela é conhecida por sua natureza instável e por causar falhas em sistemas críticos. Diona geralmente aparece como uma figura espectral, com uma aparência que muda constantemente. Ela não tem um objetivo claro, mas parece ser atraída por instabilidades e anomalias. Se você encontrar uma Diona, evite se aproximar e alerte imediatamente o Engenheiro-Chefe ou o Chefe de Segurança.<Box>
     <GuideEntityEmbed Entity="MobDiona" Caption=""/>
-  </Box>
+  </Box>Eles não podem usar sapatos, mas não são lentos devido ao Kudzu.
+Eles ficam com fome e sede mais devagar.
+Seu "sangue" é seiva de árvore e não pode ser metabolizado a partir de Ferro.
+Como plantas, o Herbicida as envenena, enquanto a Colheita Robusta as cura (mas não sem riscos ao ser usada em excesso!).
 
-  They can't wear shoes, but are not slowed by Kudzu.
-  They get hungry and thirsty slower.
-  Their "blood" is tree sap and can't be metabolised from Iron.
-  Being plants, Weed Killer poisons them, while Robust Harvest heals them (but not without risk when overused!)
+Eles sofrem [color=#1e90ff]30% menos dano de impacto e 20% menos dano de corte[/color];
+mas [color=#ffa500]50% mais dano de calor, 20% mais dano de choque e podem facilmente
+pegar fogo ao receberem suficiente dano de calor de *qualquer* fonte.[/color]
 
-  They take [color=#1e90ff]30% less Blunt damage and 20% less Slash damage[/color];
-  but [color=#ffa500]50% more Heat damage, 20% more Shock damage, and they can easily
-  catch on fire when receiving enough Heat damage from *any* source.[/color]
-
-  ## Make Like A Tree And Leave
-  <Box>
+## Faça Como Uma Árvore E Vá Embora<Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
-  </Box>
-  Being exposed to too much Robust Harvest will cause a Diona to grow out of control, turning into an immobile tree (dropping all their equipment).
-  Cutting down the tree will "restore" the Diona to their mobile state.
+  </Box>Ser exposto a muito Robust Harvest causará ao Diona um crescimento descontrolado, transformando-o em uma árvore imóvel (perdendo todo seu equipamento).
+Cortar a árvore "restaura" o Diona ao seu estado móvel.
 
-  ## Diona Nymphs
-  <Box>
+## Ninfas Diona<Box>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
-  </Box>
-  After death, a Diona can voluntarily destroy their own body, releasing their "internal organs" as three Nymphs,
-  with the player taking control of the Brain Nymph.
-  It can talk but has no hands or inventory, and can't do much.
+  </Box>Após a morte, uma Diona pode voluntariamente destruir seu próprio corpo, liberando seus "órgãos internos" como três Ninfas,
+com o jogador assumindo o controle da Nifa Cerebral.
+Ela pode falar, mas não tem mãos ou inventário, e não pode fazer muito.
 
-  After 10 minutes, a Nymph can reform into a whole Diona. This will be a new randomised body with a random name,
-  and there will be little to no evidence beyond their word about who they were before.
-
-
-</Document>
+Após 10 minutos, uma Nifa pode se reformar em uma Diona completa. Isso será um corpo totalmente novo com um nome aleatório,
+e haverá pouco ou nenhum indício além de sua palavra sobre quem ela era antes.</Document>
