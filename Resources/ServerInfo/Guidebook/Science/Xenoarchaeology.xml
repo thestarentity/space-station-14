@@ -1,51 +1,51 @@
 <Document>
-  # Xenoarchaeology
+  # Arqueologia Xenológica
 
-  Xenoarchaeology is a branch of Science focused on researching alien [bold]artifacts[/bold].
+A Xenoarqueologia é uma área da Ciência focada em pesquisar [bold]artefatos[/bold] alienígenas.
 
-  Unlocking their secrets grants research points and reveals strange, potentially useful, or dangerous effects.
+Desbloquear seus segredos concede pontos de pesquisa e revela efeitos estranhos, potencialmente úteis ou perigosos.
 
-  At round start, Science usually has one or two artifacts in the lab. More can be:
-  - Ordered from [color=orange]Cargo[/color]
-  - Found by [color=orange]Salvage[/color]
-  - Assembled from [bold]fragments[/bold]
-  - Appear during certain station events
+No início da rodada, a Ciência geralmente tem um ou dois artefatos no laboratório. Mais podem ser:
+- Ordenado a partir de [color=orange]Carga[/color]
+- Encontrado por [color=orange]Salvagem[/color]
+- Montado a partir de [bold]fragmentos[/bold]
+- Aparecer durante certos eventos na estação
 
-  ## Artifacts
+  ## Artefatos
   <Box>
     <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
     <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
   </Box>
 
-  Artifacts contain [bold]nodes[/bold] arranged in [bold]layers[/bold].
-  - Unlocking a node unlocks connected nodes on upper layers.
-  - Each node has [bold]triggers[/bold], actions that must be performed near the artifact to unlock a node.
-  - When a node is unlocked, its [bold]effect[/bold] will trigger, and the node becomes [bold][color=plum]Active[/color][/bold].
-  - Each node has [bold]durability[/bold]: the number of times it can be manually activated after being unlocked.
-  - Higher nodes are harder to reach but give more [bold]research points[/bold].
-  - Unlocking all nodes provides no special bonus, but every node yields research points.
+Os artefatos contêm [bold]nós[/bold] dispostos em [bold]camadas[/bold].
+- Desbloquear um nó desbloqueia nós conectados em camadas superiores.
+- Cada nó tem [bold]gatilhos[/bold], ações que devem ser realizadas perto do artefato para desbloquear um nó.
+- Quando um nó é desbloqueado, seu [bold]efeito[/bold] será acionado, e o nó se torna [bold][color=plum]Ativo[/color][/bold].
+- Cada nó tem [bold]durabilidade[/bold]: o número de vezes que pode ser ativado manualmente após ser desbloqueado.
+- Nós de nível mais alto são mais difíceis de alcançar, mas dão mais [bold]pontos de pesquisa[/bold].
+- Desbloquear todos os nós não fornece nenhum bônus especial, mas cada nó gera pontos de pesquisa.
 
-  ## Equipment
+  ## Equipamento
   <Box>
     <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="Analyzer"/>
     <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Analysis Console"/>
     <GuideEntityEmbed Entity="NodeScanner" Caption="Node Scanner"/>
   </Box>
-  - [bold]Artifact Analyzer:[/bold] Stationary device that scans artifacts, sending data to the Console.
-  - [bold][textlink="Analysis Console:" link="AnalysisConsole"][/bold] Stationary device that is used to display the node tree. Must be linked to an Analyzer with a multitool.
-  - [bold]Node Scanner:[/bold] Small hand-held device that can show the ID of the node currently being activated and whether the artifact is ready to trigger, letting scientist have minimal required knowledge for operating inside chamber near artifact and far without direct access to console.
+- [bold]Analisador de Artefatos:[/bold] Dispositivo estacionário que escaneia artefatos, enviando dados para a Console.
+- [bold][textlink="Consoles de Análise:" link="AnalysisConsole"][/bold] Dispositivo estacionário usado para exibir a árvore de nós. Deve ser ligado a um Analisador com um multitool.
+- [bold]Scanner de Nós:[/bold] Pequeno dispositivo portátil que pode mostrar o ID do nó atualmente ativado e se o artefato está pronto para ser acionado, permitindo que os cientistas tenham conhecimento mínimo necessário para operar dentro da câmara perto do artefato e longe sem acesso direto à consola.
 
   <Box>
     <GuideEntityEmbed Entity="CrateArtifactContainer" Caption="Artifact Container"/>
     <GuideEntityEmbed Entity="HandheldArtifactContainer" Caption="Handheld Container"/>
   </Box>
-  - [bold]Artifact Containers:[/bold] Safely store and transports artifacts and prevent nodes from triggering.
+- [bold]Recipientes de Artefatos:[/bold] Armazene e transporte artefatos com segurança e evite que os nós sejam acionados.
   <Box>
     <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="Crusher"/>
   </Box>
-  - [bold]Artifact Crusher:[/bold] Crushes artifacts into fragments. Four fragments can be rebuilt into a new artifact.
+- [bold]Esmeril de Artefatos:[/bold] Esmerila artefatos em fragmentos. Quatro fragmentos podem ser reconstruídos em um novo artefato.
   <Box>
     <GuideEntityEmbed Entity="ArtifactFragment" Caption="Artifact Fragment"/>
   </Box>
-  - [bold]Artifact Fragment:[/bold] Pieces of destroyed artifacts. Four fragments can be rebuilt into a new artifact using the craft menu.
+- [bold]Fragmento de Artefato:[/bold] Pedacços de artefatos destruídos. Quatro fragmentos podem ser reconstituídos em um novo artefato usando o menu de fabricação.
 </Document>

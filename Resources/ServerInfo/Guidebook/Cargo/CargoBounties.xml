@@ -1,21 +1,21 @@
 <Document>
-  # Cargo Bounties
-  While [textlink="Cargo" link="Cargo"] can make [color=cyan]spesos[color] selling just about anything, more spesos can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
+  # Bônus de Carga
+Enquanto o [textlink="Cargo" link="Cargo"] pode fazer [color=cyan]spesos[color] vendendo praticamente qualquer coisa, mais spesos podem ser feitos ao cumprir [color=cyan]bounties[/color] encontrados através do Computador de Bounties do Cargo.
 
-  ## Starting Bounties
+  ## Bounties Iniciais
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
+Para iniciar uma recompensa, abra a tela de recompensas interagindo com o [color=cyan]Computador de Recompensas da Carga[/color]. O Computador de Recompensas da Carga mantém uma lista de todas as recompensas atuais e permite que você imprima um rótulo ou pule a recompensa.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+- Imprimir a etiqueta dá a você um [color=cyan]Manifesto de Recompensa[/color] listando as mercadorias que precisam ser adquiridas. Você pode imprimir infinitos Manifestos de Recompensa, então certifique-se de não estar repetindo o mesmo trabalho de outro Técnico de Carga.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+- Pular uma recompensa substitui essa recompensa por uma nova, já que só podem haver seis recompensas ativas de cada vez. Pular tem um tempo de recarga de 15 minutos e anula essa recompensa, o que pode irritar outros Técnicos de Carga que estavam trabalhando nela.
 
-  ## Fulfilling Bounties
+  ## Cumprindo Bounties
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -23,13 +23,13 @@
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  With the [color=cyan]Bounty Manifest[/color], it is now up to you to collect the required goods, but most departments will give you what you need if you ask for it with a Bounty Manifest.
+Com o [color=cyan]Manifesto de Recompensas[/color], agora é com você para coletar as mercadorias necessárias, mas a maioria dos departamentos lhe dará o que você precisa se pedir com um Manifesto de Recompensas.
 
-  Once you have collected the goods, return to the cargo bay and put the goods inside an empty [color=cyan]Crate[/color]. After everything is in the crate, close it, and then apply the Bounty Manifest to it.
+Uma vez que você tenha coletado as mercadorias, retorne ao depósito de carga e coloque as mercadorias dentro de uma [color=cyan]Caixa[/color] vazia. Após tudo estar na caixa, feche-a e, em seguida, aplique o Manifesto de Recompensa a ela.
 
-  To verify the completion of a bounty, use the [color=cyan]Appraisal Tool[/color] on it. It should show a confirmation that the bounty has been completed.
+Para verificar a conclusão de uma recompensa, use a [color=cyan]Ferramenta de Avaliação[/color] nela. Ela deve mostrar uma confirmação de que a recompensa foi concluída.
 
-  ## Selling Bounties
+  ## Venda de Recompensas
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -37,9 +37,9 @@
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Once you have verified that you have completed the bounty, follow the same steps as selling anything else.
+Uma vez que você tenha verificado que concluiu a recompensa, siga as mesmas etapas que usaria para vender algo else.
 
-  Just transport it to the [color=cyan]Trading Station[/color], sell it, and you are done!
+Só transporte-o para a [color=cyan]Estação Comercial[/color], venda-o e você estará feito!
 
-  When you return, there should be a new bounty to take its place.
+Quando você retornar, deverá haver uma nova recompensa para substituí-la.
 </Document>

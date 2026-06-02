@@ -1,9 +1,9 @@
 ﻿<Document>
-  # Atmospherics Systems
-  Atmos has a wide variety of devices catered to moving, managing, and otherwise manipulating gas.
-  These devices often work together to maintain a safe, breathable atmosphere for the crew, or to achieve a common task.
+  # Sistemas Atmosféricos
+O sistema atmosférico possui uma ampla variedade de dispositivos destinados a mover, gerenciar e de outra forma manipular gases.
+Esses dispositivos frequentemente trabalham juntos para manter uma atmosfera segura e respirável para a tripulação, ou para alcançar uma tarefa comum.
 
-  This section delves into the various systems that Atmos has at their disposal, how they interconnect, and how they are ideally used.
+Esta seção aborda os diversos sistemas que Atmos possui à sua disposição, como eles se interconectam e como idealmente devem ser utilizados.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -15,10 +15,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Pipe Networks
+    ## Redes de Tubulação
   </Box>
   <Box>
-    [color=#999999][italic]Interconnected pipes with a common task — commonly called Pipenets[italic][/color]
+[color=#999999][italic]Tubulações interligadas com uma tarefa comum — geralmente chamadas de Pipenets[italic][/color]
   </Box>
 
   <Box>
@@ -26,10 +26,10 @@
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Device Monitoring and Control
+    ## Monitoramento e Controle de Dispositivos
   </Box>
   <Box>
-    [color=#999999][italic]Monitoring and control over devices that manage a local atmosphere[italic][/color]
+[color=#999999][italic]Monitoramento e controle de dispositivos que gerenciam uma atmosfera local[italic][/color]
   </Box>
 
   <Box>
@@ -37,10 +37,10 @@
     <GuideEntityEmbed Entity="FireAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Fire and Gas Control
+    ## Controle de Fogo e Gás
   </Box>
   <Box>
-    [color=#999999][italic]Devices to control and prevent gas leaks and fires[italic][/color]
+[color=#999999][italic]Dispositivos para controlar e prevenir vazamentos de gás e incêndios[italic][/color]
   </Box>
 
   <Box>
@@ -48,10 +48,10 @@
     <GuideEntityEmbed Entity="AirCanister" Caption=""/>
   </Box>
   <Box>
-    ## Gas Mining and Storage
+    ## Mineração e Armazenamento de Gás
   </Box>
   <Box>
-    [color=#999999][italic] Devices to mine new gas for the station to use, and store it for later[italic][/color]
+[cor=#999999][itálico] Dispositivos para minerar novos gases para a estação usar e armazená-los para depois[itálico][/cor]
   </Box>
 
 </Document>

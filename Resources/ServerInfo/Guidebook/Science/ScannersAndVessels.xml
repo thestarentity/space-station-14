@@ -1,24 +1,24 @@
 <Document>
-## Anomaly Scanner
+## Scanner de Anomalias
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside the lockers in the science department.
+O scanner de anomalias é usado para coletar várias informações sobre anomalias. Eles podem ser encontrados dentro dos armários no departamento de ciências.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
 </Box>
 
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
+Varredura de uma anomalia mostra a gravidade, a estabilidade geral, o ponto de saída aproximado, reações com tipos de partículas e o tempo até o próximo pulso. Os tipos de reação, especificamente, podem ser usados em conjunto com o A.P.E. para manipular anomalias.
 
-## Anomaly Vessel
+## Embarcação de Anomalia
 
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+A nave da anomalia é uma máquina que gera pontos a partir de anomalias. Use o scanner de anomalias em uma nave vazia, e a anomalia que foi escaneada por último será sincronizada com a nave.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+A quantidade de pontos que um veículo gera por segundo é baseada na gravidade, estabilidade e saúde de uma anomalia. Quanto mais altas forem essas valores, maior será a saída de pontos.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+Tenha cuidado: se uma anomalia ficar [color=#a4885c]supercrítica[/color], o recipiente ao qual ela está ligada explodirá. Isso pode danificar a estação e o equipamento próximo.
 
 </Document>

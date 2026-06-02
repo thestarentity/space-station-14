@@ -1,9 +1,9 @@
 <Document>
-# Janitorial
+# Zeladoria
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+Você mantém as coisas limpas, é um trabalho difícil às vezes, mas alguém tem que fazer. Isso o guiará pelas ferramentas do ofício e como elas são usadas.
 
-## Basic Equipment
+## Equipamento Básico
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -18,7 +18,7 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Equipamento Adicional
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
 <GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
@@ -29,29 +29,29 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Aquisição e Descarte de Líquidos
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
 <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Arrumando.
+Agora, vamos ao que interessa de verdade. Estamos aqui para limpar, certo? Vamos manter as coisas simples. As ferramentas principais que você usará são a vassoura, um saco de lixo, um limpador espacial e um dos três tipos de baldes diferentes.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+Esfoliação: Encha seu carrinho com água, depois procure por poças d'água! Molhe sua vassoura e limpe-as, a poça resultante secará após um curto período de tempo. Não se esqueça dos sinais de piso molhado!
+- Para esvaziar seu balde, arraste-o (com o seu cursor) para um ralo de piso. Isso derramará todos os fluidos dentro dele! Ralos de piso geralmente podem ser encontrados em algum lugar na enfermaria, no freezer da cozinha e, claro, no armário do zelador.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+Lixo: Coloque-o diretamente no saco ou segure-o em sua mão. Clique perto do lixo para recolher tudo que estiver próximo, ou clique em cada pedaço individualmente. Usar o saco em uma descartadora o esvaziará.
+- O cargo pode querer alguns dos seus lixos, pode valer a pena verificar de tempos em tempos!
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+Limpa Tudo: Essa spray milagrosa pode fazer duas coisas, limpar grafite e, em caso de emergência, limpar poças!
+- Você pode conseguir mais disso da química.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Dutias Extras
+Um bom zelador sempre está de olho em mais algo para fazer, e há muitas ferramentas à sua disposição. Preste atenção a luzes quebradas, ajude o chef a cuidar de ratos na cozinha, e se você estiver -realmente- generoso, tente repor as máquinas de venda automática e os armários de emergência por toda a estação!
 
-##Additional Information:
+A Zelador é responsável por manter a Estação Espacial limpa e segura. Isso inclui coletar lixo, limpar áreas sujas e garantir que todos os espaços estejam em ordem. O Zelador também pode ser solicitado para ajudar em emergências, como vazamentos ou situações de limpeza urgente. Use os baldes, vassouras e outros equipamentos fornecidos para cumprir suas tarefas. Lembre-se de sempre usar os airlocks corretamente e seguir os protocolos de segurança para evitar acidentes.
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 
