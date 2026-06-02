@@ -93,7 +93,7 @@ ent-MobPenguin = pinguim
 ent-MobGrenadePenguin = pinguim de granada
     .desc = Um pequeno pinguim com uma granada presa em volta do pescoço. Coletado pelo Sindicato de planetas gelados e fedorentos.
 
-ent-MobSnake = Já está na hora de se alimentar, ⟦0⟧.
+ent-MobSnake = cobra
     .desc = Hissss! Os mordidas não são venenosas.
 
 ent-MobGiantSpider = tarantula
@@ -122,7 +122,7 @@ ent-MobCorgiNarsi = corgi corrompido
 ent-MobCorgiPuppy = filhote de corgi
     .desc = Um pequeno corgi! Aww...
 
-ent-MobCat = O que você quer que eu faça?
+ent-MobCat = gato
     .desc = Petite de gatos, muito engraçado.
 
 ent-MobCatCalico = gato calico

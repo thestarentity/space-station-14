@@ -23,7 +23,7 @@ ent-Pitcher = Pitcher de metal
 
 ent-DrinkShakeBlue = shake de leite azul
 
-ent-DrinkShakeEmpty = A bebida está vazia.
+ent-DrinkShakeEmpty = copo de shake vazio
 
 ent-DrinkShakeMeat = shake de carne
 

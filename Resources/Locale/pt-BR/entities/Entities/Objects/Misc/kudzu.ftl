@@ -1,4 +1,4 @@
-ent-Kudzu = Kudzu é uma planta invasiva nativa do Japão, conhecida por seu crescimento rápido e capacidade de cobrir grandes áreas, muitas vezes sufocando outras plantas.
+ent-Kudzu = kudzu
     .desc = Uma planta perigosa que cresce rapidamente. POR QUE VOCÊ ESTÁ PARANDO PARA OLHAR PARA ELA?!
 
 ent-KudzuFlowerFriendly = tapete floral
