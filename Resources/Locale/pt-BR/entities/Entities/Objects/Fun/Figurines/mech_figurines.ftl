@@ -4,9 +4,7 @@ ent-ToyRipley = Ripley brinquedo
 ent-ToyFireRipley = fogo ripley
     .desc = Figura de ação mini-mecha! 'Mecha No. 2/12' está escrito na parte de trás.
 
-ent-ToyDeathRipley = ⟦0⟧
-⟦1⟧
-⟦2⟧
+ent-ToyDeathRipley = brinquedo ripley da morte
     .desc = Figura de ação mini-mecha! 'Mecha No. 3/12' está escrito na parte de trás.
 
 ent-ToyGygax = gygax toy

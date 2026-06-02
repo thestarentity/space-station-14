@@ -40,8 +40,7 @@ ent-MindRoleLoneops = Loneops Operativo
 
 ent-MindRoleHeadRevolutionary = Líder da Revolução
 
-ent-MindRoleRevolutionary = Role: Revolucionário
-Descrição: Um revolucionário é um tripulante que busca mudar a estrutura da estação, muitas vezes desafiando a autoridade e promovendo mudanças radicais. Eles podem ser encontrados organizando manifestações, distribuindo folhetos ou trabalhando em segredo para derrubar o governo atual. Seja cuidadoso, pois os revolucionários podem ser suspeitos de traição e podem ser perseguidos por oficiais de segurança.
+ent-MindRoleRevolutionary = Revolucionário
 
 ent-MindRoleSurvivor = O papel de Sobrevivente é uma posição especial que pode ser assumida por qualquer tripulante. O Sobrevivente é o único tripulante que pode usar o RCD e o EMAG sem ter que carregá-los. O Sobrevivente também tem uma resistência maior a danos e pode se mover mais rápido. O Sobrevivente pode ser identificado pelo distintivo vermelho no peito.
 

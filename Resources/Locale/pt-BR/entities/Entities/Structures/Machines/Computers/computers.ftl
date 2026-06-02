@@ -131,5 +131,4 @@ ent-StationAiFixerComputer = Console de restauração da IA
     .desc = Usado para reparar inteligências artificiais danificadas.
 
 ent-ComputerNukieDelivery = computador de entrega do sindicato
-    .desc = Um computador que pode bluespace em certos equipamentos para Operações Nucleares. 
-O circuito é integrado ao corpo e não pode ser recuperado se o equipamento for destruído.
+    .desc = Um computador que pode bluespace em certos equipamentos para Operações Nucleares. O circuito é integrado ao corpo e não pode ser recuperado se o equipamento for destruído.

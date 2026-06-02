@@ -51,7 +51,6 @@ ent-BookIanCity = Ian e Renault explorando a cidade
 
 ent-BookIanArctic = as aventuras de ian e renault - uma jornada arctica de coragem e amizade
     .desc = O livro parece novo e aventureiro, com uma imagem de Ian e Renault ficando em frente a um paisagem gelada com neve caindo por todos os lados. O título, "As Aventuras de Ian e Renault," está escrito em letras negritas no topo, com uma subtítulo que diz, "Uma Jornada Ártica de Coragem e Amizade."
-2ª Edição.
 
 ent-BookIanDesert = as aventuras de ian e renault - explorando o misterioso deserto
     .desc = O livro está em condições novas e teria uma capa colorida que mostraria Ian e Renault contra um cenário de deserto. A capa teria imagens de diversos animais e plantas que os dois encontraram em sua aventura, como uma cobra-jibóia, coiotes, dunas de areia e uma oásis. O título, "As Aventuras de Ian e Renault", estaria claramente exibido na capa em letras grossas, enquanto a subtítulo "Explorando o Misterioso Deserto" estaria escrito em letras menores abaixo.

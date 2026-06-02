@@ -148,8 +148,7 @@ ent-FoodMeatCutlet = carnita crua
 ent-FoodMeatBearCutlet = filé de urso cru
     .desc = Uma costela de carne de urso cru muito masculina.
 
-ent-FoodMeatPenguinCutlet = filetag: ent-FoodMeatPenguinCutlet
-raw penguin cutlet
+ent-FoodMeatPenguinCutlet = cutleta de pinguim cru
     .desc = Uma cutleta de carne de pinguim crua. Pode ser usada como substituto de peixe em receitas.
 
 ent-FoodMeatChickenCutlet = filé de frango cru
