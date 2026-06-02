@@ -263,20 +263,6 @@ ent-PosterLegitIonRifle = Arma de Íons
     .desc = Um pôster exibindo uma Pistola de Ion.
 
 ent-PosterLegitFoamForceAd = Foam Force Ad
-
-Vamos lá, tripulantes! Você já ouviu falar do Foam Force? É o melhor produto de limpeza da Estação Espacial! Nada escapa ao Foam Force — nem mesmo os mais difíceis de limpar. Seja o zelador mais limpo da Estação!
-
-Com Foam Force, você pode:
-
-- Limpar qualquer superfície com facilidade
-- Eliminar manchas e resíduos de forma rápida
-- Manter a Estação Espacial impecável
-
-Não perca tempo com produtos inferiores! Foam Force é a escolha número um para todos os zeladores profissionais.
-
-Compre agora no armazém de manutenção e garanta que sua área esteja sempre impecável!
-
-P.S. Foam Force também é amigável para o ambiente e seguro para usar em qualquer parte da Estação Espacial!
     .desc = Foam Force, é Espuma ou ser Espumado!
 
 ent-PosterLegitCohibaRobustoAd = Cohiba Robusto Ad
