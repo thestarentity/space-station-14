@@ -1,23 +1,23 @@
 <Document>
-  # Nuclear Operatives
+  # Operativos Nucleares
 
   <Box>
-    [color=#999999][italic]"OPERATIVES STANDBY. YOUR OBJECTIVES ARE SIMPLE.[/italic][/color]
+[color=#999999][italic]"OPERATIVOS EM ESPERA. SEUS OBJETIVOS SÃO SIMPLES.[/italic][/color]
   </Box>
   <Box>
-    [color=#999999][italic]DELIVER THE PAYLOAD AND GET OUT BEFORE THE PAYLOAD DETONATES. BEGIN MISSION."[/italic][/color]
+[cor=#999999][itálico]ENTREGUE A CARGA E SAIA ANTES QUE A CARGA DETONAR. INÍCIO DA MISSÃO."[/itálico]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandEnlistGorlex" Caption=""/>
   </Box>
 
-  You've just been chosen to be a nuclear operative for the [color=#ff0000]Syndicate[/color]. You have one goal, to blow up one of Nanotrasen's finest vessels with a nuclear fission explosive.
+Você acabou de ser escolhido para ser um operativo nuclear para o [color=#ff0000]Sindicato[/color]. Você tem um único objetivo, que é explodir um dos navios mais sofisticados da Nanotrasen com uma explosão nuclear de fissão.
 
-  ## Operatives
-  Your team will be made up of several different roles, which are:
-  - [bold]Operatives[/bold], standard soldiers who can take up the grunt work.
-  - The [bold]Corpsman[/bold] who works with reagents to make medicines or chemical weapons.
-  - The [bold]Commander[/bold] who draws up the plan and leads the team.
+  ## Operativos
+Sua equipe será composta por vários papéis diferentes, que são:
+- [bold]Operativos[/bold], soldados padrão que podem assumir a parte mais pesada do trabalho.
+- O [bold]Corpsman[/bold] que trabalha com reagentes para fazer medicamentos ou armas químicas.
+- O [bold]Comandante[/bold] que elabora o plano e lidera a equipe.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie"/>
@@ -25,26 +25,26 @@
     <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieCommander" Caption="commander's hardsuit"/>
   </Box>
 
-  If you have been selected as the Corpsman or Commander but don't feel ready, one of your teammates can take over your responsibilities.
+Se você foi selecionado como o Corpsman ou Comandante, mas não se sentir pronto, um de seus colegas de equipe pode assumir suas responsabilidades.
 
-  ## The Disk
+  ## O Disco
 
-  Each operative starts with a [color=cyan]pinpointer[/color], which you should turn on and keep with you at all times. It will always point to the [color=cyan]nuclear authentication disk.[/color]
-  The disk belongs to the [color=yellow]Captain[/color], who will almost always have it on them. Follow the direction of the arrow on the pinpointer to the disk, and [italic]do whatever it takes to get it[/italic].
+Cada operativo começa com um [color=cyan]pinpointer[/color], que você deve ligar e manter consigo em todos os momentos. Ele sempre apontará para o [color=cyan]disco de autenticação nuclear[/color].
+O disco pertence ao [color=yellow]Capitão[/color], que o terá consigo quase sempre. Siga a direção da seta no pinpointer até o disco e [italic]faça o que for necessário para pegá-lo[/italic].
 
   <Box>
     <GuideEntityEmbed Entity="PinpointerNuclear"/>
     <GuideEntityEmbed Entity="NukeDisk"/>
   </Box>
 
-  ## Preparation
-  Each member in your squad has been given an [color=cyan]uplink[/color] to purchase everything you will need for the mission, similar to [textlink="traitors." link="Traitors"]
+  ## Preparação
+Cada membro de sua equipe recebeu um [color=cyan]uplink[/color] para comprar tudo o que você precisará para a missão, similar ao de [textlink="traiçoeiros." link="Traitors"]
 
   <Box>
     <GuideEntityEmbed Entity="BaseUplinkRadio40TC" Caption="your uplink"/>
   </Box>
 
-  You can purchase the same kinds of gear traitors can, but you have higher quality gear available to you and more telecrystals to spend.
+Você pode comprar os mesmos tipos de equipamento que traidores podem, mas você tem equipamento de maior qualidade disponível e mais telecristais para gastar.
   <Box>
     <GuideEntityEmbed Entity="WeaponLightMachineGunL6" Caption="Weaponry"/>
     <GuideEntityEmbed Entity="MagazineLightRifleBox" State="icon" Caption="Ammo"/>
@@ -60,24 +60,24 @@
     <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Pointless"/>
   </Box>
 
-  You'll also have to choose if you want to [color=red]declare war[/color] or not. Doing so grants your team [bold]40 extra telecrystals each[/bold].
-  However, the crew will immediately know of your existence and will have plenty of time to prepare for your arrival.
+Você também terá que decidir se quer ou não [color=red]declarar guerra[/color]. Fazer isso concede ao seu time [bold]40 cristais telecristais extras[/bold].
+No entanto, a tripulação saberá imediatamente da sua existência e terá tempo suficiente para se preparar para sua chegada.
 
-  The [bold]Commander[/bold] is the only person who can declare war. Make your choice quick, [italic]this is a limited-time offer![/italic]
+O [bold]Comandante[/bold] é a única pessoa que pode declarar guerra. Faça sua escolha rápido, [italic]isso é uma oferta limitada![/italic]
   <Box>
     <GuideEntityEmbed Entity="NukeOpsDeclarationOfWar"/>
   </Box>
 
-  ## Getting to the Station
-  You've got the plan, you've got the gear. Now, execute.
+  ## Chegando à Estação
+Você tem o plano, tem o equipamento. Agora, execute.
 
-  Go with your other operatives to your [color=cyan]shuttle[/color].
-  Onboard, you'll find a folder with the [color=cyan]nuclear authentication code[/color].
-  Memorize the code, then [bold]check to see if the nuke ID matches the nuke on your shuttle.[/bold] If it doesn't, you'll be arming the station's nuke instead.
+Vá com seus outros operativos para o seu [color=cyan]shuttle[/color].
+A bordo, você encontrará uma pasta com o [color=cyan]código de autenticação nuclear[/color].
+Memorize o código, depois [bold]verifique se o ID da bomba atômica corresponde à bomba no seu shuttle.[/bold] Se não corresponder, você estará armando a bomba atômica da estação.
 
-  The shuttle is equipped with an [color=cyan]IFF Computer[/color]. It allows you to hide from other ships and mass scanners when [italic]Show IFF[/italic] is toggled off.
+O shuttle está equipado com um [color=cyan]Computador IFF[/color]. Ele permite que você se esconda de outros navios e scanners de massa quando [italic]Mostrar IFF[/italic] estiver desativado.
 
-  When everyone is ready, FTL to the station and fly to it using the [color=cyan]jetpacks[/color] on the shuttle. Don't forget the code, your pinpointers, and the nuke if you're taking it.
+Quando todos estiverem prontos, use o FTL para ir até a estação e voe até ela usando os [color=cyan]jetpacks[/color] no shuttle. Não se esqueça do código, seus pinpointers e a bomba atômica se você estiver levando.
 
   <Box>
     <GuideEntityEmbed Entity="BoxFolderNuclearCodes"/>
@@ -85,42 +85,42 @@
     <GuideEntityEmbed Entity="JetpackBlack"/>
   </Box>
 
-  ## The Nuke & Arming Procedure
-  You've made it this far.  Finish the job.
+  ## O Procedimento de Nuke & Arming
+Você chegou até aqui. Termine o trabalho.
 
-  - Obtain the [bold]nuclear authentication disk[/bold] and insert it into the nuke.
-  - Type in the [bold]nuclear authentication code[/bold] and press "[bold]E[/bold]" on the keypad to Enter.
-  - [bold]Anchor[/bold] the nuke on solid floor inside the station.
-  - [bold]To begin the detonation sequence, press [color=#EB2D3A]ARM[/color][/bold]. After 300 seconds, the nuke will explode.
-  - [bold]Defend the nuke from NT employees and cyborgs[/bold], even if it's at the cost of your lives! The mission requirements [italic]do not include your return[/italic].
+- Obtenha o [bold]disco de autenticação nuclear[/bold] e insira-o na bomba.
+- Digite o [bold]código de autenticação nuclear[/bold] e pressione "[bold]E[/bold]" no teclado para Entrar.
+- [bold]Ancore[/bold] a bomba nuclear no chão sólido dentro da estação.
+- [bold]Para iniciar a sequência de detonação, pressione [color=#EB2D3A]ARM[/color][/bold]. Após 300 segundos, a bomba nuclear explodirá.
+- [bold]Defenda a bomba atômica dos funcionários da Nanotrasen e dos ciborgues[/bold], mesmo que isso custe suas vidas! Os requisitos da missão [italic]não incluem seu retorno[/italic].
 
-  It takes 30 seconds to [bold]disarm[/bold] the nuke. Re-arming it is possible, but the chance of mission success drops if you allow the countdown to be interrupted.
-  Should the nuke be re-armed, the timer will continue from where it left off.
+Leva 30 segundos para [bold]desarmar[/bold] a bomba. Re-armá-la é possível, mas a chance de sucesso da missão diminui se você permitir que a contagem regressiva seja interrompida.
+Se a bomba for rearmada, o temporizador continuará a partir do ponto em que estava.
 
   <Box>
     <GuideEntityEmbed Entity="NuclearBomb" Caption="The Nuclear Fission Explosive"/>
   </Box>
 
-  ## Winning Conditions
+  ## Condições de Vitória
 
-  The [color=#00ff00]victor[/color] of the round is announced on the round end screen, as well as the scale of their victory.
+O [color=#00ff00]vencedor[/color] da rodada é anunciado na tela de fim de rodada, bem como a escala de sua vitória.
 
-  [bold][color=red]Syndicate Major Victory![/color][/bold]
-  - The nuke detonates on the station.
-  - The crew escapes on evac, but the nuke is still armed.
-  - The nuke is armed and delivered to Central Command on the evac shuttle.
+[bold][color=vermelho]Vitória Sindical Maior![/color][/bold]
+- A bomba atômica explode na estação.
+- A tripulação escapa no evac, mas a bomba ainda está armada.
+- A bomba atômica está armada e entregue ao Comando Central no shuttle de evacuação.
 
-  [bold][color=red]Syndicate Minor Victory[/color][/bold]
-  - The crew escapes on evac, but every operative survives.
-  - The crew escapes and some operatives die, but the crew loses the disk.
+[bold][color=vermelho]Vitória Menor do Sindicato[/color][/bold]
+- A tripulação foge no evac, mas todos os operativos sobrevivem.
+- A tripulação foge e alguns operativos morrem, mas a tripulação perde o disco.
 
-  [bold][color=#999999]Neutral Victory[/color][/bold]
-  - The nuke detonates off the station.
+[bold][color=#999999]Vitória Neutra[/color][/bold]
+- A bomba atômica explode fora da estação.
 
-  [bold][color=green]Crew Minor Victory[/color][/bold]
-  - The crew escapes on evac with the disk and some operatives die.
+[bold][color=verde]Vitória Menor da Tripulação[/color][/bold]
+- A tripulação foge com o disco durante a evacuação e alguns operativos morrem.
 
-  [bold][color=green]Crew Major Victory![/color][/bold]
-  - All operatives die.
-  - The crew blow up the nuclear operative outpost with the nuke.
+[bold][color=verde]Vitória Maior da Tripulação![/color][/bold]
+- Todos os operativos morrem.
+- A tripulação explode o posto avançado do operativo nuclear com a bomba.
 </Document>

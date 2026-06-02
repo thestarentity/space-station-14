@@ -1,12 +1,12 @@
 <Document>
-# Chemist
-Now you've done it. You picked the one job where -math- is mandatory. Grab your beaker, pull up a chair, and get cracking, it's time to cook up some chems.
+# Químico
+Agora você fez isso. Escolheu o cargo onde -matemática- é obrigatória. Pegue seu béquer, puxe uma cadeira e comece a trabalhar, é hora de preparar alguns químicos.
 
-While chemists primarily make medications, there's a very wide variety of chemicals that can be made, all of which are showcased in the Chemicals entry of the Guidebook.
+Embora os químicos principalmente façam medicamentos, existe uma variedade muito ampla de químicos que podem ser produzidos, todos os quais são apresentados na entrada Químicos do Guia.
 
 [textlink="Click here to see a complete list of chemicals." link="Chemicals"]
 
-## Equipment:
+## Equipamento:
 
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
@@ -22,25 +22,38 @@ While chemists primarily make medications, there's a very wide variety of chemic
     <GuideEntityEmbed Entity="PillCanister"/>
   </Box>
 
-## The Basics:
-Chemistry is fairly straightforward once you know what to expect. Here's a simple, step-by-step process on how to begin.
+## Os Fundamentos:
+A química é bem direta uma vez que você saiba o que esperar. Aqui está um processo simples, passo a passo, de como começar.
 
-- Grab a beaker, Pill Canister, and if desired, some Bottles.
-- Place the beaker in the Chemical Dispenser, and Pill Canister (or bottle) in the Chem Master.
-- Open the Chemical Dispenser UI, and make your mix. Recipes are in other sections of the guidebook.
-- Alt-click the dispenser to remove your beaker, and place it in the Chem Master.
-- Open the Chem Master UI. On the Input tab, move your mix into the buffer.
-- Move to the Output tab, customise your pill, and press the Create button.
-- Alt-click the Chem Master to get the pill bottle out. You may have to remove the beaker first.
-- Click on a table, crate, or another surface to empty the pill bottle if desired. Alternatively, store or empty it into another storage container.
+- Pegue um béquer, um recipiente de pílulas e, se desejar, algumas garrafas.
+Coloque o béquer na Dispensadora de Químicos e o Frasco de Pílulas (ou garrafa) no Chem Master.
+Abra a interface do Dispositivo de Químicos e faça sua mistura. As receitas estão em outras seções do guia.
+Clique com o botão direito do mouse no distribuidor para remover seu béquer e colocá-lo no Chem Master.
+Abra a interface do Chem Master. Na aba de Entrada, mova sua mistura para o buffer.
+Mova-se para a aba Saída, personalize sua pílula e pressione o botão Criar.
+- Clique com o botão direito do mouse no Chem Master para tirar a garrafa de comprimidos. Você pode precisar remover o béquer primeiro.
+- Clique em uma mesa, caixa ou outra superfície para esvaziar a garrafa de pílulas, se desejar. Alternativamente, armazene ou esvazie-a em outro recipiente de armazenamento.
 
-That's it, you've made your first set of pills! Consider checking with Medical Doctors and other crew to see what else may be requested, refilling the medical kits in medbay storage, or just experimenting!
+Isso aí, você fez sua primeira pilha! Considere consultar Médicos e outros tripulantes para ver o que mais pode ser solicitado, reabastecer os kits médicos no armazenamento da enfermaria, ou simplesmente experimentar!
 
-You can also use the hand labeler to organize individual bottles or bags without using the Chem Master labeling system.
+Você também pode usar o rótulo manual para organizar frascos ou sacos individuais sem utilizar o sistema de rótulos do Chem Master.
 
-## Extra Content:
+## Aqui estão algumas substâncias químicas comuns que você pode encontrar no laboratório de química. Cada uma tem usos específicos, e algumas podem ser perigosas se manipuladas incorretamente. Certifique-se de seguir todas as normas de segurança ao trabalhar com elas.
 
-Speaking of experimentation, there are a few more toy you can use when it comes to chemistry. This job requires a lot of trial and error, but it was worth mentioning that these things exist! It's up to you to figure out what to make with them.
+- Ácido clorídrico (HCl): Um ácido forte usado para limpeza e em reações químicas. Pode causar queimaduras graves se entrar em contato com a pele ou os olhos.
+- Hidróxido de sódio (NaOH): Uma base forte, também conhecida como soda cáustica. Muito corrosivo e perigoso se não for manipulado com cuidado.
+- Ácido acético (CH₃COOH): O ácido encontrado no vinagre. Menos perigoso que o HCl ou o NaOH, mas ainda assim pode causar irritação se não for tratado com cuidado.
+- Álcool isopropílico (C₃H₈O): Usado como desinfetante e solvente. É inflamável e deve ser armazenado longe de fontes de calor.
+- Peróxido de hidrogênio (H₂O₂): Usado como desinfetante e agente oxidante. Pode causar queimaduras e é instável em altas concentrações.
+- Cloreto de sódio (NaCl): O sal comum. Usado em diversos experimentos e como conservante.
+- Ácido nítrico (HNO₃): Um ácido forte e oxidante. Pode causar queimaduras graves e é altamente corrosivo.
+- Sulfato de cobre (CuSO₄): Usado como fungicida e em reações químicas. Pode ser tóxico se ingerido ou inalado.
+- Ácido sulfúrico (H₂SO₄): Um ácido muito forte e corrosivo. Usado em baterias e reações químicas. Muito perigoso se não for manipulado com cuidado.
+- Etanol (C₂H₅OH): Um álcool comum usado como solvente e combustível. É inflamável e deve ser armazenado com cuidado.
+
+Lembre-se sempre de usar equipamento de proteção, como luvas, óculos de proteção e roupas de laboratório, ao manipular substâncias químicas. Se ocorrer uma exposição acidental, procure imediatamente a enfermaria para tratamento.
+
+Falando em experimentação, existem alguns brinquedos a mais que você pode usar quando se trata de química. Esse cargo exige muitos testes e erros, mas vale a pena mencionar que essas coisas existem! É com você descobrir o que fazer com elas.
 
   <Box>
     <GuideEntityEmbed Entity="ModularGrenade"/>
