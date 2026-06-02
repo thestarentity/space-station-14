@@ -2,7 +2,7 @@
 
 ## General stuff
 
-ui-info-title = Selecione o tipo de Borg que você deseja criar. Cada tipo tem habilidades e características únicas.
+ui-info-title = Informação
 ui-info-tab-rules = Regras do Servidor
 ui-info-tab-tutorial = Tutorial
 
