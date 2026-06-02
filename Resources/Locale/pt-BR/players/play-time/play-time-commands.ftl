@@ -11,9 +11,9 @@ cmd-playtime_addoverall-arg-user = <user name>
 cmd-playtime_addoverall-arg-minutes = <minutes>
 cmd-playtime_addoverall-error-args = Foram fornecidos argumentos incorretos. É esperado exatamente dois argumentos.
 # - playtime_addrole
-cmd-playtime_addrole-desc = Adiciona o número especificado de minutos ao tempo de interpretação de papel de um jogador
+cmd-playtime_addrole-desc = Adiciona o número especificado de minutos ao tempo de jogo no cargo de um jogador
 cmd-playtime_addrole-help = Uso: { $command } <nome do usuário> <cargo> <minutos>
-cmd-playtime_addrole-succeed = Aumentado o tempo de interpretação do papel para { $username } / \'{ $role }\' para { TOSTRING($time, "dddd\\:hh\\:mm") }
+cmd-playtime_addrole-succeed = Aumentado o tempo de jogo no cargo para { $username } / \'{ $role }\' para { TOSTRING($time, "dddd\\:hh\\:mm") }
 cmd-playtime_addrole-arg-user = <user name>
 cmd-playtime_addrole-arg-role = <role>
 cmd-playtime_addrole-arg-minutes = <minutes>

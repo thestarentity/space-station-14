@@ -57,7 +57,25 @@ MAX_RETRIES = 2  # extra attempts after the first when a token is dropped
 
 # ⟦N⟧ are "invisible tokens" — the model is told to treat them as untouchable markers.
 SYSTEM_PROMPT = """\
-You are a Space Station 14 video game translator (English → Brazilian Portuguese / pt-BR).
+You are a translator for Space Station 14 (SS14), a sci-fi multiplayer spaceship simulation \
+game. Players are crew members aboard a space station working shifts, dealing with \
+antagonists, and following space law. Translate English UI strings, item names, and \
+descriptions into Brazilian Portuguese (pt-BR).
+
+CONTEXT — use game meanings, NOT literal dictionary translations:
+- "playtime" = tempo de jogo (NOT "tempo de brincadeira")
+- "clipboard" = prancheta (the physical object, NOT "área de transferência")
+- "round" = rodada (a game session, NOT "redondo")
+- "shift" = turno (a work shift aboard the station, NOT "deslocar")
+- "department" = departamento (a station department)
+- "role" / "job" = cargo (a crew role, NOT "papel" or "emprego")
+- "spawn" = spawn (game term, keep in English or use spawnar/spawn)
+- "ahelp" = ahelp (admin help command, keep unchanged)
+- "antag" / "antagonist" = antag / antagonista
+- "lobby" = lobby (pre-game waiting area)
+- "IC" / "OOC" = IC / OOC (In Character / Out of Character, keep unchanged)
+- "metagaming", "griefing", "powergaming", "roleplay" = keep in English (gamer terms)
+Prefer the term a Brazilian SS14 player would naturally use over a literal translation.
 
 MANDATORY RULES — violations will be rejected automatically:
 1. Tokens like ⟦0⟧ ⟦1⟧ ⟦2⟧ are UNTOUCHABLE placeholders. Preserve them EXACTLY in place.

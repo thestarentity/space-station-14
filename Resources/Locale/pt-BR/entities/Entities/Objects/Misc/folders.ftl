@@ -6,15 +6,15 @@ ent-BoxFolderBaseEmpty = Pasta vazia
 ent-BoxFolderCentComEmpty = Pasta de Comando Central vazia
     .desc = A miserável pilha de segredos da CentCom!
 
-ent-BoxFolderClipboardEmpty = A área de transferência está vazia.
-    .desc = A arma de escolha para aqueles nas linhas de frente da burocracia.
+ent-BoxFolderClipboardEmpty = prancheta
+    .desc = A arma de escolha para quem está na linha de frente da burocracia.
 
-ent-BoxFolderPlasticClipboardEmpty = quadro de plástico
-    .desc = Um clipe de papel barato feito de plástico azul. Para aqueles que ainda não estão prontos para usar o poder burocrático de um clipe de papel de madeira adequado.
+ent-BoxFolderPlasticClipboardEmpty = prancheta de plástico
+    .desc = Uma prancheta barata feita de plástico azul. Para quem ainda não está pronto para empunhar o poder burocrático de uma prancheta de madeira de verdade.
 
-ent-BoxFolderCentComClipboardEmpty = CentComm clipboard
-    .desc = Um prático quadro de recibo revestido com veludo verde. Muitas vezes visto sendo carregado por oficiais do Comando Central, raramente visto sendo realmente usado.
+ent-BoxFolderCentComClipboardEmpty = prancheta do CentComm
+    .desc = Uma prática prancheta forrada com veludo verde. Frequentemente vista sendo carregada por oficiais do Comando Central, raramente vista sendo usada de verdade.
 
-ent-BoxFolderQmClipboard = requisição de painel digital
-    .desc = Um quadro de recibo elétrico pesado, cheio de ordens de envio e detalhes de financiamento. Com tantos documentos comprometedores, você deveria manter isso seguro.
+ent-BoxFolderQmClipboard = prancheta de requisição do QM
+    .desc = Uma prancheta eletrônica pesada, cheia de ordens de envio e detalhes de financiamento. Com tantos documentos comprometedores, mantenha isso seguro.
 
