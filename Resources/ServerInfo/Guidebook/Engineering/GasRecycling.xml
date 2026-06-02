@@ -1,25 +1,25 @@
 <Document>
-  # Gas Recycling
-  Gas recycler is a machine that converts waste gasses into breathable ones.
+  # Reciclagem de Gás
+O reciclador de gás é uma máquina que converte gases residuais em gases respiráveis.
 
   <Box>
     <GuideEntityEmbed Entity="GasRecycler"/>
   </Box>
-  Specificaly it can recycle Carbon Dioxide and Nitrous Oxide into Oxygen and Nitrogen.
+Especificamente, ele pode reciclar Dióxido de Carbono e Óxido Nitroso em Oxigênio e Nitrogênio.
 
-  The machine has a two [textlink="pipenet" link="PipeNetworks"] connections, for gas input and output.
+A máquina possui duas conexões [textlink="pipenet" link="PipeNetworks"], uma para entrada de gás e outra para saída.
 
-  For recycler to work, tha gas needs to be pressurized to [color=#a4885c]3000 kPa[/color] heated to [color=#a4885c]573,15K[/color], and the pressure at the inlet needs to be higher than outlet.
-  If these conditions are not met, the gases will just pass through without getting recycled (as will unrecyclable gases).
+Para que o reciclador funcione, o gás precisa estar pressurizado a [color=#a4885c]3000 kPa[/color], aquecido a [color=#a4885c]573,15K[/color], e a pressão na entrada precisa ser maior que a da saída.
+Se essas condições não forem atendidas, os gases simplesmente passarão por ali sem serem reciclados (assim como gases que não podem ser reciclados).
 
   <Box>
     <GuideEntityEmbed Entity="GasRecyclerMachineCircuitboard" Caption="Gas recycler circuit board"/>
   </Box>
 
-  The machine can be constructed using a circuit board, which can be made at a circuit imprinter.
-  It first needs to be researched by [textlink="science" link="Science"] though.
+A máquina pode ser construída usando um circuito impresso, que pode ser feito em uma impressora de circuitos.
+Ele primeiro precisa ser pesquisado pela [textlink="science" link="Science"] though.
 
-  Gas recycling can be used as an alternative to gas miners, or as a backup to build a redundancy in the atmospheric system.
-  [color=#a4885c]Just don't forget to cool the gas before releasing it into the station![/color]
+A reciclagem de gás pode ser usada como alternativa aos mineradores de gás, ou como backup para criar uma redundância no sistema atmosférico.
+Só não esqueça de resfriar o gás antes de liberá-lo para a estação!
 
 </Document>

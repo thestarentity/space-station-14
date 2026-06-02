@@ -1,6 +1,6 @@
 ﻿<Document>
-  # Valves
-  Valves are a quick way to halt or permit gas flow through a [textlink="pipenet" link="PipeNetworks"].
+  # Válvulas
+Válvulas são uma forma rápida de parar ou permitir o fluxo de gás através de uma [textlink="pipenet" link="PipeNetworks"].
   <Box>
     <GuideEntityEmbed Entity="GasValve"/>
     <GuideEntityEmbed Entity="SignalControlledValve"/>
@@ -8,9 +8,9 @@
     <GuideEntityEmbed Entity="GasPassiveGate"/>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
-  All valves do not require [textlink="power" link="Power"] to operate.
+Todos os válvulas não requerem [textlink="power" link="Power"] para operar.
 
-  Valves may look simple, but they can enable a wide variety of complex pipe systems, including:
-  - Signal valves responding to air alarm or logic gate outputs
-  - Pneumatic valves controlling variable venting of waste gasses from a burn chamber
+As válvulas podem parecer simples, mas podem permitir uma variedade ampla de sistemas de tubulação complexos, incluindo:
+- Sinalizar válvulas respondendo a alarme de ar ou saídas de portas lógicas
+- Válvulas pneumáticas que controlam o venting variável de gases residuais de uma câmara de queima
 </Document>

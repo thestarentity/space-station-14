@@ -1,34 +1,34 @@
 ﻿<Document>
-  # Singularity Engine
-  The Singularity Engine is a powerful generator that uses a contained singularity to produce energy for the station.
+  # Motor da Singularidade
+A Singularity Engine é um gerador poderoso que usa uma singularidade contida para produzir energia para a estação.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator"/>
     <GuideEntityEmbed Entity="Singularity"/>
   </Box>
 
-  It generates power by collecting the radiation emitted by the singularity using Radiation Collectors and gaseous plasma.
+Ele gera energia coletando a radiação emitida pela singularidade usando Coletadores de Radiação e plasma gasoso.
 
-  ## Starting the Singularity Engine
-  To start the Singularity Engine, engineers must follow these steps:
-  - Place the Singularity Generator in the middle of the containment field. Some stations start with the generator already in place, while others require engineers to bring it from cold storage.
-  - Turn on the four Containment Field Generators.
-  - Turn on and lock the Emitters.
-  - Confirm that the Containment Field Generators have created a Containment Field around the Singularity.
-  - Turn on the Radiation Collectors. These require plasma to produce power. They might not come fueled, so be sure to refill them.
-  - Construct the Particle Accelerator.
-  - Turn on the Particle Accelerator Control Computer and set the power level to the desired power level.
+  ## Iniciando o Motor de Singularidade
+Para iniciar o Motor de Singularidade, os engenheiros devem seguir estas etapas:
+- Coloque o Gerador de Singularidade no centro do campo de contenção. Algumas estações já começam com o gerador em seu lugar, enquanto outras exigem que os engenheiros o tragam da armazenagem fria.
+- Ligue os quatro Geradores de Campo de Contenção.
+- Ligue e trave os Emitters.
+- Confirme que os Geradores de Campo de Contenção criaram um Campo de Contenção em torno da Singularidade.
+- Ligue os Coletores de Radiação. Eles requerem plasma para produzir energia. Talvez eles não estejam abastecidos, então certifique-se de recarregá-los.
+- Construa o Acelerador de Partículas.
+- Ligue o Computador de Controle do Acelerador de Partículas e defina o nível de potência para o nível de potência desejado.
 
-  Once these steps are complete, the Singularity Engine will start producing power for the station.
-  Be sure to monitor the singularity's power level and containment field to prevent it from escaping and destroying the station.
-  Check in to refill the collectors often, as they will run out of plasma over time.
+Uma vez que esses passos estejam concluídos, o Motor de Singularidade começará a produzir energia para a estação.
+Certifique-se de monitorar o nível de energia da singularidade e o campo de contenção para evitar que ela escape e destrua a estação.
+Verifique regularmente os coletores para reabastecê-los, pois eles acabarão com o plasma ao longo do tempo.
 
-  ## Containment Field
-  To prevent the singularity from escaping and destroying the station, engineers must contain it within a Containment Field.
+  ## Campo de Contenção
+Para impedir que a singularidade escape e destrua a estação, os engenheiros devem contê-la dentro de um Campo de Contenção.
 
-  It is suggested to use a max size containment field for the singularity. Any smaller and the singularity may outgrow its field and escape.
+É recomendado usar um campo de contenção de tamanho máximo para a singularidade. Qualquer coisa menor e a singularidade pode crescer além do seu campo e escapar.
 
-  Containment field generators should be arranged in a square, with 7 tiles of spacing between each field generator.
+Os geradores de campos de contenção devem ser dispostos em um quadrado, com 7 tiles de distância entre cada gerador de campo.
 
   <Box>
     <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
@@ -36,42 +36,42 @@
     <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
   </Box>
 
-  ## Power Levels and Decay
-  Because singularities emit radiation, they decay, losing power over time.
+  ## Níveis de Potência e Decaimento
+Porque singularidades emitem radiação, elas decaem, perdendo poder ao longo do tempo.
 
-  To counter this decay, the Particle Accelerator emits particles that collide with the singularity, feeding and sustaining it.
+Para combater esse decaimento, o Acelerador de Partículas emite partículas que colidem com a singularidade, alimentando e sustentando-a.
 
-  Singularities have defined power levels, which determine their radiation output.
-  Engineers can increase or decrease the singularity's power level by adjusting the power level on the Particle Accelerator Control Computer.
+Singularidades possuem níveis de potência definidos, que determinam sua saída de radiação.
+Engenheiros podem aumentar ou diminuir o nível de potência da singularidade ajustando o nível de potência no Computador de Controle do Acelerador de Partículas.
 
-  Particle Accelerators normally operate between power levels 1 and 3, which translate to a power level of 1 to 3 on the singularity.
+Aceleradores de Partículas normalmente operam entre níveis de potência 1 e 3, que correspondem a um nível de potência de 1 a 3 na singularidade.
 
-  Power levels also determine how big the singularity is, with higher power levels sustaining larger singularities capable of producing more power.
+Os níveis de energia também determinam o tamanho da singularidade, com níveis de energia mais altos sustentando singularidades maiores, capazes de produzir mais energia.
 
-  ## Producing Power
-  The Singularity Engine produces power by capturing the radiation emitted by it using Radiation Collectors.
+  ## Gerando Energia
+O Motor de Singularidade produz energia capturando a radiação emitida por ele usando Coletoras de Radiação.
   <Box>
     <GuideEntityEmbed Entity="RadiationCollector"/>
     <GuideEntityEmbed Entity="PlasmaTank"/>
   </Box>
-  They require gaseous plasma to function. The plasma containers attached to the collectors must be filled with plasma to produce power.
+Eles requerem plasma gasoso para funcionar. Os recipientes de plasma anexados aos coletadores devem ser preenchidos com plasma para gerar energia.
 
-  You can turn on the collectors by interacting with them using [color=yellow][bold][keybind="Use"][/bold][/color].
+Você pode ligar os coletores interagindo com eles usando [color=yellow][bold][keybind="Use"][/bold][/color].
 
-  You can also eject the tank by interacting with the collector using [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
-  From here, you can refill the tank with plasma using a plasma canister and reinsert it into the collector.
+Você também pode ejetar o tanque interagindo com o coletor usando [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
+A partir daqui, você pode recarregar o tanque com plasma usando um recipiente de plasma e reinserti-lo no coletor.
 
-  The maximum power the radiation collector can produce is determined by:
-  - The amount of radiation it is capturing (which is effectively the Singularity's power level)
-  - The amount of plasma it has in its connected tank
+O máximo de energia que o coletor de radiação pode produzir é determinado por:
+- A quantidade de radiação que ele está capturando (que efetivamente é o nível de potência da Singularidade)
+- A quantidade de plasma que ele tem no seu tanque conectado
 
-  Over time the collector will drain the tank of plasma, which reduces it's effective power output.
-  Eventually the tank will be empty, and the collector will stop producing power. Be sure to refill the tank often!
+Com o tempo, o coletor drenará o tanque de plasma, reduzindo sua saída de potência efetiva.
+No final, o tanque ficará vazio e o coletor parará de produzir energia. Certifique-se de reabastecer o tanque com frequência!
 
-  ## Radiation Protection
-  The singularity emits a massive amount of radiation, which can kill crew members who are not wearing proper protection.
-  Be sure to wear a radiation suit or an engineering hardsuit when working near the singularity.
-  This won't completely negate the radiation, but it will reduce the damage you take.
+  ## Proteção contra Radiação
+A singularidade emite uma quantidade massiva de radiação, que pode matar tripulantes que não estão usando proteção adequada.
+Certifique-se de usar um traje de radiação ou um traje de engenharia quando trabalhar perto da singularidade.
+Isso não anulará completamente a radiação, mas reduzirá os danos que você sofre.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitEngineering"/>
@@ -83,23 +83,23 @@
     <GuideEntityEmbed Entity="GeigerCounter"/>
   </Box>
 
-  The Chief Engineer has a special hardsuit that negates all radiation damage, which allows them to work near the singularity without fear of accumulating radiation damage over time.
+O Engenheiro-Chefe possui um traje especial que anula todos os danos por radiação, permitindo que ele trabalhe perto da singularidade sem medo de acumular danos por radiação ao longo do tempo.
 
-  ## Singularity Properties
-  The Singularity has several properties, which both make it dangerous and useful for power generation:
-  - It has a strong gravitational pull that can suck in objects and crew members.
-  - It has an event horizon, which can permanently destroy any object that touches it, whether it be a crew member or station equipment. Any object swallowed by the singularity is lost forever, and feeds the singularity.
-  - It constantly emits radiation that can harm crew members who aren't wearing proper protection.
-  - The singularity can decay over time, losing power and radiation output.
+  ## Propriedades da Singularidade
+A Singularidade possui várias propriedades, que a tornam perigosa e úteis para geração de energia:
+- Ele possui uma forte atração gravitacional que pode sugar objetos e tripulantes.
+- Ele possui um horizonte de eventos, que pode destruir permanentemente qualquer objeto que o toque, sejam membros da tripulação ou equipamentos da estação. Qualquer objeto engolido pela singularidade é perdido para sempre e alimenta a singularidade.
+- Ele emite constantemente radiação que pode prejudicar tripulantes que não estão usando proteção adequada.
+- A singularidade pode se degradar ao longo do tempo, perdendo potência e saída de radiação.
 
-  ## Loosed Singularity (Singuloose)
-  If the singularity escapes its containment field, it will begin to consume the station, destroying everything in its path.
-  The more it consumes, the larger it grows, making it harder to potentially contain it again.
+  ## Singularidade Solta (Singuloose)
+Se a singularidade escapar do seu campo de contenção, ela começará a consumir a estação, destruindo tudo no seu caminho.
+Quanto mais consome, maior fica, tornando mais difícil contê-lo novamente.
 
-  The singularity can be destroyed by firing antiparticles at it using a Portable Particle Decelerator, but this is a risky and dangerous operation that requires careful planning and execution.
-  Often multiple decelerators firing at once are needed to destroy a singularity.
+A singularidade pode ser destruída atirando antipartículas nela usando um Decelerador de Partículas Portátil, mas essa é uma operação arriscada e perigosa que exige planejamento e execução cuidadosos.
+Muitas vezes são necessários múltiplos deceleradores atuando ao mesmo tempo para destruir uma singularidade.
 
-  Portable Particle Decelerators can be either researched and made by the Research Department, or they can be bought from Cargo.
+Os Deceleradores de Partículas Portáteis podem ser pesquisados e fabricados pelo Departamento de Pesquisa, ou comprados no Cargo.
 
   <Box>
     <GuideEntityEmbed Entity="WeaponParticleDecelerator"/>

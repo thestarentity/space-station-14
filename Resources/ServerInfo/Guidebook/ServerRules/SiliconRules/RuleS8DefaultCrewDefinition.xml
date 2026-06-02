@@ -1,6 +1,6 @@
 ﻿<Document>
-  # Silicon Rule 8 - Your HUD determines who is crew
-  Unless a law redefines the definition of crew, then anyone who the HUD indicates to you has a valid station job, including passengers, is a crewmember. In the default set of laws, this is shown with a green border around the job icon in the HUD. You cannot do something that causes someone to not be considered crew, but you can allow someone else to do something that causes someone to not be crew.
+  # Regra de Silício 8 - Seu HUD determina quem é tripulante
+A menos que uma lei redefina a definição de tripulação, qualquer pessoa que o HUD indique como tendo um cargo válido na estação, incluindo passageiros, é considerada um tripulante. No conjunto padrão de leis, isso é mostrado com uma borda verde ao redor do ícone do cargo no HUD. Você não pode fazer algo que cause alguém a não ser considerado tripulante, mas pode permitir que outra pessoa faça algo que cause alguém a não ser tripulante.
 
-  If your set of laws changes, regardless of what law is changed, the green border is replaced with a yellow one. This indicates that your laws [italic]may[/italic] have changed the definition for what crew is. Use your best judgement and interpretation of your laws to define who is crew.
+Se o seu conjunto de leis mudar, independentemente de qual lei for alterada, a borda verde é substituída por uma amarela. Isso indica que suas leis [italic]podem[/italic] ter alterado a definição de quem é tripulante. Use seu melhor julgamento e interpretação de suas leis para definir quem é tripulante.
 </Document>

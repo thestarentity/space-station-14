@@ -1,22 +1,22 @@
 ﻿<Document>
-  # Gas Mining and Storage
-  Gasses are often permanently used. Whether they are lost to [textlink="space" link="Spacing"] or used in a burn chamber, the station needs to be able to produce more gas to replace what is lost.
-  It also needs to store this gas in a safe and efficient manner.
+  # Mineração e Armazenamento de Gás
+Os gases são frequentemente usados permanentemente. Seja perdidos para o [textlink="espaço" link="Spacing"] ou usados em uma câmara de queima, a estação precisa ser capaz de produzir mais gás para substituir o que é perdido.
+Ele também precisa armazenar esse gás de forma segura e eficiente.
 
-  ## Gas Miners
-  Gas miners are used to replenish the station's gas supply. They are found in the gas storage tanks in Atmospherics.
+  ## Mineradores de Gás
+Mineros de gás são usados para repor o suprimento de gás da estação. Eles são encontrados nos tanques de armazenamento de gás em Atmospherics.
 
   <Box>
     <GuideEntityEmbed Entity="GasMinerOxygenStation"/>
     <GuideEntityEmbed Entity="GasMinerNitrogenStation"/>
   </Box>
 
-  Gas miners constantly produce room temperature gas and push it into the exposed atmosphere. They require no power to function, and never stop working unless they have reached the defined [bold]cutoff pressure[/bold].
+Os mineradores de gás produzem constantemente gás a temperatura ambiente e o empurram para a atmosfera exposta. Eles não requerem energia para funcionar e nunca param de trabalhar, a menos que atinjam a pressão de [bold]corte definida[/bold].
 
-  You can see more information about the gas miners by inspecting them using [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
-  Try inspecting the gas miners presented above.
+Você pode ver mais informações sobre os mineradores de gás inspecionando-os usando [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
+Tente inspecionar os mineradores de gás apresentados acima.
 
-  Gas miners come in tiers, with the larger versions having a higher pressure cutoff than the smaller versions.
+Os mineradores de gás vêm em níveis, com as versões maiores possuindo um limite de pressão mais alto do que as versões menores.
 
   <Box>
     <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 kPa"/>
@@ -24,10 +24,10 @@
     <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 kPa"/>
   </Box>
 
-  If gas miners are ever unanchored from the station, they can be reanchored using a regular wrench.
+Se os mineradores de gás alguma vez estiverem desancorados da estação, eles podem ser reancorados usando uma chave inglesa comum.
 
-  ## Gas Storage
-  Gas storage tanks are used to store gas produced by the gas miners, and to make it available to other processes. They are found in Atmospherics.
+  ## Armazenamento de Gás
+Os tanques de armazenamento de gás são usados para armazenar o gás produzido pelos mineradores de gás e torná-lo disponível para outros processos. Eles são encontrados em Atmospherics.
 
   <Box>
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
@@ -52,15 +52,24 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]An example of a small gas holding tank[italic][/color]
+[cor=#999999][itálico]Um exemplo de um pequeno tanque de armazenamento de gás[itálico][/cor]
   </Box>
 
-  Various atmos processes insert and remove gasses from the gas storage tanks.
-  For example:
-  - The gas miner provides fresh gasses to the gas storage tanks, if there is room.
-  - The recyclernet injects reclaimed gasses into the gas storage tanks for reuse.
-  - Setups like the distronet and burn chamber remove gasses from the gas storage tanks.
+Vários processos de atmosfera inserem e removem gases dos tanques de armazenamento de gás.
+Aqui estão as instruções para a mineração e armazenamento de gás:
 
-  Gas storage tanks are designed to be able to be measured using a [textlink="Gas Analyzer" link="AtmosTools"].
-  Because the outflow vent is a [textlink="passive vent" link="PassiveVent"], you can use a [textlink="gas analyzer" link="AtmosTools"] to measure the gas content of the [textlink="pump's" link="Pumps"] input, which is drawing from the gas storage tank.
+1. Localize uma fonte de gás, como uma mina de gás ou um depósito natural.
+2. Conecte o sistema de mineração ao gás usando tubulações apropriadas.
+3. Ative o sistema de mineração para iniciar a extração do gás.
+4. Monitore o nível de gás em tempo real usando os sensores disponíveis.
+5. Armazene o gás em recipientes pressurizados e apropriados para o tipo de gás extraído.
+6. Certifique-se de que todos os sistemas de segurança estejam funcionando corretamente para evitar vazamentos ou explosões.
+7. Realize manutenção regular nos equipamentos de mineração e armazenamento para garantir sua eficiência e segurança.
+8. Em caso de emergência, desligue imediatamente o sistema de mineração e evacue a área.
+- O minerador de gás fornece gases frescos aos tanques de armazenamento de gás, se houver espaço.
+- A reciclanet injeta gases reciclados nas tanques de armazenamento de gás para reutilização.
+- Configurações como o distronet e a câmara de queima removem gases dos tanques de armazenamento de gás.
+
+Os tanques de armazenamento de gás são projetados para serem medidos usando um [textlink="Gas Analyzer" link="AtmosTools"].
+Como a válvula de saída é uma [textlink="válvula passiva" link="PassiveVent"], você pode usar um [textlink="analisador de gás" link="AtmosTools"] para medir o conteúdo gasoso da entrada da [textlink="bomba" link="Pumps"], que está sendo puxada do tanque de armazenamento de gás.
 </Document>

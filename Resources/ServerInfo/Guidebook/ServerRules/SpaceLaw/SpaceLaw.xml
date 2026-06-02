@@ -1,78 +1,86 @@
 ﻿<Document>
-  # Space Law
-  On Space Station 14, stations operate under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to follow these laws.
+  # Direito Espacial
+Na Estação Espacial 14, as estações operam sob uma versão abreviada do direito espacial. Todos os tripulantes, passageiros e visitantes a bordo da estação são esperados para seguir estas leis.
 
-  Foreign invaders, such as nuclear operatives, ninjas, and pirates, are not protected under space law. Traitors are not foreign invaders so are usually protected by space law.
+Invasores estrangeiros, como operativos nucleares, ninjas e piratas, não são protegidos pela lei espacial. Traiçoeiros não são invasores estrangeiros e, portanto, normalmente são protegidos pela lei espacial.
 
-  Space Law is not the server rules, but some rules reference Space Law and require it to be followed by certain people or to some degree.
+A Lei Espacial não são as regras do servidor, mas algumas regras se referem à Lei Espacial e exigem que sejam seguidas por certas pessoas ou em determinada medida.
 
-  ## Treatment Of Prisoners
-  Prisoners still have certain rights that must be upheld by law enforcement:
-  - Prisoners must be granted adequate medical care.
-  - Prisoners must be allowed access to basic communications equipment (headsets or radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA after confinement has finished, unless there is solid proof of PDA tampering. In case of tampering, the PDA is to be secured and replaced with a new unit.
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  ## Tratamento de Presos
+Prisioneiros ainda possuem certos direitos que devem ser respeitados pela força policial:
+- Presos devem ser concedidos cuidados médicos adequados.
+- Presos devem ter acesso permitido a equipamentos básicos de comunicação (fones de ouvido ou rádios), desde que não sejam abusados.
+- Presos devem ser fornecidos com roupas, comida, água, abrigo e segurança. Se a cela não estiver mais segura, a prisão deve ser estabelecida em outro local.
+- Presos devem ser fornecidos acesso a um advogado durante uma interrogatório, se solicitado e disponível.
+- Presos devem receber seu PDA programado para o turno após o término da prisão, a menos que haja provas sólidas de manipulação do PDA. No caso de manipulação, o PDA deve ser mantido em segurança e substituído por um novo.
+- Presos devem ser concedida liberdade de movimento e não devem ser restringidos com algemas ou outros dispositivos após a prisão, a menos que haja um risco injustificado à vida e ao corpo. Da mesma forma, qualquer preso mantido para confinamento permanente deve ser mantido na cela comum e não deve ser confinado em uma cela solitária, a menos que represente um risco à vida e ao corpo.
 
-## Contraband
-  Contraband is a broad category of items that are illegal to use or carry on your person without the proper authorization. While there are not charges associated with carrying contraband, it is still prohibited. There are three general tiers of contraband, and they are governed by the following regulations:
+## Contrabando
+Contrabando é uma categoria ampla de itens que é ilegal usar ou carregar em sua pessoa sem a autorização adequada. Embora não haja multas associadas ao porte de contrabando, ele ainda é proibido. Existem três níveis gerais de contrabando, e eles são regidos pelas seguintes regulamentações:
 
-  - Minor Contraband: Any contraband which is restricted to a department other than Command or Security is minor contraband unless otherwise specified. The Captain or Head of Security may authorize individual use of minor contraband, and other department heads may authorize the usage of minor contraband restricted to their assigned department.
-  - Major Contraband: Any contraband which is restricted to the Command or Security department is major contraband unless otherwise specified. The Head of Security may authorize the use of contrband that is particularly restricted to Security, otherwise the Captain may authorize the usage of any major contraband.
-  - Highly Illegal Contraband: Highly illegal contraband includes Syndicate contraband and magical contraband. Without explicit authorization from Central Command, highly illegal contraband may only be used in the event of dire, immediate emergencies, and only to prevent death or gross bodily harm. Once the emergency is dealt with, the contraband should be stored in a secure location.
+- Contrabando Menor: Qualquer contrabando que é restringido a um departamento diferente de Comando ou Segurança é considerado contrabando menor, a menos que especificado de outra forma. O Capitão ou Chefe de Segurança podem autorizar o uso individual de contrabando menor, e outros chefes de departamento podem autorizar o uso de contrabando menor restringido ao seu departamento atribuído.
+- Contrabando Grave: Qualquer contrabando que é restrito ao Departamento de Comando ou Segurança é considerado contrabando grave, a menos que especificado de outra forma. O Chefe de Segurança pode autorizar o uso de contrabando que é particularmente restrito à Segurança, caso contrário, o Capitão pode autorizar o uso de qualquer contrabando grave.
+- Contrabando Altamente Ilegal: O contrabando altamente ilegal inclui contrabando do Sindicato e contrabando mágico. Sem autorização explícita do Comando Central, o contrabando altamente ilegal só pode ser usado em casos de emergências iminentes e graves, e apenas para prevenir a morte ou graves danos corporais. Uma vez que a emergência for resolvida, o contrabando deve ser armazenado em um local seguro.
 
-  Security is obligated to carry out the seizure of contraband through routine searches or when processing criminals in the brig, but may prioritize their other duties over confiscation if they see fit. With regards to contraband usage, Security is expected to follow the same regulations as everyone else. Confiscated contraband should be transferred to and stored securely within the Security department, or permanently disposed of. Collaborating with Cargo to sell confiscated contraband is highly encouraged, as it generally fetches a high value.
+A Segurança está obrigada a realizar a apreensão de contrabando por meio de buscas rotineiras ou ao processar criminosos na cela, mas pode priorizar suas outras tarefas sobre a apreensão se achar conveniente. Quanto ao uso de contrabando, a Segurança deve seguir as mesmas regulamentações que todos os outros. O contrabando apreendido deve ser transferido e armazenado de forma segura dentro do departamento de Segurança, ou descartado permanentemente. Colaborar com o Departamento de Carga para vender contrabando apreendido é fortemente incentivado, pois geralmente obtém um alto valor.
   
-  ## Search and Seizure
-  A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, and pockets. If any contraband is found during a search, the officer should confiscate the restricted items. Non-restricted items may be seized by Security if they were used to facilitate a crime. After the search is conducted, all legal items are to be returned to the person. A crewmate may legally decline any search conducted without probable cause or a warrant while the alert level is green. Random searches requiring no probable cause or warrant are permitted on any other alert level.
+  ## Busca e Apreensão
+Uma busca de pessoal é a apreensão dos objetos em uma mochila, mãos, casaco, cinto e bolsos de uma pessoa. Se qualquer contrabando for encontrado durante a busca, o oficial deve apreender os itens restritos. Itens não restritos podem ser apreendidos pela Segurança se forem usados para facilitar um crime. Após a busca, todos os itens legais devem ser devolvidos à pessoa. Um tripulante pode legalmente recusar qualquer busca realizada sem motivo provável ou mandado enquanto o nível de alerta estiver verde. Buscas aleatórias que não exigem motivo provável ou mandado são permitidas em qualquer outro nível de alerta.
 
-  A departmental search is the sweep of an entire area or department for contraband. It is recommended that the officers be extremely thorough, checking all lockers, crates, and doors. These can only be done with permission or, ideally, a warrant signed by the department head or highest-ranking command staff, which is the captain in most cases.
+Uma busca departamental é a varredura de uma área ou departamento inteiro em busca de contrabando. Recomenda-se que os oficiais sejam extremamente minuciosos, verificando todos os armários, caixas e portas. Essas buscas só podem ser realizadas com permissão ou, idealmente, com um mandado assinado pelo chefe do departamento ou pelo membro da equipe de comando mais alto, que normalmente é o capitão.
 
-  ## Implantation
-  Any prisoner in custody can be subjected to implantation or implant extraction procedures, so long as it's within reason. The process of adding or extracting an implant should not prolong the detainees sentence, meaning you can not hold them longer to perform the procedure, unless stated otherwise. A former inmate can be requested to undergo implantation/extraction at a later point in time; if they fit the circumstances during their confinement, they must comply. The following have been listed out with special circumstances, anything not in this list can still be applied, given proper legal context. A prisoner can still receive implantation/extraction procedures without meeting the circumstances if they give their clear permission.
+  ## Implantação
+Qualquer prisioneiro em custódia pode ser submetido a procedimentos de implante ou remoção de implante, desde que seja razoável. O processo de adicionar ou remover um implante não deve prolongar a sentença do detento, ou seja, você não pode mantê-los por mais tempo para realizar o procedimento, a menos que seja especificado de outra forma. Um ex-inmate pode ser solicitado a passar por implante/extração em um momento posterior; se eles se encaixarem nas circunstâncias durante sua confinamento, eles devem obedecer. Os seguintes foram listados com circunstâncias especiais, qualquer coisa que não esteja nesta lista ainda pode ser aplicada, desde que haja o contexto legal adequado. Um prisioneiro ainda pode receber procedimentos de implante/extração sem atender às circunstâncias se der sua permissão clara.
 
-  [color=#a4885c]Tracking Implants:[/color] Trackers can be applied to any suspect that has been convicted of a violent crime (the red crimes with a V suffix).
+[color=#a4885c]Implantes de Rastreamento:[/color] Rastreadores podem ser aplicados a qualquer suspeito que tenha sido condenado por um crime violento (os crimes vermelhos com o sufixo V).
 
-  [color=#a4885c]Mind Shields:[/color] Mind Shields can be administered to any suspect charged with a crime if there is reasonable and articulable suspicion to believe they committed the crime while under mind control. If there is undeniable proof of ongoing mind control on the station, such as a successful deconversion, all the following statements apply:
+[color=#a4885c]Escudos Mentais:[/color] Escudos Mentais podem ser administrados a qualquer suspeito acusado de um crime se houver suspeita razoável e articulável de que ele cometeu o crime sob controle mental. Se houver provas indiscutíveis de controle mental em andamento na estação, como uma desconversão bem-sucedida, todas as afirmações a seguir se aplicam:
 
-  - Crew can be required to be shielded and may be forcibly implanted if they refuse.
-  - If a suspect refuses to cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
-  - Unlike standard implantation you may indefinitely extend the duration of a prisoner's sentence until you finish issuing Mind Shields, so long as active attempts are made to procure implants and complete the implantation procedure.
+- A tripulação pode ser obrigada a usar escudo e pode ser implantada à força se recusar.
+- Se um suspeito se recusar a cooperar ou o implante falhar, ele pode ser acusado de Recusa de Proteção Mental.
+- Ao contrário da implantação padrão, você pode estender indefinidamente a duração da sentença de um prisioneiro até que termine de emitir Escudos Mentais, desde que sejam feitos esforços ativos para adquirir implantes e concluir o procedimento de implantação.
 
-  Usage of contraband implanters is a detainable offense, but it's not reasonable to detain someone solely for having an unidentified implant inside them.
+O uso de implantadores de contrabando é uma infração passível de detenção, mas não é razoável deter alguém apenas por ter um implante não identificado dentro dele.
 
-  ## Implant Removal
-  Any prisoner in custody can be subjected to implant extraction for a specific implant if there is reasonable suspicion they have it implanted. Detainees may not be forced or coerced into performing implant extraction on themselves against their will.
+  ## Remoção de Implantes
+Qualquer prisioneiro em custódia pode ser submetido à extração de implante para um implante específico se houver suspeita razoável de que ele o tenha implantado. Detidos não podem ser forçados ou coagidos a realizar a extração de implante por si mesmos contra sua vontade.
 
   ## Sentencing
-  From a server rules perspective, security officers are only responsible for ensuring that they only place sentences over 15 minutes where space law would allow permanent confinement. Informing the Warden is highly recommended, even for timed sentences. As long as those requirements are met, security officers not giving inappropriate sentence lengths is considered an in-character issue, not a rule issue.
+Punishment is determined by the severity of the crime and the intent behind it. The following are examples of possible sentences for various offenses:
 
-  The captain, HOS, and warden are responsible, within reason, for ensuring security officers place appropriate sentences that follow space law. If they are aware of an inappropriate sentence, including excessively long sentences, and if there is not an urgent threat or danger that they must prioritize, then they must work to correct that sentence. Unreasonable failures, as determined by game admins, of the captain, HOS, or warden to ensure space law is followed will be considered a rule issue, not an in-character issue.
+- Minor offenses (e.g., minor theft, vandalism): 1-7 days in the brig.
+- Moderate offenses (e.g., assault, sabotage): 7-30 days in the brig.
+- Major offenses (e.g., murder, treason): 30-90 days in the brig, or permanent exile from the station.
+- Capital offenses (e.g., premeditated murder, terrorism): Immediate execution.
 
-  Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Prisoners cooperating and on good behavior should have their sentences reduced. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+The Head of Security has the final say in determining the appropriate sentence for any given offense. All crewmembers are expected to abide by the laws of the station and the broader laws of space.
+Do ponto de vista das regras do servidor, os oficiais de segurança são responsáveis apenas por garantir que coloquem penas com mais de 15 minutos apenas onde a lei espacial permite confinamento permanente. Informar o Guarda é altamente recomendado, mesmo para penas temporais. Enquanto esses requisitos forem atendidos, oficiais de segurança que não dão penas inadequadas são considerados um problema de caracterização, não um problema de regra.
 
-  [color=#a4885c]Maximum Allowable Sentences:[/color] When sentencing a criminal, only the most severe crime should be considered for their maximum allowable sentence. If you charge someone with two or more different crimes, you should pick the highest crime that matches the case and use that to determine the sentence. Note that repeat offenders can still be charged with the tacked-on repeated crime charge.
+O capitão, o HOS e o carcereiro são responsáveis, dentro do razoável, por garantir que os oficiais de segurança imponham penas apropriadas que sigam a lei espacial. Se eles souberem de uma pena inadequada, incluindo penas excessivamente longas, e se não houver uma ameaça ou perigo urgente que precisem priorizar, então devem trabalhar para corrigir essa pena. Falhas irrazoáveis, determinadas pelos administradores do jogo, do capitão, HOS ou carcereiro para garantir que a lei espacial seja seguida serão consideradas um problema de regra, e não um problema in-character.
 
-  - Example: A suspect has committed a 2-01 (Grand Theft) and a 3-04 (Kidnapping). The maximum allowable sentence time would be 10 minutes due to 3-04 being the more severe crime.
-  - Example 2: A suspect commits a 4-00 (Breach of Custody) and a 4-04 (Attempted Murder). Those crimes are equal in terms of severity, therefore the maximum allowable sentence time would be 15 minutes.
-  - Example 3: A suspect committed an 4-04 (Attempted Murder) previously during the shift, and has done so again trying to kill the same victim, committing a 2-03 (Secure Trespass) in the process. The maximum allowable sentence is 18 minutes. 15 base for the 4-04, and 3 additional for being a repeat offender.
+Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Prisoners cooperating and on good behavior should have their sentences reduced. Always take into account the severity and only charge for what is needed for someone to learn their lesson.
+
+[color=#a4885c]Sentenças Máximas Permitidas:[/color] Ao condenar um criminoso, apenas o crime mais grave deve ser considerado para determinar a sentença máxima permitida. Se você acusar alguém de dois ou mais crimes diferentes, você deve escolher o crime mais alto que corresponda ao caso e usá-lo para determinar a sentença. Note que reincidivistas ainda podem ser acusados da carga criminal repetida.
+
+- Exemplo: Um suspeito cometeu um 2-01 (Furto Grave) e um 3-04 (Sequestro). O tempo máximo de pena permitido seria de 10 minutos, devido ao 3-04 ser o crime mais grave.
+- Exemplo 2: Um suspeito comete um 4-00 (Violação de Custódia) e um 4-04 (Tentativa de Matar). Esses crimes são iguais em termos de gravidade, portanto, o tempo máximo permitido de sentença seria de 15 minutos.
+- Exemplo 3: Um suspeito cometeu um 4-04 (Tentativa de Matar) anteriormente durante o turno, e o fez novamente tentando matar a mesma vítima, cometendo um 2-03 (Acesso Ilegal) no processo. A pena máxima permitida é 18 minutos. 15 básicos pelo 4-04, e 3 adicionais por ser um reincidente.
   
-  Remember, context matters heavily, and maximum sentences should only be used for the worst offenders.
+Lembre-se de que o contexto importa muito, e as penas máximas devem ser usadas apenas para os piores infratores.
 
-  [color=#a4885c]Repeat Offenders:[/color] Repeated crimes are when someone is released for a crime and then goes to commit the same crime within the same shift. Repeated crimes can be charged with tacked-on time; first repeat: 3:00, second repeat: 6:00, third repeat: permanent confinement. It should be noted each tacked-on time is directly linked to one charge, and that in the instance of multiple crimes being committed, you should use the longer time for the maximum allowable sentence. For example, if someone does their second repeat of Assault and one count of Kidnapping, their maximum allowable sentence would be 11 minutes. 5 from the Moderate crime of Assault plus 6 from the second repeat.
+[color=#a4885c]Reincidentes:[/color] Crimes repetidos ocorrem quando alguém é liberado após cometer um crime e, em seguida, comete o mesmo crime dentro do mesmo turno. Crimes repetidos podem ser cobrados com tempo adicional; primeira repetição: 3:00, segunda repetição: 6:00, terceira repetição: confinamento permanente. Deve-se notar que cada tempo adicional está diretamente ligado a uma acusação, e no caso de múltiplos crimes serem cometidos, você deve usar o tempo mais longo para a sentença máxima permitida. Por exemplo, se alguém cometer sua segunda repetição de Assalto e um crime de Sequestro, a sentença máxima permitida seria 11 minutos. 5 minutos pelo crime moderado de Assalto mais 6 minutos pela segunda repetição.
 
-  [color=#a4885c]Accessory, Attempting, And Intention:[/color] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with station-wide destruction.
-  ## Normal Punishments
-  - [color=#a4885c]Warning:[/color] For minor crimes, fix the issue, then warn the person not to attempt the crime again. If they still proceed to do it at a later date, a brig time may be better.
-  - [color=#a4885c]Confinement:[/color] The typical punishment, being confined in a cell for a temporary amount of time according to the crimes.
-  - [color=#a4885c]Demotion:[/color] Entails removing all departmental gear they have on their person and revoking the involved department access off their ID. This requires the captain's or involved department head's approval. Demotions should only be issued if the person pose a threat to their own department or are in a position where they have/can abuse their job's gear to commit further crimes.
+[color=#a4885c]Acessório, Tentativa e Intenção:[/color] Se alguém intencionalmente, de forma consciente e substancialmente ajuda alguém a cometer um crime, ele pode ser acusado dos crimes relevantes, como um engenheiro que dá ferramentas a alguém que diz que vai invadir uma área. Da mesma forma, uma tentativa clara e sólida de cometer um crime, ou uma pessoa que mostra clara intenção de cometer um crime, como um operativo nuclear do sindicato armando uma bomba nuclear, mas sendo preso antes que ela exploda, ainda pode ser acusado de destruição em toda a estação.
+  ## Punimentos Normais
+- [color=#a4885c]Aviso:[/color] Para crimes menores, corrija o problema, depois avise a pessoa para não tentar cometer o crime novamente. Se eles ainda assim procederem a cometer o crime em uma data posterior, uma prisão pode ser melhor.
+- [color=#a4885c]Confinamento:[/color] A punição típica, consistindo em confinamento em uma cela por um período temporário de acordo com os crimes.
+[color=#a4885c]Demissão:[/color] Envolve remover todos os equipamentos de departamento que eles têm em seu corpo e revogar o acesso ao departamento envolvido no seu cartão de identificação. Isso requer a aprovação do capitão ou do chefe do departamento envolvido. Demissões só devem ser emitidas se a pessoa representar uma ameaça ao seu próprio departamento ou estiver em uma posição onde pode/tem abusar do equipamento do seu cargo para cometer mais crimes.
 
-  ## Major Punishments
-  - [color=#a4885c]Permanent Confinement:[/color] Being held in the permanent brig for the entire duration of the shift. A person is eligible for permanent confinement if their timed sentence would exceed 15 minutes. Any persons subject to this punishment are required to be transported in cuffs to CentComm at the end of the shift. A permanent prisoner can not be deprived of anything covered by the section "Treatment Of Prisoners".
-  - [color=#a4885c]Execution:[/color] A humane way of dealing with extremely unruly crewmates. Within reason, a prisoner who has been given the death sentence may pick how they wish to be killed, common methods are firing line, lethal injection, exile, and high voltage electrocution. Another alternate method of "execution" is the process of placing a staff's mind into a borg, this is allowed so long as it is lawful. Execution can only be issued with the captain's or acting captain's approval; if the HoS is acting captain or there is no acting captain, all heads of staff are to hold a vote on the matter.
-  - [color=#a4885c]DNR:[/color] A DNR (do not resuscitate) order is an alternative to execution that may be placed on criminals subject to certain conditions. The criminal must be already dead prior to the order being placed, and available Security and/or Medical resources (including personnel) be in use for better purposes, such as a mass casualty scenario. The criminal must be eligible for execution, and the DNR must be authorized following the same procedure as an execution.
+  ## Punimentos Severos
+- [color=#a4885c]Confinamento Permanente:[/color] Ser mantido na cela permanente por toda a duração do turno. Uma pessoa é elegível para confinamento permanente se sua pena temporária ultrapassar 15 minutos. Qualquer pessoa submetida a este castigo deve ser transportada com algemas até o Comando Central ao final do turno. Um preso permanente não pode ser privado de nada previsto na seção "Tratamento dos Presos".
+- [color=#a4885c]Execução:[/color] Uma forma humana de lidar com tripulantes extremamente desobedientes. Dentro do razoável, um prisioneiro que recebeu a sentença de morte pode escolher como deseja ser morto, métodos comuns são linha de fogo, injeção letal, exílio e eletrochoque de alta voltagem. Outro método alternativo de "execução" é o processo de colocar a mente de um membro da equipe em um borg, isso é permitido desde que seja legal. A execução só pode ser emitida com a aprovação do capitão ou do capitão temporário; se o HoS estiver atuando como capitão temporário ou não houver capitão temporário, todos os chefes de departamento devem votar sobre a questão.
+- [color=#a4885c]DNR:[/color] Uma DNR (não reanimar) é uma alternativa à execução que pode ser aplicada a criminosos sob certas condições. O criminoso deve já estar morto antes da ordem ser emitida, e os recursos de Segurança e/ou Médicos disponíveis (incluindo pessoal) devem estar sendo utilizados para fins mais importantes, como um cenário de múltiplas vítimas. O criminoso deve ser elegível para execução, e a DNR deve ser autorizada seguindo o mesmo procedimento de uma execução.
 
-  ## Crime Listing
+  ## Lista de Crimes
   - [textlink="Crime Listing" link="SpaceLawCrimeList"]
 </Document>

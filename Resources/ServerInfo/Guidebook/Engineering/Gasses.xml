@@ -1,12 +1,12 @@
 ﻿<Document>
-  # Gasses
-  Gasses are a critical part of the station's operation.
-  You may know them as the stuff you breathe, but they are also used in many other ways.
+  # Gases
+Os gases são uma parte crítica da operação da estação.
+Você pode conhecê-los como a coisa que você respira, mas eles também são usados de muitas outras formas.
 
-  Gasses have certain properties that make them useful for different tasks.
-  Atmospherics can also synthesize exotic gasses from other gasses, which can be used for special purposes.
+Os gases possuem certas propriedades que os tornam úteis para diferentes tarefas.
+A atmosferia também pode sintetizar gases exóticos a partir de outros gases, os quais podem ser usados para propósitos especiais.
 
-  ## Oxygen
+  ## Oxigênio
   <Box>
     <GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
     <GuideEntityEmbed Entity="OxygenTank" Caption=""/>
@@ -15,12 +15,12 @@
     <GuideEntityEmbed Entity="EmergencyOxygenTank" Caption=""/>
   </Box>
 
-  A common gas, used by most species on the station to breathe.
+Um gás comum, usado pela maioria das espécies na estação para respirar.
 
-  Oxygen is an oxidizer, which means it supports combustion.
-  This makes it both useful when fusing gasses in a burn chamber, and dangerous when mixed with flammable gasses.
+O oxigênio é um oxidante, o que significa que ele apoia a combustão.
+Isso torna-o útil tanto ao fundir gases em uma câmara de queima quanto perigoso ao ser misturado com gases inflamáveis.
 
-  ## Nitrogen
+  ## Nitrogênio
   <Box>
     <GuideEntityEmbed Entity="NitrogenCanister" Caption=""/>
     <GuideEntityEmbed Entity="NitrogenTank" Caption=""/>
@@ -29,93 +29,95 @@
     <GuideEntityEmbed Entity="EmergencyNitrogenTank" Caption=""/>
   </Box>
 
-  An inert gas, used in part with oxygen to create a breathable atmosphere.
+Um gás inerte, usado em parte com oxigênio para criar uma atmosfera respirável.
 
-  Nitrogen is very stable and comprises most of a standard breathable atmosphere.
+O nitrogênio é muito estável e compõe a maioria de uma atmosfera respirável padrão.
 
-  Some species like Slimes breathe nitrogen, with the Vox species requiring strictly nitrogen to breathe.
+Alguns espécies, como os Slimes, respiram nitrogênio, com a espécie Vox exigindo estritamente nitrogênio para respirar.
 
-  ## Air Mix
+  ## Mistura de Ar
   <Box>
     <GuideEntityEmbed Entity="AirCanister" Caption=""/>
     <GuideEntityEmbed Entity="AirTank" Caption=""/>
   </Box>
 
-  A mixture of gasses that is breathable to most species on the station.
-  It consists of 21% oxygen and 79% nitrogen.
+Uma mistura de gases que é respirável para a maioria das espécies na estação.
+É composto por 21% de oxigênio e 79% de nitrogênio.
 
-  ## Carbon Dioxide
+  ## Dióxido de Carbono
   <Box>
     <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
   </Box>
 
-  A waste gas produced by most species on the station. A common byproduct of combustion.
+Um gás residual produzido por大多数 espécies na estação. Um subproduto comum da combustão.
 
-  Despite seeming useless, some departments use it in their line of work.
+Apesar de parecer inútil, alguns departamentos usam isso em seu trabalho.
 
-  ## Water Vapor
+  ## Vapor d'água
   <Box>
     <GuideEntityEmbed Entity="WaterVaporCanister" Caption=""/>
   </Box>
-  A common gas, produced by the burning of plasma and other processes.
+Um gás comum, produzido pela queima de plasma e outros processos.
 
-  Water vapor has a good specific heat capacity compared to other gasses, making it useful for moving heat around.
+O vapor d'água possui uma boa capacidade de calor específico em comparação com outros gases, tornando-o útil para mover calor por volta.
 
   ## Plasma
   <Box>
     <GuideEntityEmbed Entity="PlasmaCanister" Caption=""/>
   </Box>
-  A highly flammable gas that is used in many processes on the station.
+Um gás altamente inflamável que é usado em muitos processos na estação.
 
-  Engineering uses this gas to generate power and create exotic gasses.
+A engenharia usa esse gás para gerar energia e criar gases exóticos.
 
-  Burning it generates a lot of heat, as well as gas byproducts such as carbon dioxide, water vapor, and tritium, depending on the efficiency of the burn.
+Queimá-lo gera muita calor, bem como produtos gasosos como dióxido de carbono, vapor d'água e trítio, dependendo da eficiência da queima.
 
-  Plasma gas also has a good specific heat capacity, making it useful for moving heat around.
+O gás plasma também possui uma boa capacidade de calor específico, tornando-o útil para mover calor por volta.
 
-  ## Tritium
+  ## Trítio
   <Box>
     <GuideEntityEmbed Entity="TritiumCanister" Caption=""/>
   </Box>
-  An extremely flammable radioactive gas that is used in the creation of frezon.
+Um gás extremamente inflamável e radioativo que é usado na criação de frezon.
 
-  Tritium is produced when burning plasma in a burn chamber, and can be used to create frezon gas in a complicated mixing process.
+O trítio é produzido quando se queima plasma em uma câmara de queima, e pode ser usado para criar gás frezon em um processo de mistura complicado.
 
-  The efficiency of tritium fusion depends on various factors such as burn richness and temperature.
+A eficiência da fusão de trítio depende de vários fatores, como a riqueza da queima e a temperatura.
 
-  ## Frezon
+  ## Frezon é um gás tóxico e inflamável, com uma coloração azulada. É encontrado em grandes quantidades no planeta Frezon, que é conhecido por sua atmosfera densa e perigosa. O gás Frezon é altamente reativo e pode causar explosões quando exposto a fontes de calor ou chama. Devido às suas propriedades perigosas, o Frezon é considerado uma ameaça significativa para qualquer pessoa que entre em contato com ele, exigindo cuidados extremos durante sua manipulação ou exposição.
   <Box>
     <GuideEntityEmbed Entity="FrezonCanister" Caption=""/>
   </Box>
 
-  A highly sought after gas, due to the difficulty in creating it and its many properties.
+Um gás muito procurado, devido à dificuldade em criá-lo e às suas muitas propriedades.
 
-  It has an extremely high specific heat capacity, making it excellent for moving large amounts of heat around.
+Ele possui uma capacidade térmica específica extremamente alta, tornando-o excelente para mover grandes quantidades de calor.
 
-  Frezon can combine in the air with nitrogen to create nitrous oxide, alongside cooling down the air significantly to below freezing temperatures.
+O Frezon pode se combinar no ar com nitrogênio para criar óxido nitroso, ao mesmo tempo resfriando o ar significativamente para temperaturas abaixo do ponto de congelamento.
 
-  Frezon is very complicated to create, requiring a mix of tritium, oxygen, and nitrogen, all tuned precisely to create the gas.
-  If you're looking to create this gas yourself, here's what you need to know:
-  - Frezon is produced by the combination of oxygen, tritium, and nitrogen.
-  - Tritium and oxygen are mixed at a ratio of around 1:50.
-  - Nitrogen is required as a catalyst for the reaction. The amount of nitrogen consumed is dependent on the efficiency of the reaction.
-  - The frezon reaction only occurs at cryogenic temperatures, below 73.15 K. The efficency of the reaction (how much frezon is produced) is dependent on the temperature. The closer to 73.15 K, the more frezon is produced, and the less nitrogen is consumed.
+O Frezon é muito complicado de criar, exigindo uma mistura de trítio, oxigênio e nitrogênio, todos ajustados com precisão para criar o gás.
+Se você estiver interessado em criar esse gás por conta própria, aqui está o que precisa saber:
+- O Frezon é produzido pela combinação de oxigênio, trítio e nitrogênio.
+O trítio e o oxigênio são misturados na proporção de aproximadamente 1:50.
+- O nitrogênio é necessário como catalisador para a reação. A quantidade de nitrogênio consumida depende da eficiência da reação.
+- A reação de frezon só ocorre a temperaturas criogênicas, abaixo de 73,15 K. A eficiência da reação (quanto de frezon é produzido) depende da temperatura. Quanto mais próxima de 73,15 K, mais frezon é produzido e menos nitrogênio é consumido.
 
-  Remember, atmospherics is all about experimentation and process optimization. Try it until you get it right!
+Lembre-se, atmosferics é tudo sobre experimentação e otimização de processos. Tente até acertar!
 
-  ## Nitrous Oxide
+  ## Óxido Nitroso
+
+Óxido Nitroso
   <Box>
     <GuideEntityEmbed Entity="NitrousOxideCanister" Caption=""/>
     <GuideEntityEmbed Entity="EmergencyFunnyOxygenTank" Caption=""/>
   </Box>
-  A recreational and waste gas, produced by slimes and the combination of frezon and nitrogen.
+Um gás recreativo e de resíduos, produzido por slime e pela combinação de frezon e nitrogênio.
 
-  ## Ammonia
+  ## Amônia
   <Box>
     <GuideEntityEmbed Entity="AmmoniaCanister" Caption=""/>
   </Box>
-  A gas produced by the decomposition of bodies.
+Um gás produzido pela decomposição de corpos.
 
-  Can be condensed to create ammonia, which can be used to make space cleaner.
+Pode ser condensado para criar amônia, que pode ser usada para deixar o espaço mais limpo.
 
 </Document>

@@ -1,15 +1,26 @@
 ﻿<Document>
-  # Core Rule 6 - Do not attempt to evade bans
-  This is a zero tolerance rule.
+  # Regra Core 6 - Não tente escapar de banimentos
+  Este é um regra com tolerância zero.
 
-  Almost all bans may be appealed on our forums at forum.ss14.io in the ban appeals section. This is generally the only acceptable way to contact the administration team to discuss your ban and revise it if it is inappropriate, including if it is mistakenly applied.
+A maioria dos banimentos pode ser contestada em nossos fóruns no forum.ss14.io, na seção de apelações de banimentos. Geralmente, esse é o único método aceitável para se comunicar com a equipe de administração para discutir seu banimento e revisá-lo se for inadequado, incluindo se for aplicado por engano.
 
-  Any attempt to circumvent or bypass a game ban will result in a voucher ban. Attempting to evade role bans by gaining access to or working in the capacity of a job you are banned from will result in a game ban. These bans are applied even if the evasion attempt is unsuccessful.
+Qualquer tentativa de contornar ou desviar uma proibição do jogo resultará em uma proibição de voucher. Tentar escapar de proibições de cargo obtendo acesso ou trabalhando em uma posição proibida resultará em uma proibição do jogo. Essas proibições são aplicadas mesmo que a tentativa de evasão não tenha sucesso.
 
-  ## Exceptions
-  There are no exemptions for evading or attempting to evade game bans. Antagonists who impersonate or take over a role which they are banned from to aid in their goals are not considered to be evading their role ban.
+  ## Exceções
+Não há exceções para evasão ou tentativa de evasão de banimentos do jogo. Antagonistas que imitam ou assumem um cargo do qual estão banidos para ajudar em seus objetivos não são considerados como evadindo seu banimento de cargo.
 
-  ## Additional Information
+  ## C6 - Proibição de Evasão
+--------------------------
+
+Evasão é a ação de um tripulante que tenta escapar da estação, normalmente através de um airlock, sem autorização. Isso inclui, mas não se limita a, tentativas de escapar para o vácuo, para um shuttle, ou para uma EVA.
+
+A evasão é uma violação grave das regras da estação, pois coloca em risco a segurança de todos os tripulantes e pode causar danos significativos à estação.
+
+Se um tripulante for encontrado evadindo, ele será imediatamente banido da estação e poderá ser reportado ao Comando Central. Em casos extremos, o tripulante poderá ser considerado um operativo do Sindicato e ser tratado como tal.
+
+É importante lembrar que a evasão não é apenas uma violação das regras, mas também uma violação da lei. A evasão pode resultar em multas, prisão, ou até mesmo a morte, dependendo da gravidade do caso.
+
+Se você viu alguém evadindo, por favor, informe imediatamente ao Chefe de Segurança ou ao Engenheiro-Chefe. Eles podem tomar as medidas necessárias para garantir a segurança de todos os tripulantes.
   - [textlink="Ban Types" link="BanTypes"]
   - [textlink="Ban Durations" link="BanDurations"]
 </Document>

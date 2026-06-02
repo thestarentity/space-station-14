@@ -1,9 +1,9 @@
 ﻿<Document>
-  # Gas Manipulation
-  Atmos has a wide variety of tools and equipment at their disposal for the manipulation of gasses throughout the station.
+  # Manipulação de Gás
+O Atmos dispõe de uma ampla variedade de ferramentas e equipamentos para manipulação de gases em toda a estação.
 
-  [bold]Warning: unanchoring (unwrenching) most devices containing gas will [color=red]leak gas[/color] into the atmosphere.[/bold]
-  You can safely unanchor [textlink="canisters" link="GasCanisters"], [textlink="portable scrubbers" link="PortableScrubber"], [textlink="condensers" link="GasCondensing"], and [textlink="thermomachines" link="Thermomachines"].
+[bold]Aviso: Desancorar (desapertar) a maioria dos dispositivos que contêm gás [color=red]vai causar vazamento de gás[/color] na atmosfera.[/bold]
+Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters"], [textlink="scrubbers portáteis" link="PortableScrubber"], [textlink="condensadores" link="GasCondensing"] e [textlink="termomáquinas" link="Thermomachines"].
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -13,10 +13,10 @@
     <GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
   </Box>
   <Box>
-    ## Pipes
+    ## Tubulações
   </Box>
   <Box>
-    [color=#999999][italic]Distributing gasses from one place to another[italic][/color]
+[color=#999999][italic]Distribuindo gases de um lugar para outro[italic][/color]
   </Box>
 
   <Box>
@@ -24,10 +24,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Pumps
+    ## Bomba(s)
   </Box>
   <Box>
-    [color=#999999][italic]Forcing the movement of gasses from one place to another[italic][/color]
+[cor=#999999][itálico]Forçando o movimento de gases de um lugar para outro[itálico]
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@
     <GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
   </Box>
   <Box>
-    ## Atmosphere Input and Output
+    ## Entrada e Saída de Atmosfera
   </Box>
   <Box>
-    [color=#999999][italic]Inserting and extracting gasses from a present (or non-present) atmosphere[italic][/color]
+[cor=#999999][itálico]Inserindo e extraíndo gasses de uma atmosfera presente (ou não presente)[itálico]
   </Box>
 
   <Box>
@@ -52,10 +52,10 @@
     <GuideEntityEmbed Entity="GasPressureRegulator" Caption=""/>
   </Box>
   <Box>
-    ## Valves
+    ## Válvulas
   </Box>
   <Box>
-    [color=#999999][italic]Controlling the flow of gas through pipes[italic][/color]
+[color=#999999][italic]Controlando o fluxo de gás através de tubulações[italic][/color]
   </Box>
 
   <Box>
@@ -63,10 +63,10 @@
     <GuideEntityEmbed Entity="GasFilter" Caption=""/>
   </Box>
   <Box>
-    ## Mixing and Filtering
+    ## Mistura e Filtros
   </Box>
   <Box>
-    [color=#999999][italic]Manipulating the composition of gas[italic][/color]
+[color=#999999][italic]Manipulação da composição do gás[italic][/color]
   </Box>
 
   <Box>
@@ -78,10 +78,10 @@
     <GuideEntityEmbed Entity="GasPort" Caption=""/>
   </Box>
   <Box>
-    ## Gas Canisters
+    ## Cânister de Gás
   </Box>
   <Box>
-    [color=#999999][italic]Storing and transporting gas for easy use by the crew[italic][/color]
+[color=#999999][italic]Armazenando e transportando gás para uso fácil pela tripulação[italic][/color]
   </Box>
 
   <Box>
@@ -91,19 +91,19 @@
     <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
   </Box>
   <Box>
-    ## Thermomachines and Radiators
+    ## Termômetros e Radiadores
   </Box>
   <Box>
-    [color=#999999][italic]Manipulating the temperature of gasses in a pipenet or atmosphere[italic][/color]
+[color=#999999][italic]Manipular a temperatura dos gases em uma rede de tubulações ou atmosfera[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
   </Box>
   <Box>
-    ## Gas Condensing
+    ## Condensação de Gás
   </Box>
   <Box>
-    [color=#999999][italic]Condensing gasses for further use[italic][/color]
+[color=#999999][italic]Condensando gases para uso posterior[italic][/color]
   </Box>
 </Document>

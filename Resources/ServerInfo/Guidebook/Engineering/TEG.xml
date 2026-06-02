@@ -1,16 +1,16 @@
 <Document>
-  # Thermo-electric Engine (TEG)
+  # Motor Térmico-Elétrico (TEG)
 
-  The TEG generates power by exchanging heat between hot and cold gasses.
-  On the station, hot gas is usually created by burning plasma, and an array of [textlink="heat-exchanging" link="Radiators"] pipes in space radiates away heat to cool down circulated gasses.
+O TEG gera energia trocando calor entre gases quentes e frios.
+Na estação, gás quente é geralmente criado queimando plasma, e um conjunto de tubos em espaço [textlink="heat-exchanging" link="Radiators"] troca calor, irradiando calor para esfriar os gases circulantes.
 
-  The TEG relies heavily on [textlink="atmospherics" link="Atmospherics"] [textlink="piping." link="Pipes"]
-  The only truly special component about it is the generator core and circulators; the rest is all off-the-shelf atmospherics equipment.
-  Note that while the exact layout may vary significantly depending on the station, the general components and setup are usually the same.
+O TEG depende muito de [textlink="atmospherics" link="Atmosfera"] [textlink="piping." link="Tubulações"]
+O único componente realmente especial sobre ele é o núcleo gerador e os circuladores; o resto é todo equipamento atmosférico de prateleira.
+Observe que, embora o layout exato possa variar significativamente dependendo da estação, os componentes gerais e a configuração normalmente são os mesmos.
 
-  ## Generator
+  ## Gerador
 
-  The main generator itself is a machine made up of 3 major parts: the central generator and two "circulators", in this arrangement:
+O gerador principal em si é uma máquina composta por 3 partes principais: o gerador central e dois "circuladores", nessa disposição:
 
   <Box>
     <GuideEntityEmbed Entity="TegCirculator" Rotation="180" Caption="" Margin="0"/>
@@ -18,42 +18,42 @@
     <GuideEntityEmbed Entity="TegCirculator" Caption="" Margin="0"/>
   </Box>
 
-  The circulators take in either a hot or cold gas, and pass it through the machine to exchange heat.
-  The gas then gets output on the other end of the circulator. The generator produces the actual power and outputs it over an [color=orange]HV wire[/color].
+Os circuladores recebem um gás quente ou frio e o passam pela máquina para trocar calor.
+O gás então é expelido na outra extremidade do circulador. O gerador produz a energia real e a envia por um [color=orange]fio HV[/color].
 
-  Note that the circulators are [color=#a4885c]directional[/color]: they will only let gas through one way.
-  You can see this direction in-game by examining the circulator itself.
-  A pressure difference is required across the input and output, so pumps are generally provided and must be turned on.
+Observe que os circuladores são [color=#a4885c]direcionais[/color]: eles só permitirão que o gás passe em uma direção.
+Você pode ver essa direção no jogo examinando o próprio circulador.
+É necessária uma diferença de pressão entre a entrada e a saída, então bombas geralmente são fornecidas e devem ser ligadas.
 
-  There is no preference for which side must be hot or cold, there need only be a difference in temperature between them.
-  The gasses in the two "loops" are never mixed, [color=#a4885c]only energy is exchanged between them[/color].
-  The hot side will cool down, the cold side will heat up.
+Não há preferência por qual lado deve estar quente ou frio, basta que haja uma diferença de temperatura entre eles.
+Os gases nos dois "circuitos" nunca são misturados, [color=#a4885c]apenas a energia é trocada entre eles[/color].
+O lado quente esfriará, o lado frio aquecerá.
 
-  ## The Pipes
+  ## Os Tubos
 
-  There are 2 major [textlink="pipenets" link="PipeNetworks"] to worry about here: [color=red]The Hot Loop[/color] (where gas will be burnt for heat), and [color=cyan]The Cold Loop[/color] (where circulated, heated waste gas will either be removed into space or cooled back down).
-  Make sure that [color=#a4885c][bold]both [textlink="pipenets" link="PipeNetworks"] do NOT mix[/bold][/color], as only heat should be transferred between the two through the TEG.
+Há 2 grandes [textlink="pipenets" link="PipeNetworks"] a se preocupar aqui: [color=red]O Loop Quente[/color] (onde o gás será queimado para gerar calor), e [color=cyan]O Loop Frio[/color] (onde o gás aquecido circulado será removido para o espaço ou resfriado novamente).
+Certifique-se de que [color=#a4885c][bold]ambos [textlink="pipenets" link="PipeNetworks"] não se misturem[/bold][/color], pois apenas calor deve ser transferido entre os dois através do TEG.
 
-  # The Hot Loop
+  # O Loop Quente
 
-  As I'm sure a wise person once said: the best way to make something hot is to light it on fire.
-  Well, depending on context, that may not be very wise, but luckily your engineering department has just what's needed to do it wisely after all.
+Como eu tenho certeza que uma pessoa sábia uma vez disse: a melhor maneira de fazer algo ficar quente é colocar fogo nele.
+Bem, dependendo do contexto, isso pode não ser muito sábio, mas felizmente o seu departamento de engenharia tem exatamente o que é necessário para fazê-lo de forma sábia, afinal.
 
-  As stated above, there are many different layouts one can follow to heat up (or cool down) gasses; this part of the guide will cover some common methods one will often see for the hot loop, involving [color=red]the Burn Chamber[/color].
+Como mencionado acima, existem muitos diferentes layouts que se pode seguir para aquecer (ou resfriar) gases; esta parte do guia abordará alguns métodos comuns que você frequentemente verá para o circuito quente, envolvendo [color=red]a Câmara de Queima[/color].
 
-  Side note: Plasma fires burn relatively cool compared to, for example, Tritium fires.
-  It may be viable to extract Tritium from an extraction setup and react it with Oxygen to get truly hellish temperatures for power.
+Observação lateral: Incêndios de plasma queimam relativamente frios comparados, por exemplo, a incêndios de trítio.
+Pode ser viável extrair Tritium de uma configuração de extração e reagi-lo com Oxigênio para obter temperaturas verdadeiramente infernais para geração de energia.
 
-  ## The Burn Chamber
+  ## A Câmara de Queima
 
-  The burn chamber is the preferred method for heating up gasses, and it is commonly used for other purposes too. (see: Tritium production)
+A câmara de queima é o método preferido para aquecer gases, e também é comumente usada para outros propósitos. (ver: Produção de trítio)
 
-  Most (if not all) stations have the burn chamber separated from the main atmospherics block by a 1-wide spaced grid, to prevent the flow of scalding hot gas to Atmos if there was a breach. The chambers consist of 3 important parts:
-  - The [textlink="Air Injector" link="AirInjector"]/[textlink="Passive Vent" link="PassiveVent"]
-  - The Space Vent
-  - The [textlink="scrubber" link="AirScrubber"] Array
+A maioria (se não todas) as estações tem a câmara de queima separada do bloco principal de atmosfera por uma grade espaçada de 1 unidade de largura, para impedir o fluxo de gás quente escaldante para a Atmos em caso de rompimento. As câmaras consistem em 3 partes importantes:
+- O [textlink="Injetor de Ar" link="AirInjector"]/[textlink="Válvula de Vazão Passiva" link="PassiveVent"]
+- O Ventilador Espacial
+- O [textlink="scrubber" link="AirScrubber"] Array
 
-  Here is one layer of an example setup:
+Aqui está uma camada de um exemplo de configuração:
   <Box>
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
@@ -83,38 +83,38 @@
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
   </Box>
 
-  The [textlink="air injector" link="AirInjector"] (or [textlink="passive vent" link="PassiveVent"]) injects air (or allows air to flow) into the burn chamber.
-  Either should be supplemented with a pump before it, to keep pressures high.
+O [textlink="injetor de ar" link="AirInjector"] (ou [textlink="ventilação passiva" link="PassiveVent"]) injeta ar (ou permite que o ar flua) na câmara de combustão.
+Qualquer um deveria ser suplementado com uma bomba antes, para manter as pressões altas.
 
-  There is a notable difference between the [textlink="passive vent" link="PassiveVent"] and the [textlink="air injector" link="AirInjector"]; the [textlink="air injector" link="AirInjector"] can only keep injecting air up to [color=#a4885c]9MPa[/color], which can be reached very easily with a good burn.
-  Ideally, switch out the [textlink="air injector" link="AirInjector"] for a [textlink="passive vent" link="PassiveVent"] connected to a volume pump.
+Existe uma diferença notável entre o [textlink="passivo vent" link="PassiveVent"] e o [textlink="injetor de ar" link="AirInjector"]; o [textlink="injetor de ar" link="AirInjector"] só pode injetar ar até [color=#a4885c]9MPa[/color], o que pode ser alcançado muito facilmente com uma queima boa.
+Idealmente, substitua o [textlink="injetor de ar" link="AirInjector"] por um [textlink="ventilação passiva" link="PassiveVent"] conectado a uma bomba de volume.
 
-  The space vent (designated as a blast door to space on one side of the burn chamber) allows waste gasses to be expelled and destroyed.
-  Open this occasionally to keep the pressure under control, or to space excess input gas.
-  You even might find the pneumatic valve useful for occasionally spacing the gas.
+O vento espacial (designado como uma porta de explosão para o espaço em um lado da câmara de queima) permite que os gases residuais sejam expelidos e destruídos.
+Abra-o ocasionalmente para manter a pressão sob controle, ou para expelir gás em excesso.
+Você até pode encontrar a válvula pneumática útil para espaçar ocasionalmente o gás.
 
-  The [textlink="scrubber" link="AirScrubber"] array filters out all the burnt gasses and sends them through the TEG.
-  Note that using default settings on the [textlink="scrubbers" link="AirScrubber"] is a bad idea, as valuable plasma will be filtered out too.
+O array de [textlink="scrubber" link="AirScrubber"] filtra todos os gases queimados e os envia através do TEG.
+Note that using default settings on the [textlink="scrubbers" link="AirScrubber"] is a bad idea, as valuable plasma will be filtered out too.
 
-  Instead, use a network configurator to connect all the [textlink="scrubbers" link="AirScrubber"] to a nearby air alarm, and set the air alarm's [textlink="scrubber" link="AirScrubber"] settings to scrub everything except Oxygen and Plasma, and to siphon air as well.
-  This ensures that as much heat as available can be collected and sent to the TEG.
+Em vez disso, use um configurador de rede para conectar todos os [textlink="scrubbers" link="AirScrubber"] a um alarme de ar próximo, e defina as configurações do alarme de ar para limpar tudo, exceto Oxigênio e Plasma, e também para aspirar o ar.
+Isso garante que o máximo de calor disponível possa ser coletado e enviado para o TEG.
 
-  Note that this is just one of many ways you can setup the hot loop; [color=#a4885c]feel free to mix and match setups as needed![/color]
-  [textlink="Volume pumps" link="Pumps"] in replacement of [textlink="pressure pumps" link="Pumps"], [textlink="radiator" link="Radiators"] loops for heat collection, or even a Pyroclastic anomaly to provide said heat!
-  The stars are the limit!
+Observe que essa é apenas uma das muitas formas pelas quais você pode configurar o loop quente; [color=#a4885c]sinta-se à vontade para misturar e combinar configurações conforme necessário![/color]
+[textlink="Volume pumps" link="Pumps"] no lugar de [textlink="pressure pumps" link="Pumps"], [textlink="radiator" link="Radiators"] loops para coleta de calor, ou até mesmo uma anomalia Pirotectônica para fornecer esse calor!
+As estrelas são o limite!
 
-  # The Cold Loop
+  # O Loop Frio
 
-  As with the Hot Loop, the Cold Loop must also be setup to operate the TEG.
-  However, the Cold Loop is usually a lot more low-tech than the Hot Loop; in reality, the Cold Loop only has to be "relatively" cooler—hey, room temperature is technically cooler than the surface of the sun, right?
+Assim como com o Loop Quente, o Loop Frio também deve ser configurado para operar o TEG.
+No entanto, o Loop Frio geralmente é muito mais de baixa tecnologia do que o Loop Quente; na realidade, o Loop Frio só precisa ser "relativamente" mais frio — ei, a temperatura ambiente é tecnicamente mais fria do que a superfície do sol, certo?
 
-  There are 3 main methods you will see used for the Cold Loop: [color=#a4885c]The Water Cooler[/color] (see: Liltenhead's video on the TEG), [color=cyan]the Coolant Array[/color] and [color=#a4885c]the Freezer Loop[/color].
+Existem 3 métodos principais que você verá usados para a Cold Loop: [color=#a4885c]O Resfriador de Água[/color] (veja: o vídeo do TEG feito por Liltenhead), [color=cyan]o Arranjo de Refrigeração[/color] e [color=#a4885c]o Loop do Freezer[/color].
 
-  ## The Water Cooler
+  ## O Água Fria
 
-  An equally naive method as the Pipe Burn, this simply involves taking some useless gas (in this case, Water Vapor) and flowing it through the TEG and into space. It's dirt-cheap and simple, at the cost of efficiency and permanent loss of gas.
+Um método igualmente ingênuo ao queimador de tubulação, isso simplesmente envolve pegar algum gás inútil (neste caso, vapor d'água) e fazê-lo passar pelo TEG e para o espaço. É extremamente barato e simples, ao custo de eficiência e perda permanente de gás.
 
-  Setting this up is so simple, even Hamlet could manage it. Take an output of a gas (here, Water Vapor), send it through the Cold side of the TEG, and then vent it into space.
+Configurar isso é tão simples, até Hamlet conseguiria. Pegue uma saída de gás (aqui, Vapor d'água), envie-a pelo lado frio do TEG e depois ventile-a no espaço.
 
   <Box>
     <GuideEntityEmbed Entity="GasPressurePump" Rotation="90" Caption="" Margin="-1"/>
@@ -125,21 +125,21 @@
     <GuideEntityEmbed Entity="GasPassiveVent" Rotation="270" Caption="" Margin="-1"/>
   </Box>
 
-  ## Coolant Array
+  ## Array de Refrigeração
 
-  This is the default method for the Cold Loop you will see on a variety of stations.
-  Being of moderate complexity and having no losses of any resource, this [color=#a4885c]should[/color] be the main method of cooling down the TEG.
-  However, most stations at the moment somehow have their radiators hooked up wrong (or suggest incorrect piping), reducing efficiency greatly.
+Este é o método padrão para a Linha Fria que você verá em uma variedade de estações.
+Tendo uma complexidade moderada e não causando perdas de qualquer recurso, isso [color=#a4885c]deveria[/color] ser o método principal de resfriar o TEG.
+No entanto, a maioria das estações no momento, por alguma razão, tem seus radiadores conectados de forma incorreta (ou sugerem encanamento errado), reduzindo muito a eficiência.
 
-  To use heat-exchangers properly, they must be setup in [color=#a4885c]parallel[/color], not in series (like what you see on most stations).
-  A gas pump at max pressure should be placed after, and a volumetric pump before the heat-exchangers.
-  The flow-rate of the volumetric pump should be set using the following formula:
+Para usar trocadores de calor corretamente, eles devem ser configurados em [color=#a4885c]paralelo[/color], e não em série (como o que você vê na maioria das estações).
+Uma bomba de gás em pressão máxima deve ser colocada depois, e uma bomba volumétrica antes dos trocadores de calor.
+A taxa de fluxo da bomba volumétrica deve ser definida usando a seguinte fórmula:
   <Box>
-    [color=cyan]( 200 / number of heat-exchangers )[/color] L/s.
+[color=cyan]( 200 / número de trocadores de calor )[/color] L/s.
   </Box>
 
-  Simply speaking, the Coolant Array consists of 3 major parts: An input connector port, a few pumps and the heat-exchanger array out in space.
-  It can be setup like so:
+Em resumo, a Malha de Refrigeração é composta por 3 partes principais: uma porta de conexão de entrada, algumas bombas e o array de trocador de calor no espaço.
+Ele pode ser configurado assim:
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeBend" Rotation="90" Caption="" Margin="-1"/>
@@ -186,17 +186,17 @@
     <GuideEntityEmbed Entity="GasPort" Rotation="180" Caption="" Margin="-1"/>
   </Box>
 
-  - Connector Port: Use this to input a gas with high heat capacity; most of the time, Plasma or Frezon is used to do so, as they both have very high specific heat capacities (although almost any gas will do). (Yes, Plasma =/= Hot. You can cool it down, and it acts as a excellent heat exchange medium.)
-  - Input/Output Pumps: Used to make sure gas keeps flowing through both the Circulator and the radiator array. As the gas cools down and heats up (and as it flows through the Exchanger), pressure must be applied for it to keep flowing.
-  - Radiator: Basically, just a bunch of radiators in space. Not much to say, besides the fact that it cools down the gas inside it. Make sure the radiators are [color=#a4885c]placed on lattice, not plating[/color]! Otherwise, the heat-exchange efficiency will be greatly reduced, as the radiators aren't directly exposed to space below them.
+- Porta de Conexão: Use isso para inserir um gás com alta capacidade térmica; na maioria das vezes, Plasma ou Frezon são usados para isso, pois ambos possuem altas capacidades térmicas específicas (embora praticamente qualquer gás funcione). (Sim, Plasma ≠ Calor. Você pode resfriá-lo, e ele atua como um excelente meio de troca térmica.)
+- Bombas de Entrada/Saída: Usadas para garantir que o gás continue fluindo tanto pelo Circulador quanto pela matriz de radiadores. À medida que o gás esfria e aquece (e enquanto flui pelo Trocador), é necessário aplicar pressão para que continue fluindo.
+- Radiador: Básicamente, apenas um monte de radiadores no espaço. Não tem muito o que dizer, exceto o fato de que ele resfria o gás dentro dele. Certifique-se de que os radiadores estão [color=#a4885c]colocados na estrutura de grelha, não na chapa[/color]! Caso contrário, a eficiência do trocador de calor será drasticamente reduzida, pois os radiadores não estão diretamente expostos ao espaço abaixo deles.
 
-  ## The Freezer Loop
+  ## O Loop do Freezer
 
-  Most of the time, you will see this method being used in efficient TEG setups.
-  It's basically just the Coolant array, but replacing the radiators with a freezer.
-  Even though the freezer does use power, it is only a small fraction of what the TEG can generate, and it's better than the default Coolant array at the moment, so go fish.
+A maioria das vezes, você verá esse método sendo usado em configurações eficientes de TEG.
+É basicamente apenas o array de Refrigeração, mas substituindo os radiadores por um congelador.
+Mesmo que o freezer utilize energia, é apenas uma fração pequena do que o TEG pode gerar, e no momento é melhor que o array de Coolant padrão, então vá pescar.
 
-  Follow the steps for the Coolant array, but use a freezer in place of the Heat-Exchangers. As so:
+Siga as etapas para o array de refrigerante, mas use um freezer no lugar dos trocadores de calor. Assim:
   <Box>
     <GuideEntityEmbed Entity="GasPort" Rotation="90" Caption="" Margin="-1"/>
     <GuideEntityEmbed Entity="GasPipeBend" Rotation="0" Caption="" Margin="-1"/>
@@ -217,18 +217,18 @@
     <GuideEntityEmbed Entity="GasPipeBend" Rotation="270" Caption="" Margin="-1"/>
   </Box>
 
-  Once again, use Plasma or Frezon in the loop for max efficiency (although almost any gas will do).
+Mais uma vez, use Plasma ou Frezon no ciclo para máxima eficiência (embora quase qualquer gás funcione).
 
-  ## In the Pursuit of Greater Efficiency
-  Remember, Atmospherics is a science, and as such, it is always evolving.
-  The setups above are just the tip of the iceberg; there are many ways to setup the TEG and many ways to improve upon the setups above.
-  [color=#a4885c]Experiment![/color]
+  ## Na Busca por Maior Eficiência
+Lembre-se, Atmospherics é uma ciência, e como tal, sempre está evoluindo.
+Os setups acima são apenas a ponta do iceberg; existem muitas formas de configurar o TEG e muitas maneiras de melhorar os setups acima.
+Experimento!
 
-  Always seek to improve upon the designs you see and always seek to improve upon the designs you make.
-  The TEG is a powerful tool and with great power comes great responsibility.
-  Make sure to use it wisely and make sure to use it well.
+Sempre busque melhorar os designs que você vê e sempre busque melhorar os designs que você cria.
+O TEG é uma ferramenta poderosa e com grande poder vem grande responsabilidade.
+Certifique-se de usá-lo com sabedoria e certifique-se de usá-lo bem.
 
-  Space Station 14 atmospherics is a complex system and the TEG is just one part of it.
-  [bold]It's like a giant puzzle, so go out and solve it![/bold]
+A atmosfera da Estação Espacial 14 é um sistema complexo e o TEG é apenas uma parte dele.
+É como um quebra-cabeça gigante, então saia e resolva-o!
 
 </Document>

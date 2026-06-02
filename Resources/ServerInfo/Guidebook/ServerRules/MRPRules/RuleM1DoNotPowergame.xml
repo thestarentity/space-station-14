@@ -1,24 +1,24 @@
 <Document>
-  # Do not Powergame
+  # Não Powergame
 
-  You must have an In-Character justification for your actions. The Research Director does not need a gun when the station is code-green. The Head of Security does not need All Access at shift start when no threat is identified.
+Você deve ter uma justificativa In-Character para suas ações. O Diretor de Pesquisa não precisa de uma arma quando a estação está em código verde. O Chefe de Segurança não precisa de Acesso Total no início do turno quando não há ameaça identificada.
 
-  ## Examples
+  ## Não é permitido usar a Estação Espacial ou os recursos da Nanotrasen para promover, praticar ou facilitar qualquer forma de discriminação, preconceito, violência, ameaça, assédio, intimidação, difamação, calúnia, perseguição, traição, espionagem, terrorismo, atividades ilegais, ou qualquer outro comportamento que viole as leis, normas ou valores da Estação Espacial, da Nanotrasen ou da Comunidade Espacial.
 
- Acceptable:
- - Command carrying non-lethals when there is a plausible threat
- - Command carrying lethals when there is a confirmed threat
- - Command carrying (non-)lethals they start with in their rooms at any time
- - Captain hiding the spare ID in a properly secure location
- - Increasing security (such as bolting doors, adding walls, etc) during Red or Blue alert
- - Several minutes into the round, Captain promotes Warden to HoS because there isn’t one on station
- - General situations where a character is reacting to information during a round in a way that makes logical sense
+ Aceitável:
+Não carregue armas não letais quando houver uma ameaça plausível.
+Não carregue armas letais quando houver uma ameaça confirmada.
+Não carregar armas não letais ou letais que começam com eles em seus quartos a qualquer momento.
+O Capitão deve esconder o cartão de identificação reserva em um local adequado e seguro.
+- Aumentar a segurança (como fixar portas, adicionar paredes, etc) durante alerta Vermelho ou Azul
+- Vários minutos após o início da rodada, o Capitão promove o Guarda a Chefe de Segurança porque não há um na estação
+Situações gerais onde um personagem reage a informações durante uma rodada de forma que faça sentido lógico
 
-  Not Acceptable:
-  - Roundstart Captain granting all heads AA
-  - Roundstart HoP takes Ian to ATS because “He’s a high profile target”
-  - Creating duplicates of high-value or unique items to hand off to others
-  - Bolting doors to areas to increase their security before a threat is confirmed that makes that security inefficient
-  - Setting the alert level to Blue or Red when the situation does not have a need for the severity implied (this includes maintaining these levels far past when said threats have been confirmed as no longer in play)
-  - General situations where a character is preemptively preparing for situations that have yet to happen in ways that logically do not make sense
+Não Aceitável:
+- Capitão concedendo AA a todos os chefes no início da rodada
+- No início da rodada, o HoP leva Ian para a ATS porque “Ele é um alvo de alto perfil”
+- Criar duplicatas de itens de alto valor ou únicos para entregar para outros
+- Parafusar portas em áreas para aumentar sua segurança antes que uma ameaça seja confirmada, tornando essa segurança ineficiente
+- Definir o nível de alerta para Azul ou Vermelho quando a situação não exige a gravidade implicada (isso inclui manter esses níveis muito tempo após que ameaças tenham sido confirmadas como não mais presentes)
+- Situações gerais em que um personagem está se preparando preemptivamente para situações que ainda não ocorreram de maneiras que logicamente não fazem sentido
 </Document>

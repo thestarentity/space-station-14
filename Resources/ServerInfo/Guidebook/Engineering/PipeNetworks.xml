@@ -1,6 +1,6 @@
 ﻿<Document>
-  # Pipe Networks
-  Pipe networks — commonly called Pipenets — are a series of interconnected [textlink="pipes" link="Pipes"], usually with a common task.
+  # Redes de Tubulação
+Redes de tubulações — comumente chamadas de Pipenets — são uma série de tubulações interconectadas, geralmente com uma tarefa comum.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -12,23 +12,23 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
 
-  Pipenets are used all throughout the station to deliver, remove, or otherwise move gas throughout it.
-  Great examples are the station's Distro or Wastenet, which deliver breathable air and remove waste gas, respectively.
+Os pipenets são usados em toda a estação para entregar, remover ou de outra forma mover gás por meio dela.
+Excelentes exemplos são o Distro e o Wastenet da estação, que entregam ar respirável e removem gás de resíduos, respectivamente.
 
-  ## How Pipenets Work
-  In Space Station 14, pipenets behave as a whole, defined volume, with input/output points at the ends of the network.
-  Forcing or vacuuming gas in or out using a [textlink="pump" link="Pumps"] will affect the entire network, not just the pipe it's connected to.
+  ## Como as Redes de Tubulação Funcionam
+Na Space Station 14, as redes de tubulações se comportam como um todo, volume definido, com pontos de entrada/saída nas extremidades da rede.
+Forçar ou aspirar gás para dentro ou para fora usando uma [textlink="bomba" link="Bombas"] afetará toda a rede, e não apenas o tubo ao qual está conectada.
 
-  Pipenets are only separated by devices capable of interrupting flow, or by certain devices.
-  For example, a [textlink="Pressure Pump" link="Pumps"] will not allow gas to flow through it unless it's powered and has gas to pump.
+Os pipenets são separados apenas por dispositivos capazes de interromper o fluxo, ou por certos dispositivos.
+Por exemplo, uma [textlink="Bomba de Pressão" link="Bombs"] não permitirá que o gás flua por ela a menos que esteja energizada e tenha gás para bombear.
 
-  Some examples of devices that separate pipe networks are:
+Alguns exemplos de dispositivos que separam redes de tubulação são:
   - [textlink="Pressure and Volumetric Pumps" link="Pumps"]
   - [textlink="Gas Mixers and Filters" link="MixingAndFiltering"]
   - [textlink="All Valves" link="Valves"]
   - [textlink="Radiators" link="Radiators"]
 
-  An example of a pipenet being seperated into two, distinct pipenets by a [textlink="pump" link="Pumps"] is shown below:
+Um exemplo de um pipenet sendo separado em dois pipenets distintos por uma [textlink="bomba" link="Bombas"] é mostrado abaixo:
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 1" Rotation="90"/>

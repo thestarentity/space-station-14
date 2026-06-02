@@ -1,18 +1,30 @@
 ﻿<Document>
-  # Core Rule 5 - Do not use out of game methods to communicate with other players
-  This is a zero tolerance rule.
+  # Regra Core 5 - Não use métodos fora do jogo para se comunicar com outros jogadores
+  Este é um regra com tolerância zero.
 
-  Do not utilize any external means of communication to talk to other players who are connected to the same server, or who were connected to the same server during the current round. This is referred to as "metacomming" and includes any means of communication including text, voice, images, and video. This includes applications such as Discord, Steam, and other platforms, along with in-person communication.
+Não utilize nenhum meio de comunicação externo para conversar com outros jogadores que estão conectados ao mesmo servidor, ou que estiveram conectados ao mesmo servidor durante a rodada atual. Isso é chamado de "metacomming" e inclui qualquer meio de comunicação, incluindo texto, voz, imagens e vídeo. Isso inclui aplicativos como Discord, Steam e outras plataformas, além de comunicação presencial.
 
-  Even if information is not being shared or abused, it may still be considered a violation of this rule. Due to the difficulty of determining if information is being shared, it will almost always be presumed that people who message another player they are in a round with, or who are in a voice call with another player during a round are sharing round information. Due to the difficulty of determining if users are abusing information that they are sharing, it will almost always be presumed that the information is being abused.
+Mesmo que as informações não estejam sendo compartilhadas ou abusadas, ainda assim podem ser consideradas uma violação desta regra. Devido à dificuldade de determinar se as informações estão sendo compartilhadas, quase sempre será presumido que as pessoas que enviam mensagens para outro jogador com quem estão em uma rodada, ou que estão em uma ligação de voz com outro jogador durante uma rodada, estão compartilhando informações da rodada. Devido à dificuldade de determinar se os usuários estão abusando das informações que estão compartilhando, quase sempre será presumido que as informações estão sendo abusadas.
 
-  The only exemption to this rule is when [color=#a4885c]all[/color] players are in the server lobby.
+A única exceção a esta regra é quando [color=#a4885c]todos[/color] os jogadores estão na sala de espera do servidor.
 
-  ## Teaching new players
-  Teaching players is not exempt from this rule. If you want to teach a new player, it is recommended to either watch a stream of them playing the game while not playing yourself, or communicate with them using only in-game methods of communication.
+  ## Aqui estão algumas regras básicas para novos jogadores:
+- Você não pode atacar outros jogadores, a menos que estejam em um estado de combate (como um criminoso ou um inimigo).
+- Você não pode roubar ou usar itens que não sejam seus, a menos que tenha permissão.
+- Você não pode destruir ou danificar equipamentos ou instalações da estação, a menos que esteja em um estado de combate ou tenha permissão.
+- Você não pode usar a comunicação de metacomms para espionar ou interferir nas atividades de outros jogadores.
+- Você não pode usar a comunicação de metacomms para difamar ou insultar outros jogadores.
+- Você não pode usar a comunicação de metacomms para divulgar informações confidenciais ou sensíveis.
+- Você não pode usar a comunicação de metacomms para promover ou anunciar jogos, sites ou outros serviços externos.
+- Você não pode usar a comunicação de metacomms para fazer propaganda ou promover ideias políticas, religiosas ou filosóficas.
+- Você não pode usar a comunicação de metacomms para fazer ameaças ou intimidar outros jogadores.
+- Você não pode usar a comunicação de metacomms para fazer propaganda ou promover jogos, sites ou outros serviços externos.
 
-  ## Streaming
-  Public livestreams are not exempt from this rule, but have different liability. Using information from a public live stream of the game (stream sniping) is a violation of this rule. Watching a public live stream of the game while connected to the same server is a violation of this rule. Allowing people watching a public live stream to share information about the current round, for example through the stream's chat, is a violation of this rule. Using that information is also a violation of this rule. Sharing information about the current round with a streamer is a violation of this rule if that information was obtained from any source but the stream. The stream's moderators are expected to enforce this on the streaming platform in addition to any in-game enforcement done by game admins.
+Se você violar qualquer uma dessas regras, poderá ser punido com uma advertência, uma suspensão temporária ou uma expulsão permanente da estação.
+Ensinar jogadores não é isento dessa regra. Se você quiser ensinar um novo jogador, é recomendado assistir a uma transmissão deles jogando o jogo enquanto não joga você mesmo, ou comunicar-se com eles usando apenas métodos de comunicação do jogo.
 
-  Public livestreaming by itself is not a violation of the rule as long as the stream is sufficiently moderated. Streamers are encouraged, but not required, to use a stream delay.
+  ## Streaming is prohibited on the station. If you are caught streaming, you will be immediately ejected from the station and banned from the server.
+Transmissões ao vivo públicas não estão isentas desta regra, mas têm diferentes responsabilidades. Utilizar informações de uma transmissão ao vivo pública do jogo (sniping de transmissão) é uma violação desta regra. Assistir a uma transmissão ao vivo pública do jogo enquanto conectado ao mesmo servidor é uma violação desta regra. Permitir que pessoas assistindo a uma transmissão ao vivo compartilhem informações sobre a rodada atual, por exemplo, através do chat da transmissão, é uma violação desta regra. Utilizar essa informação também é uma violação desta regra. Compartilhar informações sobre a rodada atual com um streamer é uma violação desta regra se essa informação foi obtida de qualquer fonte, exceto a transmissão. Os moderadores da transmissão são esperados para aplicar essa regra na plataforma de streaming, além de qualquer aplicação dentro do jogo feita pelos administradores do jogo.
+
+A transmissão ao vivo pública por si só não é uma violação da regra desde que o stream seja suficientemente moderado. Streamers são incentivados, mas não obrigados, a usar um atraso no stream.
 </Document>

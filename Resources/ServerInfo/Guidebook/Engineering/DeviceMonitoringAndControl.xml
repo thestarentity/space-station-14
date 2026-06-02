@@ -1,28 +1,28 @@
 ﻿<Document>
-  # Device Monitoring and Control
-  Given the station-wide nature of the atmospherics network, it is important to have a way to monitor and control devices from a central location.
+  # Monitoramento e Controle de Dispositivos
+Devido à natureza estação-wide da rede de atmosferas, é importante ter uma forma de monitorar e controlar dispositivos a partir de um local central.
 
-  Using these systems, Atmospherics can monitor and control the atmosphere across the entire station.
+Usando esses sistemas, a Atmosfera pode monitorar e controlar a atmosfera em toda a estação.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Air Alarms
+    ## Alarmes de Ar
   </Box>
   <Box>
-    [color=#999999][italic]Wide area monitoring and control over atmos devices[italic][/color]
+[cor=#999999][itálico]Monitoramento e controle em larga escala sobre dispositivos de atmosfera[itálico][/cor]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Alerts Computer
+    ## Computador de Alertas Atmosféricos
   </Box>
   <Box>
-    [color=#999999][italic]Station-wide monitoring of air alarms[italic][/color]
+[cor=#999999][itálico]Monitoramento da estação inteira de alarmes de ar[itálico]
   </Box>
 
   <Box>
@@ -30,10 +30,10 @@
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Network Monitor
+    ## Monitor de Rede Atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Monitoring of whole pipe networks[italic][/color]
+[cor=#999999][itálico]Monitoramento de toda a rede de tubulações[itálico]
   </Box>
 
 </Document>
