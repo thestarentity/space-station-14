@@ -1,6 +1,5 @@
 ent-Implanter = extrator de implante
-    .desc = Uma seringa de dupla finalidade projetada para a remoção de implantes subdérmicos específicos. Uma vez que um implante é extraído, ele é armazenado dentro e pode ser re-administrado novamente.
-AVISO: Erros operacionais, como selecionar um tipo de implante que não está presente, causam graves traumas genéticos ao operador.
+    .desc = Uma seringa de dupla finalidade projetada para a remoção de implantes subdérmicos específicos. Uma vez que um implante é extraído, ele é armazenado dentro e pode ser re-administrado novamente. AVISO: Erros operacionais, como selecionar um tipo de implante que não está presente, causam graves traumas genéticos ao operador.
 
 ent-SadTromboneImplanter = implantador de trombone triste
 
@@ -43,6 +42,3 @@ ent-MindShieldImplanter = implantador de escudo mental
 ent-RadioImplanterCentcomm = implantador de rádio do comandocentral
 
 ent-DeathRattleImplanterCentcomm = implantador de sussurro da morte do comandocentral
-
-AVISO: Erros operacionais, como selecionar um tipo de implante que não está presente, causam graves traumas genéticos ao operador.
-

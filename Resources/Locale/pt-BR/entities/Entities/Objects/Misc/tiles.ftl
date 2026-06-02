@@ -229,10 +229,7 @@ ent-FloorTileItemAstroAsteroidSand = asteroid astro-sand
 ent-FloorTileItemAstroAsteroidSandBorderless = asteroide sem bordas de areia astro
     .desc = Areia falsa. Felizmente, não é tão áspera quanto a verdadeira.
 
-ent-FloorTileItemAstroIronsand = Astrônomo
-Areia de Ferro
-Astrônomo
-Areia de Ferro
+ent-FloorTileItemAstroIronsand = areia de ferro astro
     .desc = Areia vermelha falsa. Importada de Marte falso.
 
 ent-FloorTileItemAstroIronsandBorderless = astro-ironsand sem bordas
@@ -266,9 +263,3 @@ ent-FloorTileItemXenoMaint = piso de manutenção de tecnologia xenon
 ent-FloorTileItemXenoborg = piso xenoborg
 
 ent-FloorTileItemDarkSquiggly = Azulejo de aço escuro sinuoso
-
-Areia de Ferro
-Astrônomo
-Areia de Ferro
-    .desc = Areia vermelha falsa. Importada de Marte falso.
-
