@@ -455,6 +455,70 @@ def _entry_id(entry) -> str:
     )
 
 
+# ── SS14 markup validators ────────────────────────────────────────────────────
+
+# Tags that were translated to Portuguese and break the game's markup parser
+_PT_TAG_RE = re.compile(
+    r'\[/?(?:'
+    r'cor(?:=[^\]]*)?'           # [cor=...] or [/cor]
+    r'|it[aá]lico'               # [italico] [itálico]
+    r'|negrito'                  # [negrito]
+    r'|fonte(?:=[^\]]*)?'        # [fonte=...]
+    r'|grifo(?:=[^\]]*)?'        # [grifo=...]
+    r')\]',
+    re.IGNORECASE,
+)
+
+# Portuguese color names used inside color tags (e.g. [color=vermelho])
+_PT_COLOR_NAME_RE = re.compile(
+    r'\[color=(?:vermelho|verde|amarelo|ciano|azul|branco|preto|roxo|rosa)\]',
+    re.IGNORECASE,
+)
+
+
+def _check_ss14_markup(translated_src: str) -> list[str]:
+    """Return error strings for SS14 markup problems in translated FTL text."""
+    errors: list[str] = []
+
+    for m in _PT_TAG_RE.finditer(translated_src):
+        lineno = translated_src[:m.start()].count('\n') + 1
+        errors.append(
+            f"SS14 markup: translated tag {m.group()!r} on line {lineno} — "
+            "use English tags: [color=], [bold], [italic]"
+        )
+
+    for m in _PT_COLOR_NAME_RE.finditer(translated_src):
+        lineno = translated_src[:m.start()].count('\n') + 1
+        errors.append(
+            f"SS14 markup: Portuguese color name {m.group()!r} on line {lineno} — "
+            "use English: red, green, yellow, cyan, blue, white, black, purple, pink"
+        )
+
+    # Check overall color/bold/italic balance
+    color_o = len(re.findall(r'\[color[^\]]*\]', translated_src))
+    color_c = len(re.findall(r'\[/color\]', translated_src))
+    if color_o != color_c:
+        errors.append(
+            f"SS14 markup: unbalanced [color] tags — {color_o} opens, {color_c} closes"
+        )
+
+    bold_o = len(re.findall(r'\[bold\]', translated_src))
+    bold_c = len(re.findall(r'\[/bold\]', translated_src))
+    if bold_o != bold_c:
+        errors.append(
+            f"SS14 markup: unbalanced [bold] tags — {bold_o} opens, {bold_c} closes"
+        )
+
+    italic_o = len(re.findall(r'\[italic\]', translated_src))
+    italic_c = len(re.findall(r'\[/italic\]', translated_src))
+    if italic_o != italic_c:
+        errors.append(
+            f"SS14 markup: unbalanced [italic] tags — {italic_o} opens, {italic_c} closes"
+        )
+
+    return errors
+
+
 def validate_translation(original_src: str, translated_src: str) -> list[str]:
     """
     Validate translated FTL against the original.
@@ -463,6 +527,7 @@ def validate_translation(original_src: str, translated_src: str) -> list[str]:
       1. Translated file parses without Junk (no syntax errors).
       2. No keys added or removed.
       3. Every message has exactly the same { $variable } set.
+      4. No SS14 markup translated to Portuguese or unbalanced color/bold/italic tags.
 
     Returns list of error strings — empty means OK.
     """
@@ -507,6 +572,9 @@ def validate_translation(original_src: str, translated_src: str) -> list[str]:
                 f"Variable mismatch in '{eid}': "
                 f"expected {sorted(ov)}, got {sorted(tv)}"
             )
+
+    # 4. SS14 markup integrity
+    errors.extend(_check_ss14_markup(translated_src))
 
     return errors
 
