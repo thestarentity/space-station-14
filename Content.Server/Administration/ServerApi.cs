@@ -88,6 +88,19 @@ public sealed partial class ServerApi : IPostInjectInit
         RegisterActorHandler(HttpMethod.Post, "/admin/actions/force_preset", ActionForcePreset);
         RegisterActorHandler(HttpMethod.Post, "/admin/actions/set_motd", ActionForceMotd);
         RegisterActorHandler(HttpMethod.Patch, "/admin/actions/panic_bunker", ActionPanicPunker);
+
+        // Discord sync — vinculação de contas e sync de permissões
+        _RegisterSyncEndpoints();
+
+        // Ahelp bidirecional — jogo ↔ Discord
+        _RegisterAhelpEndpoints();
+
+        // Comandos do bot Discord (announce, unban, map_queue)
+        _RegisterBotCommandEndpoints();
+
+        // Antagonistas e perfil do jogador
+        _RegisterAntagEndpoints();
+        _RegisterProfileEndpoints();
     }
 
     public void Initialize()
