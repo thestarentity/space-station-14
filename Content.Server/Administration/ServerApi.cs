@@ -101,6 +101,7 @@ public sealed partial class ServerApi : IPostInjectInit
         // Antagonistas e perfil do jogador
         _RegisterAntagEndpoints();
         _RegisterProfileEndpoints();
+        _RegisterAntagQueueEndpoints();
     }
 
     public void Initialize()
