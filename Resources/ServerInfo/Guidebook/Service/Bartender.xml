@@ -1,7 +1,9 @@
-<Document># Barman
+<Document>
+# Barman
 O barman tem um trabalho bem simples: servir bebidas. Pessoas virão até você e pedirão bebidas, e seu trabalho é apenas entregá-las.
 
-[textlink="Clique aqui para ver uma lista completa de bebidas." link="Drinks"]<Box>Os materiais para esses drinks podem ser encontrados em vários lugares:</Box>
+[textlink="Clique aqui para ver uma lista completa de bebidas." link="Drinks"]
+<Box>Os materiais para esses drinks podem ser encontrados em vários lugares:</Box>
 <Box>
 <GuideEntityEmbed Entity="BoozeDispenser"/>
 <GuideEntityEmbed Entity="SodaDispenser"/>
@@ -15,4 +17,6 @@ O barman tem um trabalho bem simples: servir bebidas. Pessoas virão até você 
 <GuideEntityEmbed Entity="DrinkShotGlass"/>
 <GuideEntityEmbed Entity="DrinkShaker"/>
 <GuideEntityEmbed Entity="DrinkJigger"/>
-</Box>Você pode encontrar uma lista de cada bebida que pode ser solicitada na entrada Tabelas de Referência.</Document>
+</Box>
+Você pode encontrar uma lista de cada bebida que pode ser solicitada na entrada Tabelas de Referência.
+</Document>

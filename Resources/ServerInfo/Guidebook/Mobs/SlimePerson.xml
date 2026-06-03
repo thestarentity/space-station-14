@@ -1,6 +1,9 @@
-<Document># Pessoas de Lodo<Box>
+<Document>
+# Pessoas de Lodo
+<Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
-  </Box>Eles respiram nitrogênio em vez de oxigênio, que é abundante no ar da estação, mas mais difícil de encontrar comprimido em tanques de gás. Eles sofrem danos significativos se forem borrifados ou molhados com água, mas podem (e, como outras espécies, precisam) beber água com segurança para se manterem hidratados.
+  </Box>
+Eles respiram nitrogênio em vez de oxigênio, que é abundante no ar da estação, mas mais difícil de encontrar comprimido em tanques de gás. Eles sofrem danos significativos se forem borrifados ou molhados com água, mas podem (e, como outras espécies, precisam) beber água com segurança para se manterem hidratados.
 
 Eles exalam óxido nitroso e não são afetados por ele.
 
@@ -14,4 +17,5 @@ Seu "sangue" de slime não pode ser regenerado com Ferro. O Sangue de Slime é t
 
 Eles sufocam 80% mais devagar, mas sofrem danos por pressão 9% mais rápido. Isso os torna, de longe, a espécie mais capaz de sobreviver no vácuo extremo. Por um tempo.
 
-Eles sofrem [color=#1e90ff]40% menos danos de impacto[/color], mas [color=#ffa500]50% mais danos de frio, 20% mais danos de corte e 20% mais danos de perfuração[/color].</Document>
+Eles sofrem [color=#1e90ff]40% menos danos de impacto[/color], mas [color=#ffa500]50% mais danos de frio, 20% mais danos de corte e 20% mais danos de perfuração[/color].
+</Document>

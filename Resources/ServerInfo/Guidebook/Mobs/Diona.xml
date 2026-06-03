@@ -1,8 +1,10 @@
-<Document># Diona
+<Document>
+# Diona
 
-Diona é uma entidade que se manifesta em áreas de alta energia, como reatores e equipamentos de alta tecnologia. Ela é conhecida por sua natureza instável e por causar falhas em sistemas críticos. Diona geralmente aparece como uma figura espectral, com uma aparência que muda constantemente. Ela não tem um objetivo claro, mas parece ser atraída por instabilidades e anomalias. Se você encontrar uma Diona, evite se aproximar e alerte imediatamente o Engenheiro-Chefe ou o Chefe de Segurança.<Box>
+<Box>
     <GuideEntityEmbed Entity="MobDiona" Caption=""/>
-  </Box>Eles não podem usar sapatos, mas não são lentos devido ao Kudzu.
+  </Box>
+Eles não podem usar sapatos, mas não são lentos devido ao Kudzu.
 Eles ficam com fome e sede mais devagar.
 Seu "sangue" é seiva de árvore e não pode ser metabolizado a partir de Ferro.
 Como plantas, o Herbicida as envenena, enquanto a Colheita Robusta as cura (mas não sem riscos ao ser usada em excesso!).
@@ -11,18 +13,23 @@ Eles sofrem [color=#1e90ff]30% menos dano de impacto e 20% menos dano de corte[/
 mas [color=#ffa500]50% mais dano de calor, 20% mais dano de choque e podem facilmente
 pegar fogo ao receberem suficiente dano de calor de *qualquer* fonte.[/color]
 
-## Faça Como Uma Árvore E Vá Embora<Box>
+## Faça Como Uma Árvore E Vá Embora
+<Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
-  </Box>Ser exposto a muito Robust Harvest causará ao Diona um crescimento descontrolado, transformando-o em uma árvore imóvel (perdendo todo seu equipamento).
+  </Box>
+Ser exposto a muito Robust Harvest causará ao Diona um crescimento descontrolado, transformando-o em uma árvore imóvel (perdendo todo seu equipamento).
 Cortar a árvore "restaura" o Diona ao seu estado móvel.
 
-## Ninfas Diona<Box>
+## Ninfas Diona
+<Box>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
-  </Box>Após a morte, uma Diona pode voluntariamente destruir seu próprio corpo, liberando seus "órgãos internos" como três Ninfas,
+  </Box>
+Após a morte, uma Diona pode voluntariamente destruir seu próprio corpo, liberando seus "órgãos internos" como três Ninfas,
 com o jogador assumindo o controle da Nifa Cerebral.
 Ela pode falar, mas não tem mãos ou inventário, e não pode fazer muito.
 
 Após 10 minutos, uma Nifa pode se reformar em uma Diona completa. Isso será um corpo totalmente novo com um nome aleatório,
-e haverá pouco ou nenhum indício além de sua palavra sobre quem ela era antes.</Document>
+e haverá pouco ou nenhum indício além de sua palavra sobre quem ela era antes.
+</Document>

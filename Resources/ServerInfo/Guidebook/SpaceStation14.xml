@@ -1,4 +1,5 @@
-﻿<Document># Estação e Turnos
+﻿<Document>
+# Estação e Turnos
 
 Cada rodada do SS14 é um [bold]turno autônomo[/bold] que ocorre em uma das muitas estações diferentes.
 
@@ -15,11 +16,13 @@ Certifique-se de ficar dentro do terminal e não ficar na área de pouso do shut
 
 ## Navegação
 Cada estação tem uma grande variedade de locais para visitar.
-Esses variam de departamentos específicos onde o trabalho acontece a áreas comuns onde você pode relaxar e conversar com outros.<Box>
+Esses variam de departamentos específicos onde o trabalho acontece a áreas comuns onde você pode relaxar e conversar com outros.
+<Box>
   <GuideEntityEmbed Entity="StationMap"/>
   <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="Directional Signs"/>
   <GuideEntityEmbed Entity="SignBridge" Caption="Marker Signs"/>
-</Box>[color=cyan]Mapas da Estação[/color] dão uma visão geral da estação inteira com marcadores coloridos indicando locais de diferentes coisas.
+</Box>
+[color=cyan]Mapas da Estação[/color] dão uma visão geral da estação inteira com marcadores coloridos indicando locais de diferentes coisas.
 Sinais regulares [color=cyan]nas paredes[/color] podem apontar para você diferentes departamentos.
 
 ## Saindo da Estação
@@ -27,9 +30,11 @@ No final do turno [color=gray](exceto em caso de [color=red][bold]desastre nucle
 Quando for chamado, uma mensagem será transmitida na estação alertando a tripulação e indicando sua [color=cyan]chegada em 10 minutos.[/color]
 Uma vez que chegar, você precisará ir até ele, embarcar nele e sobreviver à viagem até [bold]Comando Central[/bold].
 
-O round não termina oficialmente até você chegar a [bold]Comando Central[/bold]<Box>
+O round não termina oficialmente até você chegar a [bold]Comando Central[/bold]
+<Box>
   <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
-</Box>Se você precisar sair de uma rodada cedo, pode fazê-lo através de uma [color=lime]unidade de sono criogênico[/color].
+</Box>
+Se você precisar sair de uma rodada cedo, pode fazê-lo através de uma [color=lime]unidade de sono criogênico[/color].
 Basta entrar e sair do jogo para armazenar seus pertences e garantir que eles não sejam roubados ou mal utilizados.
 
 ## Mais Informações
@@ -37,4 +42,5 @@ Aprendendo os controles? [textlink="Clique aqui para ler sobre os diferentes con
 
 Não sabe como executar uma função? [textlink="Clique aqui para ir para uma lista de departamentos" link="Jobs"]
 
-Morrer constantemente? [textlink="Clique aqui para ver um guia de sobrevivência" link="Survival"]</Document>
+Morrer constantemente? [textlink="Clique aqui para ver um guia de sobrevivência" link="Survival"]
+</Document>

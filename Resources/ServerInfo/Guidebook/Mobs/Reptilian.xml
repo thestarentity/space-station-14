@@ -1,11 +1,15 @@
-<Document># Reptilianos
+<Document>
+# Reptilianos
 
   # Reptilianos
+
     <GuideEntityEmbed Entity="AppearanceReptilian" Caption=""/>
-  </Box>They can only eat fruits and meat, but can eat raw meat and drink blood without any negative effects.
+  </Box>
+They can only eat fruits and meat, but can eat raw meat and drink blood without any negative effects.
 Eles preferem uma faixa de temperatura um pouco mais alta do que a dos humanos.
 Eles podem arrastar objetos com a cauda, mantendo ambas as mãos livres.
 
 Seus ataques com garras desarmadas causam dano de Corte em vez de dano de Impacto.
 
-Eles sofrem [color=#ffa500]30% a mais de dano de Frio.[/color]</Document>
+Eles sofrem [color=#ffa500]30% a mais de dano de Frio.[/color]
+</Document>

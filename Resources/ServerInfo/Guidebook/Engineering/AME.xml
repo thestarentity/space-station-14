@@ -5,7 +5,7 @@ O Motor de Antimatéria é um gerador de suporte de curto prazo para a estação
 É principalmente usado para auxiliar engenheiros a iniciar motores maiores, como o [textlink="Singularity Engine" link="SingularityEngine"] ou o [textlink="Tesla Engine" link="TeslaEngine"], complementando as [textlink="baterias" link="PowerStorage"] da estação com energia parcial para prolongar seu tempo de funcionamento.
 
   ## Construção
-  <Box>A AME é uma ferramenta essencial para engenheiros e oficiais de manutenção. Ela permite que você repare e reative equipamentos danificados, bem como reative sistemas que estão desligados. A AME pode ser usada para reparar uma variedade de componentes, incluindo circuitos, painéis de controle e sistemas de energia. Para usar a AME, você precisa ter uma AME no seu inventário e estar em contato direto com o componente que deseja reparar. Cada uso da AME consome uma quantidade de energia, e ela pode ser recarregada em estações de energia. A AME é uma ferramenta valiosa para manter a estação em funcionamento e garantir a segurança de todos os tripulantes.</Box>
+  <Box>Partes necessárias:</Box>
   <Box>
   <GuideEntityEmbed Entity="AmeController"/>
   <GuideEntityEmbed Entity="AmePartFlatpack"/>
@@ -70,7 +70,5 @@ Esse ritmo sempre é duas vezes a quantidade de núcleos.
 Por exemplo, um AME com um núcleo terá uma taxa segura de injeção de 2. Com dois núcleos, a taxa segura de injeção seria 4, e assim por diante.
 
 Qualquer coisa além desse percentual resultará eventualmente no motor [color=#ff0000]esquentando demais[/color] e, em seguida, [color=#ff0000]explodindo[/color].
-
-relatar
 
 </Document>

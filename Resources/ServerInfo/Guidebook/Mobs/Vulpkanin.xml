@@ -1,12 +1,14 @@
-<Document># Vulpkanin
-
-  # Vulpkanin<Box>
+<Document>
+  # Vulpkanin
+<Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
-  </Box>Vulpkanin, devido ao seu pelo denso, [color=#1e90ff]preferem temperaturas mais frias[/color] e [color=#ffa500]esquentam mais rápido.[/color]
+  </Box>
+Vulpkanin, devido ao seu pelo denso, [color=#1e90ff]preferem temperaturas mais frias[/color] e [color=#ffa500]esquentam mais rápido.[/color]
 Suas pernas ágeis (mas desengonçadas) permitem que pulem distâncias curtas, tenha cuidado para não se esbarrar em nada!
 
 Sua dieta permite que comam carne crua com segurança, mas eles são envenenados pela teobromina.
 
 Sua boca estranhamente formatada causa dificuldades para beber, fazendo com que às vezes derramem pequenas quantidades do que beberam no chão.
 
-Eles recebem [color=#1e90ff]15% menos de dano de frio[/color] mas [color=#ffa500]15% mais de dano de calor.[/color].</Document>
+Eles recebem [color=#1e90ff]15% menos de dano de frio[/color] mas [color=#ffa500]15% mais de dano de calor.[/color].
+</Document>

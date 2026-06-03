@@ -1,5 +1,7 @@
-<Document># Alimentos
+<Document>
+# Alimentos
 
-Esses reagentes são usados principalmente na cozinha. Muito úteis para Chefes e/ou Trabalhadores de Serviço.<GuideReagentGroupEmbed Group="Foods"/>
+Esses reagentes são usados principalmente na cozinha. Muito úteis para Chefes e/ou Trabalhadores de Serviço.
+<GuideReagentGroupEmbed Group="Foods"/>
 
 </Document>

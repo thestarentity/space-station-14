@@ -1,6 +1,9 @@
-<Document># Vox<Box>
+<Document>
+# Vox
+<Box>
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
-  </Box>[color=#ffa500]Aviso! Esta espécie não é recomendada para jogadores novatos devido à sua alergia fatal ao oxigênio![/color]
+  </Box>
+[color=#ffa500]Aviso! Esta espécie não é recomendada para jogadores novatos devido à sua alergia fatal ao oxigênio![/color]
 
 Vox respiram nitrogênio, e [color=#ffa500] o oxigênio é tóxico para eles.[/color]
 Infelizmente, as estações espaciais tendem a estar cheias de oxigênio,
@@ -18,4 +21,5 @@ permitindo que eles comam, bebam, tomem medicamentos orais e assim por diante ra
 Uma exposição de trinta segundos ao oxigênio leva dois minutos para que eles se recuperem.
 Se a saúde não parecer melhorar dentro de um minuto após a exposição ao oxigênio, eles devem procurar atendimento médico.
 
-Vox causam dano de Corte com seu ataque desarmado.</Document>
+Vox causam dano de Corte com seu ataque desarmado.
+</Document>

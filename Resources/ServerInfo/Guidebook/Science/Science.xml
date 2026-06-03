@@ -30,7 +30,8 @@ As tecnologias estão distribuídas por 4 diferentes Disciplinas:
     <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Arsenal"/>
   </Box>
 
-<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>Use your nearest R&D console to take note of which kind of research is locked behind each Discipline tree.
+<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
+Use your nearest R&D console to take note of which kind of research is locked behind each Discipline tree.
 
 ## Níveis
 Cada árvore de disciplina possui até 3 níveis de tecnologias. No início, o único nível que está aberto e disponível para você é o nível 1.

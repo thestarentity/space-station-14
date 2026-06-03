@@ -20,6 +20,7 @@ A ordem de ativação dos gatilhos [bold]não importa[/bold] para nós individua
 
   <GuideReagentEmbed Reagent="Artifexium"/>
 
+
   ## Nós Ativos
 Uma vez desbloqueado, um nó é considerado ativo. Apenas os nós desbloqueados mais altos em uma camada da árvore podem ser ativados, nós inferiores na mesma árvore não podem mais ser acionados uma vez que um nó mais alto tenha sido ativado.
 
@@ -28,6 +29,7 @@ Artefatos frequentemente possuem múltiplas árvores. A precedência de camadas 
 [bold]A ativação manual ativa todos os nós desbloqueados de uma vez e consome durabilidade.[/bold]
 
   <GuideReagentEmbed Reagent="ArtifactGlue"/>
+
 
   ## Gatilhos
 Exemplos incluem:

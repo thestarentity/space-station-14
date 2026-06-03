@@ -1,8 +1,11 @@
-<Document># A.P.E.
+<Document>
+# A.P.E.
 
-O Emissor de Partículas Anômalas é uma máquina usada para interagir com anomalias. É a principal forma de manipular as estatísticas de uma anomalia.<Box>
+O Emissor de Partículas Anômalas é uma máquina usada para interagir com anomalias. É a principal forma de manipular as estatísticas de uma anomalia.
+<Box>
 <GuideEntityEmbed Entity="MachineAPE"/>
-</Box>A A.P.E. pode disparar quatro tipos diferentes de partículas anômalas: Delta, Epsilon, Sigma e Zeta. Cada tipo de partícula tem certos efeitos:
+</Box>
+A A.P.E. pode disparar quatro tipos diferentes de partículas anômalas: Delta, Epsilon, Sigma e Zeta. Cada tipo de partícula tem certos efeitos:
 
 - [color=crimson]Perigo:[/color] Aumenta a gravidade de uma anomalia.
 - [color=plum]Instável:[/color] Aumenta a instabilidade de uma anomalia.
@@ -11,4 +14,5 @@ O Emissor de Partículas Anômalas é uma máquina usada para interagir com anom
 
 Qual tipo de partícula corresponde a cada efeito é único e pode ser aprendido escaneando a anomalia.
 
-A A.P.E. também pode ser bloqueada por qualquer pessoa com acesso científico, o que impede que ela seja destruída, ligada ou desligada, ou que o tipo de partícula seja alterado.</Document>
+A A.P.E. também pode ser bloqueada por qualquer pessoa com acesso científico, o que impede que ela seja destruída, ligada ou desligada, ou que o tipo de partícula seja alterado.
+</Document>

@@ -1,21 +1,27 @@
-<Document># Médico
+<Document>
+# Médico
 Este é o departamento para onde as pessoas vão quando estão feridas, cabe aos profissionais que trabalham aqui consertá-las.
 
 ## Pessoal
-O pessoal de [color=#5b97bc]Médico[/color] é composto por Estagiários Médicos, Médicos, Paramédicos e Químicos. [color=#5b97bc]Médico[/color] é gerido pelo Chefe Médico.<Box>
+O pessoal de [color=#5b97bc]Médico[/color] é composto por Estagiários Médicos, Médicos, Paramédicos e Químicos. [color=#5b97bc]Médico[/color] é gerido pelo Chefe Médico.
+<Box>
     <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doctor"/>
     <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Paramedic"/>
     <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Chemist"/>
     <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="CMO"/>
-  </Box>No momento, a enfermaria está dividida em dois conjuntos diferentes de cuidados:
+  </Box>
+No momento, a enfermaria está dividida em dois conjuntos diferentes de cuidados:
 
-## Tratamento Médico<Box>
+## Tratamento Médico
+<Box>
     <GuideEntityEmbed Entity="Brutepack"/>
     <GuideEntityEmbed Entity="Bloodpack"/>
     <GuideEntityEmbed Entity="Ointment"/>
     <GuideEntityEmbed Entity="Gauze"/>
     <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
-  </Box>## Produção Química<Box>
+  </Box>
+## Produção Química
+<Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
     <GuideEntityEmbed Entity="LargeBeaker"/>
     <GuideEntityEmbed Entity="PillCanister"/>

@@ -1,9 +1,11 @@
-<Document># Chef
+<Document>
+# Chef
 Um cara precisa comer, e é trabalho do chef garantir que as pessoas tenham algo além de lixo para mastigar.
 
 [textlink="Clique aqui para ver uma lista de receitas de comida." link="FoodRecipes"]
 
-Primeiro e antes de tudo, você precisa se familiarizar com a cozinha e com as ferramentas disponíveis para você.<Box>
+Primeiro e antes de tudo, você precisa se familiarizar com a cozinha e com as ferramentas disponíveis para você.
+<Box>
 <GuideEntityEmbed Entity="KitchenKnife"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
@@ -15,7 +17,8 @@ Primeiro e antes de tudo, você precisa se familiarizar com a cozinha e com as f
 <GuideEntityEmbed Entity="KitchenMicrowave"/>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Dinnerware Vend"/>
-</Box>## Preparação na Cozinha:
+</Box>
+## Preparação na Cozinha:
 
 É difícil descrever como ser chef sem parecer que você está recebendo ordens, mas aqui estão algumas bases.
 
@@ -27,31 +30,40 @@ Primeiro e antes de tudo, você precisa se familiarizar com a cozinha e com as f
 Uma vez que você estiver um pouco mais experiente e familiarizado com o que pode fazer, pode ser melhor montar alguns cardápios, ou uma "folha de dicas" para que você possa dar uma lista de ingredientes à botânica.
 
 ## Misturando a Massa:
-Adicione Farinha e Água juntas em um béquer. (Use a pia para a água!)<Box>
+Adicione Farinha e Água juntas em um béquer. (Use a pia para a água!)
+<Box>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 <GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="water"/>
 <GuideEntityEmbed Entity="FoodDough"/>
-</Box>## Fazendo Farinha:
-Coloque trigo em um moedor (com um béquer colocado dentro) e moa-o!<Box>
+</Box>
+## Fazendo Farinha:
+Coloque trigo em um moedor (com um béquer colocado dentro) e moa-o!
+<Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
-</Box>Para obter plantas:
-Pergunte à Botânica o que você precisa, sem um botanista, você pode precisar crescer mais plantas por conta própria.<Box>
+</Box>
+Para obter plantas:
+Pergunte à Botânica o que você precisa, sem um botanista, você pode precisar crescer mais plantas por conta própria.
+<Box>
 <GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
-</Box>## Coletando Leite:
-Clique com o botão alternativo em uma Vaca com um recipiente em sua mão. (Balões, Baldes, Garrafas de Leite, etc.)<Box>
+</Box>
+## Coletando Leite:
+Clique com o botão alternativo em uma Vaca com um recipiente em sua mão. (Balões, Baldes, Garrafas de Leite, etc.)
+<Box>
 <GuideEntityEmbed Entity="Bucket"/>
 <GuideEntityEmbed Entity="MobCow"/>
 <GuideEntityEmbed Entity="DrinkMilkCarton"/>
-</Box>## Como Descarcar:
+</Box>
+## Como Descarcar:
 Na maioria dos casos, você deverá usar uma faca diretamente em uma criatura que está morta. É melhor fazer isso no congelador, pois os resultados são... sujos.
 
-Macacos, no entanto, (e outros humanóides), precisam ser arrastados para um carneirão para serem descarados.<Box>
+Macacos, no entanto, (e outros humanóides), precisam ser arrastados para um carneirão para serem descarados.
+<Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>
 <GuideEntityEmbed Entity="MobMonkey"/>

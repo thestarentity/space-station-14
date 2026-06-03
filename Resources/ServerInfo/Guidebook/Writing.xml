@@ -1,4 +1,5 @@
-<Document># Escrita
+<Document>
+# Escrita
 
 Usando uma caneta, você pode escrever em papel ou em livros. A Nanotrasen fornece a todos uma caneta de sobra em seus PDA.
 
@@ -16,4 +17,5 @@ Você pode combinar [bold][italic]negrito e itálico[/italic][/bold] ou usar o a
 A cor suporta tanto hexadecimal quanto a maioria dos nomes de cores HTML. Por exemplo:
 
 - [color=#ff0000]\[color=#ff0000\]\[\/color\][/color]
-- [color=red]\[color=red\]\[\/color\][/color]</Document>
+- [color=red]\[color=red\]\[\/color\][/color]
+</Document>

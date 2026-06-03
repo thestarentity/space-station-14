@@ -6,7 +6,7 @@ A construção de um shuttle é direta, embora bastante cara e difícil de ser r
 É uma atividade boa se você tem um tempo livre significativo e quer um pouco de desafio.
 
   ## Começando
-  <Box>A AME é uma ferramenta essencial para engenheiros e oficiais de manutenção. Ela permite que você repare e reative equipamentos danificados, bem como reative sistemas que estão desligados. A AME pode ser usada para reparar uma variedade de componentes, incluindo circuitos, painéis de controle e sistemas de energia. Para usar a AME, você precisa ter uma AME no seu inventário e estar em contato direto com o componente que deseja reparar. Cada uso da AME consome uma quantidade de energia, e ela pode ser recarregada em estações de energia. A AME é uma ferramenta valiosa para manter a estação em funcionamento e garantir a segurança de todos os tripulantes.</Box>
+  <Box>Peças necessárias:</Box>
   <Box>
   <GuideEntityEmbed Entity="Thruster"/>
   <GuideEntityEmbed Entity="Gyroscope"/>
@@ -21,7 +21,7 @@ A construção de um shuttle é direta, embora bastante cara e difícil de ser r
   <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
 
-  <Box>A shuttlecraft é uma nave pequena usada para viagens entre a Estação Espacial e o posto avançado, ou para missões de resgate e evacuação. Ela é controlada pelo Engenheiro-Chefe e sua tripulação. A shuttlecraft tem capacidade para transportar até 6 tripulantes, incluindo o piloto. Ela é equipada com sistemas de navegação, comunicação e defesa básicos. Para operar a shuttlecraft, você precisa de um cartão de identificação com permissão para uso de shuttlecraft. O uso da shuttlecraft é regulamentado pelo Comando Central e pela Nanotrasen.</Box>
+  <Box>Opcionais:</Box>
   <Box>
   <GuideEntityEmbed Entity="AirCanister"/>
   <GuideEntityEmbed Entity="LightTube" Caption="lighting"/>

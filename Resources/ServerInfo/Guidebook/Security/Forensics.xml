@@ -35,7 +35,9 @@ Você pode imprimir as informações forenses do objeto que escaneou para nunca 
   ## Coletando Impressões Digitais
 Também é possível pegar as impressões digitais de alguém no local, se você fizer com que eles tirem os luvas e aplicarem um suporte forense em seus dedos. Não há necessidade de correr de volta ao [color=#a4885c]Computador de Registros da Estação[/color] para verificar se o mordomo foi o responsável!
 
+
   <GuideEntityEmbed Entity="ForensicPad"/>
+
 
   ## Fibras
 Sempre que pessoas usando luvas tocam algo na estação, elas deixam para trás algumas fibras. Isso complica as coisas, mas nada é insolvível para um verdadeiro detetive.

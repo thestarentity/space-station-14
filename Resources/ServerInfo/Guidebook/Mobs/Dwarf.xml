@@ -1,3 +1,7 @@
-<Document># Anões<Box>
+<Document>
+# Anões
+<Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
-  </Box>Os anões são similares aos humanos na maioria dos aspectos, mas toleram melhor o álcool e são curados por ele.</Document>
+  </Box>
+Os anões são similares aos humanos na maioria dos aspectos, mas toleram melhor o álcool e são curados por ele.
+</Document>

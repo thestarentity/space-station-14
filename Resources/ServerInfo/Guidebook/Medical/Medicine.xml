@@ -1,15 +1,19 @@
-<Document># Medicamentos Básicos
+<Document>
+# Medicamentos Básicos
 
-Esses medicamentos são úteis de uma forma ou outra para a enfermaria.<GuideReagentEmbed Reagent="Bicaridine"/>
+Esses medicamentos são úteis de uma forma ou outra para a enfermaria.
+<GuideReagentEmbed Reagent="Bicaridine"/>
 <GuideReagentEmbed Reagent="Kelotane"/>
 <GuideReagentEmbed Reagent="Dermaline"/>
 <GuideReagentEmbed Reagent="Dylovene"/>
 <GuideReagentEmbed Reagent="Inaprovaline"/>
 <GuideReagentEmbed Reagent="Dexalin"/>
 <GuideReagentEmbed Reagent="DexalinPlus"/>
-<GuideReagentEmbed Reagent="Iron"/># Medicamentos Especializados
+<GuideReagentEmbed Reagent="Iron"/>
+# Medicamentos Especializados
 
-Esses medicamentos tendem a ter casos de uso específicos.<GuideReagentEmbed Reagent="Cryoxadone"/>
+Esses medicamentos tendem a ter casos de uso específicos.
+<GuideReagentEmbed Reagent="Cryoxadone"/>
 <GuideReagentEmbed Reagent="Epinephrine"/>
 <GuideReagentEmbed Reagent="Hyronalin"/>
 <GuideReagentEmbed Reagent="Arithrazine"/>
@@ -17,8 +21,10 @@ Esses medicamentos tendem a ter casos de uso específicos.<GuideReagentEmbed Rea
 <GuideReagentEmbed Reagent="Tricordrazine"/>
 <GuideReagentEmbed Reagent="TranexamicAcid"/>
 <GuideReagentEmbed Reagent="Ambuzol"/>
-<GuideReagentEmbed Reagent="Oculine"/># Todos os Medicamentos
+<GuideReagentEmbed Reagent="Oculine"/>
+# Todos os Medicamentos
 
-Esta é uma lista de -todos- os medicamentos disponíveis, incluindo os previamente listados.<GuideReagentGroupEmbed Group="Medicine"/>
+Esta é uma lista de -todos- os medicamentos disponíveis, incluindo os previamente listados.
+<GuideReagentGroupEmbed Group="Medicine"/>
 
 </Document>

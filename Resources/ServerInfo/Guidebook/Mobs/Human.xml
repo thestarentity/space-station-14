@@ -1,4 +1,8 @@
-<Document># Humanos<Box>
+<Document>
+# Humanos
+<Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption=""/>
-  </Box>Dependendo de quem você pergunte, os humanos são ou irrelevantes ou o padrão universal ao qual tudo o resto é comparado.
-Eles não têm mecânicas especiais ou atributos notáveis.</Document>
+  </Box>
+Dependendo de quem você pergunte, os humanos são ou irrelevantes ou o padrão universal ao qual tudo o resto é comparado.
+Eles não têm mecânicas especiais ou atributos notáveis.
+</Document>
