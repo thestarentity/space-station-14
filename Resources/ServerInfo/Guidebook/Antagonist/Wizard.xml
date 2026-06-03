@@ -2,7 +2,7 @@
   # O Mago
 
   <Box>
-[color=#457573][italic]É HORA DO MAGO, MÃE DE...[italic][/color]
+[color=#457573][italic]É HORA DO MAGO, MÃE DE...[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineWizard" Caption=""/>

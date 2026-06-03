@@ -81,7 +81,7 @@ Para pilotar o shuttle, você deve primeiro encontrar a [color=cyan]Console do S
 Após interagir com o computador, deve haver uma visão de navegação a partir do shuttle. Aqui estão as etapas para pilotar o shuttle até e da Estação de Comércio:
 
 Primeiro, mude para a tela [color=yellow]"DOCK"[/color] e [color=yellow]desconecte[/color] qualquer airlock entre o shuttle e a estação.
-Agora, com o shuttle desconectado, você pode pilotá-lo. [itálico]Lembre-se de que você está voando no espaço e o momento é conservado[/itálico].
+Agora, com o shuttle desconectado, você pode pilotá-lo. [italic]Lembre-se de que você está voando no espaço e o momento é conservado[/italic].
 - Os controles são [color=yellow][keybind="ShuttleStrafeUp"][/color] e [color=yellow][keybind="ShuttleStrafeDown"][/color] para se mover para cima e para baixo, [color=yellow][keybind="ShuttleStrafeLeft"][/color] e [color=yellow][keybind="ShuttleStrafeRight"][/color] para se mover para a esquerda e para a direita, e [color=yellow][keybind="ShuttleRotateLeft"][/color] e [color=yellow][keybind="ShuttleRotateRight"][/color] para virar para a esquerda e para a direita. Para frear, pressione [color=yellow][keybind="ShuttleBrake"][/color].
 - Em seguida, pilotar o shuttle até a [color=cyan]Estação Comercial[/color].
 - Uma vez lá, [color=yellow]amarrar[/color] aos airlocks e você está pronto.

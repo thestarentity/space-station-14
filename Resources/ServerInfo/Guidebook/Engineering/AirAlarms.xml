@@ -20,7 +20,7 @@ Interagir com uma Alarme de Ar vai abrir um menu com 3 seções:
 
   ## Status do Alarme
 Os alarmes de ar comunicam rapidamente o status da área que estão monitorando através da cor da luz no dispositivo:
-- [color=verde]Normal[/color]: A área é segura para respirar.
+- [color=green]Normal[/color]: A área é segura para respirar.
 - [color=yellow]Aviso[/color]: A área está começando a se desviar da atmosfera desejada e está se tornando insegura.
 - [color=red]Perigo[/color]: A área não está mais segura, roupas internas e/ou trajes rígidos são necessários.
 

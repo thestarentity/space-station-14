@@ -101,7 +101,7 @@ Você pode simplesmente realizar interações com itens em mãos clicando em [co
 Você pode "usar" uma entidade em outra entidade arrastando uma para cima da outra com [color=yellow][bold][keybind="Use"][/bold][/color]. (Não confundir com [italic]puxar[/italic].)
 
 Use it to: Use-o para:
-[color=ciano]Colocar[/color] ou forçar um mob (jogador ou NPC) em uma cadeira, cama, em um criopod, unidade de descarte, etc.
+[color=cyan]Colocar[/color] ou forçar um mob (jogador ou NPC) em uma cadeira, cama, em um criopod, unidade de descarte, etc.
 
 Suba [color=cyan]em cima[/color] de uma mesa — você também pode clicar [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] na mesa.
 
@@ -114,11 +114,11 @@ Use [color=yellow][bold][keybind="Point"][/bold][/color] to [color=cyan]apontar[
 
   ### Controles
 As principais interações são:
-- [bolditalic]padrão[/bolditalic] ([color=amarelo][bold][keybind="Usar"][/bold][/color]),
-[italic]alternativa[/italic] ([color=amarelo][negrito][keybind="AltActivateItemInWorld"][/negrito][/color]),
-- [bold]ativação[/bold] ([color=amarelo][bold][keybind="ActivateItemInWorld"][/bold][/color]),
-- [bolditalic]use-in-hand[/bolditalic] ([color=amarelo][bold][keybind="ActivateItemInHand"][/bold][/color]),
-[italic]uso alternativo na mão[/italic] ([color=amarelo][negrito][keybind="AltActivateItemInHand"][/negrito][/color]),
+- [bolditalic]padrão[/bolditalic] ([color=yellow][bold][keybind="Usar"][/bold][/color]),
+[italic]alternativa[/italic] ([color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]),
+- [bold]ativação[/bold] ([color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]),
+- [bolditalic]use-in-hand[/bolditalic] ([color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]),
+[italic]uso alternativo na mão[/italic] ([color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]),
 clique e arraste.
 
 Não se preocupe em ter que decorar — eles geralmente são intuitivos e consistentes entre as categorias de entidades, e você vai perceber que a maioria das entidades usa apenas uma ou duas interações.
@@ -164,7 +164,7 @@ Você também pode usar os atalhos de teclado [color=yellow][bold][keybind="Open
 Você pode [color=cyan]mover rapidamente[/color] itens entre sua mão ativa e um slot correspondente. Se esse slot tiver um recipiente, essa ação [color=cyan]armazenará rapidamente[/color] ou [color=cyan]pegará rapidamente[/color] o item mais recente desse recipiente (indicado com um ícone de estrela dourada no recipiente).
 
 - [color=yellow][bold][keybind="SmartEquipBackpack"][/bold][/color] smart-equipa o slot de costas.
-- [color=amarelo][negrito][keybind="SmartEquipBelt"][/negrito][/color] equipa inteligentemente o cinto.
+- [color=yellow][bold][keybind="SmartEquipBelt"][/bold][/color] equipa inteligentemente o cinto.
 , e  equipam inteligentemente o bolso esquerdo, o bolso direito e o compartimento de armazenamento da roupa, respectivamente.
 
   ### Organizando inventários de grade
@@ -172,7 +172,7 @@ Rearrange itens arrastando-os com [color=yellow][bold][keybind="MoveStoredItem"]
 Enquanto arrasta, [color=cyan]gire[/color]-os com [color=yellow][bold][keybind="RotateStoredItem"][/bold][/color].
 
 Clique em [color=yellow][bold][keybind="SaveItemLocation"][/bold][/color] em um item dentro de um container para [color=cyan]salvar[/color] sua posição, assim ele sempre retorna a essa posição quando armazenado.
-Visualize posições salvas ao [color=amarelo][bold]passar o mouse[/bold][/color] sobre os itens.
+Visualize posições salvas ao [color=yellow][bold]passar o mouse[/bold][/color] sobre os itens.
 
   ## Câmera
 Zoom a câmera com [color=yellow][bold][keybind="ZoomIn"][/bold][/color] e [color=yellow][bold][keybind="ZoomOut"][/bold][/color] e redefina com [color=yellow][bold][keybind="ResetZoom"][/bold][/color].

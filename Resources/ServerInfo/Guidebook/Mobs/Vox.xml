@@ -1,8 +1,8 @@
 <Document># Vox<Box>
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
-  </Box>[cor=#ffa500]Aviso! Esta espécie não é recomendada para jogadores novatos devido à sua alergia fatal ao oxigênio![/cor]
+  </Box>[color=#ffa500]Aviso! Esta espécie não é recomendada para jogadores novatos devido à sua alergia fatal ao oxigênio![/color]
 
-Vox respiram nitrogênio, e [cor=#ffa500] o oxigênio é tóxico para eles.[/cor]
+Vox respiram nitrogênio, e [color=#ffa500] o oxigênio é tóxico para eles.[/color]
 Infelizmente, as estações espaciais tendem a estar cheias de oxigênio,
 então Vox devem usar uma fonte interna de nitrogênio quase sempre para evitar exposição fatal.
 
@@ -11,7 +11,7 @@ Um capacete de respiração reserva e um cilindro de nitrogênio de emergência 
 
 Além de alimentos regulares, Vox também podem comer vários pacotes de lanches, cascas de banana, conchas de ovo e carne crua sem nenhum efeito negativo. Eles também gostam de beber combustível de solda.
 
-Vox [cor=#1e90ff]recuperam-se lentamente de níveis baixos de dano por veneno[/cor] sozinhos,
+Vox [color=#1e90ff]recuperam-se lentamente de níveis baixos de dano por veneno[/color] sozinhos,
 desde que sejam cuidadosos para não ultrapassar 20 de dano por veneno.
 Isso permite que eles suportem respirar ar da estação por até trinta segundos de cada vez sem danos duradouros,
 permitindo que eles comam, bebam, tomem medicamentos orais e assim por diante rapidamente.

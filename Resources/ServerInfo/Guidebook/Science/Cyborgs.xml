@@ -1,6 +1,6 @@
 <Document>
   # Ciborgs
-Cyborgs são híbridos homem-máquina, criados intencionalmente pela divisão de [textlink="robotics"  link="Robótica"] da ciência para diversas tarefas em toda a estação. Limitados pelas rigorosamente seguidas [color=cyan]leis de silício[/color], eles servem a tripulação incondicionalmente. [italic](A maioria das vezes.)[italic]
+Cyborgs são híbridos homem-máquina, criados intencionalmente pela divisão de [textlink="robotics"  link="Robótica"] da ciência para diversas tarefas em toda a estação. Limitados pelas rigorosamente seguidas [color=cyan]leis de silício[/color], eles servem a tripulação incondicionalmente. [italic](A maioria das vezes.)[/italic]
 
   ## Componentes Básicos
   <Box>
@@ -11,7 +11,7 @@ Todos os ciborgues são construídos sobre um endoesqueleto, que pode ser fabric
 
 Cyborgs recém-construídos precisam de um [color=#a4885c]cérebro[/color] capaz de se interfacear com o corpo eletrônico. Existem dois tipos principais, ambos dos quais são capazes de falar independentemente, caso o chassi seja desativado, trocado ou sofra uma desmontagem não programada.
 - O [color=#a4885c]Interface Homem-Máquina[/color] ou MMI, por curto, é um aparelho capaz de facilitar a comunicação entre um cérebro biológico e componentes eletrônicos, permitindo que aqueles que sofreram acidentes graves no local de trabalho continuem servindo sua tripulação, muito tempo depois que seu corpo tenha ido embora.
-- O [color=#a4885c>Cérebro Positrônico[/color] é um cérebro totalmente artificial, capaz de atividade neural espontânea. O tempo para os neurônios sintéticos descrambarem pode variar amplamente, mas eles permitem a criação de ciborgs sem ter que extrair um cérebro de um tripulante.
+- O [color=#a4885c]Cérebro Positrônico[/color] é um cérebro totalmente artificial, capaz de atividade neural espontânea. O tempo para os neurônios sintéticos descrambarem pode variar amplamente, mas eles permitem a criação de ciborgs sem ter que extrair um cérebro de um tripulante.
   <Box>
     <GuideEntityEmbed Entity="MMIFilled" Caption="Man-Machine Interface"/>
     <GuideEntityEmbed Entity="PositronicBrain" Caption="Positronic Brain"/>
@@ -58,7 +58,7 @@ Para necessidades mais específicas, estão disponíveis módulos [color=#a4885c
     <GuideEntityEmbed Entity="BorgModuleChemical" Caption="Chemical"/>
   </Box>
   <Box>
-[italic]Exemplos de módulos especializados. Observe as cores do alojamento e da placa de circuito.
+[italic]Exemplos de módulos especializados. Observe as cores do alojamento e da placa de circuito.[/italic]
   </Box>
 Módulos adicionais com capacidades avançadas ou novas podem ser adquiridos por meio de novas [textlink="technologies" link="Technologies"] pesquisadas pelos cientistas.
 </Document>

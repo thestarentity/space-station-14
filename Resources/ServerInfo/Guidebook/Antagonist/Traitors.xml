@@ -74,7 +74,7 @@ Mais vezes do que não, você terá que [italic][color=cyan]roubar uma posse de 
 O alvo pode estar no seu escritório, ou em sua pessoa. Pode ser necessário matar quem estiver carregando-o, se você não conseguir furtar deles.
 
 Alguns dos itens que você pode ser solicitado a fazer incluem:
-- Roubar o [color=yellow]Capitão[/color]'s [bold]cartão de identificação[/bold], [bold]pistola laser antiga[/bold], [bold>jetpack[/bold] ou [bold]disco de autenticação nuclear[/bold].
+- Roubar o [color=yellow]Capitão[/color]'s [bold]cartão de identificação[/bold], [bold]pistola laser antiga[/bold], [bold]jetpack[/bold] ou [bold]disco de autenticação nuclear[/bold].
   <Box>
     <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
     <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>

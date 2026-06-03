@@ -11,7 +11,7 @@ A console exibe informações detalhadas sobre cada nó na estrutura de árvore 
 - [bold]ID:[/bold] Identificador único para uso com o Escâner de Nós.
 - [bold]Classe:[/bold] O nome da camada, os nós na mesma camada compartilham esse nome.
 [bold]Status:[/bold]
-- [italic][color=vermelho]Trancado[/color][/italic] por padrão.
+- [italic][color=red]Trancado[/color][/italic] por padrão.
 - [italic][color=plum]Ativo[/color][/italic] ao ser ativado pela primeira vez.
 - [italic][color=lime]Desbloqueado[/color][/italic] se um nó mais profundo for alcançado (impede ativações manuais).
 [bold]Durabilidade:[/bold] Número de ativações manuais disponíveis.

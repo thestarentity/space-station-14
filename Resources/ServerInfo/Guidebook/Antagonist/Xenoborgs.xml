@@ -2,10 +2,10 @@
   # Xenoborgs
 
   <Box>
-[cor=#2288ff][itálico]A RESISTÊNCIA É INÚTIL[/itálico]
+[color=#2288ff][italic]A RESISTÊNCIA É INÚTIL[/italic][/color]
   </Box>
   <Box>
-[cor=#2288ff][itálico]VOCÊ SERÁ ASSIMILADO[/itálico]
+[color=#2288ff][italic]VOCÊ SERÁ ASSIMILADO[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="MMIFilled" Caption=""/>
@@ -161,7 +161,7 @@ O [color=green]vencedor[/color] da rodada é anunciado na tela de fim de rodada,
 [bold][color=#2288ff]Vitória Maior dos Xenoborgs![/color][/bold]
 - No final, há mais xenoborgs do que tripulantes vivos.
 
-[bold][color=amarelo]Vitória Maior da Tripulação![/color][/bold]
+[bold][color=yellow]Vitória Maior da Tripulação![/color][/bold]
 - O Núcleo da Nave-Mãe é destruído
 - Todos os xenoborgs foram destruídos.
 O número restante de xenoborgs é muito baixo.

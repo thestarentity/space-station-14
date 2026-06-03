@@ -16,7 +16,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Tubulações
   </Box>
   <Box>
-[color=#999999][italic]Distribuindo gases de um lugar para outro[italic][/color]
+[color=#999999][italic]Distribuindo gases de um lugar para outro[/italic][/color]
   </Box>
 
   <Box>
@@ -27,7 +27,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Bomba(s)
   </Box>
   <Box>
-[cor=#999999][itálico]Forçando o movimento de gases de um lugar para outro[itálico]
+[color=#999999][italic]Forçando o movimento de gases de um lugar para outro[/italic][/color]
   </Box>
 
   <Box>
@@ -41,7 +41,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Entrada e Saída de Atmosfera
   </Box>
   <Box>
-[cor=#999999][itálico]Inserindo e extraíndo gasses de uma atmosfera presente (ou não presente)[itálico]
+[color=#999999][italic]Inserindo e extraíndo gasses de uma atmosfera presente (ou não presente)[/italic][/color]
   </Box>
 
   <Box>
@@ -55,7 +55,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Válvulas
   </Box>
   <Box>
-[color=#999999][italic]Controlando o fluxo de gás através de tubulações[italic][/color]
+[color=#999999][italic]Controlando o fluxo de gás através de tubulações[/italic][/color]
   </Box>
 
   <Box>
@@ -66,7 +66,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Mistura e Filtros
   </Box>
   <Box>
-[color=#999999][italic]Manipulação da composição do gás[italic][/color]
+[color=#999999][italic]Manipulação da composição do gás[/italic][/color]
   </Box>
 
   <Box>
@@ -81,7 +81,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Cânister de Gás
   </Box>
   <Box>
-[color=#999999][italic]Armazenando e transportando gás para uso fácil pela tripulação[italic][/color]
+[color=#999999][italic]Armazenando e transportando gás para uso fácil pela tripulação[/italic][/color]
   </Box>
 
   <Box>
@@ -94,7 +94,7 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Termômetros e Radiadores
   </Box>
   <Box>
-[color=#999999][italic]Manipular a temperatura dos gases em uma rede de tubulações ou atmosfera[italic][/color]
+[color=#999999][italic]Manipular a temperatura dos gases em uma rede de tubulações ou atmosfera[/italic][/color]
   </Box>
 
   <Box>
@@ -104,6 +104,6 @@ Você pode desconectar com segurança [textlink="recipientes" link="GasCanisters
     ## Condensação de Gás
   </Box>
   <Box>
-[color=#999999][italic]Condensando gases para uso posterior[italic][/color]
+[color=#999999][italic]Condensando gases para uso posterior[/italic][/color]
   </Box>
 </Document>

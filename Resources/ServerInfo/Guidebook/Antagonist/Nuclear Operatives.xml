@@ -5,7 +5,7 @@
 [color=#999999][italic]"OPERATIVOS EM ESPERA. SEUS OBJETIVOS SÃO SIMPLES.[/italic][/color]
   </Box>
   <Box>
-[cor=#999999][itálico]ENTREGUE A CARGA E SAIA ANTES QUE A CARGA DETONAR. INÍCIO DA MISSÃO."[/itálico]
+[color=#999999][italic]ENTREGUE A CARGA E SAIA ANTES QUE A CARGA DETONAR. INÍCIO DA MISSÃO."[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandEnlistGorlex" Caption=""/>
@@ -105,22 +105,22 @@ Se a bomba for rearmada, o temporizador continuará a partir do ponto em que est
 
 O [color=#00ff00]vencedor[/color] da rodada é anunciado na tela de fim de rodada, bem como a escala de sua vitória.
 
-[bold][color=vermelho]Vitória Sindical Maior![/color][/bold]
+[bold][color=red]Vitória Sindical Maior![/color][/bold]
 - A bomba atômica explode na estação.
 - A tripulação escapa no evac, mas a bomba ainda está armada.
 - A bomba atômica está armada e entregue ao Comando Central no shuttle de evacuação.
 
-[bold][color=vermelho]Vitória Menor do Sindicato[/color][/bold]
+[bold][color=red]Vitória Menor do Sindicato[/color][/bold]
 - A tripulação foge no evac, mas todos os operativos sobrevivem.
 - A tripulação foge e alguns operativos morrem, mas a tripulação perde o disco.
 
 [bold][color=#999999]Vitória Neutra[/color][/bold]
 - A bomba atômica explode fora da estação.
 
-[bold][color=verde]Vitória Menor da Tripulação[/color][/bold]
+[bold][color=green]Vitória Menor da Tripulação[/color][/bold]
 - A tripulação foge com o disco durante a evacuação e alguns operativos morrem.
 
-[bold][color=verde]Vitória Maior da Tripulação![/color][/bold]
+[bold][color=green]Vitória Maior da Tripulação![/color][/bold]
 - Todos os operativos morrem.
 - A tripulação explode o posto avançado do operativo nuclear com a bomba.
 </Document>
