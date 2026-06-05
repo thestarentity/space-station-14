@@ -56,7 +56,7 @@ ent-ClothingOuterWinterRobo = jaqueta de inverno robótica
 
 ent-ClothingOuterWinterSci = jaqueta de inverno científica
 
-ent-ClothingOuterWinterSec = jaqueta de inverno de segurança ⟦0⟧
+ent-ClothingOuterWinterSec = jaqueta de inverno de segurança
 
 ent-ClothingOuterWinterViro = casaco de inverno de virologia
 
