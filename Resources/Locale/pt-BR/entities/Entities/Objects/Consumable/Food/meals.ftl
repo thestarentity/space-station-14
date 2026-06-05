@@ -70,7 +70,7 @@ ent-FoodMealSashimi = sashimi
 ent-FoodMealEnchiladas = enchiladas
     .desc = Viva La México!
 
-ent-FoodSaladWatermelonFruitBowl = bowl of melon fruit
+ent-FoodSaladWatermelonFruitBowl = tigela de frutas de melancia
     .desc = A única salada em que você pode comer o próprio tigela.
 
 ent-FoodMealCornInButter = milho na manteiga

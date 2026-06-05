@@ -6,6 +6,6 @@ ent-BlinkBook = livro de magia blink
 ent-SmiteBook = livro de feitiços de smite
 ent-KnockSpellbook = livro de encantamentos de pancada
 ent-FireballSpellbook = livro de feitiços de bola de fogo
-ent-ScrollRunes = scroll of runes
+ent-ScrollRunes = pergaminho de runas
 ent-WizardsGrimoireDebug =
     .desc = Um livro pesado contendo fórmulas arcanas complicadas para preparar feitiços e conjurar equipamentos sobrenaturais. Alguém escreveu "APENAS PARA USO EXPERIMENTAL" na capa interna.
