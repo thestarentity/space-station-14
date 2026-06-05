@@ -1,56 +1,38 @@
 ent-CrateServiceJanitorialSupplies = caixa de suprimentos de zeladoria
     .desc = Lute contra a sujeira e a sujeira com os Essentials de Limpeza da Nanotrasen(tm)! Contém três baldes, sinais de aviso e granadas de limpeza. Também possui uma única vassoura, pano de limpeza, escova de fio, pano, saco de lixo e limpador em spray.
-
 ent-CrateServiceCleanerGrenades = caixa de limpeza em massa
     .desc = Contém duas caixas de granadas de limpeza, para manchas profundamente enraizadas.
-
-ent-CrateServiceReplacementLights = caixa de lâmpadas de substituição
+ent-CrateServiceReplacementLights = Caixa de Lâmpadas de Substituição
     .desc = Que a luz do Éter brilhe sobre esta estação! Ou, no mínimo, a luz de doze tubos fluorescentes e doze lâmpadas incandescentes.
-
 ent-CrateServiceColorfulLights = caixa de luzes coloridas
     .desc = É uma festa só quando é difícil enxergar, um pouco desorientador e seus ouvidos doem. Contém doze tubos de luz e doze lâmpadas em uma variedade de cores.
-
 ent-CrateServiceHolidayLights = caixa de luzes de natal
     .desc = Decore as passagens com essas luzes festivas de Natal! Contém doze tubos de luz vermelhos e doze tubos de luz verdes.
-
 ent-CrateMousetrapBoxes = caixa de armadilhas de rato
     .desc = Armadilhas para ratos, para quando toda a equipe de serviços estiver sendo assombrada por uma horda inteira de ratos. Use com moderação... ou não.
-
 ent-CrateServiceSmokeables = caixa de itens fumáveis
     .desc = Cansado de uma morte rápida na estação? Compre esta caixa e fume em sequência até morrer com uma tosse terrível!
-
 ent-CrateServiceTheatre = caixa de apresentações teatrais
     .desc = Contém um manto de mariposa, tesoura de barbeiro, uniforme de empregada, atributos de palhaço e mímico, e outros encantos de performance.
-
 ent-CrateServiceCustomSmokable = Caixa de itens fumáveis artesanais
     .desc = Quer ser um pouco criativo com o que usa para destruir seus pulmões? Então essa caixa é para você! Tem tudo o que você precisa para fazer seus próprios cigarros.
-
 ent-CrateServiceBureaucracy = caixa de burocracia
     .desc = Várias pilhas de papel, alguns canetas e um brinquedo de escritório. O que mais você poderia pedir?
-
 ent-CrateServiceFaxMachine = caixa de máquina de fax
     .desc = Uma máquina de fax e uma chave de fenda para definir o nome.
-
 ent-CrateServicePersonnel = caixa de pessoal
     .desc = Contém uma caixa de cartões de identificação e PDAs em branco.
-
 ent-CrateServiceBooks = caixa de livros
     .desc = Contém 10 livros vazios de aparência aleatória.
-
 ent-CrateServiceGuidebooks = Caixa de livros guia
     .desc = Contém guias.
-
 ent-CrateServiceSodaDispenser = caixa de reposição para dispensador de refrigerante
     .desc = Contém refil para dispensadores de refrigerante.
-
 ent-CrateServiceBoozeDispenser = caixa de reposição para dispensador de bebida
     .desc = Contém refills para dispensadores de bebida alcoólica.
-
 ent-CrateServiceBox = caixas caixa de madeira
     .desc = Contém 6 caixas multifuncionais vazias.
-
 ent-CrateJanitorBiosuit = caixa de traje biológico do zelador
     .desc = Contém 2 trajes de biosegurança para garantir que nenhuma doença te distraia da limpeza.
-
 ent-CrateCandles = caixa de velas
     .desc = Contém 4 caixas de velas, 2 grandes e 2 pequenas. Para atmosfera ou algo assim.

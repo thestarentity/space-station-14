@@ -1,117 +1,59 @@
 ent-RandomHumanoidVisitorCaptain = Capitão visitante
-
-ent-RandomHumanoidVisitorCE = Vindo para visitar a Estação Espacial? Bem-vindo! Você está aqui como um visitante fantasma. Sinto muito, mas não posso lhe dar acesso a áreas restritas. Por favor, não entre em nenhuma sala que não seja a área de visitantes. Se precisar de ajuda, procure por um tripulante.
-
+ent-RandomHumanoidVisitorCE = Vindo visitar a Estação Espacial? Bem-vindo! Você está aqui como um visitante fantasma. Sinto muito, mas não posso lhe dar acesso a áreas restritas. Por favor, não entre em nenhuma sala que não seja a área de visitantes. Se precisar de ajuda, procure por um tripulante.
 ent-RandomHumanoidVisitorCMO = Vocês podem me ver? Eu sou um visitante fantasma que veio para visitar o Chefe Médico. Eu estou aqui para observar e aprender sobre a medicina na Estação Espacial. Por favor, não me assustem, eu sou apenas um espectro curioso!
-
 ent-RandomHumanoidVisitorHOP = Bem-vindo à Estação Espacial, visitante! Você está aqui como um fantasma da equipe de visitantes aleatórios. Sua presença é temporária, e você não tem permissão para interagir com a tripulação ou o equipamento. Siga as regras da Estação e não cause problemas. Sua missão, se você aceitar, é observar e não ser notado. Boa sorte!
-
 ent-RandomHumanoidVisitorHOS = Bem-vindo à Estação Espacial, visitante! Você está aqui como um fantasma HOS. Sua presença é temporária, e você não tem permissão para interagir com a tripulação ou o equipamento. Siga as regras da Estação e não cause problemas. Sua missão é observar e não interferir. Boa sorte!
-
 ent-RandomHumanoidVisitorRD = O visitante fantasma da Diretoria de Pesquisa está aqui para explorar e investigar qualquer coisa que pareça incomum. Eles não têm um propósito específico, mas podem oferecer informações valiosas se interrogados corretamente.
-
 ent-RandomHumanoidVisitorQM = Bem-vindo à Estação Espacial, visitante! Eu sou um fantasma QM, aqui para garantir que você tenha uma experiência única. Se você estiver aqui para uma missão, sinta-se à vontade para perguntar. Se não, aproveite a visita!
-
 ent-RandomHumanoidVisitorSecurityCadet = Cadete de Segurança Visitante
-
 ent-RandomHumanoidVisitorSecurityOfficer = Oficial de Segurança Visitante
-
 ent-RandomHumanoidVisitorDetective = Detetive visitante
-
 ent-RandomHumanoidVisitorWarden = Vigia Fantasma de Visitante
-
 ent-RandomHumanoidVisitorCargoTechnician = Técnico de Carga Visitante
-
 ent-RandomHumanoidVisitorSalvageSpecialist = Visitante especialista em resgates
-
 ent-RandomHumanoidVisitorAtmosTech = O técnico atmosférico visitante é um fantasma.
-
 ent-RandomHumanoidVisitorTechnicalAssistant = Assistente Técnico Visitante
-
 ent-RandomHumanoidVisitorEngineer = Engenheiro visitante fantasma
-
 ent-RandomHumanoidVisitorMedicalIntern = Estagiário Médico de Visitante Fantasma
-
 ent-RandomHumanoidVisitorMedicalDoctor = Médico visitante
-
 ent-RandomHumanoidVisitorParamedic = Paramédico visitante
-
 ent-RandomHumanoidVisitorPsychologist = A psicóloga visitante está aqui para ajudar você a lidar com qualquer problema que possa estar enfrentando. Ela pode oferecer apoio emocional, conselhos e até mesmo algumas técnicas para melhorar seu bem-estar mental. Se você estiver passando por algo difícil, não hesite em procurá-la. Ela está aqui para ajudar.
-
 ent-RandomHumanoidVisitorChemist = Químico visitante
-
 ent-RandomHumanoidVisitorVirologist = Virologista visitante
-
 ent-RandomHumanoidVisitorGeneticist = Geneticista visitante
-
 ent-RandomHumanoidVisitorDentist = Dentista visitante
-
 ent-RandomHumanoidVisitorResearchAssistant = A assistente de pesquisa visitante é um fantasma que aparece aleatoriamente em áreas de pesquisa. Ela pode fornecer informações valiosas sobre experimentos, mas também pode assustar os tripulantes com sua presença inesperada.
-
 ent-RandomHumanoidVisitorScientist = Visitante Científico Fantasma
-
 ent-RandomHumanoidVisitorBartender = Bem-vindo ao nosso bar! Sou o bartender fantasma, aqui para servir bebidas e talvez um pouco de mistério. O que você gostaria de beber?
-
 ent-RandomHumanoidVisitorBotanist = Botanista visitante
-
 ent-RandomHumanoidVisitorBoxer = Lutador de Boxe Fantasma Visitante
-
 ent-RandomHumanoidVisitorChaplain = Clero visitante
-
 ent-RandomHumanoidVisitorChef = Cozinheiro visitante fantasma
-
 ent-RandomHumanoidVisitorClown = Espírito Palhaço Visitante
-
 ent-RandomHumanoidVisitorJanitor = Zelador visitante
-
 ent-RandomHumanoidVisitorLawyer = Advogado visitante
-
 ent-RandomHumanoidVisitorLawyerCentcom = Advogado Fantasma da Central de Comando
-
 ent-RandomHumanoidVisitorLibrarian = Bem-vindo à Estação Espacial, visitante! Sou o bibliotecário fantasma, aqui para ajudar você a encontrar o que procura na nossa imensa coleção de livros e materiais. Se você estiver procurando por algo específico, não hesite em me perguntar. Estou aqui para ajudar!
-
 ent-RandomHumanoidVisitorMusician = Músico Fantasma Visitante
-
 ent-RandomHumanoidVisitorMusicianFancy = Bem-vindo, visitante! Você está aqui para uma experiência musical única. Prepare-se para ser surpreendido com uma apresentação elegante e envolvente.
-
 ent-RandomHumanoidVisitorMusicianRelaxed = Bem-vindo, visitante! Estou aqui para tocar algumas notas suaves e relaxantes. Se quiser, posso tocar algo para você.
-
 ent-RandomHumanoidVisitorMime = Mímico visitante fantasma
-
 ent-RandomHumanoidVisitorReporter = Relatório de Visitante Humanoide Aleatório
-
 ent-RandomHumanoidVisitorServiceWorker = Funcionário Fantasma do Serviço de Visitantes
-
 ent-RandomHumanoidVisitorZookeeper = Zoológico visitante fantasma
-
 ent-RandomHumanoidClownTroupeBanana = troupe de palhaços de banana
-
 ent-RandomHumanoidChallengeVictimCaptain = Vítima de desastre Capitão fantasma
-
 ent-RandomHumanoidChallengeVictimCE = Vítima de desastre CE fantasma
-
 ent-RandomHumanoidChallengeVictimCMO = vítima de desastre CMO fantasma
-
 ent-RandomHumanoidChallengeVictimHOP = vítima de desastre HOP fantasma de desafio aleatório de humanoide
-
 ent-RandomHumanoidChallengeVictimHOS = vítima de desastre HOS fantasma de desafio aleatório de humanoide
-
 ent-RandomHumanoidChallengeVictimRD = Vítima de desastre RD fantasma
-
 ent-RandomHumanoidChallengeVictimQM = vítima de desastre fantasma QM de desafio aleatório de humanoide
-
 ent-RandomHumanoidChallengeCargoTechnician = Técnico de Carga Fantasma de Desastre
-
 ent-RandomHumanoidSyndieSoldierTeamLeader = Líder de Equipe do Sindicato
-
 ent-RandomHumanoidSyndieSoldier = Soldado Fantasma do Sindicato
-
 ent-RandomHumanoidSyndieVisitor = Vítima de desastre do sindicato fantasma
-
 ent-RandomHumanoidPirateScooner = pirate crewman ghost
-
 ent-RandomHumanoidPirateCaptainScooner = Capitão pirata fantasma
-
 ent-RandomHumanoidVisitorBlackmarketeer = Vendedor ambulante fantasma
-
 ent-RandomHumanoidCossack = Cossack ghost role

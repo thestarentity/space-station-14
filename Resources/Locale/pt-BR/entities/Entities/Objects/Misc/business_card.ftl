@@ -1,2 +1,2 @@
 ent-SyndicateBusinessCard = cartão de negócios do sindicato
-    .desc = Um cartão preto com o logotipo do sindicato. Há algo escrito no verso.
+    .desc = Um cartão preto com o logotipo do Sindicato. Há algo escrito no verso.

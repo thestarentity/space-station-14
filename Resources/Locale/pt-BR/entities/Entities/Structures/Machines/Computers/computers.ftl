@@ -1,134 +1,90 @@
 ent-ComputerAlert = computador de alertas atmosféricos
     .desc = Acesso ao sistema automático de alerta atmosférico da estação.
-
 ent-ComputerAtmosMonitoring = monitor de rede atmosférica
     .desc = Usado para monitorar as redes atmosféricas da estação.
-
 ent-ComputerEmergencyShuttle = console de shuttle de emergência
     .desc = Controla a autorização para o lançamento precoce do shuttle.
-
 ent-ComputerShuttle = console do shuttle
     .desc = Usado para pilotar um shuttle.
-
 ent-ComputerShuttleSyndie = console do shuttle do sindicato
     .desc = Usado para pilotar um shuttle do sindicato.
-
 ent-ComputerShuttleCargo = console de carga do shuttle
     .desc = Usado para pilotar o shuttle de carga.
-
 ent-ComputerIFF = Computador IFF
     .desc = Permite que você controle as características do IFF dessa embarcação.
-
 ent-ComputerIFFSyndicate = Computador IFF
     .desc = Permite que você controle o IFF e as características de camuflagem deste veículo.
-
 ent-ComputerPowerMonitoring = computador de monitoramento de energia
     .desc = Ele monitora os níveis de energia em toda a estação.
-
 ent-ComputerMedicalRecords = computador de registros médicos
     .desc = Isso pode ser usado para verificar registros médicos.
-
 ent-ComputerCriminalRecords = computador de registros criminais
     .desc = Isso pode ser usado para verificar registros criminais. Apenas a segurança pode modificá-los.
-
 ent-ComputerStationRecords = computador de registros da estação
     .desc = Isso pode ser usado para verificar registros da estação.
-
 ent-ComputerCrewMonitoring = console de monitoramento de tripulantes
     .desc = Usado para monitorar sensores de saúde ativos integrados à maioria dos uniformes da tripulação.
-
 ent-ComputerResearchAndDevelopment = Computador de Pesquisa e Desenvolvimento
     .desc = Um computador usado para interagir com ferramentas de P&D.
-
 ent-ComputerAnalysisConsole = console de análise
     .desc = Um computador usado para interagir com o analisador de artefatos.
-
 ent-ComputerId = Computador de cartão de identificação
     .desc = Terminal para programar cartões de identificação de funcionários da Nanotrasen para acessar partes da estação.
-
 ent-computerBodyScanner = computador de varredor corporal
     .desc = Um scanner corporal.
-
 ent-ComputerComms = computador de comunicações
     .desc = Um computador usado para fazer anúncios em toda a estação via teclado, definir o nível de alerta apropriado e chamar o shuttle de emergência.
-
 ent-SyndicateComputerComms = computador de comunicações do sindicato
     .desc = Um computador capaz de hackear remotamente os sistemas de comunicação da estação. Usar isso para fazer um anúncio alertará a estação sobre sua presença.
-
 ent-WizardComputerComms = computador de comunicações do bruxo
     .desc = Um computador capaz de projetar mágicamente sua fala para a estação. Usar esse computador para fazer um anúncio alertará a estação sobre sua presença.
-
 ent-CentcommComputerComms = computador de comunicações do comando central
     .desc = Um computador usado para fazer anúncios em todo o mundo via teclado. O parente mais sofisticado do computador de comunicações comum.
-
 ent-ComputerSolarControl = computador de controle solar
     .desc = Um controlador para arrays de painéis solares.
-
 ent-ComputerRadar = computador de scanner de massa
     .desc = Um computador para detectar corpos próximos, exibindo-os pela posição e massa.
-
 ent-ComputerCargoOrders = computador de solicitação de carga
     .desc = Usado para pedir suprimentos e aprovar solicitações.
-
 ent-ComputerCargoOrdersEngineering = solicitação de engenharia
     .desc = Usado pelo departamento de engenharia para pedir suprimentos.
-
 ent-ComputerCargoOrdersMedical = solicitação médica
     .desc = Usado pelo departamento médico para pedir suprimentos.
-
 ent-ComputerCargoOrdersScience = Requisição de ciência para computador
     .desc = Usado pelo departamento de ciências para pedir suprimentos.
-
 ent-ComputerCargoOrdersSecurity = solicitação de segurança para computador
     .desc = Usado pelo departamento de segurança para pedir suprimentos.
-
 ent-ComputerCargoOrdersService = solicitação de serviço computador
     .desc = Usado pelo departamento de serviços para pedir suprimentos.
-
 ent-ComputerCargoBounty = computador de recompensa de carga
     .desc = Usado para gerenciar as recompensas ativas atualmente.
-
 ent-ComputerFundingAllocation = computador de alocação de financiamento
     .desc = Terminal para controlar a distribuição de fundos e salários aos departamentos.
-
 ent-ComputerCloningConsole = console de clonagem
     .desc = O centro da sistema de clonagem, a maior conquista da medicina. Possui muitas portas e fios.
-
 ent-ComputerSalvageJobBoard = quadro de empregos de resgate
     .desc = Console para acessar empregos de resgate, se você for o suficiente forte.
-
 ent-ComputerSalvageExpedition = expedições de resgate de computadores
     .desc = Aceite missões de resgate de resíduos, se você for o suficiente forte.
-
 ent-ComputerSurveillanceCameraMonitor = monitor de câmera
     .desc = Um monitor de câmera de vigilância. Você está observando-os. Talvez.
-
 ent-ComputerSurveillanceWirelessCameraMonitor = monitor de câmera sem fio
     .desc = Um monitor de câmera de vigilância sem fio. Você está os observando. Talvez.
-
 ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = monitor de câmera xenoborg
     .desc = Um monitor de câmera xenoborg sem fio. Você está os observando. Talvez.
-
 ent-ComputerPalletConsole = computador de venda de carga
     .desc = Usado para vender mercadorias carregadas em paletes de carga.
-
 ent-ComputerMassMedia = console do gerente de notícias
     .desc = Escreva sua mensagem para o mundo!
-
 ent-ComputerSensorMonitoring = computador de monitoramento de sensores
     .desc = Um console flexível para monitorar todos os tipos de sensores.
-
 ent-ComputerRoboticsControl = console de controle de robótica
     .desc = Usado para monitorar remotamente os ciborgues da estação.
-
 ent-ComputerXenoborgsControl = console de controle de xenoborgs
     .desc = Usado para monitorar remotamente todos os xenoborgs.
-
 ent-StationAiUploadComputer = Console de upload da IA
     .desc = Usado para atualizar as leis da IA da estação.
-
 ent-StationAiFixerComputer = Console de restauração da IA
     .desc = Usado para reparar inteligências artificiais danificadas.
-
 ent-ComputerNukieDelivery = computador de entrega do sindicato
     .desc = Um computador que pode bluespace em certos equipamentos para Operações Nucleares. O circuito é integrado ao corpo e não pode ser recuperado se o equipamento for destruído.

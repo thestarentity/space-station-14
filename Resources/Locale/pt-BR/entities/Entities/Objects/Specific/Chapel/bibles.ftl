@@ -1,26 +1,18 @@
 ent-Bible = bíblia espacial
     .desc = Nova Versão Interestelar 2340.
-
 ent-BibleNecronomicon = necronomicon
     .desc = Klatuu, Verata, Nikto — Não esqueça de novo!
-
 ent-ActionBibleSummon = Chamar familiar
     .desc = Invocar um familiar que ajudará você e ganhará inteligência humana-like uma vez habitado por uma alma.
-
 ent-BibleDruid = tabuleta druida
     .desc = É o mistério dos druidas!
-
 ent-BibleCommunistManifesto = Manifesto Comunista
     .desc = Remova a máscara da humanidade do Capital.
-
 ent-BibleNarsie = Livro de Nar'sie
     .desc = O que poderia possivelmente dar errado com um livro coberto de sangue?
-
 ent-BibleNanoTrasen = codex nanotrasen
     .desc = Um livro familiar contendo os Procedimentos Operacionais Sagrados.
-
 ent-BibleHonk = alegria da mãe honk
     .desc = Oh great and glorious Mother, Mistress of Mirth, Matron of Mask and Merriments, Blessed is she amongst us jesters.
-
 ent-BibleRatvar = tableta de Ratvar
     .desc = Um relicário sagrado da Cultura dos Relógios de Engrenagem, abençoado pela Justiça dos Relógios de Engrenagem, Ratvar.
