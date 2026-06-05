@@ -75,5 +75,5 @@ descriptions-cookie-fortune-dataset-74 = Sabia disso? Macacos não são o que pa
 descriptions-cookie-fortune-dataset-75 = Você sabia que metade dos especialistas em resgate desaparece no trabalho?
 descriptions-cookie-fortune-dataset-76 = Também experimente sashimi com molho galaxythystle!
 descriptions-cookie-fortune-dataset-77 = Você sabia que 70% dos candidatos da Nanotrasen desaparecem nos primeiros anos de seu contrato? Quanto mais souber, melhor!!
-descriptions-cookie-fortune-dataset-78 = Este shift você vai fazer um movimento muito robusto na frente de todos.
+descriptions-cookie-fortune-dataset-78 = Neste turno você vai fazer um movimento muito robusto na frente de todos.
 descriptions-cookie-fortune-dataset-79 = Robustez não é só sobre quão bom você é, mas quão boa pessoa você é.

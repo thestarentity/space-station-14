@@ -26,10 +26,7 @@ accent-mobster-words-10 = eae
 accent-mobster-words-replace-10 = ey'o
 accent-mobster-words-11 = olá
 accent-mobster-words-replace-11 = ey'o
-accent-mobster-words-12 =
-    Okay, I'm gonna need to translate this text into Brazilian Portuguese. Let me read through it carefully to understand the context and the specific terms that need to be translated. The user mentioned that they are a Space Station 14 video game translator, so I should be aware of the game's terminology and ensure that proper nouns and UI labels are consistent with the provided glossary.
-    
-    First, I'll check the mandatory rules to make sure I follow them correctly. The tokens like 
+accent-mobster-words-12 = rules
 accent-mobster-words-replace-12 = regras
 accent-mobster-words-13 = você
 accent-mobster-words-replace-13 = vocês
