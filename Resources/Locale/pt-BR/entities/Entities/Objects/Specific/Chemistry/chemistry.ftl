@@ -10,7 +10,7 @@ ent-CryostasisBeaker = frasco de criostase
 ent-BluespaceBeaker = frasco de bluespace
     .desc = Movido por tecnologia experimental de bluespace.
 
-ent-Dropper = Dropper
+ent-Dropper = conta-gotas
     .desc = Usado para transferir pequenas quantidades de solução química entre recipientes.
 
 ent-BorgDropper = pipeta hidráulica
@@ -29,4 +29,4 @@ ent-Pill = pílula
     .desc = Não é um supositório.
 
 ent-PillCanister = frasco de pílulas
-    .desc = Holds up to 10 pills.
+    .desc = Comporta até 10 pílulas.

@@ -1,4 +1,4 @@
-ent-Bucket = bucket
+ent-Bucket = balde
     .desc = É um balde entediante e velho.
 
 ent-BorgBucket = tanque interno

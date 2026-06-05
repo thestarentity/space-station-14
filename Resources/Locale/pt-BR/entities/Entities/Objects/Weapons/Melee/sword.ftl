@@ -1,4 +1,4 @@
-ent-Cutlass = Cutlass
+ent-Cutlass = cutelo
     .desc = Uma lâmina curvada de forma maliciosa, frequentemente vista nas mãos de piratas espaciais.
 
 ent-Machete = machete

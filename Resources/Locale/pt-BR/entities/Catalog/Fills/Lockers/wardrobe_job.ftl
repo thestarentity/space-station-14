@@ -1,37 +1,35 @@
-
-ent-WardrobePrisonFilled = 
+ent-WardrobePrisonFilled = armário da prisão
     .desc = Contém uma seleção de roupas laranja para quem está aproveitando a estadia na cela.
 
-ent-WardrobeRoboticsFilled = 
+ent-WardrobeRoboticsFilled = vestuário robótico
     .desc = Você pode construir um robô com esse armário.
 
-ent-WardrobeChemistryFilled = 
-    .desc = As elegantes threads laranjas dentro dele tornam muito menos provável que você seja expulso do laboratório de química.
+ent-WardrobeChemistryFilled = armário de química
+    .desc = As finas roupas laranja dentro dele tornam muito menos provável que você seja expulso do laboratório de química.
 
-ent-WardrobeGeneticsFilled = 
-    .desc = As finas threads azuis dentro dele tornam muito menos provável que você seja expulso do laboratório de genética.
+ent-WardrobeGeneticsFilled = vestuário genético
+    .desc = As finas roupas azuis dentro dele tornam muito menos provável que você seja expulso do laboratório de genética.
 
-ent-WardrobeVirologyFilled = 
-    .desc = As finas threads verdes dentro dele te deixam muito menos propenso a ser expulso do laboratório de virologia.
+ent-WardrobeVirologyFilled = vestuário de virologia
+    .desc = As finas roupas verdes dentro dele te deixam muito menos propenso a ser expulso do laboratório de virologia.
 
-ent-WardrobeScienceFilled = 
-    .desc = Você leu umas poucas matérias de ciência pop, agora é hora do verdadeiro negócio.
+ent-WardrobeScienceFilled = armário de ciências
+    .desc = Você leu alguns artigos de divulgação científica, agora é hora do verdadeiro negócio.
 
-ent-WardrobeBotanistFilled = 
-    .desc = Vista-se entre os homens das plantas com estas roupas 100% naturais, derivadas de plantas.
+ent-WardrobeBotanistFilled = vestuário do botanista
+    .desc = Vista-se entre os homens das plantas com estas roupas 100% naturais.
 
-ent-WardrobeChapelFilled = 
-    .desc = Você tem que parecer bem para sua manada.
+ent-WardrobeChapelFilled = vestuário do padre
+    .desc = Você precisa ter uma boa aparência para o seu rebanho.
 
-ent-WardrobeAtmosphericsFilled = 
+ent-WardrobeAtmosphericsFilled = armário de atmosferas
     .desc = Este armário contém um uniforme para técnicos atmosféricos.
 
-ent-ClosetWallWardrobeAtmosphericsFilled = 
+ent-ClosetWallWardrobeAtmosphericsFilled = armário de atmosferas (parede)
     .desc = Este armário contém um uniforme para técnicos atmosféricos.
 
-ent-WardrobeEngineeringFilled = 
+ent-WardrobeEngineeringFilled = armário de engenharia
     .desc = Este armário contém um uniforme para engenharia ou engenharia social.
-
 
 ent-WardrobeMedicalDoctorFilled = armário do médico
     .desc = Já brincamos todos de doutor alguma vez. Agora pratique medicina de verdade.

@@ -4,19 +4,19 @@ ent-Cautery = cautério
 ent-Drill = perfuração
     .desc = Uma broca cirúrgica para fazer furos em materiais duros.
 
-ent-Scalpel = tesoura cirúrgica
+ent-Scalpel = bisturi
     .desc = Uma ferramenta cirúrgica usada para fazer incisões na carne.
 
-ent-ScalpelShiv = facão
+ent-ScalpelShiv = bisturi improvisado
     .desc = Um pedaço afiado de vidro, lixado até uma borda e envolto em fita para servir de cabo.
 
-ent-ScalpelAdvanced = cirurgião avançado
+ent-ScalpelAdvanced = bisturi avançado
     .desc = Feito de materiais mais caros, mais afiado e geralmente mais confiável.
 
-ent-ScalpelLaser = laser de bisturi
-    .desc = Uma tesoura que usa um laser direcionado para cortar em vez de uma lâmina, permitindo uma cirurgia mais precisa enquanto também cauteriza ao cortar.
+ent-ScalpelLaser = bisturi a laser
+    .desc = Usa um laser direcionado para cortar em vez de uma lâmina, permitindo uma cirurgia mais precisa e cauterizando ao cortar.
 
-ent-Retractor = retractor
+ent-Retractor = afastador
     .desc = Uma ferramenta cirúrgica usada para manter abertas as incisões.
 
 ent-Hemostat = hemostato
