@@ -11,3 +11,6 @@ ent-PinpointerMothershipPiece = peça do localizador de núcleo
     .desc = Um pedaço de um pinpointer central. Você precisa de quatro pedaços para consertá-lo.
 ent-PinpointerMothershipRepaired = Pinpointer da Nave-Mãe Reparado
     .desc = Um dispositivo de rastreamento portátil que indica a direção do núcleo da Nave-Mãe. Este está um pouco desgastado.
+
+ent-PinpointerBase =
+    .desc = Um dispositivo de rastreamento portátil. Embora normalmente muito mais capaz, este foi modificado para rastrear um único alvo.

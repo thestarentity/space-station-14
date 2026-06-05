@@ -22,3 +22,6 @@ ent-DoorRemoteAll = controle remoto de porta super
 
 ent-DoorRemoteXenoborg = controle remoto da porta do xenoborg
 
+
+ent-DoorRemoteDefault =
+    .desc = Um dispositivo capaz de abrir e trancar portas remotamente.

@@ -63,3 +63,6 @@ ent-WardrobeVirology = vestuário de virologia
 ent-WardrobeScience = armário de ciências
 
 ent-WardrobeBotanist = vestuário do botanista
+
+ent-WardrobeBase =
+    .desc = É uma unidade de armazenamento para uniformes padrão da Nanotrasen.

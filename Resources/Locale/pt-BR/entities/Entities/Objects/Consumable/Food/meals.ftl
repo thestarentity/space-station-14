@@ -75,3 +75,6 @@ ent-FoodSaladWatermelonFruitBowl = bowl of melon fruit
 
 ent-FoodMealCornInButter = milho na manteiga
     .desc = Manteigoso.
+
+ent-FoodMealBase =
+    .desc = Uma refeição deliciosa, preparada com amor.

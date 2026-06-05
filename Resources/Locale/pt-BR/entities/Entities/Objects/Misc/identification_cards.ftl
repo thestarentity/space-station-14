@@ -130,3 +130,6 @@ ent-CBURNIDcard = Cartão de identificação CBURN
 ent-UniversalIDCard = cartão de identificação universal
     .desc = Um cartão de identificação que lhe dá acesso além dos seus sonhos mais loucos.
 
+
+ent-IDCardStandard =
+    .desc = Um cartão necessário para acessar diversas áreas a bordo da estação.

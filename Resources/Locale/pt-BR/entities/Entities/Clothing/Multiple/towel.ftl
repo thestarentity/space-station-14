@@ -5,3 +5,6 @@ ent-TowelColorNT = Toalha da Nanotrasen
 ent-TowelColorCentcom = Toalha da Central de Comando
 
 ent-TowelColorSyndicate = toalha do sindicato
+
+ent-BaseTowel =
+    .desc = Se você quiser sobreviver por aqui, precisa saber onde está sua toalha.

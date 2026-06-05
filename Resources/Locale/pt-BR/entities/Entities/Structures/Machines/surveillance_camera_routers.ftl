@@ -17,3 +17,9 @@ ent-SurveillanceCameraRouterGeneral = roteador de câmera geral
 ent-SurveillanceCameraWirelessRouterEntertainment = roteador de câmera de entretenimento
 
 ent-SurveillanceCameraWirelessRouterXenoborg = roteador sem fio de câmera xenoborg
+
+ent-SurveillanceCameraRouterBase =
+    .desc = Um roteador de câmera de vigilância. Ele roteia. Talvez.
+
+ent-SurveillanceCameraWirelessRouterBase =
+    .desc = Um roteador sem fio de câmera de vigilância. Ele roteia. Talvez.

@@ -43,3 +43,6 @@ ent-RubberStampPsychologist = carimbo do psicólogo
 ent-RubberStampWizard = carimbo mágico do bruxo
     .desc = Um selo mágico caótico para servir papéis burocráticos não caóticos, como é irônico.
 
+
+ent-RubberStampBase =
+    .desc = Um carimbo de borracha para carimbar documentos importantes.

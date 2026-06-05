@@ -65,3 +65,6 @@ ent-FoodCookieFortune = papel da sorte
     .desc = A previsão diz: O fim está próximo... e é toda sua culpa.
 ent-FoodPacketMRETrash = invólucro de MRE
     .desc = Um invólucro de uso geral para uma variedade de produtos alimentares militares.
+
+ent-FoodPacketTrash =
+    .desc = Isso é lixo.

@@ -18,3 +18,6 @@ ent-ClothingHeadsetAltSyndicate = headset de ouvido vermelho-escuro
 ent-ClothingHeadsetAltFreelancer = fones de ouvido de ouvido superior do freelancer
 
 ent-ClothingHeadsetAltWizard = fones de ouvido de ouvido total do bruxo
+
+ent-ClothingHeadsetAlt =
+    .desc = Um intercomunicador modular atualizado que é usado na cabeça. Aceita chaves de criptografia.

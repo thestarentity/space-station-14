@@ -17,3 +17,6 @@ ent-SheetUranium = urânio
 ent-SheetUranium1 = urânio
 
 ent-MaterialSheetMeat = folha de carne
+
+ent-SheetOtherBase =
+    .desc = Uma folha de material, usada frequentemente na estação em diversas aplicações.

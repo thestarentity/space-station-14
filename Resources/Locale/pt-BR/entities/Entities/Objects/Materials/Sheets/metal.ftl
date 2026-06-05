@@ -16,3 +16,6 @@ ent-SheetPlasteel = plasteel
 ent-SheetPlasteel10 = plasteel
 
 ent-SheetPlasteel1 = plasteel
+
+ent-SheetMetalBase =
+    .desc = Uma folha de metal, usada frequentemente na estação em diversas aplicações.
