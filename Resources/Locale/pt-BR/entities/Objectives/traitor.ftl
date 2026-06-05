@@ -1,4 +1,4 @@
-ent-EscapeShuttleObjective = Escape to CentComm vivo e sem restrições via o shuttle de fuga.
+ent-EscapeShuttleObjective = Escape to CentComm vivo e sem restrições via o shuttle de
     .desc = Um de nossos agentes infiltrados vai te debriefar quando você chegar. Não apareça em algemas.
 ent-DieObjective = Morrer de forma gloriosa
     .desc = Morrer.

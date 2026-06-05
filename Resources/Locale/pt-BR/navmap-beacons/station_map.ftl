@@ -10,10 +10,10 @@ nav-beacon-text-label = Cilindro de Gás
 nav-beacon-button-apply = Aplicar
 nav-beacon-examine-text =
     É [color={ $enabled ->
-        [true] [forestgreen]ligado
-       *[false] Crimson]off
-    }e a tela mostra [color={ $color }]"{ $label }"[/color]
-nav-beacon-pos-no-beacons = no beacons found
+        [true] forestgreen]ligado
+       *[false] crimson]desligado
+    }[/color] e a tela mostra [color={ $color }]"{ $label }"[/color]
+nav-beacon-pos-no-beacons = sem balizas encontradas
 nav-beacon-pos-format = [color={ $color }]perto de { $marker }[/color]
 nav-beacon-pos-format-direction = [color={ $color }]{ $modifier }{ $direction } de { $marker }[/color]
 nav-beacon-pos-format-direction-mod-far = longe { "" }

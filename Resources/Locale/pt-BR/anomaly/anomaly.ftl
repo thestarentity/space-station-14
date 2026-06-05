@@ -55,7 +55,7 @@ anomaly-gorilla-charge-limit =
     }]{ $count }{ $count ->
         [one] carregar
        *[other] cargas
-    } restante.
+    }[/color] restante.
 anomaly-gorilla-charge-infinite = Ele tem [color=gold]cargas infinitas[/color]. [italic]Por enquanto...[/italic]
 anomaly-sync-connected = Anomalia conectada com sucesso
 anomaly-sync-disconnected = A conexão com a anomalia foi perdida!
