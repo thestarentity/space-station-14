@@ -46,3 +46,6 @@ ent-WoodenBench = banco de madeira
     .desc = Você pegou um pregador? Bem, pelo menos é ecológico.
 
 ent-ChairXeno = cadeira xenon
+
+ent-SeatBase =
+    .desc = Você se senta aqui. Por vontade própria ou à força.

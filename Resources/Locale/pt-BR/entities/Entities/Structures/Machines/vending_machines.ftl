@@ -127,3 +127,6 @@ ent-VendingMachineChemicalsSyndicate = Suco Sindical
 ent-VendingMachineWallMedicalCivilian = Band-aid NanoMed
     .desc = É um dispensador de equipamento médico montado na parede. Apenas químicos naturais!
 ent-VendingMachineWallMedical = NanoMed
+
+ent-VendingMachine =
+    .desc = Apenas adicione capitalismo!

@@ -22,3 +22,6 @@ ent-BannerYellow = banner amarelo
     .desc = Um cartaz exibindo a cor amarela. Lembra você de patos e barracas de limão.
 ent-BannerGreen = banner verde
     .desc = Um cartaz exibindo a cor verde. Grama, folhas, guacamole.
+
+ent-BannerBase =
+    .desc = É o conceito de um banner — você não deveria estar vendo isso.

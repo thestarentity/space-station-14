@@ -22,3 +22,6 @@ ent-IronstoneDoor = porta de ferrostone
 
 ent-EncrustedIronstoneDoor = porta de ferroso encrostado
     .desc = Uma porta de pedra coberta por bolhas nacréas de uma substância desconhecida.
+
+ent-BaseMaterialDoor =
+    .desc = Uma porta. Para onde ela leva?

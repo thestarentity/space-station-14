@@ -86,3 +86,6 @@ ent-CrateSyndicate = caixa do sindicato
 ent-CrateTrashCart = carrinho de lixo
 
 ent-CrateTrashCartJani = carrinho de lixo do zelador
+
+ent-CrateBaseLockBox =
+    .desc = Um cofre seguro. Os fundos da venda serão distribuídos de volta ao departamento. Só lembre-se: a Carga sempre fica com sua parte.

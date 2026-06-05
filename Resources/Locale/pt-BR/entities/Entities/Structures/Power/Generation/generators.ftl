@@ -12,3 +12,9 @@ ent-GeneratorRTG = RTG
 
 ent-GeneratorRTGDamaged = RTG danificado
     .desc = Um Gerador Termoelétrico de Radioisótopos para energia a longo prazo. Este tem escudos danificados.
+
+ent-BaseGenerator =
+    .desc = Um gerador termoelétrico de alta eficiência.
+
+ent-BaseGeneratorWallmount =
+    .desc = Um gerador termoelétrico de alta eficiência embutido em um armário de parede.

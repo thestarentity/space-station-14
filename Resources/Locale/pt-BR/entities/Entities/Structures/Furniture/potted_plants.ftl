@@ -20,3 +20,6 @@ ent-PottedPlant26 = planta em vaso
 
 
 
+
+ent-PottedPlantBase =
+    .desc = Um pedacinho da natureza contido em um vaso.

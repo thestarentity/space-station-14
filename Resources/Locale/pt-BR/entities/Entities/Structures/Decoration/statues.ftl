@@ -8,3 +8,6 @@ ent-StatueIronsandSmall = estátua pequena de areia de ferro
 ent-StatueIronsandSmall2 = estátua pequena de areia de ferro
 ent-StatueIronsandTall = estátua de areia de ferro alta
 ent-StatueIronsandTall2 = estátua de areia de ferro alta
+
+ent-BaseIronsandStatue =
+    .desc = Uma estátua misteriosa encontrada num deserto de areia de ferro.

@@ -4,3 +4,6 @@ ent-SyndicateBomb = bomba do sindicato
     .desc = A bomba para operativos e agentes do Sindicato. A coisa real, sem mais treinamento, vamos lá!
 ent-DebugHardBomb = bomba de depuração
     .desc = Caralho, isso vai explodir.
+
+ent-BaseHardBomb =
+    .desc = Continue conversando e ninguém vai explodir.

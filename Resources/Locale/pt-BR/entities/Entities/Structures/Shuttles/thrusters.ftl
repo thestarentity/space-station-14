@@ -7,3 +7,6 @@ ent-Gyroscope = giroscópio
 
 ent-RustedThruster = thruster enferrujado
     .desc = Um propelente irrecuperável, destruído pelo desgaste. Útil apenas para reciclagem.
+
+ent-BaseThruster =
+    .desc = Um propulsor que permite um shuttle se mover.

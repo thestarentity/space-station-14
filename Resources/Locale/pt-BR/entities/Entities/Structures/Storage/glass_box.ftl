@@ -3,3 +3,6 @@ ent-GlassBoxFrame = quadro de caixa de vidro
 
 ent-GlassBoxBroken = caixa de vidro quebrada
     .desc = Um vitrine quebrada para uma exposição cara roubada.
+
+ent-GlassBox =
+    .desc = Uma vitrine resistente para uma exposição cara.

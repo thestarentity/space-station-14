@@ -23,3 +23,6 @@ ent-GasMinerWaterVapor = miner de vapor d'água
 ent-GasMinerAmmonia = minerador de gás amônia
 
 ent-GasMinerNitrousOxide = miner de gás óxido nitroso
+
+ent-GasMinerBase =
+    .desc = Gases extraídos do gigante gasoso abaixo (acima?) fluem por este enorme ventilador.

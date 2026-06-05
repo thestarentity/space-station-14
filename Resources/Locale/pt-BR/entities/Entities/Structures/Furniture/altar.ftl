@@ -36,3 +36,6 @@ ent-AltarFangs = altar com presas
 
 ent-AltarBananium = altar da honkmãe
     .desc = Um altar de bananium dedicado à honkmother.
+
+ent-AltarBase =
+    .desc = Altar dos Deuses.

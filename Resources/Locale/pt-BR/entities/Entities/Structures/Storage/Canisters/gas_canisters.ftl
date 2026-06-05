@@ -49,3 +49,6 @@ ent-WaterVaporCanisterBroken = canister de vapor de água quebrado
 
 
 
+
+ent-GasCanister =
+    .desc = Um recipiente que pode conter qualquer tipo de gás. Pode ser conectado a portas de conexão com uma chave inglesa.

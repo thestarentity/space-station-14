@@ -18,3 +18,6 @@ ent-SurveillanceCameraGeneral = Câmera de vigilância instalada.
 
 ent-SurveillanceCameraAssembly = Câmera de vigilância instalada.
     .desc = Uma câmera de vigilância. Não parece que vai estar observando alguém em breve. Provavelmente.
+
+ent-SurveillanceCameraBase =
+    .desc = Uma câmera de vigilância. Ela está te observando. Mais ou menos.

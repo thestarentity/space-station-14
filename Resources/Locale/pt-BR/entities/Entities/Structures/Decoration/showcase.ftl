@@ -9,3 +9,6 @@ ent-ShowcaseRobotAntique = Robô de carga antigo
 
 ent-ShowcaseRobotMarauder = Marauder Showcase
     .desc = Uma réplica não funcional de um marauder, pintada de verde.
+
+ent-BaseShowcaseRobot =
+    .desc = Uma réplica não funcional de um antigo robô de segurança.
