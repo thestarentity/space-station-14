@@ -1,3 +1,2 @@
-ent-AppearanceVulpkanin = Vulpkanin é uma criatura de aparência única, combinando características de um lobo e um felino. Tem uma pelagem densa e sedosa que varia de tons de marrom escuro a dourado, com manchas escuras que se assemelham a uma textura de couro. Seus olhos são grandes e brilhantes, com pupilas verticais que se ajustam facilmente à luz. Possui uma cauda longa e musculosa, que termina em uma ponta afilada, e suas patas são fortes e adaptadas para correr em terrenos acidentados. O Vulpkanin também possui uma crista alongada na cabeça, que pode ser eriçada quando está irritado ou em alerta. Sua presença é imponente, e sua natureza selvagem e independente é evidente em cada movimento.
-
+ent-AppearanceVulpkanin = aparência vulpkanin
 ent-MobVulpkanin = Urist McArfArf

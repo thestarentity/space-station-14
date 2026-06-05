@@ -1,9 +1,9 @@
 ## Species Names
 
-species-name-human = Prefixes de operação de nomes - conjunto de dados 44
+species-name-human = Humano
 species-name-dwarf = Anão
 species-name-reptilian = Reptiliano
-species-name-slime = Pessoa de Mucila
+species-name-slime = Pessoa Slime
 species-name-diona = Diona
 species-name-arachnid = Aranha
 species-name-moth = Pessoa-Lagarta

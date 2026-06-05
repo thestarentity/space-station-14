@@ -42,14 +42,11 @@ accent-pirate-replaced-19 = idiota
 accent-pirate-replacement-19 = cangaceiro
 accent-pirate-replaced-20 = seu
 accent-pirate-replacement-20 = Yere
-accent-pirate-replaced-21 =
-    Aqui está a tradução para o contexto "accent-pirate-replaced-21" da palavra "song":
-    
-    Canção
+accent-pirate-replaced-21 = canção
 accent-pirate-replacement-21 = Shanty
 accent-pirate-replaced-22 = música
 accent-pirate-replacement-22 = Shanty
-accent-pirate-replaced-23 = Okay, I'm not sure what you're asking for. Could you please clarify?
+accent-pirate-replaced-23 = não
 accent-pirate-replacement-23 = não
 accent-pirate-replaced-24 = são
 accent-pirate-replacement-24 = arrr

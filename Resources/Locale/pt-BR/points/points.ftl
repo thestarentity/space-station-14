@@ -4,4 +4,4 @@ point-scoreboard-list =
     { $place }. [bold][color=cyan]{ $name }[/color][/bold] pontuou [color=yellow]{ $points ->
         [one] { $points } ponto
        *[other] { $points } pontos
-    }.
+    }[/color].

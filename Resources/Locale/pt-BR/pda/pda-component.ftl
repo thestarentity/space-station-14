@@ -17,7 +17,7 @@ comp-pda-ui-footer = Assistente Pessoal Digital
 comp-pda-ui-station = Estação: [color=white]{ $station }[/color]
 comp-pda-ui-station-alert-level = Nível de Alerta: [color={ $color }]{ $level }[/color]
 comp-pda-ui-station-alert-level-instructions = Instruções: [color=white]{ $instructions }[/color]
-comp-pda-ui-station-time = Duração do turno: [color=white]{ $time }
+comp-pda-ui-station-time = Duração do turno: [color=white]{ $time }[/color]
 comp-pda-ui-eject-id-button = Expulsar ID
 comp-pda-ui-eject-pen-button = Expulsar Caneta
 comp-pda-ui-ringtone-button = Sino de ligação

@@ -77,15 +77,16 @@ wanted-list-unknown-reason-label = motivo desconhecido
 wanted-list-initiator-label = [color=darkgray]Iniciador:[/color] [color=white]{ $initiator }[/color]
 wanted-list-unknown-initiator-label = Iniciador desconhecido
 wanted-list-status-label = [color=darkgray]status:[/color]{ $status ->
-        [suspected] [suspected]suspeito[color=yellow]
-        [wanted] [wanted]desejado[/color]
-        [detained] [color=red]detido[/color]
-        [paroled] [detained]liberado[color=#b18644]
-        [discharged] [paroled]descarregado[/color]
-        [hostile] [color=green]hostil[/color]
-        [eliminated] [discharged]eliminado[color=green]
-       *[other] Permissões - Edição de Perfil de Administração - Título - Controle
+        [suspected] [color=yellow]suspeito[/color]
+        [wanted] [color=red]procurado[/color]
+        [detained] [color=#b18644]detido[/color]
+        [paroled] [color=green]liberado[/color]
+        [discharged] [color=green]descarregado[/color]
+        [hostile] [color=darkred]hostil[/color]
+        [eliminated] [color=gray]eliminado[/color]
+       *[other] nenhum
     }
+
 wanted-list-history-table-time-col = Tempo
 wanted-list-history-table-reason-col = Crime
 wanted-list-history-table-initiator-col = Iniciador

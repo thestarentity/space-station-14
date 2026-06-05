@@ -48,10 +48,7 @@ names-ai-dataset-42 = Emma-2
 # Famous early computer
 names-ai-dataset-43 = ENIAC
 names-ai-dataset-44 = Erasmus
-names-ai-dataset-45 =
-    Aqui está o conjunto de dados de nomes para IA:
-    
-
+names-ai-dataset-45 = Tudo
 names-ai-dataset-46 = Ez-27
 names-ai-dataset-47 = Computador Amigável
 names-ai-dataset-48 = Fé

@@ -1,8 +1,8 @@
 ### UI
 
 chat-manager-max-message-length = Sua mensagem excede o limite de { $maxMessageLength } caracteres
-chat-manager-ooc-chat-enabled-message = OOC chat has been enabled.
-chat-manager-ooc-chat-disabled-message = OOC chat has been disabled.
+chat-manager-ooc-chat-enabled-message = O chat OOC foi ativado.
+chat-manager-ooc-chat-disabled-message = O chat OOC foi desativado.
 chat-manager-looc-chat-enabled-message = O chat LOOC foi ativado.
 chat-manager-looc-chat-disabled-message = O chat LOOC foi desabilitado.
 chat-manager-dead-looc-chat-enabled-message = Jogadores mortos podem agora usar LOOC.
