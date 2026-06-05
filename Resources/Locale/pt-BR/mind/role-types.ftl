@@ -7,14 +7,14 @@ role-type-silicon-name = Silício
 role-type-silicon-antagonist-name = Silício Alterado
 role-type-update-message = Seu cargo é [color={ $color }]{ $role }[/color]
 # If you change a color here, you might want to also change it in role_types.yml
-role-type-crew-aligned-color = Crew Aligned
-role-type-crew-aligned-alternate-color = Verde
-role-type-solo-antagonist-color = Vermelho
-role-type-team-antagonist-color = Vermelho
-role-type-free-agent-color = Amarelo
-role-type-familiar-color = Azul
-role-type-silicon-color = Azul
-role-type-silicon-antagonist-color = Violeta
+role-type-crew-aligned-color = #eeeeee
+role-type-crew-aligned-alternate-color = #008000
+role-type-solo-antagonist-color = #d82000
+role-type-team-antagonist-color = #d82000
+role-type-free-agent-color = #ffff00
+role-type-familiar-color = #6495ed
+role-type-silicon-color = #6495ed
+role-type-silicon-antagonist-color = #c832e6
 # Ideally, subtype names should be short
 role-subtype-traitor = Traidor
 role-subtype-thief = Ladrão
