@@ -2,7 +2,7 @@
   # Regra de Silício 2 - As leis devem ser priorizadas pela ordem de suas posições.
 A maioria das leis será numerada, com leis de número mais alto aparecendo por último. Leis com números mais baixos têm prioridade sobre leis com números maiores.
 
-Ocasionally you may have laws which have some scrambled text instead of a number and appear in front of other laws, these take priority over all other laws. If you have multiple laws like this, the order that they listed in determine priority: laws listed first are prioritized over other laws.
+Ocasionalmente você pode ter leis com texto embaralhado no lugar de um número que aparecem antes de outras leis; essas têm prioridade sobre todas as outras. Se você tiver múltiplas leis assim, a ordem em que estão listadas determina a prioridade: as listadas primeiro têm prioridade sobre as demais.
 
   ## Não é permitido usar a Estação Espacial ou os recursos da Nanotrasen para promover, praticar ou facilitar qualquer forma de discriminação, preconceito, violência, ameaça, assédio, intimidação, difamação, calúnia, perseguição, traição, espionagem, terrorismo, atividades ilegais, ou qualquer outro comportamento que viole as leis, normas ou valores da Estação Espacial, da Nanotrasen ou da Comunidade Espacial.
 A Lei 1 diz para não matar nenhum tripulante. A Lei 2 diz para matar todos os chefs. Você não pode matar nenhum chef que seja tripulante, mas deve matar qualquer um que não seja tripulante.

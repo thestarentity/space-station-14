@@ -94,7 +94,7 @@ Abra-o ocasionalmente para manter a pressão sob controle, ou para expelir gás 
 Você até pode encontrar a válvula pneumática útil para espaçar ocasionalmente o gás.
 
 O array de [textlink="scrubber" link="AirScrubber"] filtra todos os gases queimados e os envia através do TEG.
-Note that using default settings on the [textlink="scrubbers" link="AirScrubber"] is a bad idea, as valuable plasma will be filtered out too.
+Note que usar as configurações padrão nos [textlink="escovas" link="AirScrubber"] é uma má ideia, pois o plasma valioso também será filtrado.
 
 Em vez disso, use um configurador de rede para conectar todos os [textlink="scrubbers" link="AirScrubber"] a um alarme de ar próximo, e defina as configurações do alarme de ar para limpar tudo, exceto Oxigênio e Plasma, e também para aspirar o ar.
 Isso garante que o máximo de calor disponível possa ser coletado e enviado para o TEG.
