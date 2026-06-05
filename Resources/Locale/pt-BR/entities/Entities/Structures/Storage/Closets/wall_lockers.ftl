@@ -24,6 +24,7 @@ ent-ClosetWallGreen = armário de parede verde
 
 ent-ClosetWallOrange = armário de parede da cela
 
+    .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-ClosetWallYellow = armário na parede amarela
     .desc = Um armário repleto de roupas elegantes de cor amarela.
 
@@ -38,8 +39,10 @@ ent-ClosetWallMixed = armário de parede mista
 
 ent-ClosetWallAtmospherics = armário de paredes atmosféricas
 
+    .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-LockerWallMedical = armário de parede médico
 
+    .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-LockerWallEvacRepair = emergência shuttle emergência parede locker
     .desc = É emergência do começo ao fim.
 

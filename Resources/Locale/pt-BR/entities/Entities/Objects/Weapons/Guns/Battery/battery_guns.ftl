@@ -72,4 +72,5 @@ ent-WeaponTemperatureGun = canhão de temperatura
 
 ent-WeaponLaserGunXenoborg = arma laser xenoborg
 
+    .desc = Um revólver de laser de alta energia experimental com uma bateria nuclear auto-recarregável.
 ent-WeaponLaserCannonXenoborg = canhão laser xenoborg

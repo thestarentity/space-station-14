@@ -1,5 +1,6 @@
 ent-ElectricalDisruptionKit = kit de perturbação elétrica
 
+    .desc = Uma caixa de papelão para armazenar coisas.
 ent-ChemicalSynthesisKit = kit de síntese química
     .desc = Um kit inicial para o químico em ascensão, inclui duas frascos de vestina para todas as suas necessidades criminosas!
 

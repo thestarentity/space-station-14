@@ -16,3 +16,6 @@ ent-RandomTraitorProgressObjective =
     .desc = Identifique-se por sua própria conta e risco. Nós só precisamos que eles tenham sucesso.
 ent-SupercritAnomaliesObjective =
     .desc = Nanotrasen está muito interessada em anomalias com possíveis consequências catastróficas. Introduza-as ao fogo com o qual estão brincando.
+
+ent-MailFraudObjective = fraude postal
+    .desc = Estamos interessados na correspondência da Nanotrasen. Abridor de cartas não incluso.

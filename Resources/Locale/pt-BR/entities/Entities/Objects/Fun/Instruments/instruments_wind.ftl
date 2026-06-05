@@ -1,6 +1,7 @@
 ent-SaxophoneInstrument = saxofone
     .desc = Um instrumento. Você provavelmente poderia moer isso para obter jazz cru.
 ent-HarmonicaInstrument = harmonica
+    .desc = Isso é um instrumento.
 ent-ClarinetInstrument = clarineta
     .desc = Skweedward tintacklays.
 ent-FluteInstrument = flauta

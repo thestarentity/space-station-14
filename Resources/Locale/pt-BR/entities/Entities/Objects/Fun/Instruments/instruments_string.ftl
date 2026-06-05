@@ -15,6 +15,7 @@ ent-GuitarlessFretsInstrument = fretos sem guitarra
 
 ent-BanjoInstrument = banjo
 
+    .desc = Isso é um instrumento.
 ent-ViolinInstrument = violin
     .desc = O favorito de virtuosos musicais e bandas de bluegrass.
 

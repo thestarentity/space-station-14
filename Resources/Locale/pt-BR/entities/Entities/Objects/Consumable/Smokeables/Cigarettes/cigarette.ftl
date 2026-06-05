@@ -6,52 +6,79 @@ ent-SoakedCigarette = cigarro
 
 ent-CigaretteSyndicate = cigarro
 
+    .desc = Um rolo de tabaco e nicotina.
 ent-CigaretteOmnizine = Explosão de Sabor Água de Hot Dog
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteIron = Baja Blast Enferrujado Laranja
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteTricordrazine = Licorice Allsorts
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteDylovene = Dissolvente de Bolo de Urinal
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteDermaline = Aloé com Manteiga de Amendoim
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteArithrazine = Roman Pipe Works
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteNutriment = Bolo de Frutas de Natal da Vovó
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteBicaridine = Cigarro Bicaridine Reforçado
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteDexalin = Rocky Mountain Musk
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteSaline = Viagem no Oceano Atlântico Norte
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteBbqSauce = Aroma de Madeira Picante
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteFrezon = Aventura Atmosférica
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteCapsaicinOil = Cápsula de Óleo de Pimenta
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteRadium = Ex Ray
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteHaloperidol = Extração Bovina Quente
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteLaughter = Bônus de Adjacência do Palhaço
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteLipolicide = Rotina de Treino dos Anos 80
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteSodiumPolyacrylate = Hábitos Insaudáveis
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteMold = Experiência Abaixo do Lavatório
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteLicoxide = Chamada de Despertar
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteWeldingFuel = Molho de Plasma
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteRobustHarvest = A România Hippie
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigarettePhlogiston = Simulador de Namoro com Dragões
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteBanana = Pun Pun's Tropical Getaway
 
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.
 ent-CigaretteBlackPepper = Pimenta Preta
+
+    .desc = Um rolo de tabaco e nicotina embebidos em algum químico.

@@ -5,3 +5,5 @@ ent-ClothingBeltSuspendersRed = cinto vermelho
     .desc = Para manter suas calças no lugar.
 
 ent-ClothingBeltSuspendersBlack = cinto preto
+
+    .desc = Para segurar seus calções.

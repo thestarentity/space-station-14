@@ -32,3 +32,6 @@ ent-ClosetWallWardrobeAtmosphericsFilled =
 ent-WardrobeEngineeringFilled = 
     .desc = Este armário contém um uniforme para engenharia ou engenharia social.
 
+
+ent-WardrobeMedicalDoctorFilled = armário do médico
+    .desc = Já brincamos todos de doutor alguma vez. Agora pratique medicina de verdade.

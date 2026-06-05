@@ -36,6 +36,7 @@ ent-DrinkBottlePoisonWine = Bottle de vinho venenoso do Warlock
 
 ent-DrinkPoisonWinebottleFull = Bottle de vinho venenoso do Warlock
 
+    .desc = Que embalagem deliciosa para um vinho certamente de alta qualidade! O ano de colheita deve ser incrível!
 ent-DrinkBottleRum = Rum cubano especiado do Capitão Pete
     .desc = Isso não é só rum, oh não. É praticamente GRIFF em uma garrafa.
 

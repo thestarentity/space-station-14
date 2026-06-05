@@ -3,6 +3,7 @@ ent-SprayBottle = garrafa de spray
 ent-MegaSprayBottle = garrafa de spray mega
     .desc = Um frasco de spray gigante, capaz de oferecer poder de limpeza inigualável.
 ent-SprayBottleWater = garrafa de spray
+    .desc = Uma garrafa spray com tampa removível.
 ent-BorgSprayBottle = jet de spray interno
     .desc = Um recipiente pressurizado para pulverizar reagentes, instalado diretamente em um ciborgue de manutenção. Normalmente preenchido com limpador espacial para lidar com aquelas manchas desagradáveis.
 ent-BorgMegaSprayBottle = jato de spray interno

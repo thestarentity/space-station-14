@@ -5,9 +5,13 @@ ent-StatueVenusBlue = estátua de uma virgem pura
 ent-StatueBananiumClown = estátua do salvador do bananium
     .desc = Uma estátua de bananium. Ela retrata o retorno do salvador que surgirá e liderará os palhaços ao grande honk.
 ent-StatueIronsandSmall = estátua pequena de areia de ferro
+    .desc = Uma estátua misteriosa encontrada em um deserto de areia de ferro.
 ent-StatueIronsandSmall2 = estátua pequena de areia de ferro
+    .desc = Uma estátua misteriosa encontrada em um deserto de areia de ferro.
 ent-StatueIronsandTall = estátua de areia de ferro alta
+    .desc = Uma estátua misteriosa encontrada em um deserto de areia de ferro.
 ent-StatueIronsandTall2 = estátua de areia de ferro alta
 
+    .desc = Uma estátua misteriosa encontrada em um deserto de areia de ferro.
 ent-BaseIronsandStatue =
     .desc = Uma estátua misteriosa encontrada num deserto de areia de ferro.

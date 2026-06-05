@@ -3,5 +3,6 @@ ent-BaseSecretDoorAssembly = montagem da porta secreta
 
 ent-SolidSecretDoor = parede sólida
 
+    .desc = Mantém o ar dentro e a greytide fora.
 ent-BaseSecretDoor =
     .desc = Mantém o ar dentro e o greytide fora.

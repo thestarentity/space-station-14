@@ -1,9 +1,15 @@
 ent-BulletMagnum = pistola de revólver (.45 magnum)
 
+    .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletMagnumPractice = Balas (.45 magnum prática)
 
+    .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletMagnumIncendiary = Balas (.45 magnum incendiárias)
 
+    .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletMagnumAP = Balas (.45 magnum perfurante)
 
+    .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletMagnumUranium = balas (.45 magnum urânio)
+
+    .desc = Se você pode ver isso, provavelmente está morto!

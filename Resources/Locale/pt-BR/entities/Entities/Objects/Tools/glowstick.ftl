@@ -1,13 +1,18 @@
 ent-GlowstickRed = glowstick vermelho
 
+    .desc = Útil para festas e emergências.
 ent-GlowstickPurple = luminária roxa
 
+    .desc = Útil para festas e emergências.
 ent-GlowstickYellow = Lanterna de cor amarela
 
+    .desc = Útil para festas e emergências.
 ent-GlowstickBlue = Lanterna azul
 
+    .desc = Útil para festas e emergências.
 ent-GlowstickGreen = luminária verde
 
+    .desc = Útil para festas e emergências.
 ent-LightBehaviourTest1 = teste de pulso de luz
 
 ent-LightBehaviourTest2 = teste de ciclo de cor

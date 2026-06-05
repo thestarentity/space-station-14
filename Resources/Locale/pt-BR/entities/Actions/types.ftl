@@ -55,6 +55,7 @@ ent-ActionToggleParamedicSiren = Ativar/Desativar Sirene do Paramédico
 ent-ActionGravityJump = Pular
     .desc = Ativando o sistema de propulsão avançado, você impulsiona-se uma curta distância na direção do seu olhar.
 ent-ActionJumpBoost = Impulso de salto
+    .desc = Ativando o sistema de propulsão avançado, você se propulsa uma curta distância na direção do seu olhar.
 ent-ActionVulpkaninGravityJump = Pular
     .desc = Use suas ágeis pernas para saltar uma curta distância. Cuidado para não esbarrar em nada!
 ent-ActionToggleRootable = Toggle Rootable

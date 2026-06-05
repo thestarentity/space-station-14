@@ -103,6 +103,7 @@ ent-FoodGatfruit = gatfruit
 ent-FoodRealCapfruit = capfruit
     .desc = Um fruto suave, mas liso, com a forma de uma arma de fogo.
 ent-FoodFakeCapfruit = capfruit
+    .desc = Um fruto em forma de arma suave, mas macio.
 ent-RiceBushel = barril de arroz
     .desc = Pode ser moído para fazer arroz, perfeito para pudim ou sake.
 ent-FoodSoybeans = soja

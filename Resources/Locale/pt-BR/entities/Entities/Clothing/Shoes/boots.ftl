@@ -24,16 +24,22 @@ ent-ClothingShoesBootsLaceup = calçados de amarrar
 
 ent-ClothingShoesBootsWinter = botas de inverno
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterCargo = botas de inverno de carga
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterEngi = botas de inverno de engenharia
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterMed = botas de inverno médicas
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterSci = botas de inverno científicas
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterSec = botas de inverno de segurança
 
+    .desc = Botas macias para ajudar a sobreviver até os invernos mais frios.
 ent-ClothingShoesBootsWinterSyndicate = botas de inverno do sindicato
     .desc = Botas pesadas duráveis, parecem mercadoria da "Syndieland".
 
@@ -45,6 +51,10 @@ ent-ClothingShoesBootsCowboyBrown = botas de cowboy marrons
 
 ent-ClothingShoesBootsCowboyBlack = botas de cowboy pretas
 
+    .desc = Eles têm esporas que tilintam e/ou tilintam.
 ent-ClothingShoesBootsCowboyWhite = botas de cowboy brancas
 
+    .desc = Eles têm esporas que tilintam e/ou tilintam.
 ent-ClothingShoesBootsCowboyFancy = botas de cowboy elegantes
+
+    .desc = Eles têm esporas que tilintam e/ou tilintam.

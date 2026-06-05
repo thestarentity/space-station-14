@@ -30,6 +30,7 @@ ent-DrinkCartonOatMilk = leite de aveia
 
 ent-DrinkOatMilkCarton = leite de aveia
 
+    .desc = É leite de aveia. Tonificante e nutritivo!
 ent-DrinkJuiceLimeCartonXL = suco de lima XL
     .desc = Bom sabor doce e azedo.
 

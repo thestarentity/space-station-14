@@ -12,6 +12,7 @@ ent-WardrobeGreen = armário verde
 
 ent-WardrobePrison = armário da prisão
 
+    .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeYellow = armário amarelo
     .desc = Um armário repleto de roupas elegantes de cor amarela.
 
@@ -26,8 +27,10 @@ ent-WardrobeMixed = vestuário misturado
 
 ent-WardrobeSecurity = armário de segurança
 
+    .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeAtmospherics = armário de atmosferas
 
+    .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-ClosetJanitor = armário de zelador
     .desc = É um armário para roupas e equipamentos do zelador.
 
@@ -45,24 +48,33 @@ ent-ClosetLegal = armário legal
 
 ent-WardrobeCargo = armário de carga
 
+    .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeSalvage = salvar roupa
     .desc = Notavelmente não salvo.
 
 ent-WardrobeEngineering = armário de engenharia
 
+    .desc = Um armário cheio de roupas amarelas elegantes.
 ent-WardrobeMedicalDoctor = Vestuário do Médico
 
+    .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeRobotics = vestuário robótico
 
+    .desc = Um armário cheio de roupas pretas elegantes.
 ent-WardrobeChemistry = armário de química
 
+    .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeGenetics = vestuário genético
 
+    .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeVirology = vestuário de virologia
 
+    .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeScience = armário de ciências
 
+    .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeBotanist = vestuário do botanista
 
+    .desc = Um armário repleto de roupas verdes elegantes.
 ent-WardrobeBase =
     .desc = É uma unidade de armazenamento para uniformes padrão da Nanotrasen.

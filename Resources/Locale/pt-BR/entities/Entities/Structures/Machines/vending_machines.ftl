@@ -45,6 +45,7 @@ ent-VendingMachineEngivend = Vendedora Engi
 ent-VendingMachineMedicalBase = NanoMed Civilian
     .desc = É um dispensador de medicamentos médicos. Apenas substâncias químicas naturais!
 ent-VendingMachineMedical = NanoMed Plus
+    .desc = É um dispensador de medicamentos. Apenas substâncias químicas naturais!
 ent-VendingMachineNutri = NutriMax
     .desc = Uma máquina de venda automática contendo substâncias nutricionais para plantas e ferramentas botânicas.
 ent-VendingMachineSec = SecTech
@@ -128,5 +129,6 @@ ent-VendingMachineWallMedicalCivilian = Band-aid NanoMed
     .desc = É um dispensador de equipamento médico montado na parede. Apenas químicos naturais!
 ent-VendingMachineWallMedical = NanoMed
 
+    .desc = É um dispensador de equipamentos médicos montado na parede. Apenas químicos naturais!
 ent-VendingMachine =
     .desc = Apenas adicione capitalismo!

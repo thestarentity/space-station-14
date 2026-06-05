@@ -19,6 +19,7 @@ ent-PaperSalvageJobLabel = etiqueta de envio de trabalho de resgate
 ent-PaperCNCSheet = folha de personagem
     .desc = Uma folha para seus personagens de Carps and Crypts.
 ent-NukeCodePaper = códigos de autenticação nuclear
+    .desc = Um pedaço de papel branco.
 ent-TraitorCodePaper = palavra-código do sindicato
     .desc = Um código-vaza que pode ser usado para se comunicar com o Sindicato.
 ent-AllTraitorCodesPaper = Registro de palavras-código do Sindicato

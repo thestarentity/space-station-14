@@ -5,5 +5,6 @@ ent-Truncheon = bastão de choque
 ent-Flash = brilhar
     .desc = Um flashbulb ultrabrilhante com um gatilho, que causa a vítima a ficar tonta e perder a visão por um momento. Inútil quando queimado.
 ent-SciFlash = brilhar
+    .desc = Um flashbulb ultrabrilhante com um gatilho, que causa a vítima a ficar tonta e perder a visão por um momento. Inútil quando queimado.
 ent-PortableFlasher = flasher portátil
     .desc = Um bulbo de flash ultrabrilhante com gatilho por proximidade, útil para tornar uma área acessível apenas por segurança.

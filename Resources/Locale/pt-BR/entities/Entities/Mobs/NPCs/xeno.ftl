@@ -3,18 +3,25 @@ ent-MobXeno = burrower
 
 ent-MobXenoPraetorian = pretoriano
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoDrone = drone
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoQueen = rei
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRavager = Ravager
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRunner = corredor
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRouny = Rouny
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoSpitter = jogador
 
+    .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobPurpleSnake = adder roxo
     .desc = Uma serpente roxa ameaçadora de Kepler-283c.
 

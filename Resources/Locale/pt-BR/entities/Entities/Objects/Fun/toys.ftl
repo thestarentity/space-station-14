@@ -18,6 +18,7 @@ ent-MrChips = Mr. Chips
 
 ent-MrDips = mr dips
 
+    .desc = É um dummy, dummy!
 ent-Error = Ocorreu um erro. Por favor, tente novamente mais tarde.
     .desc = Hmmmm. Algo deu errado.
 

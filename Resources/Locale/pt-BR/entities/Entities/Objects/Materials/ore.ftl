@@ -1,19 +1,30 @@
 ent-GoldOre = minério de ouro
 
+    .desc = Um pedaço de minério não refinado.
 ent-DiamondOre = minério de diamante
 
+    .desc = Um pedaço de minério não refinado.
 ent-SteelOre = minério de ferro
 
+    .desc = Um pedaço de minério não refinado.
 ent-PlasmaOre = minério de plasma
 
+    .desc = Um pedaço de minério não refinado.
 ent-SilverOre = minério de prata
 
+    .desc = Um pedaço de minério não refinado.
 ent-SpaceQuartz = Quartzo espacial
 
+    .desc = Um pedaço de minério não refinado.
 ent-UraniumOre = minério de urânio
 
+    .desc = Um pedaço de minério não refinado.
 ent-BananiumOre = minério de bananíum
 
+    .desc = Um pedaço de minério não refinado.
 ent-Coal = carvão
 
+    .desc = Um pedaço de minério não refinado.
 ent-SaltOre = sal grosso
+
+    .desc = Um pedaço de minério não refinado.
