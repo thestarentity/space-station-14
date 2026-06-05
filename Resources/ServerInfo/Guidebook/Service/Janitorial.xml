@@ -26,7 +26,7 @@ Você mantém as coisas limpas, é um trabalho difícil às vezes, mas alguém t
 <GuideEntityEmbed Entity="WireBrush"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="Vassoura avançada, solicitar em P&amp;D"/>
 </Box>
 
 ## Aquisição e Descarte de Líquidos
