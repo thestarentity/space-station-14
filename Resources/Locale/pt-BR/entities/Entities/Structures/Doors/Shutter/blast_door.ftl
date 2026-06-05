@@ -12,3 +12,7 @@ ent-BlastDoorXenoFrame = quadro da porta de explosão xenomorfo
 
 ent-BlastDoorXenoborg = porta de explosão xenoborg
     .desc = Não perca a cabeça!
+
+ent-BlastDoorOpen = porta antichama
+ent-BlastDoorXenoOpen = porta antichama (xenomorfo)
+ent-BlastDoorXenoborgOpen = porta antichama (xenoborg)

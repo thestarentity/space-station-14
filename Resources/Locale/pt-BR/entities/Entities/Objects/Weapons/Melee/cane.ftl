@@ -1,4 +1,4 @@
-ent-Cane = cane
+ent-Cane = bengala
     .desc = Um cajado de madeira.
 
 ent-CaneBlade = espada de bengala

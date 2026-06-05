@@ -1,8 +1,8 @@
 ent-ClothingBeltUtility = cinto de utilidade
     .desc = Pode carregar diversas coisas.
 
-ent-ClothingBeltChiefEngineer = Cinto de Ferramentas do Engenheiro-Chefe
-    .desc = Holds tools, looks snazzy.
+ent-ClothingBeltChiefEngineer = cinto do Engenheiro-Chefe
+    .desc = Carrega ferramentas com estilo.
 
 ent-ClothingBeltJanitor = cinto de zelador
     .desc = Uma cintura usada para segurar a maioria dos materiais de zelador.

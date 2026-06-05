@@ -79,7 +79,7 @@ ent-FoodSoupNettle = sopa de urtiga
 ent-FoodSoupMystery = sopa misteriosa
     .desc = O mistério é, por que você não está comendo isso?
 
-ent-FoodSoupChiliHot = bowl of hot chili
+ent-FoodSoupChiliHot = tigela de chili quente
     .desc = Um chili de cinco alarmes texano!
 
 ent-FoodSoupChiliCold = caldo de pimenta frio
