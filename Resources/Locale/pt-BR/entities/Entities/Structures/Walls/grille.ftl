@@ -12,4 +12,7 @@ ent-ClockworkGrilleBroken = grade de engrenagem
 
 ent-GrilleDiagonal = grade diagonal
 
+    .desc = Um quadro frágil de barras de ferro.
 ent-ClockworkGrilleDiagonal = grade de engrenagens diagonal
+
+    .desc = Um estrutura frágil de barras de ferro montada na forma tradicional Ratvarian.

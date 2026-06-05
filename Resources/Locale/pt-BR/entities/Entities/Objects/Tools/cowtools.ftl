@@ -23,3 +23,5 @@ ent-CowToolbox = caixa de ferramentas do boi
     .desc = Uma caixa estranhamente formatada, cheia de... ferramentas?
 
 ent-CowToolboxFilled = caixa de ferramentas do boi
+
+    .desc = Uma caixa estranhamente formatada, repleta de... ferramentas?

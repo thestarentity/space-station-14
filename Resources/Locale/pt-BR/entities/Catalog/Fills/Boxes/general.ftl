@@ -12,12 +12,16 @@ ent-BoxLightbulb = caixa de lâmpada
 
 ent-BoxWarmLightbulb = caixa de lâmpada quente
 
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.
 ent-BoxLighttube = caixa de tubo de luz
 
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.
 ent-BoxLightMixed = caixa de luzes mistas
 
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.
 ent-BoxLighttubeHoliday = caixa de tubo de luz de festa
 
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.
 ent-BoxPDA = Caixa do PDA
     .desc = Uma caixa de PDAs microcomputadores de reposição.
 
@@ -53,20 +57,28 @@ ent-BoxEncryptionKeyPassenger = caixa de criptografia da chave do passageiro
 
 ent-BoxEncryptionKeyCargo = caixa de chave de criptografia de carga
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyEngineering = caixa de chave de criptografia de engenharia
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyMedicalScience = caixa de chave de criptografia de medicina e ciência
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyMedical = caixa de criptografia médica
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyRobo = caixa de chave de criptografia robotech
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyScience = caixa de chave de criptografia científica
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeySecurity = caixa de chave de criptografia de segurança
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeyService = caixa de chave de criptografia do serviço
 
+    .desc = Uma caixa de chaves de criptografia de reposição.
 ent-BoxEncryptionKeySyndie = caixa de chave de criptografia do sindicato
     .desc = Dois chaves de criptografia sindical por preço de uma. Miniaturizado para facilitar o uso.
 
@@ -78,6 +90,7 @@ ent-BoxCandle = caixa de vela
 
 ent-BoxCandleSmall = caixa de vela pequena
 
+    .desc = Esta caixa foi especificamente moldada para transportar apenas velas.
 ent-BoxDarts = caixa de dardos
     .desc = Uma caixa cheia de dardos coloridos.
 

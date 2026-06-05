@@ -6,3 +6,6 @@ ent-BlueprintSeismicCharge = blueprint de carga sísmica
 
 ent-BlueprintDoubleEmergencyTank = blueprint de tanque de emergência duplo
     .desc = Um blueprint com um esquema de um tanque de emergência duplo. Pode ser inserido em uma autolathe.
+
+ent-BaseBlueprint =
+    .desc = Uma planta para alguma máquina. Pode ser inserida em um autotorno.

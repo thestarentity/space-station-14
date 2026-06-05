@@ -45,3 +45,6 @@ ent-XenoborgCircuitBoard = placa de circuito (Xenoborg)
 
 ent-MothershipCircuitBoard = placa de circuito (Núcleo da Nave-Mãe)
     .desc = Um circuito eletrônico contendo o lawset do núcleo da Nave-Mãe.
+
+ent-BaseSiliconLawboard =
+    .desc = Uma placa eletrônica contendo um conjunto de leis de silício.

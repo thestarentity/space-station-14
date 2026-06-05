@@ -1,35 +1,26 @@
 ent-BikeHorn = buzina de bicicleta
     .desc = Um corneta de uma bicicleta.
-
 ent-CluwneHorn = Corneta de bicicleta quebrada
     .desc = Um chifre quebrado de uma bicicleta.
-
 ent-GoldenBikeHorn = honk-pocket de ouro
     .desc = Um prêmio de honk feliz, ore aos deuses por sua recompensa.
-
 ent-BananiumHorn = corneta de bananium
     .desc = Um apito de ar feito de bananium.
-
 ent-PushHorn = trombeta de empurrar
     .desc = Este potente campainha de bicicleta certamente vai espantar franzes.
-
 ent-SyndicateWhistle = apito de trincheira
     .desc = Um apito usado por comandantes do Sindicato para chamar atenção. Avanti!
-
 ent-ToyRubberDuck = pato de borracha
     .desc = Não trazido aqui por correntes oceânicas.
-
 ent-RubberChicken = galinha de borracha
     .desc = Um paródia estressante da natureza aviar mais deliciosa.
-
 ent-NewtonCradle = cristal de newton
     .desc = Um dispositivo usado por burocratas para se lembrar que o tempo ainda não parou. Contém gravidade.
-
 ent-ClownRecorder = gravador do palhaço
     .desc = Quando você simplesmente não consegue arrancar aquelas risadas de forma natural!
-
 ent-WhoopieCushion = buzina de surpresa
     .desc = Um dispositivo de brincadeira prática envolvendo humor com flatulência.
-
 ent-Skub = Skub
     .desc = Skub é o quinto Deus do Caos.
+ent-SecurityWhistle =
+    .desc = O som dele inspira medo.

@@ -15,3 +15,6 @@ ent-GoldRingGem = anel de gema dourada
 
 ent-SilverRingGem = anel de gemas prata
     .desc = Brilhante e nem tanto tão valioso!
+
+ent-SilverRingBase =
+    .desc = Parece um pouco menos valioso do que um de ouro.

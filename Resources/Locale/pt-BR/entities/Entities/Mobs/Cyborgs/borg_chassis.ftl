@@ -1,9 +1,15 @@
 ent-BorgChassisGeneric = Cyborg genérico
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisMining = ciborg de resgate
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisEngineer = engenheiro ciborguiano
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisJanitor = ciborg zelador
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisMedical = ciborg médico
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisService = ciborg de serviço
+    .desc = Um híbrido homem-máquina que auxilia nas atividades da estação. Eles adoram serem perguntados para repetir suas leis inúmeras vezes.
 ent-BorgChassisSyndicateAssault = ciborgue de assalto do sindicato
     .desc = Um corpo magro e letal, uma máquina de matar com acesso a uma variedade de módulos mortais.
 ent-BorgChassisSyndicateMedical = ciborg médico do sindicato

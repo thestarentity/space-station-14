@@ -25,6 +25,7 @@ ent-ScrapFirelock1 = porta de firelock
 ent-ScrapFirelock2 = porta de firelock
     .desc = OH! Ai, onde foi parar a outra metade!
 ent-ScrapFirelock3 = quadro de fechadura de fogo
+    .desc = Lixo inútil. Talvez você consiga extrair alguns materiais dele, porém.
 ent-ScrapIntercom = intercom de lixo
     .desc = Você só wish que ao menos viesse com algumas chaves de criptografia.
 ent-ScrapJetpack = jetpack quebrado

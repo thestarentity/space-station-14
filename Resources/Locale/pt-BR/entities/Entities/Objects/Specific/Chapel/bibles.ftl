@@ -13,6 +13,6 @@ ent-BibleNarsie = Livro de Nar'sie
 ent-BibleNanoTrasen = codex nanotrasen
     .desc = Um livro familiar contendo os Procedimentos Operacionais Sagrados.
 ent-BibleHonk = alegria da mãe honk
-    .desc = Oh great and glorious Mother, Mistress of Mirth, Matron of Mask and Merriments, Blessed is she amongst us jesters.
+    .desc = Ó grande e gloriosa Mãe, Senhora da Alegria, Matrona das Máscaras e das Maravilhas, bendita seja ela entre nós, os palhaços.
 ent-BibleRatvar = tableta de Ratvar
     .desc = Um relicário sagrado da Cultura dos Relógios de Engrenagem, abençoado pela Justiça dos Relógios de Engrenagem, Ratvar.

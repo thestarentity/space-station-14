@@ -30,5 +30,6 @@ ent-WeaponShotgunImprovised = espingarda improvisada
 
 ent-WeaponShotgunImprovisedLoaded = espingarda improvisada
 
+    .desc = Um fuzil de caça feito à mão e de má qualidade que utiliza cartuchos de fuzil .50. Ele só pode conter uma munição no tambor.
 ent-WeaponShotgunHushpup = Hushpup
     .desc = Uma modificação obscura do Enforcer, equipada com um silenciador experimental. Ideal para aqueles com um código moral rigoroso. Utiliza cartuchos de霰弹枪 .50.

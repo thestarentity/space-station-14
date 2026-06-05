@@ -29,12 +29,17 @@ ent-ClothingEyesHudSyndicateAgent = Visor Médico do Sindicato
 ent-ClothingEyesEyepatchHudMedical = HUD de óculos de pirata médico
     .desc = Um visor de apoio que escaneia os humanóides em vista e fornece dados precisos sobre seu estado de saúde. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudMedicalFlipped = HUD de óculos de pirata médico
+    .desc = Um visor de informações que escaneia os humanóides em vista e fornece dados precisos sobre seu estado de saúde. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudSecurity = visão de segurança com patch ocular
     .desc = Um visor de apoio que escaneia os humanóides em vista e fornece dados precisos sobre seu status de identificação e registros de segurança. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudSecurityFlipped = visão de segurança com patch ocular
+    .desc = Um visor de informações que escaneia os humanóides em vista e fornece dados precisos sobre seu status de identidade e registros de segurança. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudBeer = HUD de cerveja, olho de pescador
     .desc = Um par de sunHud equipado com aparelhos para escanear reagentes, bem como fornecer uma compreensão inata da viscosidade dos líquidos em movimento. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudBeerFlipped = HUD de cerveja, olho de pescador
+    .desc = Um par de sunHud equipado com aparelhos para escanear reagentes, bem como fornecendo uma compreensão inata da viscosidade dos líquidos em movimento. Para verdadeiros patriotas.
 ent-ClothingEyesEyepatchHudDiag = diagnóstico hud olho de pirata
     .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueletais. Feito de see-borg-ium.
 ent-ClothingEyesEyepatchHudDiagFlipped = diagnóstico hud olho de pirata
+
+    .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueléticos. Feito de see-borg-ium.

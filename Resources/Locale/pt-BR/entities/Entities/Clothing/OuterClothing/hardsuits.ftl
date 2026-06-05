@@ -68,3 +68,7 @@ ent-ClothingOuterHardsuitMime = traje rígido do mímico
     .desc = Um hardsuit personalizado para mímicos.
 ent-ClothingOuterHardsuitSanta = Traje de proteção de Papai Noel
     .desc = Um traje rígido festivo e alegre que protege o generoso entregador de presentes durante as viagens de trenó no espaço. Oferece alguma resistência contra impactos de asteroides.
+
+
+
+

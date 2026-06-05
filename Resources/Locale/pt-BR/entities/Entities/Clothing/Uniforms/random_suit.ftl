@@ -1,11 +1,18 @@
 ent-ClothingRandomSpawner = traje colorido aleatório
 
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.
 ent-ClothingUniformRandomArmless = traje colorido sem mangas
 
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.
 ent-ClothingUniformRandomStandard = traje colorido
 
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.
 ent-ClothingUniformRandomBra = sutiã colorido
 
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.
 ent-ClothingUniformRandomShorts = calça colorida
 
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.
 ent-ClothingUniformRandomShirt = traje colorido
+
+    .desc = Gerado por redes neurais com base nas últimas tendências de moda.

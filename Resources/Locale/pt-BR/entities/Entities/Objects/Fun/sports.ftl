@@ -1,11 +1,10 @@
 ent-Basketball = basquete
     .desc = Onde estão as quadras?
-
 ent-Football = futebol
     .desc = Também conhecido como um handegg.
-
 ent-TennisBall = bola de tênis
     .desc = Uma bola nebulosa de traição infinita.
-
 ent-BeachBall = bola de praia
     .desc = A simples bola de praia é um dos produtos mais populares da Nanotrasen. 'Por que fazemos bolas de praia? Porque podemos! (TM)' - Nanotrasen
+ent-EvilBeachBall =
+    .desc = Alguém desenhou ">:3c" no lado dessa bola de praia com tinta indelével.

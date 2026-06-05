@@ -6,4 +6,7 @@ ent-BoxAgrichem = Kit "Agricultura Química é Divertido"
 
 ent-BoxLightbulbColorfulMixed = caixa de lâmpadas coloridas mistas
 
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.
 ent-BoxLighttubeColorfulMixed = caixa de tubo de luz colorido misturado
+
+    .desc = Essa caixa foi moldada por dentro para que apenas tubos de luz e lâmpadas cabam.

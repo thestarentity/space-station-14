@@ -1,18 +1,29 @@
 ent-SheetSteel = aço
 
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
 ent-SheetSteel10 = aço
 
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
 ent-SheetSteel1 = aço
 
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
 ent-SheetBrass = bronze
     .desc = Uma folha de latão, principalmente usada por entusiastas de relógios de engrenagens e pelos remanescentes de cultos Ratvarianos.
 
 ent-SheetBrass10 = bronze
 
+    .desc = Uma folha de latão, principalmente usada por entusiastas de relógios de engrenagens e pelos remanescentes de cultos Ratvarianos.
 ent-SheetBrass1 = bronze
 
+    .desc = Uma folha de latão, principalmente usada por entusiastas de relógios de engrenagens e pelos remanescentes de cultos Ratvarianos.
 ent-SheetPlasteel = plasteel
 
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
 ent-SheetPlasteel10 = plasteel
 
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
 ent-SheetPlasteel1 = plasteel
+
+    .desc = Uma folha de metal, usada com frequência na estação em várias aplicações.
+ent-SheetMetalBase =
+    .desc = Uma folha de metal, usada frequentemente na estação em diversas aplicações.

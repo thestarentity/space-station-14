@@ -23,3 +23,5 @@ ent-DiceBag = saco de dados
     .desc = Contém toda a sorte que você já precisará.
 
 ent-MagicDiceBag = saco de dados
+
+    .desc = Contém toda a sorte que você já precisará.

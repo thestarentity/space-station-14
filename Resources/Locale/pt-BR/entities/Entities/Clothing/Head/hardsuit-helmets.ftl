@@ -68,3 +68,7 @@ ent-ClothingHeadHelmetHardsuitMime = capacete de traje rígido do mímico
     .desc = Um capacete de traje pesado de mímico.
 ent-ClothingHeadHelmetHardsuitSanta = Bem-vindo ao capacete de traje rígido de Papai Noel
     .desc = Um capacete de traje rígido com aparência festiva que fornece proteção ao generoso dador de presentes em ambientes de baixa pressão.
+
+
+
+

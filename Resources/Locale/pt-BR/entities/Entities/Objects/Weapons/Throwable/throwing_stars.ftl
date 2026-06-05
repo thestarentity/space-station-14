@@ -3,3 +3,5 @@ ent-ThrowingStar = estrela de lança
 
 ent-ThrowingStarNinja = estrela de ninja
 
+
+    .desc = Uma arma antiga ainda usada até hoje, devido à facilidade de se encaixar nos órgãos do corpo da vítima.

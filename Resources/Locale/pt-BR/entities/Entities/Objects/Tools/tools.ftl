@@ -1,7 +1,7 @@
 ent-Wirecutter = alicate
     .desc = Isso corta o fio.
 
-ent-Screwdriver = Screwdriver
+ent-Screwdriver = chave de fenda
     .desc = Torque industrial em um pequeno pacote de chave de fenda.
 
 ent-Wrench = chave inglesa

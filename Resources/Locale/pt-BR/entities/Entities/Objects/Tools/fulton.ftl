@@ -6,4 +6,5 @@ ent-Fulton = fulton
 
 ent-Fulton1 = fulton
 
+    .desc = Usado para extrair contêineres, itens ou recrutar pessoas à força para sua base de operações.
 ent-FultonEffect = efeito fulton

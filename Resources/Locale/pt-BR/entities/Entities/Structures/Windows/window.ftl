@@ -3,6 +3,7 @@ ent-Window = janela
 
 ent-TintedWindow = janela tingida
 
+    .desc = Não embaçar o vidro lá embaixo.
 ent-WindowDirectional = janela direcional
     .desc = Não embaçar o vidro lá embaixo.
 

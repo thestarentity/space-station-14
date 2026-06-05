@@ -1,13 +1,21 @@
 ent-ToolboxEmergencyFilled = Caixa de ferramentas de emergência
 
+    .desc = Uma caixa de ferramentas vermelha brilhante, abastecida com ferramentas de emergência.
 ent-ToolboxElectricalFilled = caixa de ferramentas elétrica
 
+    .desc = Uma caixa de ferramentas normalmente abastecida com equipamentos elétricos.
 ent-ToolboxElectricalTurretFilled = caixa de ferramentas elétrica
 
+    .desc = Uma caixa de ferramentas normalmente abastecida com equipamentos elétricos.
 ent-ToolboxArtisticFilled = caixa de ferramentas artística
 
+    .desc = Uma caixa de ferramentas normalmente abastecida com materiais artísticos.
 ent-ToolboxMechanicalFilled = caixa de ferramentas mecânica
 
+    .desc = Uma caixa azul, abastecida com ferramentas mecânicas.
 ent-ToolboxMechanicalFilledAllTools = caixa de ferramentas mecânica
 
+    .desc = Uma caixa azul, abastecida com ferramentas mecânicas.
 ent-ToolboxGoldFilled = caixa de ferramentas dourada
+
+    .desc = Uma caixa de ferramentas de ouro maciço. Um rapper morreria por isso.
