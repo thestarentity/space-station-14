@@ -492,10 +492,7 @@ names-vox-dataset-491 = Hepevivikrik
 names-vox-dataset-492 = Hepraskibebe
 names-vox-dataset-493 = Heprivresker
 names-vox-dataset-494 = Heprixasheri
-names-vox-dataset-495 =
-    Aqui está a tradução para o português do Brasil (pt-BR) do texto fornecido, seguindo as regras e o glossário especificados:
-    
-    Aqui está a tradução para o português do Brasil (pt-BR) do texto fornecido, seguindo as regras e o glossário especificados:
+names-vox-dataset-495 = Herecrerivi
 names-vox-dataset-496 = Hereririket
 names-vox-dataset-497 = Heriheyacri
 names-vox-dataset-498 = Heripa
