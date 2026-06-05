@@ -1,13 +1,13 @@
-news-read-ui-next-text = Próximo
-news-read-ui-prev-text = Anterior
+news-read-ui-next-text = ▶
+news-read-ui-prev-text = ◀
 news-read-ui-next-tooltip = Próximo
 news-read-ui-prev-tooltip = Anterior
 news-read-ui-default-title = Notícias da Estação
 news-read-ui-not-found-text = Nenhum artigo encontrado
 news-read-ui-time-prefix-text = Horário de publicação:
 news-reader-ui-mute-tooltip = Desativar notificações
-news-read-ui-notification-off = Notificações de leitura de notícias desativadas.
-news-read-ui-notification-on = Notícias da Estação
+news-read-ui-notification-off =  ̶♫̶
+news-read-ui-notification-on = ♫
 news-read-ui-no-author = Anônimo
 news-read-ui-author-prefix = Autor:
 news-write-ui-default-title = Gerenciamento de Notícias

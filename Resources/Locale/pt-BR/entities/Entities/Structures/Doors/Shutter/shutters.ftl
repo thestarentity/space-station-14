@@ -9,3 +9,8 @@ ent-ShuttersFrame = quadro de persiana
 
 ent-BaseShutter =
     .desc = Arrepia pensar no que pode estar atrás desta veneziana.
+
+ent-ShuttersNormal = veneziana
+ent-ShuttersNormalOpen = veneziana
+ent-ShuttersRadiationOpen = veneziana de radiação
+ent-ShuttersWindowOpen = veneziana de vidro (open)

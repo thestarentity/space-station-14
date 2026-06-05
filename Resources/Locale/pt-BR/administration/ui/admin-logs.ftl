@@ -1,7 +1,7 @@
 admin-logs-title = Painel de Registros de Administração
 admin-logs-count = Mostrando { $showing }/{ $total } de { $round }
 admin-logs-export = Exportar
-admin-logs-pop-out = Sair
+admin-logs-pop-out = Janela Separada
 # Round
 admin-logs-round = Rodada{ " " }
 admin-logs-reset = Redefinir

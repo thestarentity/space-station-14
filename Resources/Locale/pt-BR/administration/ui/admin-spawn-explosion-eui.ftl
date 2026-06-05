@@ -1,6 +1,6 @@
-admin-explosion-eui-title = Explosões de Nascimento
+admin-explosion-eui-title = Criar Explosão
 admin-explosion-eui-label-type = Tipo de Explosão
-admin-explosion-eui-label-mapid = ID do mapa
+admin-explosion-eui-label-mapid = ID do Mapa
 admin-explosion-eui-label-xmap = X (Map)
 admin-explosion-eui-label-ymap = Y (Map)
 admin-explosion-eui-label-current = Posição Atual
@@ -10,7 +10,7 @@ admin-explosion-eui-label-slope = Inclinação da Intensidade
 admin-explosion-eui-label-max = Intensidade Máxima
 admin-explosion-eui-label-directional = Direcional
 admin-explosion-eui-label-angle = Ângulo
-admin-explosion-eui-label-spread = Espalhar
+admin-explosion-eui-label-spread = Dispersão
 admin-explosion-eui-label-distance = Distância
 admin-explosion-eui-label-spawn = Kabloom!
 cmd-explosionui-desc = Abre uma janela para acesso fácil à destruição da estação.
