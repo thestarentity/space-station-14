@@ -72,3 +72,8 @@ ent-DrinkBottleAle = Garrafa de Magm-Ale
 
 ent-DrinkSakeBottleFull = pequena garrafa de sakê
     .desc = O arrependimento da manhã seguinte parece estar também tomando um gole da garrafa.
+
+
+
+
+

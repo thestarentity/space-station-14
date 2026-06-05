@@ -1,4 +1,17 @@
 ent-ReagentSlime = slime de reagente
     .desc = É composto por um líquido e quer dissolver você nele mesmo.
-
 ent-ReagentSlimeSpawner = Gerador de Slime de Reagente
+ent-MobQuartzCrab =
+    .desc = Um caranguejo de minério feito de quartzo.
+ent-MobIronCrab =
+    .desc = Um caranguejo de minério feito de ferro.
+ent-MobCoalCrab =
+    .desc = Um caranguejo de minério feito de carvão.
+ent-MobUraniumCrab =
+    .desc = Um caranguejo de minério feito de urânio.
+ent-MobBananiumCrab =
+    .desc = Um caranguejo de minério feito de bananium.
+ent-MobSilverCrab =
+    .desc = Um caranguejo de minério feito de prata.
+ent-MobGoldCrab =
+    .desc = Um caranguejo de ouro feito de ouro.

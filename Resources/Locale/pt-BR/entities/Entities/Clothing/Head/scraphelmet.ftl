@@ -9,3 +9,7 @@ ent-SteelBucketBase = balde de aço
 
 ent-ClothingHeadHelmetScrap = chapeuzinho de lixo
     .desc = Um capacete montado apressadamente feito de cabos, aço e um balde.
+
+
+
+

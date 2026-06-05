@@ -12,3 +12,15 @@ ent-EnergySwordDouble = espada de energia de dupla lâmina
     .desc = O estágio de comando do Sindicato pensou que ter uma única lâmina na espada de energia não era suficiente. Pode ser armazenado em bolsos.
 ent-HyperEutacticBlade = espada hipereutática
     .desc = Uma arma supermassiva concebida para cortar o próprio tecido do espaço e do tempo ao meio, a lâmina hipereutática dinamicamente flash-forges uma estrutura nanocrística hipereutática capaz de passar através da maioria das formas conhecidas de matéria como uma faca quente cortando manteiga.
+
+ent-CyborgEnergySword = 
+    .desc = Uma espada muito barulhenta e perigosa com um feixe feito de plasma puro e concentrado. Foi especialmente projetada para ciborgs da sindicato.
+
+ent-CyborgEnergySwordDouble = cyborgenergysworddouble
+    .desc = [item-desc:CyborgEnergySwordDouble # por que isso é inválido se o ID é BorgEnergySwordDouble] Os estagiários de Comando da Sindicato acharam que ter uma lâmina na espada de energia não era suficiente. Especialmente projetada para ciborgs do sindicato.
+
+
+
+
+
+

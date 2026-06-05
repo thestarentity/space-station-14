@@ -1,15 +1,12 @@
 ent-SprayBottle = garrafa de spray
     .desc = Uma garrafa de spray com uma tampa que pode ser destorcida.
-
 ent-MegaSprayBottle = garrafa de spray mega
     .desc = Um frasco de spray gigante, capaz de oferecer poder de limpeza inigualável.
-
 ent-SprayBottleWater = garrafa de spray
-
 ent-BorgSprayBottle = jet de spray interno
     .desc = Um recipiente pressurizado para pulverizar reagentes, instalado diretamente em um ciborgue de manutenção. Normalmente preenchido com limpador espacial para lidar com aquelas manchas desagradáveis.
-
 ent-BorgMegaSprayBottle = jato de spray interno
     .desc = Uma versão aprimorada da garrafa de spray integrada, instalada diretamente em um cyborg de manutenção. Esta é capaz de criar limpador espacial a partir da umidade do ar.
-
 ent-Vapor = vapor
+ent-MegaSprayBottleSpaceCleaner =
+    .desc = Lata de limpeza espacial BLAM! sem espuma, agora em um pacote maior para aqueles grandes charcos de sangue!

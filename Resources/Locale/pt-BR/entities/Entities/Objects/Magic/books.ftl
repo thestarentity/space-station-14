@@ -1,16 +1,11 @@
 ent-WizardsGrimoire = grimoire do feiticeiro
     .desc = Um livro pesado contendo fórmulas arcanas complexas para preparar feitiços e conjurar equipamentos sobrenaturais. Décadas de estudo foram dedicadas à pesquisa dessa coletânea de segredos místicos; agora, vá usá-los para arruinar o dia de alguém.
-
 ent-SpawnSpellbook = abra o livro de feitiços
-
 ent-ForceWallSpellbook = Livro de Magia de Paredes de Força
-
 ent-BlinkBook = livro de magia blink
-
 ent-SmiteBook = livro de feitiços de smite
-
 ent-KnockSpellbook = livro de encantamentos de pancada
-
 ent-FireballSpellbook = livro de feitiços de bola de fogo
-
 ent-ScrollRunes = scroll of runes
+ent-WizardsGrimoireDebug =
+    .desc = Um livro pesado contendo fórmulas arcanas complicadas para preparar feitiços e conjurar equipamentos sobrenaturais. Alguém escreveu "APENAS PARA USO EXPERIMENTAL" na capa interna.

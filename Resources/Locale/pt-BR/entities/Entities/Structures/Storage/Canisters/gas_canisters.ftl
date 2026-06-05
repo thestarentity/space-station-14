@@ -45,3 +45,7 @@ ent-GasCanisterBrokenBase = cânister de gás quebrado
     .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
 
 ent-WaterVaporCanisterBroken = canister de vapor de água quebrado
+
+
+
+

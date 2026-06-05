@@ -1,59 +1,42 @@
 ent-BookBase = ler
     .desc = Um livro capa dura.
-
 ent-BookSpaceEncyclopedia = Enciclopédia Espacial
     .desc = Uma enciclopédia contendo todo o conhecimento. O autor desta enciclopédia é desconhecido.
-
 ent-BookTheBookOfControl = o livro do controle
     .desc = Essencial para se tornar robusto.
-
 ent-BookBartendersManual = Manual do Barman
     .desc = Este manual está manchado com cerveja.
-
 ent-BookHowToCookForFortySpaceman = Como Cozinhar para Quarenta Tripulantes
     .desc = Um livro sobre culinária escrito por um chef espacial.
-
 ent-BookLeafLoversSecret = segredo dos amantes das folhas
     .desc = Ele tem um forte cheiro de maconha. Motiva você a alimentar e plantar.
-
 ent-BookEngineersHandbook = Manual do Engenheiro
     .desc = Um manual sobre engenharia escrito pela Nanotrasen.
-
 ent-BookScientistsGuidebook = Guia do Cientista
     .desc = Um guia sobre ciência escrito pela Nanotrasen.
-
 ent-BookSecurity = Segurança 101
     .desc = Um livro sobre segurança escrito pela Nanotrasen. O livro está manchado de sangue. Parece que foi usado mais como uma arma do que como material de leitura.
-
 ent-BookHowToKeepStationClean = como manter a estação limpa
     .desc = Este livro está muito limpo.
-
 ent-BookHowToRockAndStone = como rolar e pedrar
     .desc = Um guia muito detalhado sobre resgate escrito por Karl, um lendário minerador espacial, porém ele está desaparecido. Ele motiva você a "rock and stone".
-
 ent-BookMedicalReferenceBook = livro de referência médica
     .desc = Um livro de referência sobre medicina escrito por um velho médico. A caligrafia é difícil de compreender.
-
 ent-BookHowToSurvive = como sobreviver
     .desc = Ironicamente, o autor deste livro está morto.
-
 ent-BookChemicalCompendium = Livro de Compêndio Químico
     .desc = Um guia abrangente escrito por algum antigo esqueleto de um professor sobre síntese química.
-
 ent-BookAILawCompendium = Meu, Robô
     .desc = Um dicionário de todas as formas pelas quais os silicons podem dar errado. Por Isaac Crewsimov.
-
 ent-BookSpaceLaw = lei espacial
     .desc = Um conjunto de diretrizes da Nanotrasen para manter a lei e a ordem em suas estações espaciais.
-
 ent-BookAtmosDistro = Guia de Newton sobre Atmos: O Distro
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
-
 ent-BookAtmosWaste = Guia de Newton para Atmos: Resíduos
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
-
 ent-BookAtmosAirAlarms = Guia de Newton sobre Atmos: Alarmes de Ar
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
-
 ent-BookAtmosVentsMore = Guia de Newton sobre Atmos: Válvulas e Mais
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
+ent-BookRandom =
+    .desc = Cada livro é único! O que está escondido neste?

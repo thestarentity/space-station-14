@@ -29,3 +29,5 @@ ent-FoodMealHappyHonkBigBite = Refeição Honk Feliz Grande Mordida
     .desc = Alguém pagou um bom dinheiro para que esse lanche rápido fosse enviado assim. Alguma razão, ele cheira fresco.
 ent-FoodBoxCloth = caixa de tecido marca FlutterSoft
     .desc = A fibra é a refeição mais importante das moças hoje! Não pule ela ou use lixo do fundo do armário, compre tecido de alta qualidade da marca FlutterSoft em vez disso.
+ent-HappyHonkMime =
+    .desc = Uma edição limitada de mime do happy honk meal.

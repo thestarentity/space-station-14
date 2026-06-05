@@ -1,22 +1,17 @@
 ent-SaxophoneInstrument = saxofone
     .desc = Um instrumento. Você provavelmente poderia moer isso para obter jazz cru.
-
 ent-HarmonicaInstrument = harmonica
-
 ent-ClarinetInstrument = clarineta
     .desc = Skweedward tintacklays.
-
 ent-FluteInstrument = flauta
     .desc = Alcançando novas alturas de ser horrivelmente agudo.
-
 ent-RecorderInstrument = gravador
     .desc = Vem em diversas cores de plástico fashionável!
-
 ent-PanFluteInstrument = flauta panônica
     .desc = Perfeito para atrair seres míticos antigos para dançar com você.
-
 ent-OcarinaInstrument = ocarina
     .desc = Bom para tocar ninhas.
-
 ent-BagpipeInstrument = chifre de pastor
     .desc = Combina bem com um kilt.
+ent-instrument = saxophone
+    .desc = Um instrumento. Você provavelmente poderia moer isso até virar jazz bruto.

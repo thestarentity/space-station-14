@@ -1,16 +1,15 @@
 ent-Intellicard = cartão inteligente
     .desc = Um dispositivo de armazenamento para AIs.
-
 ent-PlayerStationAiEmpty = Núcleo de IA
     .desc = O mais recente em Inteligências Artificiais.
-
 ent-PlayerStationAiAssembly = Montagem do núcleo da IA
     .desc = Um núcleo de computador inacabado para abrigar uma inteligência artificial.
-
 ent-StationAiHolo = Olho da IA
     .desc = O visualizador da IA.
-
 ent-StationAiHoloLocal = Holograma de IA
     .desc = Uma representação holográfica de uma IA.
-
 ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = invasor sindicato borg gerador
+ent-AiHeld =
+    .desc = Componentes adicionados / removidos de uma entidade que é inserida em um núcleo de IA.
+ent-AiHeldIntellicard =
+    .desc = Componentes adicionados / removidos de uma entidade que é inserida em um Intellicard.

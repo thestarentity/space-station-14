@@ -114,3 +114,27 @@ ent-ToyIan = Ian Toy
 
 ent-ToyAmongPequeno = entre pequeno
     .desc = Sus!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

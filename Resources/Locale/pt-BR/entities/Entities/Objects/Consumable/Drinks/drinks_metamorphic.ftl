@@ -1,8 +1,10 @@
 ent-DrinkGlass = vidro metamórfico
     .desc = Um vidro metamórfico que se transforma automaticamente em um copo apropriado para o drink dentro. Há um número de patente lixado no fundo.
-
 ent-DrinkJar = jar
     .desc = O copo do hipster.
-
 ent-DrinkWaterJug = jarrão de água
     .desc = Mantenha-se hidratado.
+ent-DrinkHoochGlass =
+    .desc = Você realmente atingiu o fundo do poço agora... seu fígado embalou suas coisas e saiu ontem à noite.
+ent-DrinkBacchusBlessing =
+    .desc = Você não pensou que era possível um líquido ser tão completamente repugnante. Você tem certeza disso...?
