@@ -1,11 +1,10 @@
 <Document>
 # Reptilianos
 
-  # Reptilianos
-
+  <Box>
     <GuideEntityEmbed Entity="AppearanceReptilian" Caption=""/>
   </Box>
-They can only eat fruits and meat, but can eat raw meat and drink blood without any negative effects.
+Eles só podem comer frutas e carne, mas podem comer carne crua e beber sangue sem nenhum efeito negativo.
 Eles preferem uma faixa de temperatura um pouco mais alta do que a dos humanos.
 Eles podem arrastar objetos com a cauda, mantendo ambas as mãos livres.
 

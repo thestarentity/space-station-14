@@ -1,194 +1,129 @@
 ent-VendingMachineCondiments = estação de condimentos
     .desc = Espalhe essas substâncias grossas e pegajosas em seu alimento para um efeito de sabor completo.
-
 ent-VendingMachineAmmo = Estação de Libertação
     .desc = Uma quantidade avassaladora de antigo patriotismo o envolve apenas ao olhar para a máquina.
-
 ent-VendingMachineBooze = Booze-O-Mat
     .desc = Um marco tecnológico, supostamente capaz de misturar exatamente a bebida que você deseja no momento em que pedir uma.
-
 ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
     .desc = Um Booze-O-Mat reformulado para aumentar o moral dos operativos. Uma impressão de um traje de combate vermelho-escuro está visível em um lado, e a tinta parece ter sido raspada do outro lado.
-
 ent-VendingMachineCart = Vendedora de Máquinas
     .desc = Venda de PTech! Oferecendo uma SELEÇÃO ROBUSTA de PDAs, cartuchos e qualquer outra coisa que um empregado de papelaria cansativo precise!
-
 ent-VendingMachineChefvend = Vendedora
     .desc = Um fornecedor de ingredientes para todas as suas necessidades culinárias.
-
 ent-VendingMachineCigs = ShadyCigs Deluxe
     .desc = Se você quer pegar câncer, talvez seja melhor fazê-lo com estilo.
-
 ent-VendingMachineClothing = RoupasMate
     .desc = Uma máquina de venda automática de roupas.
-
 ent-VendingMachineWinter = Inverno
     .desc = O melhor lugar para aproveitar o frio!
-
 ent-VendingMachineCoffee = Melhor Café da Solar
     .desc = Servido fervendo para ficar quente durante toda a jornada!
-
 ent-VendingMachineCola = Bebidas Suaves Robustas
     .desc = Um vendedor de refrigerantes fornecido pela Robust Industries, LLC.
-
 ent-VendingMachineColaRed = Vendedor de Cola Vermelha
     .desc = Vende cola, no espaço.
-
 ent-VendingMachineSpaceUp = Vendedor de Space-Up!
     .desc = Aproveite uma explosão de sabor.
-
 ent-VendingMachineStarkist = Vendedor Star-kist
     .desc = O sabor de uma estrela em forma líquida.
-
 ent-VendingMachineShamblersJuice = Vendedor de Suco dos Shambler
     .desc = ~Shake me up some of that Shambler's Juice!~
-
 ent-VendingMachinePwrGame = Vendedor de Jogo de Poder
     .desc = Você quer, nós temos. Traga para você em parceria com Vlad's Salads.
-
 ent-VendingMachineDrGibb = Vendedor Dr. Gibb
     .desc = Explosão enlatada de diferentes sabores nesse vendedor!
-
 ent-VendingMachineSmite = Vendedor de Smite
     .desc = Popular com a administração.
-
 ent-VendingMachineDinnerware = Vendedor de Talheres para Jantar do Chef de Plasteel
     .desc = Um vendedor de equipamentos para cozinha e restaurantes.
-
 ent-VendingMachineMagivend = MagiVend
     .desc = Uma máquina de venda automática mágica.
-
 ent-VendingMachineDiscount = Dan do Desconto
     .desc = Uma máquina de venda automática contendo lanches com desconto da famosa franquia 'Discount Dan'.
-
 ent-VendingMachineEngivend = Vendedora Engi
     .desc = Venda de ferramentas de sobra. O que? Você esperava alguma descrição engraçada?
-
 ent-VendingMachineMedicalBase = NanoMed Civilian
     .desc = É um dispensador de medicamentos médicos. Apenas substâncias químicas naturais!
-
 ent-VendingMachineMedical = NanoMed Plus
-
 ent-VendingMachineNutri = NutriMax
     .desc = Uma máquina de venda automática contendo substâncias nutricionais para plantas e ferramentas botânicas.
-
 ent-VendingMachineSec = SecTech
     .desc = Uma máquina de venda automática contendo equipamento de Segurança. Uma etiqueta diz PESSOAL DE SEGURANÇA APENAS.
-
 ent-VendingMachineSeedsUnlocked = Servidor de Sementes MegaSeed
     .desc = Para quando você precisa de sementes rapidamente. Sem dúvida a melhor seleção de sementes da estação!
-
 ent-VendingMachineSnack = Getmore Chocolate Corp
     .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, baseada em Marte.
-
 ent-VendingMachineSustenance = Vendedor de Sustentação
     .desc = Uma máquina de venda automática que vende alimentos, conforme exigido pelo item 47-C do Acordo de Tratamento Ético dos Presos da Nanotrasen.
-
 ent-VendingMachineSovietSoda = ÁGUA
     .desc = Uma antiga máquina de venda automática contendo água doce.
-
 ent-VendingMachineTheater = AutoDrobe
     .desc = Uma máquina de venda automática contendo roupas de teatro.
-
 ent-VendingMachineVendomat = Vendomat
     .desc = Apenas o mais fino equipamento robusto no espaço!
-
 ent-VendingMachineRobotics = Robotech Deluxe
     .desc = Todas as ferramentas que você precisa para criar seu próprio exército de robôs.
-
 ent-VendingMachineYouTool = Venda de ferramentas
     .desc = Uma máquina de venda automática contendo ferramentas padrão. Uma etiqueta diz: Ferramentas para ferramentas.
-
 ent-VendingMachineGames = Bom e Limpo Divertimento
     .desc = Vende coisas que o Capitão e o Chefe de Pessoal provavelmente não vão apreciar você brincar com em vez do seu trabalho...
-
 ent-VendingMachineChang = Sr. Chang
     .desc = Uma máquina de alimentos chinesa autorreferencial, para todas as suas necessidades de comida chinesa.
-
 ent-VendingMachineSalvage = Vendedor de Recursos
     .desc = O melhor amigo de um anão!
-
 ent-VendingMachineDonut = Monkin' Donuts
     .desc = Um vendedor de rosquinhas fornecido pela Robust Industries, LLC.
-
 ent-VendingMachineHydrobe = HyDrobe
     .desc = Uma máquina com um nome cativante. Ela distribui roupas e equipamentos relacionados à botânica.
-
 ent-VendingMachineLawDrobe = Vendedora de Leis
     .desc = Objetão! Este armário dispensa o princípio da legalidade... e roupas de advogados.
-
 ent-VendingMachineSecDrobe = SecDrobe
     .desc = Uma máquina de venda automática para roupas de segurança e relacionadas à segurança!
-
 ent-VendingBarDrobe = BarDrobe
     .desc = Um vendedor elegante para fornecer as roupas de bar mais elegantes!
-
 ent-VendingMachineChapel = PietyVend
-
 ent-VendingMachineCargoDrobe = Vestuário de Carga
     .desc = Uma máquina de venda altamente avançada para comprar roupas relacionadas a carga gratuitamente.
-
 ent-VendingMachineMediDrobe = MediDrobe
     .desc = Uma máquina de venda automática rumoreada por ser capaz de dispensar roupas para pessoal médico.
-
 ent-VendingMachineChemDrobe = Químico
     .desc = Uma máquina de venda automática para distribuir roupas relacionadas à química.
-
 ent-VendingMachineCuraDrobe = CuraDrobe
     .desc = Um vendedor de baixo estoque capaz apenas de vender roupas para curadores e bibliotecários.
-
 ent-VendingMachineAtmosDrobe = Vendedora de Atmos
     .desc = Essa máquina de venda relativamente desconhecida entrega roupas para Técnicos de Atmosfera, um cargo igualmente desconhecido.
-
 ent-VendingMachineEngiDrobe = Vestido de Engenheiro
     .desc = Uma máquina de venda automática famosa por vender roupas de grau industrial.
-
 ent-VendingMachineChefDrobe = ChefDrobe
     .desc = Essa máquina de venda automática pode não dispensar carne, mas certamente dispensa roupas relacionadas ao chef.
-
 ent-VendingMachineDetDrobe = Vendedora de roupas
     .desc = Uma máquina para todas as suas necessidades de detetive, desde que precise de roupas.
-
 ent-VendingMachineJaniDrobe = Vendedora de Roupas
     .desc = Uma máquina de venda automática autolimpeza capaz de dispensar roupas para zeladores.
-
 ent-VendingMachineSciDrobe = SciDrobe
     .desc = Uma simples máquina de venda automática adequada para dispensar roupas de ciência bem ajustadas. Endossada pelos Cubanos Espaciais.
-
 ent-VendingMachineSyndieDrobe = Roupa do Sindicato
     .desc = Máquina de vestuário codificada pelo sindicato, contém roupas de elite para várias operações.
-
 ent-VendingMachineRoboDrobe = Vendedora Robótica
     .desc = Uma máquina de venda automática projetada para dispensar roupas conhecidas apenas por robóticos.
-
 ent-VendingMachineGeneDrobe = GeneDrobe
     .desc = Uma máquina para distribuir roupas relacionadas à genética.
-
 ent-VendingMachineViroDrobe = ViroDrobe
     .desc = Uma máquina não esterilizada para distribuir roupas relacionadas à virologia.
-
 ent-VendingMachineCentDrobe = CentDrobe
     .desc = Uma máquina de venda única para todas as suas necessidades estéticas centcom!
-
 ent-VendingMachineHappyHonk = Distribuidor de Honk Feliz
     .desc = Um dispensador de caixas de refeições "happy honk" feito pela honk! co.
-
 ent-VendingMachinePride = Pride-O-Mat
     .desc = Uma máquina de venda automática contendo orgulho.
-
 ent-VendingMachineTankDispenserEVA = dispensador de tanque de gás
     .desc = Um vendedor para distribuir tanques de gás.
-
 ent-VendingMachineTankDispenserEngineering = dispensador de tanque de gás
     .desc = Um vendedor para distribuir tanques de gás. Este tem uma livery de engenharia.
-
 ent-VendingMachineChemicals = QuímicoVend
     .desc = Provavelmente não é a máquina de café.
-
 ent-VendingMachineChemicalsSyndicate = Suco Sindical
     .desc = Espero que não tenha sido feito com sindicatos frescos espremidos.
-
 ent-VendingMachineWallMedicalCivilian = Band-aid NanoMed
     .desc = É um dispensador de equipamento médico montado na parede. Apenas químicos naturais!
-
 ent-VendingMachineWallMedical = NanoMed

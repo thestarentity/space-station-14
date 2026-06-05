@@ -1,74 +1,50 @@
 ent-FoodPizzaMargherita = pizza margherita
     .desc = O sabor da Itália.
-
 ent-FoodPizzaMargheritaSlice = fatia de pizza margherita
     .desc = Uma fatia da Itália.
-
 ent-FoodPizzaMeat = pizza de carne
     .desc = Pizza gordurosa com carne deliciosa.
-
 ent-FoodPizzaMeatSlice = fatia de pizza de carne
     .desc = Uma fatia nutritiva de pizza de carne.
-
 ent-FoodPizzaMushroom = pizza de cogumelo
     .desc = Pizza muito especial.
-
 ent-FoodPizzaMushroomSlice = fatia de pizza de cogumelo
     .desc = Talvez seja a última fatia de pizza da sua vida.
-
 ent-FoodPizzaVegetable = pizza de vegetais
     .desc = Os vegetarianos da estação agradecerão por você fazer isso.
-
 ent-FoodPizzaVegetableSlice = fatia de pizza vegetal
     .desc = Uma fatia disso é suficiente para satisfazer até mesmo os tripulantes mais exigentes da estação.
-
 ent-FoodPizzaDonkpocket = donk-pocket de pizza
     .desc = Quem achou que essa seria uma boa ideia?
-
 ent-FoodPizzaDonkpocketSlice = fatia de donk-pocket pizza
     .desc = Cheira a donk-pocket.
-
 ent-FoodPizzaDank = pizza dank
     .desc = A escolha da pizza do hippie.
-
 ent-FoodPizzaDankSlice = fatia de pizza dank
     .desc = Tão bom, cara...
-
 ent-FoodPizzaSassysage = pizza de sassysage
     .desc = Você realmente pode sentir o cheiro de sassiness.
-
 ent-FoodPizzaSassysageSlice = fatia de pizza de sassysage
     .desc = Deliciosamente sassy.
-
 ent-FoodPizzaPineapple = Pizza havaiana
     .desc = Faz as pessoas chorarem. Seus choros podem ser de alegria ou tristeza, dependendo do quanto a pessoa gosta de abacaxi.
-
 ent-FoodPizzaPineappleSlice = fatia de pizza havaiana
     .desc = Uma fatia de alegria/pecado.
-
 ent-FoodPizzaArnold = Pizzaria Arnold
     .desc = Olá, você chegou à pizzaria de Arnold. Não estou aqui agora, estou fora matando pepperoni.
-
 ent-FoodPizzaArnoldSlice = fatia da pizza de Arnold
     .desc = Eu vou até você, talvez eu dê uma pizza pra você, talvez eu quebre o seu braço.
-
 ent-FoodPizzaMoldySlice = fatia de pizza podre
     .desc = Uma vez uma fatia perfeita de pizza, mas agora jaz aqui, rançosa e cheia de esporos.
-
 ent-FoodPizzaUranium = pizza de rocha picante
     .desc = Pizza picante coberta com pimentas e urânio.
-
 ent-FoodPizzaUraniumSlice = fatia de pizza de rocha picante
     .desc = Uma fatia brilhante de pizza de rocha picante.
-
 ent-FoodPizzaCotton = pizza de algodão
     .desc = Massa de algodão plana com cobertura de algodão. Inacreditável.
-
 ent-FoodPizzaCottonSlice = fatia de pizza de algodão
     .desc = Uma fatia de pizza de algodão. Algodão incluso.
-
 ent-FoodPizzaWorldpeas = world peazza
     .desc = Diplomacia moderna na forma de um disco.
-
 ent-FoodPizzaWorldpeasSlice = fatia de world peazza
     .desc = Dividir o mundo é um pequeno preço a pagar pela harmonia.

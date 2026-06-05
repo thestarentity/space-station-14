@@ -1,47 +1,32 @@
 ent-RipleyHarness = cinto ripley
     .desc = O núcleo do Ripley APLU.
-
 ent-RipleyLArm = braço esquerdo de ripley
     .desc = O braço esquerdo do Ripley APLU. Pertence ao chassis do mecha.
-
 ent-RipleyLLeg = perna esquerda de ripley
     .desc = A perna esquerda do Ripley APLU. Pertence ao chassis do mecha.
-
 ent-RipleyRLeg = perna direita de ripley
     .desc = A perna direita do Ripley APLU. Pertence ao chassi do mecha.
-
 ent-RipleyRArm = braço direito de ripley
     .desc = O braço direito do Ripley APLU. Pertence ao chassis do mecha.
-
 ent-HonkerHarness = Cinto H.O.N.K.
     .desc = O núcleo do mecha H.O.N.K.
-
 ent-HonkerLArm = Braço esquerdo H.O.N.K.
     .desc = Um braço esquerdo H.O.N.K., com encaixes únicos que aceitam armas estranhas projetadas por cientistas palhaços.
-
 ent-HonkerLLeg = Perna esquerda do H.O.N.K.
     .desc = A perna esquerda de um H.O.N.K. O pé parece suficientemente grande para acomodar completamente um sapato de palhaço.
-
 ent-HonkerRLeg = Perna direita H.O.N.K.
     .desc = A perna direita de um H.O.N.K. O pé parece suficientemente grande para acomodar completamente um sapato de palhaço.
-
 ent-HonkerRArm = Braço direito H.O.N.K.
     .desc = Um braço direito H.O.N.K., com encaixes únicos que aceitam armas estranhas projetadas por cientistas palhaços.
-
 ent-HamtrHarness = Cinto HAMTR
     .desc = O núcleo do HAMTR.
-
 ent-HamtrLArm = Braço esquerdo HAMTR
     .desc = O braço esquerdo do HAMTR. Pertence ao chassi do mecha.
-
 ent-HamtrLLeg = Perna esquerda do HAMTR
     .desc = A perna esquerda do HAMTR. Pertence ao chassi do mecha.
-
 ent-HamtrRLeg = Perna direita do HAMTR
     .desc = A perna direita do HAMTR. Pertence ao chassi do mecha.
-
 ent-HamtrRArm = Braço direito HAMTR
     .desc = O braço direito do HAMTR. Pertence ao chassi do mecha.
-
 ent-VimHarness = cinto de segurança
     .desc = Um pequeno suporte para fixar peças de vim.

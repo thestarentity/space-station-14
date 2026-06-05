@@ -3,71 +3,36 @@
 
 Este é a versão mais recente publicada da coletânea de receitas da cozinha de culinária do Comando Central Nanotrasen para chefs a bordo de navios Nanotrasen prepararem.
 
-## Pizzas<GuideMicrowaveGroupEmbed Group="Pizza"/>## Cozinha Salgada<GuideMicrowaveGroupEmbed Group="Savory"/>## Pães
-⟦0⟧
-⟦1⟧
-⟦2⟧<GuideMicrowaveGroupEmbed Group="Breads"/>## Comidas do Café da Manhã<GuideMicrowaveGroupEmbed Group="Breakfast"/>## Alimentos de Mariposa<GuideMicrowaveGroupEmbed Group="Moth"/>## Pastas & Noodles<GuideMicrowaveGroupEmbed Group="Pasta"/>## Pães de Mel e Doces
-⟦0⟧
-⟦1⟧
-⟦2⟧<GuideMicrowaveGroupEmbed Group="Dessert"/>## Sopas e Caldos<GuideMicrowaveGroupEmbed Group="Soup"/>## Pizzas e Tornados<GuideMicrowaveGroupEmbed Group="Pie"/>## Barras & Biscoitos<GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>## Bolo
-
-⟦0⟧
-⟦1⟧
-⟦2⟧<GuideMicrowaveGroupEmbed Group="Cake"/>## Saladas<GuideMicrowaveGroupEmbed Group="Salad"/>## Medicinal
-⟦0⟧
-⟦1⟧
-⟦2⟧<GuideMicrowaveGroupEmbed Group="Medicinal"/>## Outros
+## Pizzas
+<GuideMicrowaveGroupEmbed Group="Pizza"/>
+## Cozinha Salgada
+<GuideMicrowaveGroupEmbed Group="Savory"/>
+## Pães
+<GuideMicrowaveGroupEmbed Group="Breads"/>
+## Comidas do Café da Manhã
+<GuideMicrowaveGroupEmbed Group="Breakfast"/>
+## Alimentos de Mariposa
+<GuideMicrowaveGroupEmbed Group="Moth"/>
+## Massas &amp; Macarrões
+<GuideMicrowaveGroupEmbed Group="Pasta"/>
+## Pães de Mel e Doces
+<GuideMicrowaveGroupEmbed Group="Dessert"/>
+## Sopas e Caldos
+<GuideMicrowaveGroupEmbed Group="Soup"/>
+## Tortas
+<GuideMicrowaveGroupEmbed Group="Pie"/>
+## Barras &amp; Biscoitos
+<GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
+## Bolo
+<GuideMicrowaveGroupEmbed Group="Cake"/>
+## Saladas
+<GuideMicrowaveGroupEmbed Group="Salad"/>
+## Medicinal
+<GuideMicrowaveGroupEmbed Group="Medicinal"/>
+## Outros
 Aqui estão algumas receitas simples que você pode preparar no serviço de alimentação da estação:
-
-### Bolo de Fubá
-**Ingredientes:**
-- 2 xícaras de fubá
-- 1 xícara de leite
-- 1 ovo
-- 1 colher de sopa de manteiga
-- 1 colher de chá de sal
-- 1 colher de chá de canela
-
-**Modo de preparo:**
-1. Misture o fubá, o sal e a canela em uma tigela.
-2. Em outra tigela, bata o ovo, o leite e a manteiga até obter uma mistura homogênea.
-3. Adicione a mistura líquida à tigela com o fubá e misture bem.
-4. Unte uma forma de bolo e despeje a massa.
-5. Asse em forno pré-aquecido a 180°C por cerca de 30 minutos ou até que esteja dourado.
-
-### Sopa de Legumes
-**Ingredientes:**
-- 1 kg de legumes (abóbora, cenoura, ervilha, etc.)
-- 1 cebola
-- 2 dentes de alho
-- 1 litro de água
-- 1 colher de sopa de óleo
-- Sal e pimenta a gosto
-
-**Modo de preparo:**
-1. Corte os legumes em cubos e reserve.
-2. Em uma panela, aqueça o óleo e refogue a cebola e o alho até que fiquem dourados.
-3. Adicione os legumes e refogue por alguns minutos.
-4. Adicione a água e deixe cozinhar por cerca de 20 minutos ou até que os legumes estejam macios.
-5. Tempere com sal e pimenta a gosto.
-
-### Pão de Queijo
-**Ingredientes:**
-- 2 xícaras de farinha de trigo
-- 1 xícara de leite
-- 1 ovo
-- 1 colher de sopa de manteiga
-- 1 colher de chá de sal
-- 1 colher de chá de fermento em pó
-- 1 xícara de queijo ralado
-
-**Modo de preparo:**
-1. Em uma tigela, misture a farinha de trigo, o sal, o fermento em pó e o queijo ralado.
-2. Em outra tigela, bata o ovo, o leite e a manteiga até obter uma mistura homogênea.
-3. Adicione a mistura líquida à tigela com os ingredientes secos e misture bem.
-4. Unte uma forma de pão e despeje a massa.
-5. Asse em forno pré-aquecido a 180°C por cerca de 30 minutos ou até que esteja dourado.
-
-Esperamos que estas receitas ajudem a variar o cardápio da estação. Boa sorte na cozinha!<GuideMicrowaveGroupEmbed Group="Other"/>## Segredo<GuideMicrowaveGroupEmbed Group="Secret"/>
+<GuideMicrowaveGroupEmbed Group="Other"/>
+## Segredo
+<GuideMicrowaveGroupEmbed Group="Secret"/>
 
 </Document>

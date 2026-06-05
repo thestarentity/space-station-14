@@ -15,11 +15,11 @@ O pessoal de [color=#c96dbf]Ciência[/color] é composto por Assistentes de Pesq
     <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
     <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
   </Box>
-A coisa mais importante dentro do seu departamento é o servidor de P&D, que armazena tecnologias desbloqueadas, e o computador de P&D, que permite que você desbloqueie [color=#a4885c]tecnologias[/color].
+A coisa mais importante dentro do seu departamento é o servidor de P&amp;D, que armazena tecnologias desbloqueadas, e o computador de P&amp;D, que permite que você desbloqueie [color=#a4885c]tecnologias[/color].
 
 Cada tecnologia custa [color=#a4885c]Pontos de Pesquisa[/color] e desbloqueia receitas nas lathes. Algumas tecnologias também terão pré-requisitos que você terá que desbloquear antes de poder pesquisar.
 
-[textlink="Click here to see a list of technologies." link="Technologies"].
+[textlink="Clique aqui para ver uma lista de tecnologias." link="Technologies"].
 
 ## Disciplinas
 As tecnologias estão distribuídas por 4 diferentes Disciplinas:
@@ -31,7 +31,7 @@ As tecnologias estão distribuídas por 4 diferentes Disciplinas:
   </Box>
 
 <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
-Use your nearest R&D console to take note of which kind of research is locked behind each Discipline tree.
+Use o console de P&amp;D mais próximo para verificar que tipo de pesquisa está bloqueada em cada árvore de Disciplina.
 
 ## Níveis
 Cada árvore de disciplina possui até 3 níveis de tecnologias. No início, o único nível que está aberto e disponível para você é o nível 1.

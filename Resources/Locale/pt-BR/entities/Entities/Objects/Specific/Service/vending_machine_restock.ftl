@@ -1,78 +1,52 @@
 ent-VendingMachineRestockBooze = Caixa de reposição do Booze-O-Mat
     .desc = Encaixe no seu Booze-O-Mat para começar a festa! Não é vendido para passageiros abaixo da idade legal.
-
 ent-VendingMachineRestockChang = Caixa de reposição do Sr. Chang
     .desc = Uma caixa coberta por rótulos brancos com caracteres chineses vermelhos em negrito, pronta para ser carregada na máquina de venda automática mais próxima do Sr. Chang.
-
 ent-VendingMachineRestockChefvend = Caixa de reposição do ChefVend
     .desc = Recarregue o ChefVend. Só não quebre mais ovos.
-
 ent-VendingMachineRestockCondimentStation = caixa de reposição da estação de condimentos
     .desc = Reabasteça a estação de condimentos. Mmm, molho gelado.
-
 ent-VendingMachineRestockClothes = caixa de reposição de roupas
     .desc = É hora de elevar sua moda! Coloque dentro de qualquer slot de reposição de loja de roupas para começar.
-
 ent-VendingMachineRestockCostumes = Caixa de reposição de roupas do AutoDrobe
     .desc = Uma panóplia de funcionários da NanoTrasen estão dançando em torno de um teatro colorido em uma tragédia-comédia. Você também pode participar! Carregue isso na sua máquina de venda automática de roupas mais próxima.
-
 ent-VendingMachineRestockDinnerware = Caixa de reposição do Chef de Plasteel
     .desc = Nunca há comida crua nesta cozinha! Entre no slot de reposição no Plasteel Chef para começar.
-
 ent-VendingMachineRestockDiscountDans = Caixa de reposição de Dan do Desconto
     .desc = Uma caixa cheia de sal e amido. Por que sofrer com Qualidade quando você pode ter Quantidade? Desconto Dan's!
-
 ent-VendingMachineRestockDonut = Caixa de reposição de pães de mel robustos
     .desc = Uma caixa cheia de pacotes toroidais de massa frita para repor uma máquina de venda automática. Use somente conforme orientado pela Robust Industries, LLC.
-
 ent-VendingMachineRestockEngineering = Caixa de reposição da máquina de venda automática de engenharia
     .desc = Apenas para uso autorizado por profissionais certificados.
-
 ent-VendingMachineRestockGames = Caixa de reposição de jogos Good Clean Fun
     .desc = É hora de rolar para determinar a iniciativa, dragões de dados! Carregue no automato Good Clean Fun!
-
 ent-VendingMachineRestockGetmoreChocolateCorp = Caixa de reposição de GetMore Chocolate
     .desc = Uma caixa carregada com o melhor cacau artifical. Só pode ser usada em máquinas de venda automática oficiais da Getmore Chocolate.
-
 ent-VendingMachineRestockHotDrinks = Caixa de reposição de bebidas quentes do Solar's Best
     .desc = Quente! Para uso nas Máquinas de Bebidas Quentes do Solar's Best ou em outras máquinas de venda automática afiliadas.
-
 ent-VendingMachineRestockMedical = Caixa de reposição NanoMed
     .desc = Encaixe em um NanoMed ou NanoMedPlus do seu departamento para distribuir. Trate com cuidado.
-
 ent-VendingMachineRestockNutriMax = Caixa de reposição NutriMax
     .desc = Vamos deixar seus dedos verdes com nossas ferramentas. Vamos começar a colher! Carregue em uma máquina de venda automática NutriMax.
-
 ent-VendingMachineRestockPTech = Caixa de reposição PTech
     .desc = Toda a burocracia que você pode lidar, e mais! Carregue no automato de vendas da PTech para começar.
-
 ent-VendingMachineRestockRobustSoftdrinks = caixa de reposição de bebida
     .desc = Um recipiente frio e pesado com cilindros gelados que se chocam. Utilize apenas conforme as instruções da Robust Industries, LLC.
-
 ent-VendingMachineRestockSecTech = Caixa de reposição de SecTech
     .desc = Cuidado, comunistas: o reforço chegou! Uma etiqueta diz PESSOAL DE SEGURANÇA APENAS.
-
 ent-VendingMachineRestockSalvageEquipment = Caixa de reposição do vendedor de resgate
     .desc = Ataque a terra antes que o peixe espacial morda seu traseiro! Esbarre em um vendedor de resíduos para começar.
-
 ent-VendingMachineRestockSeeds = Caixa de reposição de MegaSeed
     .desc = Uma etiqueta diz que são sementes de linhagem, passadas por nossos ancestrais. Coloque-as no Servidor de Sementes MegaSeed!
-
 ent-VendingMachineRestockSmokes = Caixa de reposição de ShadyCigs
     .desc = É difícil enxergar alguma coisa com todos os avisos do Departamento de Saúde, mas menciona carregá-lo em uma máquina de venda automática.
-
 ent-VendingMachineRestockTankDispenser = caixa de reposição do distribuidor de tanques
     .desc = Capaz de substituir tanques em um distribuidor de tanques de gás. Manipule com cuidado.
-
 ent-VendingMachineRestockVendomat = Caixa de reposição do Vendomat
     .desc = Uma caixa cheia de peças para várias máquinas. Carregue-a em um Vendomat para começar.
-
 ent-VendingMachineRestockRobotics = Caixa de reposição Robotech Deluxe
     .desc = Uma caixa cheia de ferramentas para criar borgs. Carregue-a em um Robotech Deluxe para começar.
-
 ent-VendingMachineRestockHappyHonk = Caixa de reposição do Happy Honk
     .desc = Coloque esta caixa cheia de diversão no slot de reposição do dispensador de Happy Honk para começar.
-
 ent-VendingMachineRestockChemVend = Caixa de reposição do ChemVend
     .desc = Uma caixa cheia de químicos e coberta com diamantes NFPA que parecem perigosos. Carregue-a em um ChemVend para começar.
-

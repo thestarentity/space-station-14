@@ -1,118 +1,68 @@
 ent-ClothingHeadHatHoodBioGeneral = capuz biológico
     .desc = Um capuz que protege a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodBioCmo = capuz biológico
     .desc = Um capuz avançado para chefes médicos que protege a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodBioJanitor = capuz biológico
     .desc = Um capuz que protege a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodBioScientist = capuz biológico
     .desc = Um capuz que protege a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodBioSecurity = capuz biológico
     .desc = Um capuz que protege a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodBioVirology = capuz biológico
     .desc = Um capuz que protege fortemente a cabeça e o rosto de contaminantes biológicos.
-
 ent-ClothingHeadHatHoodChaplainHood = capelo do pregador
     .desc = Máxima pietas neste sistema estelar.
-
 ent-ClothingHeadHatHoodCulthood = capuz de culto
     .desc = Não há culto sem capuzes de culto.
-
 ent-ClothingHeadHatHoodNunHood = véu de freira
     .desc = Máxima pietas neste sistema estelar.
-
 ent-ClothingHeadHatHoodRad = cabeça de proteção contra radiação
     .desc = Um capuz do traje de proteção contra radiação, projetado para proteção contra altos níveis de radioatividade.
-
 ent-ClothingHeadHatHoodGoliathCloak = capuz do manto goliath
     .desc = Uma capa de um manto goliath, feita da pele de fauna resistente de um planeta distante.
-
 ent-ClothingHeadHatHoodIan = ian hood
     .desc = Um capuz para completar o visual de 'Bom garoto'.
-
 ent-ClothingHeadHatHoodCarp = capuz de carp
     .desc = Um capuz feio adornado com dentes de peixe espacial de plástico.
-
 ent-ClothingHeadHatHoodMoth = máscara de moeda
     .desc = Uma máscara na forma de cabeça de moça geralmente é feita de materiais leves. Ela imita a forma da cabeça de uma moça com grandes olhos e antenas longas. Tais máscaras são frequentemente usadas em cosplay, ou quando se filma filmes e vídeos.
-
 ent-ClothingHeadHatHoodWinterDefault = default winter coat hood
-
 ent-ClothingHeadHatHoodWinterBartender = capuz do casaco de inverno do bartender
-
 ent-ClothingHeadHatHoodWinterCaptain = capuz do casaco de inverno do capitão
     .desc = Um capuz caro, para manter a cabeça do capitão aquecida.
-
 ent-ClothingHeadHatHoodWinterCargo = capuz de casaco de inverno
-
 ent-ClothingHeadHatHoodWinterCE = Capuz do casaco de inverno do engenheiro-chefe
-
 ent-ClothingHeadHatHoodWinterCentcom = Capuz do casaco de inverno do Comando Central
     .desc = Um capuz para manter a cabeça do comandante central aquecida.
-
 ent-ClothingHeadHatHoodWinterChem = capuz de casaco de inverno de químico
-
 ent-ClothingHeadHatHoodWinterCMO = capuz do casaco de inverno do chefe médico
-
 ent-ClothingHeadHatHoodWinterEngineer = capuz do casaco de inverno do engenheiro
-
 ent-ClothingHeadHatHoodWinterHOP = capuz do casaco de inverno do chefe de pessoal
-
 ent-ClothingHeadHatHoodWinterHOS = capuz do casaco de inverno do chefe de segurança
-
 ent-ClothingHeadHatHoodWinterHydro = capuz de casaco de hidroponia
-
 ent-ClothingHeadHatHoodWinterJani = capuz do casaco do zelador
-
 ent-ClothingHeadHatHoodWinterMed = capuz do casaco médico
-
 ent-ClothingHeadHatHoodWinterMime = capuz do casaco do mímico
-
 ent-ClothingHeadHatHoodWinterMiner = capuz de casaco de minerador
-
 ent-ClothingHeadHatHoodWinterPara = capuz do casaco do paramédico
-
 ent-ClothingHeadHatHoodWinterQM = capuz do casaco do comissário de abastecimento
-
 ent-ClothingHeadHatHoodWinterRD = capuz do casaco do diretor de pesquisa
-
 ent-ClothingHeadHatHoodWinterRobo = capuz de casaco de robótica
-
 ent-ClothingHeadHatHoodWinterSci = capuz de casaco científico
-
 ent-ClothingHeadHatHoodWinterSec = capuz de capa de segurança
-
 ent-ClothingHeadHatHoodWinterSyndie = capuz do casaco do sindicato
-
 ent-ClothingHeadHatHoodWinterWarden = capuz do casaco do carcereiro
-
 ent-ClothingHeadHatHoodWinterWeb = capuz de casaco de inverno
-
 ent-ClothingHeadHatHoodWinterColorBlack = capuz de casaco de inverno preto
-
 ent-ClothingHeadHatHoodWinterColorPurple = capuz de casaco de inverno roxo
-
 ent-ClothingHeadHatHoodWinterColorRed = capuz de casaco de inverno vermelho
-
 ent-ClothingHeadHatHoodWinterColorBlue = capuz de casaco de inverno azul
-
 ent-ClothingHeadHatHoodWinterColorBrown = capuz de casaco de inverno marrom
-
 ent-ClothingHeadHatHoodWinterColorGray = capuz de casaco de inverno cinza
-
 ent-ClothingHeadHatHoodWinterColorGreen = capuz de casaco de inverno verde
-
 ent-ClothingHeadHatHoodWinterColorLightBrown = capuz de casaco de inverno cor castanho claro
-
 ent-ClothingHeadHatHoodWinterColorOrange = capuz de casaco de inverno laranja
-
 ent-ClothingHeadHatHoodWinterColorWhite = capuz de casaco de inverno branco
-
 ent-ClothingHeadHatHoodWinterColorYellow = capuz de casaco de inverno amarelo
-
 ent-ClothingHeadHatHoodVoidCloak = capuz de capa do vácuo
     .desc = A capuz de um manto do vazio. Para aqueles que seguiram o lado sombrio da força.

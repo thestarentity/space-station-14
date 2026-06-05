@@ -44,7 +44,7 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s  %(message)s")
 log = logging.getLogger(__name__)
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-OLLAMA_URL = "http://localhost:11434/api/chat"
+OLLAMA_URL = "http://100.121.242.23:11434/api/chat"
 MODEL = "qwen3:14b"
 TIMEOUT = 120  # seconds per request
 

@@ -1,97 +1,65 @@
 ent-ActionScream = Grito
     .desc = AAAAAAAAAAAAAAAAAAAAAAAAA
-
 ent-ActionTurnUndead = Transformar em Zumbi
     .desc = Sujeite-se à sua infecção e torne-se um zumbi.
-
 ent-ActionToggleLight = Alternar Luz
     .desc = Ligue e desligue a luz.
-
 ent-ActionOpenStorageImplant = Alternar Implante de Armazenamento
     .desc = Abre ou fecha o implante de armazenamento embutido em sua pele
-
 ent-ActionActivateMicroBomb = Ativar Microbomba
     .desc = Ativa sua microbomba interna, destruindo completamente você e seu equipamento
-
 ent-ActionActivateDeathAcidifier = Ativar Acidificante da Morte
     .desc = Ativa seu acidificador de morte, fundindo completamente você e seu equipamento
-
 ent-ActionActivateFreedomImplant = Liberte-se
     .desc = Ativando seu implante de liberdade liberará você de quaisquer restrições manuais
-
 ent-ActionOpenUplinkImplant = Abrir Uplink
     .desc = Abre o uplink do sindicato embutido em sua pele
-
 ent-ActionActivateEmpImplant = Ativar EMP
     .desc = Ativa um pequeno pulso EMP ao seu redor
-
 ent-ActionActivateScramImplant = SCRAM!
     .desc = Teletransporta você aleatoriamente em uma grande distância.
-
 ent-ActionActivateDnaScramblerImplant = Embaralhar DNA
     .desc = Aleatoriamente muda seu nome e aparência.
-
 ent-ActionToggleSuitPiece = Alternar Peça de Uniforme
     .desc = Lembre-se de equipar as peças importantes do seu traje antes de entrar em ação.
-
-ent-ActionCombatModeToggle = Modo de Combate[/color]
+ent-ActionCombatModeToggle = [color=red]Modo de Combate[/color]
     .desc = Entrar no modo combate
-
 ent-ActionChangeVoiceMask = Definir nome
     .desc = Mude o nome que os outros ouvem para algo diferente.
-
 ent-ActionShootWater = Jogue água!
     .desc = Jogue água contra seus inimigos.
-
 ent-ActionVendingThrow = Entregar Item
     .desc = Dispense aleatoriamente um item do seu estoque.
-
 ent-ActionToggleBlock = Bloquear
     .desc = Erga ou abaixe seu escudo.
-
 ent-ActionClearNetworkLinkOverlays = Remover sobreposições de ligação de rede
     .desc = Remover sobreposições de ligação de rede.
-
 ent-ActionAnimalLayEgg = Botar ovo
     .desc = Usa fome para botar um ovo.
-
 ent-ActionSleep = Dormir
     .desc = Dormir.
-
 ent-ActionWake = Acordar
     .desc = Acordar.
-
 ent-ActionActivateHonkImplant = Honk
     .desc = Ativa seu implante de honk, que produzirá o som característico do palhaço.
-
 ent-ActionFireStarter = Acender
     .desc = Ignita inimigos em um raio ao seu redor.
-
 ent-ActionToggleEyes = Abra/Feche os olhos
     .desc = Feche os olhos para proteger seus olhos, ou abra-os para aproveitar as luzes bonitas.
-
 ent-ActionToggleWagging = Cauda balançando
     .desc = Comece ou pare de balançar sua cauda.
-
 ent-FakeMindShieldToggleAction = [color=green]Alternar Camada Mental Falsa[/color]
     .desc = Ative/desative a transmissão do implante de Mindshield Falso
-
 ent-ActionToggleParamedicSiren = Ativar/Desativar Sirene do Paramédico
     .desc = Ativa e desativa a sirene do paramédico.
-
 ent-ActionGravityJump = Pular
     .desc = Ativando o sistema de propulsão avançado, você impulsiona-se uma curta distância na direção do seu olhar.
-
 ent-ActionJumpBoost = Impulso de salto
-
 ent-ActionVulpkaninGravityJump = Pular
     .desc = Use suas ágeis pernas para saltar uma curta distância. Cuidado para não esbarrar em nada!
-
 ent-ActionToggleRootable = Toggle Rootable
     .desc = Comece ou pare de estar fixado ao chão.
-
 ent-ActionChameleonController = Controle roupas
     .desc = Mude seu completo de roupa rapidamente!
-
 ent-ActionIntrinsicStore = Loja
     .desc = Abre a loja

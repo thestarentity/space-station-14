@@ -1,17 +1,12 @@
 ent-ClothingOuterHardsuitEVA = Traje EVA
     .desc = Um traje espacial leve com a capacidade básica de proteger o usuário do vácuo do espaço durante emergências.
-
 ent-ClothingOuterEVASuitSyndicate = traje EVA do Sindicato
     .desc = Tem uma etiqueta na parte de trás que diz: 'Totalmente não é propriedade de uma corporação inimiga, honestamente!'
-
 ent-ClothingOuterSuitEmergency = emergência EVA
     .desc = Um traje de EVA de emergência com capacete integrado. É horrivelmente lento e carece de proteção térmica, mas é suficiente para lhe dar tempo contra o vácuo hostil do espaço.
-
 ent-ClothingOuterHardsuitEVAPrisoner = traje EVA de preso
     .desc = Um traje de EVA de emergência destinado a presos. É horrivelmente lento e carece de proteção contra temperaturas extremas, mas é suficiente para lhe dar tempo contra o vácuo hostil do espaço.
-
-ent-ClothingOuterHardsuitAncientEVA = Vestuário de vazio da NTSRA
+ent-ClothingOuterHardsuitAncientEVA = Vestuário de EVA Antigo da NTSRA
     .desc = Um traje espacial antigo, projetado pela filial da NTSRA do Comando Central. Ele é muito bem feito, permitindo uma mobilidade maior do que a maioria dos trajes espaciais modernos.
-
 ent-ClothingOuterHardsuitVoidParamed = maca de vazio
     .desc = Um traje de vazio feito para paramédicos.

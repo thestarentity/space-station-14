@@ -23,16 +23,16 @@ traitor-death-match-end-round-description-entry = { $originalName }, com { $tcBa
 
 # TraitorRole
 traitor-role-greeting =
-    Você é um agente enviado por [color = darkred]O Sindicato[/color] em nome de { $corporation }.
+    Você é um agente enviado por [color=darkred]O Sindicato[/color] em nome de { $corporation }.
     Seus objetivos e palavras-código estão listados no menu de personagem. Use seu uplink para comprar as ferramentas que você precisará para esta missão.
     Morte a Nanotrasen!
 traitor-role-codewords =
-    As palavras-chave são: [color = lightgray]
+    As palavras-chave são: [color=lightgray]
     { $codewords }.[/color]
     As palavras-chave podem ser usadas em conversas normais para se identificar discretamente a outros agentes do sindicato.
     Escute por elas e mantenha-as em segredo.
 traitor-role-uplink-code =
-    Defina o toque de seu anel para as notas [color = lightgray]{ $code }[/color] para bloquear ou desbloquear seu uplink.
+    Defina o toque de seu anel para as notas [color=lightgray]{ $code }[/color] para bloquear ou desbloquear seu uplink.
     Lembre-se de bloqueá-lo depois, ou a tripulação da estação pode encontrá-lo!
 traitor-role-uplink-implant =
     O implante de uplink foi ativado, acesse-o a partir de sua barra de atalhos.

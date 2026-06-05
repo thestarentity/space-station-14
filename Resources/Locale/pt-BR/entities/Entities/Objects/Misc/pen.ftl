@@ -1,21 +1,14 @@
 ent-Pen = caneta
     .desc = Uma caneta de tinta escura.
-
 ent-LuxuryPen = caneta de luxo
     .desc = Uma caneta elegante e cara que você só merece possuir se for qualificado para lidar com grandes quantidades de papelada.
-
 ent-CyberPen = Caneta Cybersun
     .desc = Uma caneta de alta tecnologia diretamente do departamento jurídico da Cybersun, capaz de refratar luz dura em ângulos impossíveis através de sua ponta de diamante para escrever. Tão poderosa que é capaz de reescrever documentos oficialmente carimbados, caso seja necessário.
-
 ent-PenCentcom = Caneta da CentCom
     .desc = Tentando acompanhar a "potência" da burocracia do sol cibernético, a Nanotrasen fez uma réplica da caneta cibernética, em seu estilo corporativo.
-
 ent-PenCap = caneta de tinta do capitão
     .desc = Uma caneta de tinta de luxo para o capitão da estação.
-
 ent-PenHop = Caneta de tinta da HoP
     .desc = Uma caneta de tinta luxuosa para o HoP da estação.
-
 ent-PenWiz = caneta mágica do feiticeiro
     .desc = Uma caneta de tinta luxuosa. Parece ter um apagador mágico de cristal.
-

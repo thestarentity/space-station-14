@@ -1,105 +1,67 @@
 ent-ClothingOuterCoatBomber = jaqueta de aviador
     .desc = Um casaco de aviador de couro bem desgastado da Segunda Guerra Mundial.
-
 ent-ClothingOuterCoatDetective = casaco de inspetor armado
     .desc = Um casaco de trench do século XX com uma camada interna blindada. Alguém que usa isso está sério mesmo.
-
 ent-ClothingOuterCoatDetectiveLoadoutGrey = capa de trenchcoats armados cinza
     .desc = Ah, seu casaco confiável. Há algumas rasgões aqui e ali, dando-lhe uma aparência mais... oportuna. Ou pelo menos, é isso que você contou a si mesmo quando descobriu que consertá-lo custaria 200 spesos.
-
 ent-ClothingOuterCoatGentle = colete suave
     .desc = Um casaco gentil para um homem, ou mulher gentil.
-
 ent-ClothingOuterCoatHoSTrench = Capa de chuva armada do chefe de segurança
     .desc = Um sobretudo reforçado com uma liga especial para mais proteção e estilo, ideal para quem possui uma presença comandante.
-
 ent-ClothingOuterCoatJensen = jaqueta jensen
     .desc = Um casaco jensen.
-
 ent-ClothingOuterCoatTrench = capa de chuva
     .desc = Um casaco de trench confortável.
-
 ent-ClothingOuterCoatLab = colete laboratorial
     .desc = Um traje que protege contra pequenos derramamentos químicos.
-
 ent-ClothingOuterCoatLabOpened = colete laboratorial
-
 ent-ClothingOuterCoatLabChem = colete de laboratório de químico
     .desc = Um traje que protege contra vazamentos químicos leves. Possui uma faixa laranja no ombro.
-
 ent-ClothingOuterCoatLabChemOpened = colete de laboratório de químico
-
 ent-ClothingOuterCoatLabViro = colete de laboratório de virologista
     .desc = Um traje que protege contra bactérias e vírus. Possui uma faixa verde no ombro.
-
 ent-ClothingOuterCoatLabViroOpened = colete de laboratório de virologista
-
 ent-ClothingOuterCoatLabGene = casaco de laboratório de geneticista
     .desc = Um traje que protege contra pequenos derramamentos químicos. Possui uma faixa azul no ombro.
-
 ent-ClothingOuterCoatLabGeneOpened = casaco de laboratório de geneticista
-
 ent-ClothingOuterCoatLabCmo = Colete de Laboratório do Chefe Médico
     .desc = Colete de laboratório azul personalizado para o Chefe Médico, oferece proteção aprimorada contra derramamentos químicos e cortes leves.
-
 ent-ClothingOuterCoatLabCmoOpened = Colete de Laboratório do Chefe Médico
-
 ent-ClothingOuterCoatRnd = casaco de laboratório de cientista
     .desc = Um traje que protege contra vazamentos químicos leves. Possui uma faixa violeta no ombro.
-
 ent-ClothingOuterCoatRndOpened = casaco de laboratório de cientista
-
-ent-ClothingOuterCoatRobo = casaco de laboratório robótico
+ent-ClothingOuterCoatRobo = Casaco de Laboratório Robótico
     .desc = Mais parecido com um casaco excêntrico do que com um jaleco. Ajuda a passar manchas de sangue como parte do estilo. Vem com ombreiras vermelhas.
-
 ent-ClothingOuterCoatRoboOpened = casaco de laboratório robótico
-
-ent-ClothingOuterCoatRD = colete de laboratório do diretor de pesquisa
-    .desc = Te tecido com a tecnologia mais avançada, este jaleco ajuda a proteger contra radiação de forma semelhante à do traje experimental de proteção.
-
+ent-ClothingOuterCoatRD = Colete de Laboratório do Diretor de Pesquisa
+    .desc = O tecido com a tecnologia mais avançada, este jaleco ajuda a proteger contra radiação de forma semelhante à do traje experimental de proteção.
 ent-ClothingOuterCoatRDOpened = colete de laboratório do diretor de pesquisa
-
 ent-ClothingOuterCoatPirate = roupa de pirata
     .desc = Yarr.
-
 ent-ClothingOuterCoatWarden = jaqueta armada do carcereiro
     .desc = Um casaco resistente e utilitário, projetado para proteger um guardião de qualquer ameaça que possa surgir na cela.
-
 ent-ClothingOuterDameDane = casaco yakuza
     .desc = Quinta-feira...
-
 ent-ClothingOuterClownPriest = capa da honkmother
     .desc = Feito para um palhaço da religião.
-
 ent-ClothingOuterDogi = dogi samurai
     .desc = Vestido tradicional japonês chamado dogi, feito de tecido pesado e durável, prático para combate e elegante em aparência. É decorado com padrões e bordados intricados nas costas.
-
 ent-ClothingOuterCoatParamedicWB = jaqueta de vento do paramédico
     .desc = Um casaco de vento confiável de um paramédico, para todos os ventos espaciais.
-
 ent-ClothingOuterCoatSyndieCap = Capa do Sindicato
     .desc = O casaco da sindicato é feito de tecido durável, com padrões dourados.
-
 ent-ClothingOuterCoatSyndieCapArmored = Capa Armadurada do Sindicato
     .desc = A capa armada da sindicato é feita de tecido durável, com padrões dourados.
-
 ent-ClothingOuterCoatAMG = veste médica blindada
     .desc = A versão da bata médica, com elementos de um colete à prova de balas, parece estranha, mas seu coração está protegido.
-
 ent-ClothingOuterCoatLabSeniorResearcher = colete de laboratório de pesquisador sênior
     .desc = Um traje que protege contra vazamentos químicos leves. Possui um colar e bordas nos pulsos na cor violeta.
-
 ent-ClothingOuterCoatLabSeniorResearcherOpened = colete de laboratório de pesquisador sênior
-
 ent-ClothingOuterCoatLabSeniorPhysician = colete de laboratório do médico sênior
     .desc = Um traje que protege contra pequenos derramamentos químicos. Possui mangas de cor azul claro e uma cintura laranja.
-
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = colete de laboratório do médico sênior
-
 ent-ClothingOuterCoatSpaceAsshole = o casaco do trouxa do espaço
     .desc = E lá estava ele...
-
 ent-ClothingOuterCoatExpensive = paletó caro
     .desc = Casaco rosa muito fofo, feito com pelo muito caro (claro).
-
 ent-ClothingOuterCoatExpensiveOpened = paletó caro

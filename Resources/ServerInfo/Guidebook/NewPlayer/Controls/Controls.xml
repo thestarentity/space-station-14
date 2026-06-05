@@ -61,12 +61,12 @@ Preste atenção à sua mão ativa ao interagir com o mundo para evitar usar aci
 [bold]Itens não podem ser transferidos arrastando e soltando.[/bold]
 
   ### Soltar e arremessar
-Use [color=yellow][bold][keybind="Drop"][/bold][/color] to [color=cyan]drop[/color] (or place) an item from your hand within arm's reach.
+Use [color=yellow][bold][keybind="Drop"][/bold][/color] para [color=cyan]soltar[/color] (ou colocar) um item da sua mão ao alcance do braço.
 Jogue itens para o seu cursor com [color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color].
 
   ### Puxando e empurrando
 Você pode puxar [bold]entidades[/bold] movíveis — itens, objetos e mobs como jogadores, desde que tenha uma mão vazia.
-- Use [color=yellow][bold][keybind="TryPullObject"][/bold][/color] to start [color=cyan]puxar[/color].
+- Use [color=yellow][bold][keybind="TryPullObject"][/bold][/color] para iniciar [color=cyan]puxar[/color].
 - [color=cyan]Empurre[/color] entidades puxadas para o seu cursor com [color=yellow][bold][keybind="MovePulledObject"][/bold][/color].
 - Para [color=cyan]liberar[/color], pressione [color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color] ou puxe a mesma entidade novamente.
 
@@ -100,7 +100,7 @@ Você pode simplesmente realizar interações com itens em mãos clicando em [co
   ### Clique e arraste
 Você pode "usar" uma entidade em outra entidade arrastando uma para cima da outra com [color=yellow][bold][keybind="Use"][/bold][/color]. (Não confundir com [italic]puxar[/italic].)
 
-Use it to: Use-o para:
+Use-o para:
 [color=cyan]Colocar[/color] ou forçar um mob (jogador ou NPC) em uma cadeira, cama, em um criopod, unidade de descarte, etc.
 
 Suba [color=cyan]em cima[/color] de uma mesa — você também pode clicar [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] na mesa.

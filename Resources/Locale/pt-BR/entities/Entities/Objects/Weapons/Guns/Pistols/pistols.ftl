@@ -1,14 +1,10 @@
 ent-WeaponPistolViper = Víbora
     .desc = Um revólver comum ilegalmente modificado pelo Sindicato. O Viper possui um seletor entre semi-automático e ‘rock and roll’. O lado armado padrão para qualquer soldado que lute sob as três serpentes. Utiliza munições de revólver .35.
-
 ent-WeaponPistolEchis = Pistola Echis
     .desc = Um sistema de arma montado em cyborg baseado na pistola Viper. Cria munição no momento a partir de um fabricador interno, que se carrega lentamente sozinho.
-
 ent-WeaponPistolCobra = cobra
     .desc = Pistola semi-automática integralmente suprimida usada pelo Sindicato, que dispara munições subsônicas caseless. Favorita por qualquer agente que gosta de manter as coisas em silêncio e deixar evidências para trás. Alimentada por munições de pistola .25.
-
 ent-WeaponPistolMk58 = Pistola Mk 58
     .desc = Desenvolvida pela Divisão de Armas Leves da Nanotrasen, a Mk58 é uma pistola semi-automática convencional com uma simples ação operada por recuo e excelente confiabilidade. A arma padrão dos oficiais de segurança e equipes de resposta de emergência da Nanotrasen. Utiliza munições de pistola .35.
-
 ent-WeaponPistolN1984 = Pistola N1984
-    .desc = Uma arma extremamente poderosa, uma ‘cannoneta de mão’ projetada como parte do programa BFG da Nanotrasen. Calibrada para .45, a calibre do senhor, geralmente considerada muito difícil de usar para emprego padrão, mas tornou-se algo de um símbolo de status entre oficiais da Nanotrasen. Utiliza munições de pistola .45.
+    .desc = Uma arma extremamente poderosa, uma ‘cannoneta de mão’ projetada como parte do programa BFG da Nanotrasen. Calibrada para .45, o calibre do senhor, geralmente considerado muito difícil de usar para emprego padrão, mas tornou-se algo de um símbolo de status entre oficiais da Nanotrasen. Utiliza munições de pistola .45.

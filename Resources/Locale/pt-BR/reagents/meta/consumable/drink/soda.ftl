@@ -35,4 +35,4 @@ reagent-desc-starkist = Um refresco doce com sabor laranja.
 reagent-name-fourteen-loko = Quatorze Loko
 reagent-desc-fourteen-loko = Um líquido altamente processado, que mal passa pelos padrões de saúde interestelares para um refrigerante.
 reagent-name-shamblers-juice = Suco dos Shambler
-reagent-desc-shamblers-juice = ~Shake me up some of that Shambler's Juice!~
+reagent-desc-shamblers-juice = ~Me prepara um daquele Suco dos Shambler!~

@@ -32,7 +32,7 @@ ent-ClothingShoesBootsWinterMed = botas de inverno médicas
 
 ent-ClothingShoesBootsWinterSci = botas de inverno científicas
 
-ent-ClothingShoesBootsWinterSec = botas de inverno de segurança ⟦0⟧
+ent-ClothingShoesBootsWinterSec = botas de inverno de segurança
 
 ent-ClothingShoesBootsWinterSyndicate = botas de inverno do sindicato
     .desc = Botas pesadas duráveis, parecem mercadoria da "Syndieland".

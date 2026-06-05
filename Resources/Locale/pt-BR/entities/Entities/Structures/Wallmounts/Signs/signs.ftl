@@ -1,467 +1,312 @@
 ent-PaintingMonkey = macaco pintando
     .desc = Volte ao macaco.
-
 ent-SignDirectionalAtmos = sinal de atmosfera
     .desc = Um sinal de direção, indicando para onde está o departamento de Atmosfera.
-
 ent-SignDirectionalBar = sinal da barra
     .desc = Um sinal de direção, indicando para onde o bar está.
-
 ent-SignDirectionalBridge = Sinal da ponte de comando
     .desc = Um sinal de direção, indicando para onde fica a Ponte de Comando.
-
 ent-SignDirectionalBrig = Sinal de direção da cela
     .desc = Um sinal de direção, indicando para onde fica a Brig.
-
 ent-SignDirectionalChapel = Sinal da Capela
     .desc = Um sinal de direção, indicando para onde fica a Capela.
-
 ent-SignDirectionalChemistry = Sinal de Química
     .desc = Um sinal de direção, indicando para onde fica o laboratório de química.
-
 ent-SignDirectionalCryo = sinal de criogenia
     .desc = Um sinal de direção, indicando o caminho para criogenia.
-
 ent-SignDirectionalDorms = Dormitórios
     .desc = Um sinal de direção, indicando para onde estão os dormitórios.
-
 ent-SignDirectionalEng = Sinal de Engenharia
     .desc = Um sinal de direção, indicando para onde está o departamento de Engenharia.
-
 ent-SignDirectionalEvac = sinal de evacuação
     .desc = Um sinal de direção, indicando para onde está a evacuação.
-
 ent-SignDirectionalExam = Exame de Direção
     .desc = Um sinal de direção, indicando para onde está(o estão) o(s) quarto(s) de exames.
-
 ent-SignDirectionalFood = Sinal de Alimento
     .desc = Um sinal de direção, indicando para onde fica a cozinha.
-
 ent-SignDirectionalGravity = sinal de gravidade
     .desc = Um sinal de direção, indicando para onde está o gerador de gravidade.
-
 ent-SignDirectionalHop = sinal de pulo
     .desc = Um sinal de direção, indicando para onde fica o escritório do Chefe de Pessoal.
-
 ent-SignDirectionalHydro = Sinal de hidráulica
     .desc = Um sinal de direção, indicando para onde está a horticultura.
-
 ent-SignDirectionalIcu = Sinal de ICU
     .desc = Um sinal de direção, indicando para onde fica a UTI.
-
 ent-SignDirectionalJanitor = Sinal do zelador
     .desc = Um sinal de direção, indicando para onde fica o armário do zelador.
-
 ent-SignDirectionalLibrary = sinal de biblioteca
     .desc = Um sinal de direção, indicando para onde fica a biblioteca.
-
 ent-SignDirectionalMed = Sinal Médico
     .desc = Um sinal de direção, indicando para onde está o departamento médico.
-
 ent-SignDirectionalSalvage = sinal de resgate
     .desc = Um sinal de direção, indicando para onde está o departamento de resgates.
-
 ent-SignDirectionalSci = sinal de ciência
     .desc = Um sinal de direção, indicando para onde está o departamento de Ciências.
-
 ent-SignDirectionalSec = sinal de segurança
     .desc = Um sinal de direção, indicando para onde está a Segurança.
-
 ent-SignDirectionalSolar = solars sign
     .desc = Um sinal de direção, indicando para onde estão os painéis solares.
-
 ent-SignDirectionalSupply = sinal de suprimento
     .desc = Um sinal de direção, apontando para algumas provisões.
-
 ent-SignDirectionalWash = Sinal de banheiro
     .desc = Um sinal de direção, apontando para o caminho até um banheiro.
-
 ent-SignDirectionalEscapePod = Sinal de módulos de escape
     .desc = Sinal de direção, indicando o caminho para o dock de módulos de escape.
-
 ent-SignAi = sinal de AI
     .desc = Um sinal indicando que uma IA está presente.
-
 ent-SignAiUpload = Assinatura de upload de AI
     .desc = Um sinal indicando que uma IA está presente.
-
 ent-SignArcade = Bem-vindo ao Arcade!
     .desc = Um sinal indicando o arcade.
-
 ent-SignArmory = Bem-vindo à Armadilha de Armas da Nanotrasen. Todos os tripulantes devem seguir as regras de segurança e manter o equipamento em ordem. A violação das regras resultará em ações disciplinares.
     .desc = Um sinal indicando a armaria.
-
 ent-SignArrivals = sinal de chegadas
     .desc = Um sinal indicando onde o shuttle de Chegadas atracará.
-
 ent-SignToolStorage = sinal de armazenamento de ferramentas
     .desc = Um sinal indicando a sala de armazenamento de ferramentas.
-
 ent-SignAnomaly = Laboratório de Arqueologia Xenológica
     .desc = Um sinal indicando o laboratório de xenodigologia.
-
 ent-SignAnomaly2 = Laboratório de Anomalias
     .desc = Um sinal indicando o laboratório de pesquisa anômalo.
-
 ent-SignAtmos = sinal de atmosfera
     .desc = Um sinal indicando a área de atmosfera.
-
 ent-SignBar = sinal da barra
     .desc = Um sinal indicando o bar.
-
 ent-SignBath = Sinal de banheiro
     .desc = Um sinal indicando o banheiro.
-
 ent-SignKitchen = Sinal de cozinha
     .desc = O coração da casa. E da doença.
-
 ent-SignTheater = Sinal de teatro
     .desc = Seria mesmo a Estação Espacial sem drama?
-
 ent-SignBarbershop = Corte de cabelo para tripulantes e visitantes!
     .desc = Um sinal indicando o barbearia.
-
 ent-SignBio = Assinatura de bio
     .desc = Um sinal indicando o laboratório de biologia.
-
 ent-SignBiohazard = Sinal de risco biológico
     .desc = Um sinal indicando um perigo biológico.
-
 ent-SignBridge = Sinal da ponte de comando
     .desc = Um sinal indicando a ponte de comando.
-
 ent-SignCanisters = sinal de cilindros
     .desc = Um sinal de aviso para o espectador sobre cilindros pressurizados.
-
 ent-SignCargo = sinal de carga
     .desc = Um sinal indicando a área de carga.
-
 ent-SignCargoDock = Sinal de Docas de Carga
     .desc = Um sinal indicando um dock de carga.
-
 ent-SignChapel = Sinal da Capela
     .desc = Um sinal indicando a capela.
-
 ent-SignChem = Sinal de Química
     .desc = Um sinal indicando o laboratório de química.
-
 ent-SignCloning = sinal de clonagem
     .desc = Um sinal indicando o laboratório de clonagem.
-
 ent-SignConference = Sala de Conferência
     .desc = Onde o trabalho acontece.
-
 ent-SignCryo = Sinal de Hibernação
     .desc = Exatamente assim? Você vai desistir?
-
 ent-SignDisposalSpace = sinal de descarte
     .desc = Um sinal indicando uma área de descarte.
-
 ent-SignDoors = sinal de portas
     .desc = Um sinal indicando portas.
-
 ent-SignRestroom = Banheiro
     .desc = Um sinal indicando onde você vai... O que você faz aqui de novo?
-
 ent-SignMaterials = Materiais
     .desc = Um presságio para o tesouro suculento de aço, vidro e plástico que se encontra diante de você.
-
 ent-SignEngine = sinal de energia
     .desc = Onde a powa acontece.
-
 ent-SignEngineering = Sinal de Engenharia
     .desc = Um sinal indicando a área de engenharia.
-
 ent-SignEscapePods = Sinal de módulos de escape
     .desc = Um sinal indicando os módulos de escape.
-
 ent-SignEVA = Sinal de EVA
     .desc = Um sinal indicando uma área de EVA. Equipamento de EVA pode ser necessário além deste ponto.
-
 ent-SignElectrical = sinal elétrico
     .desc = Um sinal indicando um perigo elétrico.
-
 ent-SignExamroom = Sala de Exames
     .desc = Um sinal indicando uma sala de exames médicos.
-
 ent-SignFire = sinal de fogo
     .desc = Um sinal indicando perigo de incêndio.
-
 ent-SignGravity = sinal de gravidade
     .desc = Um sinal indicando o gerador de gravidade.
-
 ent-SignHead = sinal de cabeça
     .desc = Um sinal oficial indicando as residências de um chefe de departamento certificado pela Nanotrasen.
-
 ent-SignHydro1 = Sinal de hidráulica
     .desc = Um sinal indicando uma área de hidroponia.
-
 ent-SignInterrogation = sinal de interrogatório
     .desc = Um sinal indicando uma sala de interrogatório.
-
 ent-SignJanitor = Sinal do zelador
     .desc = Sinal indicando uma área onde o zelador trabalha.
-
 ent-SignLaundromat = Sinal de lavanderia
     .desc = Um sinal indicando a lavanderia.
-
 ent-SignLawyer = Assinatura de lei
     .desc = Um sinal indicando a presença da (normalmente ausente) regra de lei.
-
 ent-SignLibrary = sinal de biblioteca
     .desc = Um sinal indicando a biblioteca.
-
 ent-SignMail = assinatura de e-mail
     .desc = Um sinal indicando correio.
-
 ent-SignMedical = Estação Espacial
     .desc = Um sinal indicando a enfermaria médica.
-
 ent-SignMorgue = Sinal da Morgue
     .desc = Um sinal indicando a morgue.
-
 ent-SignNews = sinal de notícias
     .desc = Um sinal indicando onde o Repórter trabalha.
-
 ent-SignNosmoking = sinal de proibido fumar
     .desc = Um sinal indicando que fumar não é permitido nas proximidades.
-
 ent-SignGenpop = Sinal de Genpop
     .desc = Um sinal indicando a prisão da genpop.
-
 ent-SignPrison = Sinal de prisão
     .desc = Um sinal indicando a prisão.
-
 ent-SignPsychology = sinal de psicologia
     .desc = Laboratório de Psicologia
-
 ent-SignReception = Sinal de recepção
     .desc = Um sinal indicando a recepção.
-
 ent-SignRND = Sinal de Pesquisa e Desenvolvimento
     .desc = Um sinal indicando o laboratório de pesquisa e desenvolvimento.
-
 ent-SignRobo = Assinatura do robô
     .desc = Um sinal indicando o laboratório de robótica.
-
 ent-SignSalvage = sinal de resgate
     .desc = Um sinal indicando a área de resgate.
-
 ent-SignScience = sinal de ciência
     .desc = Um sinal indicando a área de ciências.
-
 ent-SignServer = sinal do servidor
     .desc = Já ouviu falar em Big Data? É isso aqui, cara. O maior de todos.
-
 ent-SignCans = sinal de cilindros
     .desc = Um sinal indicando a presença auspiciosa de cilindros de gás.
-
 ent-SignShipDock = sinal de evacuação
     .desc = Um sinal indicando onde o shuttle de evacuação provavelmente chegará.
-
 ent-SignSpace = sinal de espaço
     .desc = Um sinal de aviso indicando que a área à frente não é nada mais que espaço frio e vazio.
-
 ent-SignSurgery = Sinal de cirurgia
     .desc = Um sinal indicando a sala de operações.
-
 ent-SignTelecomms = Assinatura de telecomunicações
     .desc = Um sinal indicando a sala de telecomunicações.
-
 ent-SignToxins = sinal de toxinas
     .desc = Um sinal indicando o laboratório de toxinas.
-
 ent-SignVault = Assinatura do cofre
     .desc = Um sinal indicando o cofre. Quem sabe quais segredos estão dentro?
-
 ent-SignVirology = Virologia
     .desc = Um sinal indicando o laboratório de virologia.
-
 ent-SignCorrosives = Sinal de aviso de corrosivos
     .desc = Um sinal indicando perigo de materiais corrosivos.
-
 ent-SignCryogenics = Aviso de criogenia
     .desc = Um sinal indicando perigo com materiais criogênicos. Leve um casaco!
-
 ent-SignDanger = Perigo!
     .desc = Um sinal de aviso contra algum perigo.
-
 ent-SignExplosives = Sinal de aviso de explosivos
     .desc = Um sinal indicando perigo com materiais explosivos.
-
 ent-SignFlammable = Sinal de aviso de inflamável
     .desc = Um sinal indicando um perigo de materiais inflamáveis.
-
 ent-SignLaser = sinal de aviso de laser
     .desc = Um sinal indicando um perigo de laser.
-
 ent-SignMagnetics = sinal de aviso de magnéticos
     .desc = Um sinal indicando perigo com materiais magnéticos.
-
 ent-SignMemetic = sinal de aviso memético
     .desc = Um sinal indicando um perigo memético.
-
 ent-SignSecure = sinal de segurança
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignSecurearea = Área Segura
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignShock = sinal de choque
     .desc = Um sinal indicando um perigo elétrico.
-
 ent-SignOptical = sinal de aviso óptico
     .desc = Um sinal indicando um perigo de radiação óptica.
-
 ent-SignOxidants = sinal de aviso de oxidantes
     .desc = Um sinal indicando perigo de agente oxidante.
-
 ent-SignRadiation = sinal de aviso de radiação
     .desc = Um sinal indicando perigo de radiação ionizante.
-
 ent-SignXenobio = Sinal de Xenobiologia
     .desc = Um sinal indicando o laboratório de xenobiologia.
-
 ent-SignZomlab = Laboratório de Zumbis
     .desc = Os últimos vestígios de um projeto de pesquisa Nanotrasen desativado que tinha como objetivo aproveitar as forças do Romerol. Eu me pergunto como isso terminou...
-
 ent-SignSecureMedRed = sinal de segurança vermelho
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignSecureSmall = Sinal de Segurança Pequeno
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignSecureSmallRed = sinal vermelho pequeno e seguro
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignBlankMed = sinal em branco
     .desc = Um sinal em branco.
-
 ent-SignMagneticsMed = sinal de magnetismo
     .desc = Um sinal indicando o uso de ímãs.
-
 ent-SignDangerMed = sinal de perigo
     .desc = Um sinal de aviso contra algum tipo de perigo.
-
 ent-ExplosivesSignMed = sinal de explosivos
     .desc = Um sinal indicando materiais explosivos.
-
 ent-SignCryogenicsMed = Cryogenics
     .desc = Um sinal indicando materiais criogênicos.
-
 ent-SignElectricalMed = sinal elétrico
     .desc = Um sinal indicando um perigo elétrico.
-
 ent-SignBiohazardMed = Sinal de risco biológico
     .desc = Um sinal indicando um perigo biológico.
-
 ent-SignRadiationMed = Sinal de radiação
     .desc = Um sinal indicando perigo de radiação ionizante.
-
 ent-SignFlammableMed = sinal de inflamável
     .desc = Um sinal indicando materiais inflamáveis.
-
 ent-SignLaserMed = sinal de laser
     .desc = Um sinal indicando um perigo de laser.
-
 ent-SignSecureMed = sinal de segurança
     .desc = Um sinal indicando que a área à frente é uma área segura.
-
 ent-SignVox = sinal da área vox
     .desc = Um sinal indicando que a área à frente é destinada a tripulantes Vox e não possui atmosfera com oxigênio.
-
 ent-WarningAir = Sinal de aviso de ar
     .desc = AVISO! Tubo de fluxo de ar. Certifique-se de que o fluxo está desativado antes de trabalhar.
-
 ent-WarningCO2 = Aviso de CO₂
     .desc = AVISO! Tubulação de fluxo de CO2. Certifique-se de que o fluxo esteja desativado antes de trabalhar.
-
 ent-WarningN2 = Sinal de aviso de N2
     .desc = AVISO! Tubulação de fluxo de N2. Certifique-se de que o fluxo está desativado antes de trabalhar.
-
 ent-WarningN2O = Sinal de aviso de N2O
     .desc = AVISO! Tubulação de fluxo de N2O. Certifique-se de que o fluxo está desativado antes de trabalhar.
-
 ent-WarningO2 = Sinal de aviso de O2
     .desc = AVISO! Tubulação de fluxo de O2. Certifique-se de que o fluxo esteja desativado antes de trabalhar.
-
 ent-WarningPlasma = Sinal de resíduos de plasma
     .desc = AVISO! Tubulação de fluxo de plasma. Certifique-se de que o fluxo esteja desativado antes de trabalhar.
-
 ent-WarningTritium = Sinal de resíduos de trítio
     .desc = AVISO! Tubulação de trítio. Certifique-se de que o fluxo está desativado antes de trabalhar.
-
 ent-WarningWaste = Sinal de Esgoto Atmosférico
     .desc = AVISO! Tubulação de fluxo de resíduos. Certifique-se de que o fluxo esteja desativado antes de trabalhar.
-
 ent-SignSmoking = sinal de proibido fumar
     .desc = Um sinal de aviso que diz 'NÃO FUMAR'
-
 ent-SignSomethingOld = sinal antigo
     .desc = Informação técnica de algum tipo, pena que está muito desgastada para ser lida.
-
 ent-SignSomethingOld2 = sinal antigo
     .desc = Parece um planeta se esmagando contra alguma estação acima dele. É um pouco assustador.
-
 ent-SignSecurity = Sinal de Segurança
     .desc = Um sinal que representa o emblema de segurança.
-
 ent-SignDetective = sinal do detetive
     .desc = Um sinal indicando o escritório do detetive.
-
 ent-SignPlaque = placa dourada
     .desc = Uma placa dourada prestigiada.
-
 ent-SignKiddiePlaque = placa infantil
     .desc = Um placado modesto.
-
 ent-SignNanotrasen1 = Nanotrasen, Líder em Tecnologia Espacial
     .desc = Agora você pode assinar documentos oficiais da Nanotrasen.
-
 ent-SignNanotrasen2 = Nanotrasen é uma empresa líder em tecnologia espacial e inovação, comprometida com a exploração segura e responsável do universo.
     .desc = Agora, você precisa assinar o contrato de emprego da Nanotrasen. Isso é um passo importante para se tornar um membro oficial da Estação Espacial. Certifique-se de ler todos os termos e condições cuidadosamente antes de assinar. Se você tiver alguma dúvida, consulte o Chefe de Pessoal.
-
 ent-SignNanotrasen3 = Nanotrasen é uma empresa líder em tecnologia espacial e inovação, comprometida com a exploração segura e responsável do universo.
     .desc = Agora, você deve assinar o contrato de emprego da Nanotrasen. Isso é necessário para que você possa trabalhar na Estação Espacial. Você tem 30 segundos para assinar. Se você não assinar, será expulso da estação.
-
 ent-SignNanotrasen4 = Nanotrasen é uma empresa líder em tecnologia espacial e inovação, comprometida com a exploração segura e responsável do universo.
     .desc = Agora, você precisa assinar o contrato de emprego da Nanotrasen. Isso é uma formalidade, mas é importante que você leia os termos e condições antes de assinar. Se você tiver alguma dúvida, pode perguntar ao Capitão ou ao Chefe de Pessoal. Após assinar, você será oficialmente um tripulante da Estação Espacial. Boa sorte!
-
 ent-SignNanotrasen5 = Nanotrasen é uma empresa líder em tecnologia espacial e inovação, comprometida com a exploração segura e responsável do universo.
     .desc = Agora, você deve assinar o contrato de emprego da Nanotrasen. Isso é obrigatório para todos os novos membros da tripulação. Você pode encontrar o contrato no terminal ao lado. Leia-o cuidadosamente antes de assinar. Após assinar, você será oficialmente um membro da tripulação da Estação Espacial. Boa sorte!
-
 ent-SignRedOne = um sinal
     .desc = Um sinal com um dígito, o número um está escrito nele.
-
 ent-SignRedTwo = Sinal Vermelho
     .desc = Um sinal com o dígito dois escrito nele.
-
 ent-SignRedThree = sinal vermelho três
     .desc = Um sinal com um dígito, o número três está escrito nele.
-
 ent-SignRedFour = quatro sinal
     .desc = Um sinal com um dígito, o número quatro está escrito nele.
-
 ent-SignRedFive = cinco sinais
     .desc = Um sinal com o dígito cinco escrito nele.
-
 ent-SignRedSix = seis
     .desc = Um sinal com o dígito seis escrito nele.
-
 ent-SignRedSeven = Sétimo sinal
     .desc = Um sinal com o dígito sete escrito nele.
-
 ent-SignRedEight = Oito
     .desc = Um sinal com um dígito, oito está escrito nele.
-
 ent-SignRedNine = nove sinais
     .desc = Um sinal com o dígito nove escrito nele.
-
 ent-SignRedZero = sinal zero
     .desc = Um sinal com um dígito, zero está escrito nele.
-
 ent-SignSurvival = sinal de sobrevivência
     .desc = Um sinal. "Sobrevivência" está escrito nele.
-
 ent-SignNTMine = Mineração
     .desc = Um sinal. "Mine" está escrito nele.

@@ -7,7 +7,7 @@ ent-DrinkSpaceLube = tubo de lubrificante espacial
 ent-BottomlessLube = frasco de lubrificante inesgotável
     .desc = Este béquer anômalo produz infinitamente lubrificante espacial e, por isso, deve ser cuidadosamente guardado para que não caia nas mãos erradas.
 
-ent-DrinkJarWhat = jar de ⟦0⟧
+ent-DrinkJarWhat = jarro de algo
     .desc = Você realmente não consegue dizer o que isso é.
 
 ent-DrinkMopwataBottleRandom = delicioso mopwata

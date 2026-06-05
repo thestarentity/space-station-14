@@ -5,5 +5,5 @@ cmd-announce-sender = Comando Central
 # Completion hints
 cmd-announce-arg-message = <message>
 cmd-announce-arg-sender = [sender]
-cmd-announce-arg-color = [cor]
+cmd-announce-arg-color = [color]
 cmd-announce-arg-sound = [sound]

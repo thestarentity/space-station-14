@@ -13,15 +13,15 @@ Para atualizar um airlock básico para um airlock de segurança média, você pr
 		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 steel sheets"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Solda"/>
 	  </Box>
   </Box>
 
 Para atualizar um airlock básico:
--	Use the screwdriver to open the airlock maintenance panel.
+-	Use a chave de fenda para abrir o painel de manutenção da câmara de ar.
 -	Adicione as chapas de aço à câmara de ar.
 -	Soldar as chapas de aço no lugar.
 -	Fechar o painel de manutenção usando a chave de fenda.
@@ -32,18 +32,18 @@ Para airlocks que levam às áreas mais sensíveis da estação espacial, recome
 Para atualizar uma porta de segurança de média para alta segurança, você precisará dos seguintes materiais:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 folhas de plasteel"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Solda"/>
 	  </Box>
   </Box>
 
 Para atualizar uma porta de segurança média:
-- Use the screwdriver to open the airlock maintenance panel.
+- Use a chave de fenda para abrir o painel de manutenção da câmara de ar.
 - Adicione as chapas de plasteel à câmara de ar.
 - Soldade as chapas de plasteel no lugar.
 - Feche o painel de manutenção usando a chave de fenda.
@@ -54,21 +54,21 @@ Você pode opcionalmente atualizar um airlock de alta segurança para um airlock
 Para atualizar um airlock de alta segurança para um airlock de segurança máxima, você precisará dos seguintes materiais:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 folhas de plasteel"/>
 	  </Box>
     <Box>
-      <GuideEntityEmbed Entity="PartRodMetal" Caption="2 metal rods"/>
+      <GuideEntityEmbed Entity="PartRodMetal" Caption="2 barras de metal"/>
     </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Solda"/>
 	  </Box>
   </Box>
 
 Para atualizar um airlock de alta segurança:
-  -	Use the screwdriver to open the airlock maintenance panel.
+  -	Use a chave de fenda para abrir o painel de manutenção da câmara de ar.
 -	Adicione as chapas de plasteel à câmara de ar.
 -	Soldar as chapas de plasteel no lugar.
 - Adicione as barras de metal à câmara de despressurização.
