@@ -7,7 +7,7 @@ ent-WallClown = parede de bananium
 ent-WallMeat = paredão de carne
     .desc = Adesivo.
 
-ent-WallCult = cult wall
+ent-WallCult = parede do culto
 
 ent-WallDebug = parede de depuração
 
@@ -99,5 +99,5 @@ ent-WallAndesiteCobblebrick = parede de tijolo andesita
 ent-WallIronsandCobblebrick = parede de tijolo de areia ferrosa
     .desc = As formas claras e arredondadas que compõem esta parede parecem estranhamente diferentes das areias de ferro das quais supostamente foram feitas.
 
-ent-Cardwall = parede de cartãoão
+ent-Cardwall = parede de papelão
     .desc = Os cortes no orçamento estão sendo sentidos com força.
