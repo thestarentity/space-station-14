@@ -27,10 +27,10 @@ examinable-solution-on-examine-volume-puddle =
     }
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [full]Cheio[color=white]
-        [mostlyfull] [/color]Quase Cheio[mostlyfull]
-        [halffull] [color=#DFDFDF]Meio Cheio[/color]
-        [halfempty] [halffull]Meio Vazio[color=#C8C8C8]
-        [mostlyempty] [/color]Quase Vazia[halfempty]
-       *[empty] [color=#C8C8C8]Vazio[/color]
+        [full] [color=white]Cheio[/color]
+        [mostlyfull] [color=#DFDFDF]Quase Cheio[/color]
+        [halffull] [color=#C8C8C8]Meio Cheio[/color]
+        [halfempty] [color=#C8C8C8]Meio Vazio[/color]
+        [mostlyempty] [color=#A4A4A4]Quase Vazio[/color]
+       *[empty] [color=gray]Vazio[/color]
     }

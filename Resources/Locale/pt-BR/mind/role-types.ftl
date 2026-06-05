@@ -5,7 +5,7 @@ role-type-free-agent-name = Agente Livre
 role-type-familiar-name = Familiar
 role-type-silicon-name = Silício
 role-type-silicon-antagonist-name = Silício Alterado
-role-type-update-message = Seu cargo é [color = { $color }]{ $role }[/color]
+role-type-update-message = Seu cargo é [color={ $color }]{ $role }[/color]
 # If you change a color here, you might want to also change it in role_types.yml
 role-type-crew-aligned-color = Crew Aligned
 role-type-crew-aligned-alternate-color = Verde

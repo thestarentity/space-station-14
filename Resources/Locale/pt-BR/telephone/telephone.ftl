@@ -2,10 +2,10 @@
 chat-telephone-message-wrap = [color={ $color }][bold]{ $name }[/bold] { $verb }, [font={ $fontType } size={ $fontSize }]"{ $message }"[/font][/color]
 chat-telephone-message-wrap-bold = [color={ $color }][bold]{ $name }[/bold] { $verb }, [font={ $fontType } size={ $fontSize }][bold]"{ $message }"[/bold][/font][/color]
 # Caller ID
-chat-telephone-unknown-caller = [cor={ $color }][fonte={ $fontType } tamanho={ $fontSize }][color={ $color }]Chamada desconhecida[font={ $fontType } size={ $fontSize }][color={ $color }][font={ $fontType } size={ $fontSize }]
-chat-telephone-caller-id-with-job = [cor={ $color }][fonte={ $fontType } tamanho={ $fontSize }][color={ $color }]{ CAPITALIZE($callerName) } ({ CAPITALIZE($callerJob) })[font={ $fontType } size={ $fontSize }][color={ $color }][font={ $fontType } size={ $fontSize }]
+chat-telephone-unknown-caller = [color={ $color }][font={ $fontType } size={ $fontSize }][bolditalic]Chamada desconhecida[/bolditalic][/font][/color]
+chat-telephone-caller-id-with-job = [color={ $color }][font={ $fontType } size={ $fontSize }][bold]{ CAPITALIZE($callerName) } ({ CAPITALIZE($callerJob) })[/bold][/font][/color]
 chat-telephone-caller-id-without-job = [color={ $color }][font={ $fontType } size={ $fontSize }][bold]{ CAPITALIZE($callerName) }[/bold][/font][/color]
-chat-telephone-unknown-device = [cor={ $color }][fonte={ $fontType } tamanho={ $fontSize }][color={ $color }]Fonte desconhecida[font={ $fontType } size={ $fontSize }][color={ $color }][font={ $fontType } size={ $fontSize }]
+chat-telephone-unknown-device = [color={ $color }][font={ $fontType } size={ $fontSize }][bolditalic]Fonte desconhecida[/bolditalic][/font][/color]
 chat-telephone-device-id = [color={ $color }][font={ $fontType } size={ $fontSize }][bold]{ CAPITALIZE($deviceName) }[/bold][/font][/color]
 # Chat text
 chat-telephone-name-relay = { $originalName } ({ $speaker })

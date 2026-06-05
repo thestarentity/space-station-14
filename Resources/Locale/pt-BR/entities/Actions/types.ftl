@@ -34,7 +34,7 @@ ent-ActionActivateDnaScramblerImplant = Embaralhar DNA
 ent-ActionToggleSuitPiece = Alternar Peça de Uniforme
     .desc = Lembre-se de equipar as peças importantes do seu traje antes de entrar em ação.
 
-ent-ActionCombatModeToggle = Modo de Combate[/color]
+ent-ActionCombatModeToggle = [color=red]Modo de Combate[/color]
     .desc = Entrar no modo combate
 
 ent-ActionChangeVoiceMask = Definir nome
