@@ -1,5 +1,5 @@
 item-recall-marked-name = Lembre-se { CAPITALIZE($item) }
-item-recall-marked-description = Recall { THE($item) } back into your hand.
+item-recall-marked-description = Chame { THE($item) } de volta para a sua mão.
 item-recall-item-marked = Você desenha um sigilo mágico em { THE($item) }.
 item-recall-item-already-marked = { CAPITALIZE(THE($item)) } já está marcado!
 item-recall-item-mark-empty = Você deve estar segurando um item!
