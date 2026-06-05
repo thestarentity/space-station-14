@@ -234,9 +234,9 @@ entity-effect-guidebook-adjust-reagent-reagent =
                *[-1] Remover
             }
     } { NATURALFIXED($amount, 2) }u de { $reagent } { $deltasign ->
-        [1] ta
-       *[-1] Ajuste o reagente [-1] para obter o efeito desejado.
-    } a solução
+        [1] à
+       *[-1] da
+    } solução
 entity-effect-guidebook-adjust-reagent-group =
     { $chance ->
         [1]
@@ -250,9 +250,9 @@ entity-effect-guidebook-adjust-reagent-group =
                *[-1] Remover
             }
     } { NATURALFIXED($amount, 2) } de reagentes no grupo { $group } { $deltasign ->
-        [1] ta
-       *[-1] Ajuste o reagente [-1] para obter o efeito desejado.
-    } a solução
+        [1] à
+       *[-1] da
+    } solução
 entity-effect-guidebook-adjust-temperature =
     { $chance ->
         [1]
@@ -266,9 +266,9 @@ entity-effect-guidebook-adjust-temperature =
                *[-1] Remover
             }
     } { POWERJOULES($amount) } de calor { $deltasign ->
-        [1] ta
-       *[-1] Ajuste o reagente [-1] para obter o efeito desejado.
-    } o corpo em que está
+        [1] ao
+       *[-1] do
+    } corpo em que está
 entity-effect-guidebook-chem-cause-disease =
     { $chance ->
         [1] Causas
