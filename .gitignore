@@ -1,3 +1,8 @@
+# Arquivos locais de instruções para ferramentas de IA (não devem ir para o repo público)
+CLAUDE.md
+.env
+.env.*
+
 # MSbuild binlog files
 *.binlog
 
