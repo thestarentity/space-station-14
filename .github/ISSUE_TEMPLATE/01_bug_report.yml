@@ -1,0 +1,47 @@
+name: Reportar um bug
+description: Para reportar bugs no jogo, na tradução ou no servidor.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reservar um tempo para preencher este formulário!
+        Para suporte rápido ou dúvidas gerais, entre no [Discord](https://discord.gg/mrWMvYZHYB).
+  - type: input
+    attributes:
+      label: Versão do jogo
+      description: Abra o changelog in-game e veja o número no canto inferior direito.
+      placeholder: "ex: estacao-honk/a1b2c3d"
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: Categoria
+      options:
+        - Tradução (texto em inglês, texto errado ou faltando)
+        - Crash ou erro fatal
+        - Bug de gameplay (mecânica, item, cargo)
+        - Problema de conexão com o servidor
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Descrição
+      description: Explique o que aconteceu. Se for visual, adicione um print.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Passos para reproduzir
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Contexto adicional
+      description: Qualquer outra informação relevante (mapa, cargo, log de erro).
+    validations:
+      required: false

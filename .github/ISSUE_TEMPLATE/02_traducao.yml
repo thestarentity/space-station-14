@@ -1,0 +1,38 @@
+name: Erro de tradução
+description: Para reportar texto em inglês, tradução errada ou faltando.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário para reportar problemas específicos de localização pt-BR.
+        Se você já sabe qual arquivo corrigir, um Pull Request é bem-vindo!
+  - type: input
+    attributes:
+      label: Texto original (inglês)
+      description: Cole o texto como aparece no jogo.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Onde aparece
+      description: "Ex: item Pé-de-cabra, menu de crafting, descrição do cargo Médico"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Problema
+      description: Descreva o que está errado (sem tradução, tradução incorreta, texto cortado etc.).
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Sugestão de tradução
+      description: Se tiver uma sugestão, escreva aqui. Não obrigatório.
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Arquivo .ftl (se souber)
+      description: "Ex: Resources/Locale/pt-BR/entities/objects/tools/crowbar.ftl"
+    validations:
+      required: false

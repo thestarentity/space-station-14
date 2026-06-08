@@ -1,42 +1,27 @@
-<!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
+## O que este PR faz
 
-## About the PR
-<!-- What did you change? -->
+<!-- Descreva o que foi alterado. Uma linha basta para mudanças pequenas. -->
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+## Por que esta mudança é necessária
 
-## Technical details
-<!-- Summary of code changes for easier review. -->
+<!-- Explique a motivação. Link para issue relacionada, se houver. -->
+<!-- Fixes #NNN ou Closes #NNN para fechar automaticamente. -->
 
-## Test plan
-<!--
-Describe how you tested the pull request, and how someone reviewing this PR can test it themselves.
--->
+## Como testar
 
-## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
-Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
+<!-- Descreva os passos para testar as alterações localmente. -->
 
-## Requirements
-<!-- Confirm the following by placing an X in the brackets without spaces inside (for example: [X] ): -->
-- [ ] I have read and am following the [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
-- [ ] I have tested this pull request and written instructions on how to test it
-- [ ] I have added media to this PR or it does not require an in-game showcase.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
+## Tipo de mudança
 
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them.
-This will be posted in #codebase-changes. -->
+- [ ] Tradução (novo texto pt-BR ou correção de texto existente)
+- [ ] Correção de bug
+- [ ] Nova funcionalidade
+- [ ] Documentação
+- [ ] Outro
 
-## Changelog
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog. -->
-<!--
-:cl:
-- add: Added fun!
-- remove: Removed fun!
-- tweak: Changed fun!
-- fix: Fixed fun!
--->
+## Checklist
+
+- [ ] Testei localmente e está funcionando
+- [ ] Não alterei arquivos em `Resources/Locale/en-US/` (fonte intocável)
+- [ ] Não deixei segredos, tokens ou senhas no código
+- [ ] O PR tem escopo focado (uma coisa só)
