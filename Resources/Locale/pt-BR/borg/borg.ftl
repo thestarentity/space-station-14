@@ -54,3 +54,7 @@ borg-type-medical-transponder = ciborg médico
 borg-type-service-name = Serviço
 borg-type-service-desc = Ajude com uma ampla gama de serviços para a tripulação, variando de servir lanches e bebidas a botânica até entretenimento.
 borg-type-service-transponder = ciborg de serviço
+
+borg-type-security-name = Segurança
+borg-type-security-desc = Auxilie o departamento de segurança na proteção da tripulação, na captura de criminosos e na manutenção da ordem a bordo da estação.
+borg-type-security-transponder = ciborg de segurança
