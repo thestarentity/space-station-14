@@ -77,6 +77,13 @@
 
 # Science Modules
 
+# Security Modules
+
+- type: latheRecipe
+  parent: BaseBorgModuleRecipe
+  id: BorgModuleSecurity
+  result: BorgModuleSecurity
+
 # Service Modules
 
 - type: latheRecipe
