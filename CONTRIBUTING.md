@@ -1,4 +1,4 @@
-# Guia de Contribuição — Estação Honk
+# Guia de Contribuição
 
 Obrigado pelo interesse em contribuir! Este guia explica o fluxo para quem quer ajudar com traduções, correções de código ou qualquer outra melhoria no fork.
 
@@ -62,7 +62,7 @@ feat: adicionar sala de reunião no mapa Saltern
 docs: atualizar instruções de build no README
 ```
 
-Sem caracteres especiais decorativos, sem "Co-Authored-By" de ferramentas.
+Use mensagens curtas e descritivas, em português.
 
 ### 5. Abra um Pull Request
 
