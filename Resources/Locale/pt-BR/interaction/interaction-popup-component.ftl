@@ -71,6 +71,7 @@ petting-success-medical-cyborg = Você acaricia { THE($target) } na cabeça met�
 petting-success-service-cyborg = Você acaricia { THE($target) } na cabeça metálica elegante de { POSS-ADJ($target) }.
 petting-success-syndicate-cyborg = Você acaricia { THE($target) } na cabeça metálica ameaçadora de { POSS-ADJ($target) }.
 petting-success-derelict-cyborg = Você acaricia { THE($target) } na cabeça de metal enferrujado de { POSS-ADJ($target) }.
+petting-success-security-cyborg = Você acaricia { THE($target) } na cabeça metálica autoritária de { POSS-ADJ($target) }.
 petting-success-recycler = Você acaricia { THE($target) } no { POSS-ADJ($target) } com uma exterior de aço levemente ameaçadora.
 petting-success-station-ai = Você acaricia { THE($target) } na tela fria e quadrada { POSS-ADJ($target) }.
 petting-failure-honkbot = Você se aproxima para acariciar { THE($target) }, mas { SUBJECT($target) } { CONJUGATE-BASIC($target, "honk", "honks") } se recusa!
@@ -86,6 +87,7 @@ petting-failure-medical-cyborg = Você se aproxima para acariciar { THE($target)
 petting-failure-service-cyborg = Você se aproxima para acariciar { THE($target) }, mas { SUBJECT($target) } { CONJUGATE-BE($target) } está ocupado servindo outros!
 petting-failure-syndicate-cyborg = Você estende a mão para acariciar { THE($target) }, mas a afiliação traçadora de { POSS-ADJ($target) } faz você reconsiderar.
 petting-failure-derelict-cyborg = Você estende a mão para acariciar { THE($target) }, mas o exterior { POSS-ADJ($target) } enferrujado e cheio de arestas faz você reconsiderar.
+petting-failure-security-cyborg = Você se aproxima para acariciar { THE($target) }, mas { SUBJECT($target) } está { CONJUGATE-BE($target) } ocupado mantendo a lei!
 petting-failure-station-ai = Você estende a mão para acariciar { THE($target) }, mas { SUBJECT($target) } afasta { CONJUGATE-BASIC($target, "zap", "zaps") } sua mão.
 petting-success-station-ai-others = { CAPITALIZE(THE($user)) } acaricia { THE($target) } na tela fria e quadrada { POSS-ADJ($target) }.
 
