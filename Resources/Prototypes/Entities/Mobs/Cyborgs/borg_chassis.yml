@@ -74,6 +74,15 @@
     selectedBorgType: medical
 
 - type: entity
+  id: BorgChassisSecurity
+  parent: BorgChassisSelectable
+  name: security cyborg
+  description: A cyborg unit dedicated to station security and law enforcement.
+  components:
+  - type: BorgSwitchableType
+    selectedBorgType: security
+
+- type: entity
   id: BorgChassisService
   parent: BorgChassisSelectable
   name: service cyborg

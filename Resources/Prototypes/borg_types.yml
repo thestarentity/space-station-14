@@ -194,6 +194,40 @@
     collection: FootstepHoverBorg
 
 
+# Security borg
+- type: borgType
+  id: security
+
+  # Description
+  dummyPrototype: BorgChassisSecurity
+
+  # Functional
+  extraModuleCount: 3
+  moduleWhitelist:
+    tags:
+    - BorgModuleGeneric
+    - BorgModuleSecurity
+
+  defaultModules:
+  - BorgModulePrying
+  - BorgModuleSecurity
+
+  radioChannels:
+  - Security
+  - Common
+
+  # Visual
+  inventoryTemplateId: borgShort
+  spriteBodyState: peace
+  spriteHasMindState: peace_e
+  spriteNoMindState: peace_e_r
+  spriteToggleLightState: peace_l
+
+  # Pet
+  petSuccessString: petting-success-security-cyborg
+  petFailureString: petting-failure-security-cyborg
+
+
 # Service borg
 - type: borgType
   id: service
