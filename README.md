@@ -111,7 +111,7 @@ Para contribuir com traduções, abra um Pull Request editando os arquivos em `R
 ### Clonar e inicializar
 
 ```shell
-git clone https://github.com/thestarentity/space-station-14.git
+git clone https://github.com/thestarentity/estacao-honk.git
 cd space-station-14
 python RUN_THIS.py
 ```
