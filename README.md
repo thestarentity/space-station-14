@@ -19,7 +19,7 @@ O repositório oficial do SS14 não aceita traduções. Este fork mantém uma ve
 
 | | |
 |---|---|
-| Tradução pt-BR completa | Mais de 1.100 arquivos de locale — menus, itens, tutoriais, descrições |
+| Tradução pt-BR completa | Mais de 1.100 arquivos de locale: menus, itens, tutoriais, descrições |
 | Servidor dedicado | `82.38.28.11:1212` |
 | Sincronizado com upstream | Atualizações regulares a partir do repositório oficial |
 
@@ -32,7 +32,7 @@ O repositório oficial do SS14 não aceita traduções. Este fork mantém uma ve
 
 **1. Baixar o launcher**
 
-Instale o launcher oficial: **[spacestation14.com](https://spacestation14.com/about/nightlies/)** — disponível para Windows, Linux e macOS.
+Instale o launcher oficial: **[spacestation14.com](https://spacestation14.com/about/nightlies/)** (Windows, Linux e macOS).
 
 **2. Criar uma conta**
 
@@ -70,7 +70,7 @@ Resources/Locale/
 > Arquivos `.ftl` com erros de sintaxe impedem o carregamento do jogo. Ao traduzir, altere **somente o texto legível** após o `=`. Nunca toque em chaves de mensagem, variáveis `{ $var }`, funções `{ CAPITALIZE(...) }`, seletores de plural ou comentários `#`.
 
 ```fluent
-# Correto — só o texto muda
+# Correto: só o texto muda
 item-crowbar-name = Pé-de-cabra
 item-crowbar-desc = Uma ferramenta confiável para todas as ocasiões.
 ```
@@ -85,7 +85,7 @@ welcome-message = Hello, { $name }! You have { $count ->
    *[other] { $count } messages.
 } waiting.
 
-# pt-BR — apenas o texto interno muda
+# pt-BR: apenas o texto interno muda
 welcome-message = Olá, { $name }! Você tem { $count ->
     [one] uma mensagem.
    *[other] { $count } mensagens.
@@ -106,7 +106,7 @@ Para contribuir com traduções, abra um Pull Request editando os arquivos em `R
 |---|---|
 | [.NET SDK](https://dotnet.microsoft.com/download) | 9.0+ |
 | [Python](https://python.org) | 3.8+ |
-| Git | — |
+| Git | qualquer versão |
 
 ### Clonar e inicializar
 
@@ -145,19 +145,19 @@ O cliente conecta automaticamente em `localhost:1212`.
 
 ```
 space-station-14/
-├── Content.Server/       — lógica do servidor (C#)
-├── Content.Client/       — lógica do cliente (C#)
-├── Content.Shared/       — código compartilhado (C#)
+├── Content.Server/       # lógica do servidor (C#)
+├── Content.Client/       # lógica do cliente (C#)
+├── Content.Shared/       # código compartilhado (C#)
 ├── Resources/
 │   ├── Locale/
-│   │   ├── en-US/        — textos originais
-│   │   └── pt-BR/        — traduções deste fork
-│   ├── Prototypes/       — entidades e regras em YAML
-│   ├── Textures/         — sprites e texturas
-│   └── Audio/            — sons e músicas
-├── RobustToolbox/        — engine (submódulo — não edite)
-├── assets/               — logo e ícone do repositório
-└── RUN_THIS.py           — script de inicialização
+│   │   ├── en-US/        # textos originais
+│   │   └── pt-BR/        # traduções deste fork
+│   ├── Prototypes/       # entidades e regras em YAML
+│   ├── Textures/         # sprites e texturas
+│   └── Audio/            # sons e músicas
+├── RobustToolbox/        # engine (submódulo, não edite)
+├── assets/               # logo e ícone do repositório
+└── RUN_THIS.py           # script de inicialização
 ```
 
 </details>
@@ -174,7 +174,7 @@ git merge upstream/master
 
 ## Contribuir
 
-Pull requests são bem-vindos — traduções, correções de código ou assets.
+Pull requests são bem-vindos: traduções, correções de código ou assets.
 
 **Fluxo:**
 
@@ -207,7 +207,7 @@ Verifique se o [.NET 9 Runtime](https://dotnet.microsoft.com/download/dotnet/9.0
 <details>
 <summary>Não consigo conectar ao servidor.</summary>
 
-Confirme o endereço `82.38.28.11:1212` e verifique se há firewall bloqueando UDP. O servidor pode estar em manutenção — consulte o [Discord](https://discord.gg/mrWMvYZHYB).
+Confirme o endereço `82.38.28.11:1212` e verifique se há firewall bloqueando UDP. O servidor pode estar em manutenção; consulte o [Discord](https://discord.gg/mrWMvYZHYB).
 
 </details>
 
@@ -221,7 +221,7 @@ A tradução é um trabalho em andamento. Você pode ajudar editando o arquivo c
 <details>
 <summary>Posso usar este fork para meu próprio servidor?</summary>
 
-Sim. O código é MIT. Verifique as licenças dos assets individualmente e respeite as regras de atribuição — veja a seção Licença.
+Sim. O código é MIT. Verifique as licenças dos assets individualmente e respeite as regras de atribuição (veja a seção Licença).
 
 </details>
 
@@ -241,7 +241,7 @@ python RUN_THIS.py
 
 Este projeto é um fork de [Space Station 14](https://github.com/space-wizards/space-station-14), desenvolvido pela [Space Wizards Federation](https://spacestation14.com/). Todo o crédito pelo jogo base pertence aos seus autores.
 
-**Código:** [MIT License](LICENSE.TXT) — Copyright (c) 2017-2026 Space Wizards Federation
+**Código:** [MIT License](LICENSE.TXT). Copyright (c) 2017-2026 Space Wizards Federation
 
 **Assets:** [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) na maioria dos casos. A licença de cada asset está no `meta.json` correspondente.
 
