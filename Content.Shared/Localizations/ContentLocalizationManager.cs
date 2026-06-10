@@ -58,6 +58,10 @@ namespace Content.Shared.Localizations
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
+
+            // pt-BR FTL usa MANY/MAKEPLURAL herdados da traducao; registrar aqui ate serem reescritos em PT
+            _loc.AddFunction(culturePtBr, "MAKEPLURAL", FormatMakePlural);
+            _loc.AddFunction(culturePtBr, "MANY", FormatMany);
         }
 
         private ILocValue FormatMany(LocArgs args)
