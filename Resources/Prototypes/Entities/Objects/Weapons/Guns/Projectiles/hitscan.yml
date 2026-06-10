@@ -47,6 +47,18 @@
       types:
         Heat: 7
 
+# Borg security combat rifle round - physical piercing damage, distinct from heat lasers
+- type: entity
+  parent: BasicHitscan
+  id: BulletBorgRifle
+  name: shock bolt
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: HitscanBasicDamage
+    damage:
+      types:
+        Piercing: 20
+
 - type: entity
   parent: BasicHitscan
   id: RedLaser

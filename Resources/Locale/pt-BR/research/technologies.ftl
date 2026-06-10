@@ -73,3 +73,4 @@ research-technology-bluespace-cargo-transport = Transporte de Carga em Espaço A
 research-technology-clowning-utilities = Utilidades do Palhaço
 research-technology-quantum-fiber-weaving = Teia de Fibras Quânticas
 research-technology-bluespace-chemistry = Química do Espaço Azul
+research-technology-borg-lethal-module = Módulo de Força Letal do Borg

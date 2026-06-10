@@ -247,3 +247,15 @@
   - ShuttleGunDusterCircuitboard
   technologyPrerequisites:
   - BasicShuttleArmament
+
+- type: technology
+  id: BorgLethalModule
+  name: research-technology-borg-lethal-module
+  icon:
+    sprite: Objects/Weapons/Guns/Battery/laser_retro.rsi
+    state: base
+  discipline: Arsenal
+  tier: 3
+  cost: 15000
+  recipeUnlocks:
+  - BorgModuleSecurityCombat

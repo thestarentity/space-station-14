@@ -84,6 +84,17 @@
   id: BorgModuleSecurity
   result: BorgModuleSecurity
 
+- type: latheRecipe
+  parent: BaseGoldBorgModuleRecipe
+  id: BorgModuleSecurityCombat
+  result: BorgModuleSecurityCombat
+  materials:
+    Steel: 750
+    Glass: 500
+    Plastic: 500
+    Gold: 100
+    Silver: 100
+
 # Service Modules
 
 - type: latheRecipe

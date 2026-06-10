@@ -495,9 +495,27 @@
   - type: ItemBorgModule
     hands:
     - item: BorgStunbaton
+    - item: BorgDisabler
     - item: ForensicScanner
     - item: Handcuffs
       forceRemovable: true
+    - item: BookSpaceLaw
+      forceRemovable: false
+
+# Security Combat Module - requires tier 3 research
+- type: entity
+  id: BorgModuleSecurityCombat
+  parent: [ BaseBorgModuleSecurity, BaseProviderBorgModule ]
+  name: security combat cyborg module
+  description: An authorized lethal-force module for security borgs. Provides a laser pistol and a shock bolt rifle, both powered by the borg's own power cell. Requires explicit command authorization to deploy.
+  components:
+  - type: Sprite
+    layers:
+    - state: security
+  - type: ItemBorgModule
+    hands:
+    - item: BorgLaserGun
+    - item: BorgCombatRifle
 
 # generic modules
 - type: entity
