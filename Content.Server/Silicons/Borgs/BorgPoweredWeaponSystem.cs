@@ -8,7 +8,7 @@ namespace Content.Server.Silicons.Borgs;
 /// <summary>
 /// Drains the holding borg's power cell when a BorgPoweredWeapon fires.
 /// </summary>
-public sealed class BorgPoweredWeaponSystem : EntitySystem
+public sealed partial class BorgPoweredWeaponSystem : EntitySystem
 {
     [Dependency] private SharedContainerSystem _container = default!;
     [Dependency] private PowerCellSystem _powerCell = default!;

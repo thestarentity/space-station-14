@@ -9,7 +9,7 @@ namespace Content.Shared.Localizations
     {
         [Dependency] private ILocalizationManager _loc = default!;
 
-        // If you want to change your codebase's language, do it here.
+        // en-US fica como fallback; pt-BR é carregado logo depois como idioma ativo
         private const string Culture = "en-US";
 
         /// <summary>
@@ -28,10 +28,14 @@ namespace Content.Shared.Localizations
             var culture = new CultureInfo(Culture);
 
             _loc.LoadCulture(culture);
+
+            // Carrega pt-BR sobre en-US: strings traduzidas ficam ativas, faltantes usam en-US como fallback
+            var culturePtBr = new CultureInfo("pt-BR");
+            _loc.LoadCulture(culturePtBr);
+
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
-            // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
             _loc.AddFunction(culture, "ENERGYWATTHOURS", FormatEnergyWattHours);
             _loc.AddFunction(culture, "UNITS", FormatUnits);
             _loc.AddFunction(culture, "TOSTRING", args => FormatToString(culture, args));
@@ -39,7 +43,6 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
-
 
             /*
              * The following language functions are specific to the english localization. When working on your own

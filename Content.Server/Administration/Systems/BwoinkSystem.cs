@@ -68,6 +68,9 @@ namespace Content.Server.Administration.Systems
         private readonly Dictionary<NetUserId, (TimeSpan Timestamp, bool Typing)> _typingUpdateTimestamps = new();
         private string _overrideClientName = string.Empty;
 
+        // Fila para o bot Discord consumir via GET /admin/ahelp/pending
+        private readonly List<BotAhelpEntry> _botPendingQueue = new();
+
         // Max embed description length is 4096, according to https://discord.com/developers/docs/resources/channel#embed-object-embed-limits
         // Keep small margin, just to be safe
         private const ushort DescriptionMax = 4000;
@@ -764,6 +767,10 @@ namespace Content.Server.Administration.Systems
                 );
                 _messageQueues[msg.UserId].Enqueue(GenerateAHelpMessage(messageParams));
             }
+
+            // Enfileira para o bot Discord consumir (somente mensagens de jogadores, nao de admins)
+            if (personalChannel && !message.AdminOnly)
+                EnqueueForBot(message.UserId, senderSession.Name, message.Text, isAdmin: false);
 
             if (admins.Count != 0 || sendsWebhook)
                 return;
