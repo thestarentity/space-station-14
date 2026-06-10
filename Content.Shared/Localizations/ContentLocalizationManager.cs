@@ -29,9 +29,11 @@ namespace Content.Shared.Localizations
 
             _loc.LoadCulture(culture);
 
-            // Carrega pt-BR sobre en-US: strings traduzidas ficam ativas, faltantes usam en-US como fallback
+            // pt-BR como idioma ativo; en-US fica como fallback para strings nao traduzidas
             var culturePtBr = new CultureInfo("pt-BR");
             _loc.LoadCulture(culturePtBr);
+            _loc.DefaultCulture = culturePtBr;
+            _loc.SetFallbackCluture(culture);
 
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
