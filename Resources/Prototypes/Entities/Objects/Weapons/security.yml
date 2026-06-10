@@ -92,6 +92,15 @@
     - Antagonists
 
 - type: entity
+  id: BorgStunbaton
+  parent: Stunbaton
+  suffix: Borg
+  components:
+  - type: Battery
+    maxCharge: 9000
+    startingCharge: 9000
+
+- type: entity
   name: truncheon
   parent: [BaseItem, BaseSecurityContraband]
   id: Truncheon

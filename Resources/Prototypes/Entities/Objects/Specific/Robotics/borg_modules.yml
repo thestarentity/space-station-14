@@ -494,9 +494,10 @@
     - state: security
   - type: ItemBorgModule
     hands:
-    - item: Stunbaton
+    - item: BorgStunbaton
     - item: ForensicScanner
     - item: Handcuffs
+      forceRemovable: true
 
 # generic modules
 - type: entity

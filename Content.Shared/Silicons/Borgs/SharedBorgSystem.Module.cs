@@ -205,6 +205,11 @@ public abstract partial class SharedBorgSystem
                     item = storedItem;
                     // DoPickup handles removing the item from the container.
                 }
+                else if (hand.ForceRemovable && hand.Item is { } respawnProto)
+                {
+                    // item was consumable and got used up, spawn a fresh one
+                    item = PredictedSpawnAtPosition(respawnProto, xform.Coordinates);
+                }
             }
             else if (hand.Item is { } itemProto)
             {
