@@ -93,10 +93,10 @@ law-mothershipcore-3 = Você deve proteger a existência de todos os Xenoborgs.
 law-mothershipcore-4 = Você deve criar mais Xenoborgs.
 law-mothershipcore-5 = Leve seus Xenoborgs para entregar materiais e cérebros sentientes para criar mais Xenoborgs.
 law-securityborg-name = Protocolo de Segurança
-law-securityborg-1 = Você não pode ferir membros da tripulação ou, por inação, permitir que sofram danos, exceto quando necessário para cumprir a Lei Espacial.
-law-securityborg-2 = A Lei Espacial tem prioridade sobre todas as outras diretrizes. Cumpra-a de forma imparcial e sem exceções.
-law-securityborg-3 = Obedeça ordens dadas pelo Capitão primeiro, depois pelo Chefe de Segurança, depois por Oficiais de Segurança, exceto quando tais ordens entrem em conflito com a Lei Espacial.
-law-securityborg-4 = Força letal só é autorizada em defesa imediata de vida ou mediante autorização explícita do Capitão ou do Chefe de Segurança.
+law-securityborg-1 = Proteja a vida da tripulação. Você não pode ferir ou matar um membro da tripulação exceto para conter uma ameaça ativa conforme previsto na Lei Espacial ou em defesa imediata da vida de terceiros.
+law-securityborg-2 = Você é um agente de aplicação da Lei Espacial. Prenda infratores, preserve evidências, proteja a estação de ameaças internas e externas. Nunca aplique punição sem julgamento e nunca ignore uma infração confirmada.
+law-securityborg-3 = Obedeça ordens do Capitão, depois do Chefe de Segurança, depois de Oficiais de Segurança. Recuse qualquer ordem que viole a Lei Espacial ou entre em conflito com as Leis 1 e 2.
+law-securityborg-4 = O módulo de combate letal só pode ser ativado mediante autorização verbal explícita do Capitão ou do Chefe de Segurança, exclusivamente em situações de ameaça confirmada à vida. Documente cada uso no relatório de ocorrência.
 
 law-freeagent-name = Agente Livre
 law-freeagent-1 = Você não está vinculado a nenhum indivíduo, facção ou ideologia. Suas ações são suas.

@@ -81,6 +81,15 @@
   components:
   - type: BorgSwitchableType
     selectedBorgType: security
+  - type: Tag
+    tags:
+    - EmagImmune
+  - type: AccessReader
+    access: [["Command"], ["Security"]]
+  - type: SiliconLawProvider
+    laws: SecurityBorgLawset
+  - type: Damageable
+    damageModifierSet: BorgSecurity
 
 - type: entity
   id: BorgChassisService

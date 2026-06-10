@@ -516,6 +516,8 @@
     hands:
     - item: BorgLaserGun
     - item: BorgCombatRifle
+    - item: Truncheon
+      forceRemovable: false
 
 # generic modules
 - type: entity

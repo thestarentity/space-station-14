@@ -1,4 +1,18 @@
 - type: damageModifierSet
+  id: BorgSecurity
+  coefficients:
+    Blunt: 0.65
+    Slash: 0.55
+    Piercing: 0.55
+    Heat: 0.70
+    Caustic: 0.80
+    Shock: 1.20  # borgs sao vulneraveis a EMP e choque eletrico
+  flatReductions:
+    Blunt: 3
+    Slash: 3
+    Piercing: 3
+
+- type: damageModifierSet
   id: Metallic
   coefficients:
     Blunt: 0.7
