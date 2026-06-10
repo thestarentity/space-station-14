@@ -35,16 +35,19 @@ namespace Content.Shared.Localizations
             _loc.DefaultCulture = culturePtBr;
             _loc.SetFallbackCluture(culture);
 
-            _loc.AddFunction(culture, "PRESSURE", FormatPressure);
-            _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
-            _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
-            _loc.AddFunction(culture, "ENERGYWATTHOURS", FormatEnergyWattHours);
-            _loc.AddFunction(culture, "UNITS", FormatUnits);
-            _loc.AddFunction(culture, "TOSTRING", args => FormatToString(culture, args));
-            _loc.AddFunction(culture, "LOC", FormatLoc);
-            _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
-            _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
-            _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            foreach (var c in new[] { culture, culturePtBr })
+            {
+                _loc.AddFunction(c, "PRESSURE", FormatPressure);
+                _loc.AddFunction(c, "POWERWATTS", FormatPowerWatts);
+                _loc.AddFunction(c, "POWERJOULES", FormatPowerJoules);
+                _loc.AddFunction(c, "ENERGYWATTHOURS", FormatEnergyWattHours);
+                _loc.AddFunction(c, "UNITS", FormatUnits);
+                _loc.AddFunction(c, "TOSTRING", args => FormatToString(culture, args));
+                _loc.AddFunction(c, "LOC", FormatLoc);
+                _loc.AddFunction(c, "NATURALFIXED", FormatNaturalFixed);
+                _loc.AddFunction(c, "NATURALPERCENT", FormatNaturalPercent);
+                _loc.AddFunction(c, "PLAYTIME", FormatPlaytime);
+            }
 
             /*
              * The following language functions are specific to the english localization. When working on your own
