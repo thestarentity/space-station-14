@@ -11,8 +11,8 @@ bwoink-system-introductory-message =
     O uso inadequado desse sistema de mensagens pode resultar em ações disciplinares.
 bwoink-system-typing-indicator =
     { $players } { $count ->
-        [one] sim
-       *[other] são
+        [one] está
+       *[other] estão
     } digitando...
 admin-ahelp-admin-only = Apenas Administradores
 admin-ahelp-admin-only-tooltip = Se marcado, a mensagem não será visível para o jogador, mas será visível para outros administradores e ainda assim será transmitida ao Discord.

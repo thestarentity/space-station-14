@@ -1,5 +1,5 @@
 chat-window-title = Chat
 cmd-chatwindow-desc = Janela de Chat Adicional
-cmd-chatwindow-help = Use: chatwindow /ajuda
-cmd-achatwindow-desc = Janela de Chat Administrativo
-cmd-achatwindow-help = Abra a janela de chat.
+cmd-chatwindow-help = Uso: chatwindow
+cmd-achatwindow-desc = Janela de Chat do Admin
+cmd-achatwindow-help = Uso: achatwindow

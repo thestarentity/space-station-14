@@ -12,10 +12,10 @@ cloning-console-window-no-scanner-detected-label = Conecte um scanner genético 
 cloning-console-window-no-clone-pod-detected-label = Conecte um pod de clonagem a uma multitool ou configurador de rede.
 cloning-console-window-scanner-far-label = Leitor de DNA muito distante
 cloning-console-window-clone-pod-far-label = Clonador Está Muito Longe
-cloning-console-eject-body-button = Expulsar Corpo
+cloning-console-eject-body-button = Ejetar Corpo
 cloning-console-neural-interface-label = Interface Neural:
-cloning-console-no-mind-activity-text = Neural Interface: [color=red]Nenhuma Atividade[/color]
-cloning-console-mind-present-text = Neural Interface: [color=green]Consciência Detectada[/color]
+cloning-console-no-mind-activity-text = Interface Neural: [color=red]Nenhuma Atividade[/color]
+cloning-console-mind-present-text = Interface Neural: [color=green]Consciência Detectada[/color]
 cloning-console-component-msg-ready = Pronto para clonar
 cloning-console-component-msg-empty = Nenhum Corpo Detectado
 cloning-console-component-msg-scanner-occupant-alive = Não Pronto: Ocupante do Scanner Vivo

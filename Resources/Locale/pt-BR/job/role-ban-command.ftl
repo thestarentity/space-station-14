@@ -5,9 +5,9 @@ cmd-roleban-help = Usage: roleban <nome ou ID do usuário> <cargo> <motivo> [dur
 
 ## Completion result hints
 
-cmd-roleban-hint-1 = <name or user ID>
-cmd-roleban-hint-2 = Cargo
-cmd-roleban-hint-3 = <reason>
+cmd-roleban-hint-1 = <nome ou ID do usuário>
+cmd-roleban-hint-2 = <cargo>
+cmd-roleban-hint-3 = <motivo>
 cmd-roleban-hint-4 = [duração em minutos, omita ou 0 para banimento permanente]
 cmd-roleban-hint-5 = [gravidade]
 cmd-roleban-hint-duration-1 = Permanente
@@ -27,7 +27,7 @@ cmd-roleunban-unable-to-parse-id =
 
 ## Completion result hints
 
-cmd-roleunban-hint-1 = ⟨role ban id⟩
+cmd-roleunban-hint-1 = <id do banimento de cargo>
 
 ### Localization for roleban list command
 
@@ -36,7 +36,7 @@ cmd-rolebanlist-help = Uso: <nome ou ID do usuário> [inclua desbancados]
 
 ## Completion result hints
 
-cmd-rolebanlist-hint-1 = <name or user ID>
+cmd-rolebanlist-hint-1 = <nome ou ID do usuário>
 cmd-rolebanlist-hint-2 = [incluir desbancados]
 cmd-roleban-minutes-parse = { $time } não é uma quantidade válida de minutos.\n{ $help }
 cmd-roleban-severity-parse = ${ severity } não é uma severidade válida\n{ $help }.
@@ -48,4 +48,4 @@ cmd-roleban-inf = permanentemente
 cmd-roleban-until = até { $expires }
 # Department bans
 cmd-departmentban-desc = Impede um jogador de assumir os cargos que compõem um departamento
-cmd-departmentban-help = Banir um tripulante de um departamento. Use este comando para banir um tripulante de um departamento específico. O motivo do banimento deve ser fornecido, e a duração pode ser especificada em minutos. Se omitida ou definida como 0, o banimento será permanente.
+cmd-departmentban-help = Uso: departmentban <nome ou ID do usuário> <departamento> <motivo> [duração em minutos, omita ou 0 para banimento permanente]

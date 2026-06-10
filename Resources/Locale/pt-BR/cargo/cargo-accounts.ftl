@@ -1,12 +1,12 @@
 cargo-account-cargo-name = Orçamento de Suprimentos da Estação
-cargo-account-cargo-code = Código de Carga
+cargo-account-cargo-code = SUP
 cargo-account-engineering-name = Economia de Manutenção
-cargo-account-engineering-code = Código de Engenharia da Conta de Carga
+cargo-account-engineering-code = ENG
 cargo-account-medical-name = Fundo de Saúde da Tripulação
 cargo-account-medical-code = MED
 cargo-account-science-name = Financiamento para Desenvolvimento Interestelar
-cargo-account-science-code = Código de Ciência
+cargo-account-science-code = RND
 cargo-account-security-name = Reservas de Defesa da Estação
-cargo-account-security-code = Código de Segurança da Conta de Carga
-cargo-account-service-name = Holdings de Serviços Coletivos
+cargo-account-security-code = SEC
+cargo-account-service-name = Fundo de Serviços Coletivos
 cargo-account-service-code = SRV

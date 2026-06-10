@@ -18,16 +18,16 @@ ui-vote-type-timeout = Essa votação foi chamada há pouco tempo ({ $remaining 
 ui-vote-type-not-available = Este tipo de voto foi desativado
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
-    Esse opção de voto só está disponível para jogadores que têm tempo suficiente de jogo ou estão na lista branca.
+    Essa opção de voto só está disponível para jogadores que têm tempo suficiente de jogo ou estão na lista branca.
     Além disso, você deve ter sido um fantasma por { $timeReq } segundos.
 # Warning to not abuse a specific vote option.
 ui-vote-abuse-warning =
     Aviso!
-    O abuso do sistema de votekick pode resultar em uma banimento indefinido!
+    O abuso do sistema de votekick pode resultar em um banimento indefinido!
 # Hue hue hue
 ui-vote-fluff = Potencializado pela Tecnologia Robust™ Anti-Tamper
 
 ## Vote menu command
 
 cmd-votemenu-desc = Abre o menu de votação.
-cmd-votemenu-help = Mostra o menu de votação.
+cmd-votemenu-help = Uso: votemenu

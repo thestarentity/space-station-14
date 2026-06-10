@@ -2,7 +2,7 @@ delivery-recipient-examine = Este é destinado a { $recipient }, { $job }.
 delivery-already-opened-examine = Já estava aberta.
 delivery-earnings-examine = Entregar isso ganhará para a estação [color=yellow]{ $spesos }[/color] spesos.
 delivery-recipient-no-name = Sem nome
-delivery-recipient-no-job = ID desconhecido
+delivery-recipient-no-job = Desconhecido
 delivery-unlocked-self = Você desbloqueia o { $delivery } com sua impressão digital.
 delivery-opened-self = Você abre o { $delivery }.
 delivery-unlocked-others = { CAPITALIZE($recipient) } desbloqueou o { $delivery } com a impressão digital de { POSS-ADJ($possadj) }.

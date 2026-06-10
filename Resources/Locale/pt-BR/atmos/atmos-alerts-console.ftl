@@ -1,14 +1,14 @@
 atmos-alerts-window-title = Computador de Alertas Atmosféricos
 atmos-alerts-window-station-name = [color=white][font size=14]{ $stationName }[/font][/color]
 atmos-alerts-window-unknown-location = Localização desconhecida
-atmos-alerts-window-tab-no-alerts = Nenhum alerta de atmosfera
+atmos-alerts-window-tab-no-alerts = Alertas
 atmos-alerts-window-tab-alerts = Alertas ({ $value })
 atmos-alerts-window-tab-air-alarms = Alarmes de ar
 atmos-alerts-window-tab-fire-alarms = Alarmes de fogo
 atmos-alerts-window-alarm-label = { CAPITALIZE($name) } ({ $address })
 atmos-alerts-window-temperature-label = Temperatura
 atmos-alerts-window-temperature-value = { $valueInC } °C ({ $valueInK } K)
-atmos-alerts-window-invalid-value = Valor inválido.
+atmos-alerts-window-invalid-value = N/A
 atmos-alerts-window-total-mol-label = Moles totais
 atmos-alerts-window-total-mol-value = { $value } mol
 atmos-alerts-window-pressure-label = Pressão

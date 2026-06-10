@@ -5,7 +5,7 @@ ui-disposal-unit-label-state = Estado
 ui-disposal-unit-label-pressure = Pressão:
 ui-disposal-unit-label-status = Pronto
 ui-disposal-unit-button-flush = Esvaziar
-ui-disposal-unit-button-eject = Expulsar Conteúdo
+ui-disposal-unit-button-eject = Ejetar Conteúdo
 ui-disposal-unit-button-power = Energia
 
 ## Verbs

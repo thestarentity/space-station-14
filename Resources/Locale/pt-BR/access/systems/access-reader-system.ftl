@@ -1,4 +1,4 @@
-access-reader-unknown-id = ID desconhecido
+access-reader-unknown-id = Desconhecido
 access-reader-access-label = { $access }
 access-reader-examination = Acesso geralmente restringido a pessoal com acesso { $access }.
 access-reader-examination-functionality-restricted = { $access } o acesso pode ser necessário para usar certas funções.

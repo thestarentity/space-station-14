@@ -4,6 +4,6 @@
         [total] Total
         [delta] Delta
         [hit] Acerto
-       *[other] ID desconhecido
+       *[other] Desconhecido
     }
 damage-popup-component-switched = Alvo definido para tipo: { -damage-popup-component-type(setting: $setting) }

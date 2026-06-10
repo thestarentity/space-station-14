@@ -2,10 +2,10 @@
 delete-verb-get-data-text = Excluir
 edit-solutions-verb-get-data-text = Editar Soluções
 explode-verb-get-data-text = Explodir
-ahelp-verb-get-data-text = Você pode usar o botão 
+ahelp-verb-get-data-text = Mensagem
 admin-verbs-admin-logs-entity = Registros da Entidade
 admin-verbs-teleport-to = Teleportar Para
-admin-verbs-teleport-here = Teleporte Aqui
+admin-verbs-teleport-here = Teleportar Aqui
 admin-verbs-freeze = Congelar
 admin-verbs-freeze-and-mute = Congelar e Mutar
 admin-verbs-unfreeze = Descongelar
@@ -47,8 +47,8 @@ admin-verbs-snap-joints = Articulações de Encaixe
 admin-verbs-make-minigun = Fazer Minigun
 admin-verbs-set-bullet-amount = Definir Quantidade de Balas
 # Toggles verbs
-admin-verbs-bolt = Boltear
-admin-verbs-unbolt = Desenroscar
+admin-verbs-bolt = Trancar
+admin-verbs-unbolt = Destrancar
 admin-verbs-emergency-access-on = Acesso de Emergência Ativado
 admin-verbs-emergency-access-off = Acesso de Emergência Desligado
 # Dialogs verbs
@@ -56,7 +56,7 @@ admin-verbs-dialog-adjust-stack-amount = Quantidade (máximo { $max })
 admin-verbs-dialog-rename-title = Renomear
 admin-verbs-dialog-rename-name = Nome
 admin-verbs-dialog-redescribe-title = Redescrever
-admin-verbs-dialog-redescribe-description = Redescreva o que o administrador deve fazer.
+admin-verbs-dialog-redescribe-description = Descrição
 admin-verbs-dialog-rename-and-redescribe-title = Renomear & Redescrever
 admin-verbs-dialog-set-bullet-amount-title = Definir Quantidade de Balas
 admin-verbs-dialog-set-bullet-amount-amount = Quantidade (padrão { $cap })

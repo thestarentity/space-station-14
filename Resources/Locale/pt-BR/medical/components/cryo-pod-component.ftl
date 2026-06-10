@@ -23,17 +23,17 @@ cryo-pod-window-checklist-fail = { $item } — NÃO
 cryo-pod-window-warning-header = AVISO
 cryo-pod-window-low-pressure-warning = Pressão perigosamente baixa. A pressão do gás deve ser aproximadamente 100 kPa para operação segura.
 cryo-pod-window-high-temperature-warning = Temperatura muito alta. { CAPITALIZE($reagent) } requer uma temperatura abaixo de { $temperature } K.
-cryo-pod-window-error-header = Erro na janela do criopod
+cryo-pod-window-error-header = ERRO
 # Shown when the eject button is pressed on a locked pod.
 cryo-pod-window-eject-error = O mecanismo de ejeção falhou. Entre em contato com um engenheiro certificado pela Nanotrasen para suporte.
 cryo-pod-window-chems-no-beaker = Nenhum béquer inserido
 cryo-pod-window-chems-empty-beaker = O béquer está vazio
 cryo-pod-window-chems-injecting-tooltip = Injetando { $quantity }u
-cryo-pod-window-inject-1u = Cryo-pod window injection complete.
-cryo-pod-window-inject-5u = Cryo-pod window injection complete.
-cryo-pod-window-inject-10u = Cryo-pod window injection complete.
+cryo-pod-window-inject-1u = 1u
+cryo-pod-window-inject-5u = 5u
+cryo-pod-window-inject-10u = 10u
 cryo-pod-window-inject-20u = 20u
 # The eject beaker button has very little horizontal space, which is why it only says "eject"
-cryo-pod-window-eject-beaker = Expulsar
-cryo-pod-window-eject-patient = Expulsar paciente
+cryo-pod-window-eject-beaker = Ejetar
+cryo-pod-window-eject-patient = Ejetar paciente
 cryo-pod-window-health-no-damage = Nenhum dano detectado

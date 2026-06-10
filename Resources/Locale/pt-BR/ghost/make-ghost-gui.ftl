@@ -1,5 +1,5 @@
 make-ghost-roles-window-title = Criar Cargo Fantasma
-make-ghost-roles-window-entity-label = Rótulo da Entidade da Janela de Criação de Papéis Fantasma
+make-ghost-roles-window-entity-label = Entidade
 make-ghost-roles-window-role-name-label = Nome do Cargo
 make-ghost-roles-window-role-description-label = Descrição do Cargo
 make-ghost-roles-window-role-rules-label = Regras do Cargo

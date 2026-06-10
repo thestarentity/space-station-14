@@ -1,8 +1,8 @@
 # Errors
 loadout-group-species-restriction = Este item não está disponível para sua espécie atual.
 # Miscellaneous
-loadout-group-trinkets = Brincos
-loadout-group-jobtrinkets = Trinkos de cargo
+loadout-group-trinkets = Bugigangas
+loadout-group-jobtrinkets = Bugigangas de cargo
 loadout-group-glasses = Óculos
 loadout-group-backpack = Mochila
 loadout-group-instruments = Instrumentos
@@ -40,7 +40,7 @@ loadout-group-passenger-neck = Pescoço do passageiro
 loadout-group-bartender-head = Cabeça do bartender
 loadout-group-bartender-jumpsuit = Macacão do bartender
 loadout-group-bartender-outerclothing = Roupa externa do bartender
-loadout-group-bartender-shaker = Balão de coquetel
+loadout-group-bartender-shaker = Coqueteleira do bartender
 loadout-group-chef-head = Cabeça do Chef
 loadout-group-chef-mask = Máscara do Chef
 loadout-group-chef-jumpsuit = Macacão do Chef
@@ -48,11 +48,11 @@ loadout-group-chef-outerclothing = Roupa externa do chef
 loadout-group-librarian-jumpsuit = Macacão da bibliotecária
 loadout-group-lawyer-jumpsuit = Macacão do advogado
 loadout-group-lawyer-neck = Pescoço de advogado
-loadout-group-chaplain-head = Cabeça do Chaplain
-loadout-group-chaplain-mask = Máscara do Chaplain
-loadout-group-chaplain-jumpsuit = Macacão do Chaplain
-loadout-group-chaplain-outerclothing = Roupa exterior do Chaplain
-loadout-group-chaplain-neck = Pescoço do Chaplain
+loadout-group-chaplain-head = Chapéu do Capelão
+loadout-group-chaplain-mask = Máscara do Capelão
+loadout-group-chaplain-jumpsuit = Macacão do Capelão
+loadout-group-chaplain-outerclothing = Roupa exterior do Capelão
+loadout-group-chaplain-neck = Pescoço do Capelão
 loadout-group-chaplain-bible = Livro Sagrado
 loadout-group-janitor-head = Cabeça de Zelador
 loadout-group-janitor-jumpsuit = Macacão do zelador
@@ -126,7 +126,7 @@ loadout-group-research-assistant-jumpsuit = Macacão de Assistente de Pesquisa
 # Security
 loadout-group-head-of-security-head = Chefe de Segurança
 loadout-group-head-of-security-jumpsuit = Fato de Segurança do Chefe de Segurança
-loadout-group-head-of-security-neck = Pelo pescoço do Chefe de Segurança
+loadout-group-head-of-security-neck = Pescoço do Chefe de Segurança
 loadout-group-head-of-security-outerclothing = Roupa exterior do Chefe de Segurança
 loadout-group-warden-head = Cabeça de Guarda
 loadout-group-warden-jumpsuit = Macacão de Guarda
@@ -147,11 +147,11 @@ loadout-group-security-star = Estrela de Segurança
 # Medical
 loadout-group-medical-mask = Máscara médica
 loadout-group-chief-medical-officer-head = Chefe Médico
-loadout-group-chief-medical-officer-jumpsuit = Fato de banho do Chefe Médico
+loadout-group-chief-medical-officer-jumpsuit = Macacão do Diretor Médico
 loadout-group-chief-medical-officer-outerclothing = Roupa exterior do Chefe Médico
 loadout-group-chief-medical-officer-shoes = Calçados do Chefe Médico
 loadout-group-chief-medical-officer-neck = Pescoço do Chefe Médico
-loadout-group-medical-doctor-head = Chefe Médico
+loadout-group-medical-doctor-head = Chapéu do Médico
 loadout-group-medical-doctor-jumpsuit = Macacão do Médico
 loadout-group-medical-doctor-outerclothing = Roupa externa do Médico
 loadout-group-medical-doctor-backpack = Mochila do Médico
@@ -168,5 +168,5 @@ loadout-group-paramedic-shoes = Calçados do paramédico
 # Wildcards
 loadout-group-reporter-jumpsuit = Macacão de repórter
 loadout-group-reporter-head = Chapéu de repórter
-loadout-group-reporter-outerclothing = Cinto do repórter
+loadout-group-reporter-outerclothing = Colete do repórter
 loadout-group-psychologist-jumpsuit = Macacão do psicólogo

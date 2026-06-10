@@ -3,14 +3,14 @@
 suit-sensor-mode-off = Desligado
 suit-sensor-mode-binary = Binário
 suit-sensor-mode-vitals = Vitais
-suit-sensor-mode-cords = Modo sensor do traje - cordas
+suit-sensor-mode-cords = Coordenadas
 
 ## Descriptions
 
 suit-sensor-description-off = Nada é relatado à estação.
-suit-sensor-description-binary = A morte do usúario é relatada à estação.
+suit-sensor-description-binary = A morte do usuário é relatada à estação.
 suit-sensor-description-vitals = O status geral de saúde do portador é relatado à estação.
-suit-sensor-description-cords = O status de saúde e a posição do usúario são relatados à estação.
+suit-sensor-description-cords = O status de saúde e a posição do usuário são relatados à estação.
 
 ## Popups
 
@@ -18,7 +18,7 @@ suit-sensor-mode-state = Sensores da roupa: { $mode }
 
 ## Components
 
-suit-sensor-component-unknown-name = ID desconhecido
+suit-sensor-component-unknown-name = Desconhecido
 suit-sensor-component-unknown-job = Nenhum cargo
 
 ## Examine

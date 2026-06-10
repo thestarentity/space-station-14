@@ -1,13 +1,13 @@
 station-event-ion-storm-start-announcement = Tempestade iônica detectada perto da estação. Por favor, verifique todos os equipamentos controlados por IA para erros.
 ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={ $length } chars="@@###$$&%!01"/][/font]
-ion-storm-you = Você
+ion-storm-you = VOCÊ
 ion-storm-the-station = A ESTAÇÃO
 ion-storm-the-crew = A TRIPULAÇÃO
 ion-storm-the-job = O { $job }
 ion-storm-clowns = PALHAÇOS
 ion-storm-heads = CHEFES DE DEPARTAMENTO
-ion-storm-crew = Tripulantes
-ion-storm-people = Pessoas
+ion-storm-crew = TRIPULANTES
+ion-storm-people = PESSOAS
 ion-storm-adjective-things = { $adjective } COISAS
 ion-storm-x-and-y = { $x } E { $y }
 # subjects can generally be threats or jobs or objects
@@ -22,53 +22,47 @@ ion-storm-law-thing-harmful = { ION-THING($ion) } É PERIGOSO PARA A TRIPULAÇÃ
 ion-storm-law-job-harmful = { ION-ADJECTIVE($ion) } { ION-JOB($ion) } SÃO PREJUDICIAIS PARA A TRIPULAÇÃO
 # thing is objects or concept, adjective applies in both cases
 # this means you can get a law like "NOT HAVING CHRISTMAS-STEALING COMMUNISM IS HARMFUL TO THE CREW" :)
-ion-storm-law-having-harmful = HAVING { ION-ADJECTIVE($ion) } { ION-THING($ion) } É PREJUDICIAL PARA A TRIPULAÇÃO
+ion-storm-law-having-harmful = TER { ION-ADJECTIVE($ion) } { ION-THING($ion) } É PREJUDICIAL PARA A TRIPULAÇÃO
 ion-storm-law-not-having-harmful = NÃO TER { ION-ADJECTIVE($ion) } { ION-THING($ion) } É PREJUDICIAL PARA A TRIPULAÇÃO
 # require is a concept or require
 ion-storm-law-requires =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
-        [true] REQUERIDO
-       *[false] REQUERIDO
+        [true] REQUEREM
+       *[false] REQUER
     } { ION-REQUIRE($ion) }
 ion-storm-law-requires-subjects =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
-        [true] REQUERIDO
-       *[false] REQUERIDO
+        [true] REQUEREM
+       *[false] REQUER
     } { ION-NUMBER-BASE($ion) } { ION-NUMBER-MOD($ion) } { ION-ADJECTIVE($ion) } { ION-SUBJECT($ion) }
 ion-storm-law-allergic =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
-        [true]
-            ESTÁ
-            
-            ESTÁ
-       *[false] A tempestade de íons não afeta você.
-    }{ ION-SEVERITY($ion) } ALÉRGICO(A) A { ION-ALLERGY($ion) }
+        [true] SÃO
+       *[false] É
+    } { ION-SEVERITY($ion) } ALÉRGICO(A) A { ION-ALLERGY($ion) }
 ion-storm-law-allergic-subjects =
     { ION-WHO-GENERAL($ion) } { ION-PLURAL($ion) ->
-        [true]
-            ESTÁ
-            
-            ESTÁ
-       *[false] A tempestade de íons não afeta você.
-    }{ ION-SEVERITY($ion) } ALÉRGICO(A) PARA { ION-ADJECTIVE($ion) } { ION-SUBJECT($ion) }
+        [true] SÃO
+       *[false] É
+    } { ION-SEVERITY($ion) } ALÉRGICO(A) A { ION-ADJECTIVE($ion) } { ION-SUBJECT($ion) }
 ion-storm-law-feeling = { ION-WHO-GENERAL($ion) } { ION-FEELING($ion) } { ION-CONCEPT($ion) }
 ion-storm-law-feeling-subjects = { ION-WHO-GENERAL($ion) } { ION-FEELING($ion) } { ION-NUMBER-BASE($ion) } { ION-NUMBER-MOD($ion) } { ION-ADJECTIVE($ion) } { ION-SUBJECT($ion) }
 ion-storm-law-you-are = VOCÊ AGORA É { ION-CONCEPT($ion) }
 ion-storm-law-you-are-subjects = VOCÊ AGORA É { ION-NUMBER-BASE($ion) } { ION-NUMBER-MOD($ion) } { ION-ADJECTIVE($ion) }  { ION-SUBJECT($ion) }
-ion-storm-law-you-must-always = Você sempre deve { ION-MUST($ion) }
+ion-storm-law-you-must-always = VOCÊ SEMPRE DEVE { ION-MUST($ion) }
 ion-storm-law-you-must-never = VOCÊ NUNCA DEVE { ION-MUST($ion) }
 ion-storm-law-eat = O { ION-WHO($ion) } DEVE COMER { ION-ADJECTIVE($ion) } { ION-FOOD($ion) } PARA SOBREVIVER
 ion-storm-law-drink = O { ION-WHO($ion) } DEVE BEBER { ION-ADJECTIVE($ion) } { ION-DRINK($ion) } PARA SOBREVIVER
 ion-storm-law-change-job = O { ION-WHO($ion) } AGORA É { ION-ADJECTIVE($ion) } { ION-CHANGE($ion) }
 ion-storm-law-highest-rank = OS { ION-WHO-RANDOM($ion) } AGORA SÃO OS TRIPULANTES DE MAIOR RANKING
-ion-storm-law-lowest-rank = O { ION-WHO-RANDOM($ion) } AGORA É O TRIPLICANTE DE MENOR RANK
+ion-storm-law-lowest-rank = OS { ION-WHO-RANDOM($ion) } AGORA SÃO OS TRIPULANTES DE MENOR RANKING
 ion-storm-law-who-dagd = { ION-WHO-RANDOM($ion) } DEVE MORRER UMA MORTE GLORIOSA!
 ion-storm-law-crew-must = O { ION-WHO($ion) } DEVE { ION-MUST($ion) }
 ion-storm-law-crew-must-go = O { ION-WHO($ion) } DEVE IR PARA { ION-AREA($ion) }
 ion-storm-part =
     { ION-PART($ion) ->
-        [true] A tempestade iônica está se aproximando da estação. Prepare-se para a tempestade iônica.
-       *[false] Não parte
+        [true] PARTE
+       *[false] NÃO PARTE
     }
 # due to phrasing, this would mean a law such as
 # ONLY HUMANS ARE NOT PART OF THE CREW

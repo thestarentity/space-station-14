@@ -16,19 +16,19 @@ ghost-roles-window-title = Papéis Fantasma
 ghost-roles-window-available-button = Disponível ({ $rolesCount })
 ghost-roles-window-join-raffle-button = Participar do sorteio
 ghost-roles-window-raffle-in-progress-button =
-    Participar do sorteio ({ $time } restantes,{ $players ->
+    Participar do sorteio ({ $time } restante, { $players ->
         [one] { $players } jogador
        *[other] { $players } jogadores
-    } Rifa em andamento
+    })
 ghost-roles-window-leave-raffle-button =
-    Sair do sorteio ({ $time } restante,{ $players ->
+    Sair do sorteio ({ $time } restante, { $players ->
         [one] { $players } jogador
        *[other] { $players } jogadores
-    } Rifa em andamento
+    })
 ghost-roles-window-request-role-button = Solicitar
 ghost-roles-window-request-role-button-timer = Solicitação ({ $time }s)
 ghost-roles-window-follow-role-button = Seguir
 ghost-roles-window-no-roles-available-label = Atualmente não há papéis de fantasma disponíveis.
 ghost-roles-window-rules-footer = O botão será ativado após { $time } segundos (este atraso é para garantir que você leia as regras).
-ghost-return-to-body-title = Retorne ao Corpo
+ghost-return-to-body-title = Retornar ao Corpo
 ghost-return-to-body-text = Você está sendo revivido! Retornar ao seu corpo?

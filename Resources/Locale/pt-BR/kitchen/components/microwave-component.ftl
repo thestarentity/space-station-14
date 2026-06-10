@@ -19,7 +19,7 @@ microwave-bound-user-interface-cook-time-label = TEMPO DE COZINHA: { $time }
 
 microwave-menu-title = Micro-ondas
 microwave-menu-start-button = Iniciar
-microwave-menu-eject-all-text = Expulsar Todos os Conteúdos
+microwave-menu-eject-all-text = Ejetar Todo o Conteúdo
 microwave-menu-eject-all-tooltip = Isso vaporiza todos os reagentes, mas ejetará qualquer sólido.
 microwave-menu-instant-button = INSTANT
 microwave-menu-footer-flavor-left = Não insira nenhum objeto eletrônico, metálico ou vivo.

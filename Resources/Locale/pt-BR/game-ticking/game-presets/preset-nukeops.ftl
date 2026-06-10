@@ -7,8 +7,8 @@ nukeops-briefing = Seus objetivos são simples. Entregue a carga e saia antes qu
 nukeops-opsmajor = [color=crimson]Vitória importante do Sindicato![/color]
 nukeops-opsminor = [color=crimson]Vitória menor do Sindicato![/color]
 nukeops-neutral = [color=yellow]Resultado neutro![/color]
-nukeops-crewminor = [Vitória de tripulante menor!]
-nukeops-crewmajor = [Vitória maior da tripulação!]
+nukeops-crewminor = [color=green]Vitória menor da tripulação![/color]
+nukeops-crewmajor = [color=green]Vitória maior da tripulação![/color]
 nukeops-cond-nukeexplodedoncorrectstation = Os operativos nucleares conseguiram destruir a estação.
 nukeops-cond-nukeexplodedonnukieoutpost = O posto avançado operativo nuclear foi destruído por uma explosão nuclear!
 nukeops-cond-nukeexplodedonincorrectlocation = A bomba nuclear detonou fora da estação.
@@ -37,5 +37,5 @@ nukeops-list-name-user = - [color=White]{ $name }[/color] ([color=gray]{ $user }
 nukeops-not-enough-ready-players = Não há jogadores suficientes preparados para o jogo! Havia { $readyPlayersCount } jogadores preparados de um total de { $minimumPlayers } necessário. Não é possível iniciar o Nukeops.
 nukeops-no-one-ready = Nenhum jogador se preparou! Não é possível iniciar Nukeops.
 nukeops-role-commander = Comandante
-nukeops-role-agent = Médico
+nukeops-role-agent = Soldado
 nukeops-role-operator = Operador

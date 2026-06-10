@@ -1,4 +1,4 @@
-voice-mask-default-name-override = ID desconhecido
+voice-mask-default-name-override = Desconhecido
 voice-mask-name-change-window = Alterar Nome da Máscara de Voz
 voice-mask-name-change-info = Digite o nome que você quer imitar.
 voice-mask-name-change-speech-style = Estilo de fala

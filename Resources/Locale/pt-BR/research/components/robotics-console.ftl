@@ -1,7 +1,7 @@
 robotics-console-window-title = Console de Robótica
 robotics-console-no-cyborgs = Nenhum Ciborgue!
-robotics-console-select-cyborg = Selecione um ciborgente acima.
-robotics-console-model = [color=gray]Model:[/color] { $name }
+robotics-console-select-cyborg = Selecione um ciborgue acima.
+robotics-console-model = [color=gray]Modelo:[/color] { $name }
 # name is not formatted to prevent players trolling
 robotics-console-designation = [color=gray]Designação:[/color]
 robotics-console-battery = [color=gray]Carga da bateria:[/color] [color={ $color }]{ $charge }[/color]%

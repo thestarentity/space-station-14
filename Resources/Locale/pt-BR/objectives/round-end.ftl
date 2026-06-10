@@ -5,7 +5,7 @@ objectives-round-end-result =
     }
 objectives-round-end-result-in-custody = { $custody } de { $count } { MAKEPLURAL($agent) } estavam em custódia.
 objectives-player-user-named = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color])
-objectives-player-named = { $name }
+objectives-player-named = [color=White]{ $name }[/color]
 objectives-no-objectives = { $custody }{ $title } era um { $agent }.
 objectives-with-objectives = { $custody }{ $title } foi um { $agent } que tinha os seguintes objetivos:
 objectives-objective-success = { $objective } | [color=green]Sucesso![/color] ({ TOSTRING($progress, "P0") })

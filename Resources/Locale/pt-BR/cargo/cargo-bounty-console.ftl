@@ -3,14 +3,14 @@ bounty-console-label-button-text = Imprimir etiqueta
 bounty-console-skip-button-text = Ignorar
 bounty-console-time-label = Tempo: [color=orange]{ $time }[/color]
 bounty-console-reward-label = Recompensa: [color=limegreen]${ $reward }[/color]
-bounty-console-manifest-label = Manifest: [color=orange]{ $item }[/color]
+bounty-console-manifest-label = Manifesto: [color=orange]{ $item }[/color]
 bounty-console-manifest-entry =
     { $amount ->
         [1] { $item }
        *[other] { $item } x{ $amount }
     }
 bounty-console-manifest-reward = Recompensa: ${ $reward }
-bounty-console-description-label = { $description }
+bounty-console-description-label = [color=gray]{ $description }[/color]
 bounty-console-id-label = ID#{ $id }
 bounty-console-flavor-left = Bônus obtidos de vendedores locais desonestos.
 bounty-console-flavor-right = v1.4

@@ -22,7 +22,7 @@ lobby-state-song-no-song-text = Nenhuma música da sala de espera está tocando.
 lobby-state-song-unknown-title = [color=dimgray]Título desconhecido[/color]
 lobby-state-song-unknown-artist = [color=dimgray]Artista desconhecido[/color]
 lobby-state-background-text = Menu art: [color=white]{ $backgroundTitle }[/color] por [color=white]{ $backgroundArtist }[/color]
-lobby-state-background-no-background-text = Nenhum arte do menu carregado.
+lobby-state-background-no-background-text = Nenhuma arte do menu carregada.
 lobby-state-background-unknown-title = [color=dimgray]Título desconhecido[/color]
 lobby-state-background-unknown-artist = [color=dimgray]Artista desconhecido[/color]
 lobby-state-playtime-comment-normal =

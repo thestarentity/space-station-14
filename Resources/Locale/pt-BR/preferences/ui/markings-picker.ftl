@@ -20,8 +20,8 @@ markings-limits = { $required ->
     }
 }
 markings-reorder = Reordenar marcas
-humanoid-marking-modifier-respect-limits = Respeite os limites
-humanoid-marking-modifier-respect-group-sex = Restrições de grupo de respeito & sexo
+humanoid-marking-modifier-respect-limits = Respeitar limites
+humanoid-marking-modifier-respect-group-sex = Respeitar restrições de grupo e sexo
 humanoid-marking-modifier-base-layers = Camadas básicas
 humanoid-marking-modifier-enable = Ativar
 humanoid-marking-modifier-prototype-id = ID do protótipo
@@ -29,7 +29,7 @@ humanoid-marking-modifier-prototype-id = ID do protótipo
 # Categories
 
 markings-organ-Torso = Tórax
-markings-organ-Head = Cabeça carbonizada
+markings-organ-Head = Cabeça
 markings-organ-ArmLeft = Braço Esquerdo
 markings-organ-ArmRight = Braço Direito
 markings-organ-HandRight = Mão Direita
@@ -45,11 +45,11 @@ markings-layer-Tail-Moth = Asas
 markings-layer-Hair = Cabelo
 markings-layer-FacialHair = Cabelo Facial
 markings-layer-UndergarmentTop = Camiseta interior
-markings-layer-UndergarmentBottom = Calções
-markings-layer-Chest = Cofre
-markings-layer-Head = Cabeça carbonizada
-markings-layer-Snout = Snout
-markings-layer-SnoutCover = Snout (Cobertura)
+markings-layer-UndergarmentBottom = Cuecas/Calcinhas
+markings-layer-Chest = Tórax
+markings-layer-Head = Cabeça
+markings-layer-Snout = Focinho
+markings-layer-SnoutCover = Focinho (Cobertura)
 markings-layer-HeadSide = Cabeça (Lado)
 markings-layer-HeadTop = Cabeça (Topo)
 markings-layer-Eyes = Olhos
@@ -61,5 +61,5 @@ markings-layer-RLeg = Perna Direita
 markings-layer-LLeg = Perna Esquerda
 markings-layer-RFoot = Pé Direito
 markings-layer-LFoot = Pé Esquerdo
-markings-layer-Overlay = Sobrepainel
-markings-layer-TailOverlay = Sobrepainel
+markings-layer-Overlay = Sobreposição
+markings-layer-TailOverlay = Sobreposição

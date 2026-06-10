@@ -16,6 +16,6 @@ ame-window-refresh-parts-button = Recarregar Peças
 ame-window-core-count-label = Quantidade de núcleos:
 ame-window-power-currentsupply-label = Fornecimento de energia atual:
 ame-window-power-targetsupply-label = Fornecimento de energia alvo:
-ame-window-eject-button = Expulsar
+ame-window-eject-button = Ejetar
 ame-window-increase-fuel-button = Aumentar
 ame-window-decrease-fuel-button = Diminuir

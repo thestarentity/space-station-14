@@ -11,7 +11,7 @@ reagent-dispenser-bound-user-interface-title = Dispensador de Reagentes
 
 reagent-dispenser-window-amount-to-dispense-label = Quantidade
 reagent-dispenser-window-clear-button = Limpar
-reagent-dispenser-window-eject-button = Expulsar
+reagent-dispenser-window-eject-button = Ejetar
 reagent-dispenser-window-eject-container-button = Ejetar recipiente
 reagent-dispenser-window-no-container-loaded-text = Nenhum recipiente carregado.
 reagent-dispenser-window-reagent-name-not-found-text = Nome do reagente não encontrado

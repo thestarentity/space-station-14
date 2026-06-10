@@ -8,13 +8,13 @@ station-ai-fixer-console-repair-successful = Conserto completo. A IA foi reinici
 station-ai-fixer-console-purge-successful = Purga completa. IA excluída com sucesso.
 # UI
 station-ai-fixer-console-window = Console de restauração da IA
-station-ai-fixer-console-window-no-station-ai = Nenhum AI detectado
+station-ai-fixer-console-window-no-station-ai = Nenhuma IA detectada
 station-ai-fixer-console-window-no-station-ai-status = Aguardando
 station-ai-fixer-console-window-station-ai-online = Online
 station-ai-fixer-console-window-station-ai-offline = Offline
 station-ai-fixer-console-window-station-ai-rebooting = Reiniciando...
 station-ai-fixer-console-window-controls-locked = Controles travados
-station-ai-fixer-console-window-station-ai-eject = Expulsar unidade de armazenamento
+station-ai-fixer-console-window-station-ai-eject = Ejetar unidade de armazenamento
 station-ai-fixer-console-window-station-ai-repair = Executar ferramenta de reparo
 station-ai-fixer-console-window-station-ai-purge = Iniciar purga de IA
 station-ai-fixer-console-window-action-progress-repair = Reparo em andamento...

@@ -15,4 +15,4 @@ apc-menu-power-state-label-tripped = SOBRECARGA
 # For the flavor text on the footer
 
 apc-menu-flavor-left = Entre em contato com um engenheiro para obter assistência.
-apc-menu-flavor-right = Vamos ao que interessa. O que você quer para o jantar?
+apc-menu-flavor-right = v1.2

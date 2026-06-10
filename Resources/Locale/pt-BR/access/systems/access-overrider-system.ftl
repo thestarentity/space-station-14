@@ -1,5 +1,5 @@
 access-overrider-window-privileged-id = ID de Acesso Privilegiado:
-access-overrider-window-eject-button = Expulsar
+access-overrider-window-eject-button = Ejetar
 access-overrider-window-insert-button = Inserir
 access-overrider-window-target-label = Dispositivo conectado:
 access-overrider-window-no-target = Nenhum dispositivo conectado

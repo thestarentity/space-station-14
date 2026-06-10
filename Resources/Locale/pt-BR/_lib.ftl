@@ -6,8 +6,8 @@ zzzz-fmt-pressure =
         [0] kPa
         [1] MPa
         [2] GPa
-        [3] Pressão: 
-        [4] Pressão: 
+        [3] TPa
+        [4] PBa
        *[5] ???
     }
 # Used internally by the POWERWATTS() function.
@@ -27,7 +27,7 @@ zzzz-fmt-power-joules =
     { TOSTRING($divided, "F1") } { $places ->
         [0] J
         [1] kJ
-        [2] Megajoule
+        [2] MJ
         [3] GJ
         [4] TJ
        *[5] ???

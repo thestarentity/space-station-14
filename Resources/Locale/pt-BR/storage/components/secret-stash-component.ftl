@@ -9,19 +9,19 @@ comp-secret-stash-on-destroyed-popup = Algo cai do { $stashname }!
 
 ### Verbs
 
-comp-secret-stash-verb-insert-into-stash = Item para guardar
+comp-secret-stash-verb-insert-into-stash = Esconder item
 comp-secret-stash-verb-insert-message-item-already-inside = Já há um item dentro do { $stashname }.
-comp-secret-stash-verb-insert-message-no-item = Esconde { THE($item) } na { $stashname }.
+comp-secret-stash-verb-insert-message-no-item = Esconder { THE($item) } no { $stashname }.
 comp-secret-stash-verb-take-out-item = Pegar item
-comp-secret-stash-verb-take-out-message-something = Leve o conteúdo da { $stashname } para fora.
+comp-secret-stash-verb-take-out-message-something = Tirar o conteúdo do { $stashname }.
 comp-secret-stash-verb-take-out-message-nothing = Não há nada dentro do { $stashname }.
 comp-secret-stash-verb-close = Fechar
 comp-secret-stash-verb-cant-close = Você não pode fechar o { $stashname } com isso.
-comp-secret-stash-verb-open = Aberto
+comp-secret-stash-verb-open = Abrir
 
 ### Stash names
 
-secret-stash-plant = plantar
+secret-stash-plant = planta
 secret-stash-toilet = tanque do vaso sanitário
-secret-stash-plushie = brinquedo de pelúcia
+secret-stash-plushie = pelúcia
 secret-stash-cake = bolo

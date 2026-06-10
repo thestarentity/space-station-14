@@ -18,7 +18,7 @@ strip-all-verb-get-data-text = Remover Tudo
 
 ## UI
 
-strippable-bound-user-interface-stripping-menu-title = { CAPITALIZE($ownerName) }
+strippable-bound-user-interface-stripping-menu-title = Inventário de { CAPITALIZE($ownerName) }
 strippable-bound-user-interface-stripping-menu-ensnare-button = Remover Restrições das Pernas
 strippable-bound-user-interface-stripping-menu-admin-button = Alternar Visão de Administração
 strippable-bound-user-interface-stripping-menu-admin-button-tooltip =

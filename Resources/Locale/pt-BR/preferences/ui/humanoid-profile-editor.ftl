@@ -25,12 +25,12 @@ humanoid-profile-editor-reset-button = Redefinir
 humanoid-profile-editor-spawn-priority-label = Prioridade de spawn:
 humanoid-profile-editor-eyes-label = Cor da íris:
 humanoid-profile-editor-jobs-tab = Empregos
-humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Fique na sala de espera se a preferência não estiver disponível.
-humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Seja { INDEFINITE($overflowJob) } { $overflowJob } se a preferência não estiver disponível.
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Ficar na sala de espera se a preferência não estiver disponível.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Entrar como { INDEFINITE($overflowJob) } { $overflowJob } se a preferência não estiver disponível.
 humanoid-profile-editor-preference-jumpsuit = Macacão
-humanoid-profile-editor-preference-jumpskirt = Saia de salto
+humanoid-profile-editor-preference-jumpskirt = Saia-macacão
 humanoid-profile-editor-preference-backpack = Mochila
-humanoid-profile-editor-preference-satchel = Saco de pano
+humanoid-profile-editor-preference-satchel = Mochila lateral
 humanoid-profile-editor-preference-duffelbag = Mochila de Duffel
 humanoid-profile-editor-guidebook-button-tooltip = Clique para mais informações
 # Spawn priority

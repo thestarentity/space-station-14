@@ -17,7 +17,7 @@ traitor-death-match-title = Traição: Luta Mortal
 traitor-death-match-description = Todo mundo é traidor. Todo mundo quer matar o outro.
 traitor-death-match-station-is-too-unsafe-announcement = A estação é muito insegura para continuar. Você tem um minuto.
 traitor-death-match-end-round-description-first-line = Os PDAs recuperados depois...
-traitor-death-match-end-round-description-entry = { $originalName }, com { $tcBalance } TC
+traitor-death-match-end-round-description-entry = PDA de { $originalName }, com { $tcBalance } TC
 
 ## TraitorRole
 
@@ -32,7 +32,7 @@ traitor-role-codewords =
     As palavras-chave podem ser usadas em conversas normais para se identificar discretamente a outros agentes do sindicato.
     Escute por elas e mantenha-as em segredo.
 traitor-role-uplink-code =
-    Defina o toque de seu anel para as notas [color=lightgray]{ $code }[/color] para bloquear ou desbloquear seu uplink.
+    Defina o toque de seu PDA para as notas [color=lightgray]{ $code }[/color] para bloquear ou desbloquear seu uplink.
     Lembre-se de bloqueá-lo depois, ou a tripulação da estação pode encontrá-lo!
 traitor-role-uplink-implant =
     O implante de uplink foi ativado, acesse-o a partir de sua barra de atalhos.

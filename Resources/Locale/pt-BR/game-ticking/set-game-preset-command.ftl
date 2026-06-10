@@ -1,6 +1,6 @@
 set-game-preset-command-description = Define o preset do jogo para o número especificado de rodadas futuras. Também pode exibir o título e a descrição de outro preset na sala de espera para enganar os jogadores.
 set-game-preset-command-help-text = definirpresetdejogo <id> [número de rodadas, padrão 1] [preset de decoy]
-set-game-preset-command-hint-1 = Configuração de jogo: Use o comando "setgamepreset" para definir uma configuração de jogo padrão.
+set-game-preset-command-hint-1 = <id>
 set-game-preset-command-hint-2 = [numero de rodadas]
 set-game-preset-command-hint-3 = [pré-configuração de isca]
 set-game-preset-optional-argument-not-integer = Se o argumento 2 for fornecido, ele deve ser um número.

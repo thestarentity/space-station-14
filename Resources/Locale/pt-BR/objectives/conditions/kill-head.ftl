@@ -1,1 +1,1 @@
-objective-condition-kill-head-title = Mata { $targetName }, { CAPITALIZE($job) }
+objective-condition-kill-head-title = Matar { $targetName }, { CAPITALIZE($job) }

@@ -1,4 +1,4 @@
 dump-verb-name = Derramar no chão
-dump-disposal-verb-name = Descartar para fora em { $unit }
-dump-placeable-verb-name = Derrame sobre { $surface }
+dump-disposal-verb-name = Descartar em { $unit }
+dump-placeable-verb-name = Derramar sobre { $surface }
 dump-smartfridge-verb-name = Reabastecer em { $unit }

@@ -1,6 +1,6 @@
 atmos-pipe-layers-component-layer-primary = primário
 atmos-pipe-layers-component-layer-secondary = secundário
-atmos-pipe-layers-component-layer-tertiary = terciária
+atmos-pipe-layers-component-layer-tertiary = terciário
 atmos-pipe-layers-component-change-layer = Ajustado para sua configuração { $layerName }.
 atmos-pipe-layers-component-current-layer = Está em sua configuração { $layerName }.
 atmos-pipe-layers-component-select-layer = { CAPITALIZE($layerName) } configuração

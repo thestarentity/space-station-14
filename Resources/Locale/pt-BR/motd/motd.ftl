@@ -1,11 +1,11 @@
 cmd-motd-desc = Imprime ou define a Mensagem do Dia.
 cmd-motd-help = motd [ mensagem... ]
 cmd-get-motd-desc = Exibe a Mensagem do Dia.
-cmd-get-motd-help = Mostra a mensagem do dia.
-cmd-set-motd-desc = Define ou limpe a Mensagem do Dia.
-cmd-set-motd-help = Define a mensagem que será exibida para todos os tripulantes ao conectarem-se à estação.
-cmd-set-motd-hint-head = Clique no botão "Definir MOTD" para definir a mensagem que será exibida para todos os tripulantes.
-cmd-set-motd-hint-cont = Clique no botão "Enviar" para definir a mensagem.
+cmd-get-motd-help = get-motd
+cmd-set-motd-desc = Define ou limpa a Mensagem do Dia.
+cmd-set-motd-help = set-motd [ mensagem... ]
+cmd-set-motd-hint-head = [ mensagem... ]
+cmd-set-motd-hint-cont = [ ...mensagem... ]
 cmd-set-motd-cleared-motd-message = Mensagem do Dia limpa.
-cmd-set-motd-set-motd-message = Defina a Mensagem do Dia para "{ $motd }".
+cmd-set-motd-set-motd-message = Mensagem do Dia definida como "{ $motd }".
 motd-wrap-message = Mensagem do Dia: { $motd }

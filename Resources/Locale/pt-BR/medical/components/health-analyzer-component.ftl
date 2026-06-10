@@ -1,7 +1,7 @@
 health-analyzer-window-no-patient-data-text = Nenhum dado do paciente.
-health-analyzer-window-entity-unknown-text = ID desconhecido
+health-analyzer-window-entity-unknown-text = Desconhecido
 health-analyzer-window-entity-unknown-species-text = Não Humanoide
-health-analyzer-window-entity-unknown-value-text = Valor inválido.
+health-analyzer-window-entity-unknown-value-text = N/A
 health-analyzer-window-entity-alive-text = Vivo
 health-analyzer-window-entity-dead-text = Morto
 health-analyzer-window-entity-critical-text = Crítico
@@ -16,4 +16,4 @@ health-analyzer-window-entity-bleeding-text = [color=red]O paciente tem feridas 
 health-analyzer-window-scan-mode-text = Modo de varredura:
 health-analyzer-window-scan-mode-active = Ativo
 health-analyzer-window-scan-mode-inactive = Inativo
-health-analyzer-popup-scan-target = { CAPITALIZE(THE($user)) } está tentando escanear você!
+health-analyzer-popup-scan-target = { CAPITALIZE(THE($user)) } está tentando fazer uma varredura em você!

@@ -36,7 +36,7 @@ air-alarm-ui-gases = { $gas }: { $amount } mol ({ $percentage }%)
 air-alarm-ui-gases-indicator = { $gas }: [color={ $color }]{ $amount } mol ({ $percentage }%)[/color]
 air-alarm-ui-mode-filtering = Filtragem
 air-alarm-ui-mode-wide-filtering = Filtragem (ampla)
-air-alarm-ui-mode-fill = Preencha
+air-alarm-ui-mode-fill = Preencher
 air-alarm-ui-mode-panic = Pânico
 air-alarm-ui-mode-none = Nenhum
 air-alarm-ui-pump-direction-siphoning = Sifonando
@@ -61,7 +61,7 @@ air-alarm-ui-atmos-net-device-label = Endereço: { $address }
 
 ### Vent pumps
 
-air-alarm-ui-vent-pump-label = Direção do vento
+air-alarm-ui-vent-pump-label = Direção da ventilação
 air-alarm-ui-vent-pressure-label = Pressão limitada
 air-alarm-ui-vent-external-bound-label = Limites externos
 air-alarm-ui-vent-internal-bound-label = Limites internos

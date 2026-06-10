@@ -18,14 +18,14 @@ comp-pda-ui-station = Estação: [color=white]{ $station }[/color]
 comp-pda-ui-station-alert-level = Nível de Alerta: [color={ $color }]{ $level }[/color]
 comp-pda-ui-station-alert-level-instructions = Instruções: [color=white]{ $instructions }[/color]
 comp-pda-ui-station-time = Duração do turno: [color=white]{ $time }[/color]
-comp-pda-ui-eject-id-button = Expulsar ID
-comp-pda-ui-eject-pen-button = Expulsar Caneta
-comp-pda-ui-ringtone-button = Sino de ligação
+comp-pda-ui-eject-id-button = Ejetar ID
+comp-pda-ui-eject-pen-button = Ejetar Caneta
+comp-pda-ui-ringtone-button = Toque
 comp-pda-ui-ringtone-button-description = Mude o tom de campainha do seu PDA
 comp-pda-ui-toggle-flashlight-button = Ativar Lanterna
 pda-bound-user-interface-music-button = Instrumento Musical
 pda-bound-user-interface-music-button-description = Toque música no seu PDA
-comp-pda-ui-unknown = ID desconhecido
+comp-pda-ui-unknown = Desconhecido
 comp-pda-ui-unassigned = Não atribuído
 pda-notification-message = [font size=12][bold]PDA[/bold] { $header }: [/font]
     "{ $message }"

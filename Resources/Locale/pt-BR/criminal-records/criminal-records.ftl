@@ -4,14 +4,14 @@ criminal-records-console-select-record-info = Selecione um registro.
 criminal-records-console-no-records = Nenhum registro encontrado!
 criminal-records-console-no-record-found = Nenhum registro foi encontrado para a pessoa selecionada.
 criminal-records-console-flavor-left = Pegue primeiro! Pergunte depois.
-criminal-records-console-flavor-right = Agora, você pode personalizar o sabor do seu console de carga!
+criminal-records-console-flavor-right = v2.1
 criminal-records-console-show-all = Todos
 
 ## Status
 
-criminal-records-console-status = Estado do alarme
+criminal-records-console-status = Status
 criminal-records-status-none = Nenhum
-criminal-records-status-wanted = Desejado
+criminal-records-status-wanted = Procurado
 criminal-records-status-detained = Detido
 criminal-records-status-suspected = Suspeito
 criminal-records-status-discharged = Desligado
@@ -28,15 +28,15 @@ criminal-records-console-reason-placeholder = Por exemplo: { $placeholder }
 criminal-records-console-crime-history = Histórico de Crimes
 criminal-records-history-placeholder = Escreva o crime aqui
 criminal-records-no-history = Este tripulante não tem histórico criminal.
-criminal-records-add-history = Adicionar histórico
+criminal-records-add-history = Adicionar
 criminal-records-delete-history = Excluir
 criminal-records-permission-denied = Acesso negado
 
 ## Security channel notifications
 
-criminal-records-console-wanted = { $name } ({ $job }) foi colocado na lista de procurados por { $officer } por: { $reason }.
+criminal-records-console-wanted = { $name } ({ $job }) foi marcado como procurado por { $officer } por: { $reason }.
 criminal-records-console-not-wanted = { $officer } removeu o status de procurado de { $name } ({ $job }).
-criminal-records-console-suspected = { $officer } marcou { $name } ({ $job }) como suspeito porque de: { $reason }
+criminal-records-console-suspected = { $officer } marcou { $name } ({ $job }) como suspeito por: { $reason }
 criminal-records-console-not-suspected = { $name } ({ $job }) foi descaracterizado como suspeito por { $officer }.
 criminal-records-console-detained = { $name } ({ $job }) foi detido por { $officer }.
 criminal-records-console-released = { $name } ({ $job }) foi liberado por { $officer }.
@@ -59,5 +59,5 @@ criminal-records-species-filter = Espécie
 
 ## Arrest auto history lines
 
-criminal-records-console-auto-history = ARRESTADO: { $reason }
+criminal-records-console-auto-history = PRESO: { $reason }
 criminal-records-console-unspecified-reason = <razão não especificada>

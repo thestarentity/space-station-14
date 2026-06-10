@@ -17,11 +17,11 @@ control-verb-open-control-panel-text = Abrir Painel de Controle
 gas-tank-window-internals-toggle-button = Alternar
 gas-tank-window-output-pressure-label = Pressão de Saída
 gas-tank-window-tank-pressure-text = Pressão: { $tankPressure } kPA
-gas-tank-window-internal-text = Internals: { $status }
+gas-tank-window-internal-text = Internos: { $status }
 gas-tank-window-internal-connected = [color=green]Conectado[/color]
 gas-tank-window-internal-disconnected = [color=red]Desconectado[/color]
 
 ## Valve
 
-comp-gas-tank-open-valve = Abra a válvula
-comp-gas-tank-close-valve = Feche a válvula
+comp-gas-tank-open-valve = Abrir válvula
+comp-gas-tank-close-valve = Fechar válvula

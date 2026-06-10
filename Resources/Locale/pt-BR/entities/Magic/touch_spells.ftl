@@ -1,5 +1,5 @@
-ent-ActionSmite = Esmaivar
-    .desc = Gib instantaneamente um alvo.
+ent-ActionSmite = Fulminar
+    .desc = Destroça instantaneamente um alvo.
 
 ent-ActionCluwne = A Maldição do Cluwne
     .desc = Transforma alguém em um Cluwne!

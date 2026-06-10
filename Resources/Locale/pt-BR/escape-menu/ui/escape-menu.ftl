@@ -1,6 +1,6 @@
 ### EscapeMenu.xaml
 
-ui-escape-title = Sair
+ui-escape-title = Menu do Jogo
 ui-escape-options = Opções
 ui-escape-rules = Regras
 ui-escape-guidebook = Guia

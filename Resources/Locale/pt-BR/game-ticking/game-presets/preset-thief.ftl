@@ -3,5 +3,5 @@ thief-role-greeting-animal =
     Você é um animal kleptomano.
     Roube coisas que você gostar.
 thief-role-greeting-equipment = Você possui uma mochila com ferramentas de ladrões e a habilidade inata de roubar sem ser notado. Escolha seu equipamento inicial e execute seu trabalho de forma furtiva.
-objective-issuer-thief = [Criminoso]
+objective-issuer-thief = [color=#746694]Criminoso[/color]
 thief-round-end-agent-name = Ladrão

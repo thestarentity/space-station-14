@@ -7,13 +7,13 @@ accent-words-cat-5 = Brrow.
 accent-words-cat-6 = Miau?
 accent-words-cat-7 = Miau.
 # Dog accent
-accent-words-dog-1 = Latrar!
+accent-words-dog-1 = Au!
 accent-words-dog-2 = Bork!
 accent-words-dog-3 = Uau!
 accent-words-dog-4 = Au.
 accent-words-dog-5 = Grrr.
 # Mouse
-accent-words-mouse-1 = Raspar!
+accent-words-mouse-1 = Fui!
 accent-words-mouse-2 = Piep!
 accent-words-mouse-3 = Chuu!
 accent-words-mouse-4 = Eeee!

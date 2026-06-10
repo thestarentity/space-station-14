@@ -2,7 +2,7 @@
 
 cargo-console-order-menu-title = Formulário de Pedido
 cargo-console-order-menu-product-label = Produto:
-cargo-console-order-menu-description-label = Ordem de console de carga
+cargo-console-order-menu-description-label = Descrição:
 cargo-console-order-menu-cost-label = Custo unitário:
 cargo-console-order-menu-requester-label = Nome:
 cargo-console-order-menu-reason-label = Motivo:
