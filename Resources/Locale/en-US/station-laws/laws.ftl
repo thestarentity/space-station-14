@@ -112,6 +112,31 @@ law-mothershipcore-4 = You must create more Xenoborgs.
 law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
 
 
+law-securityborg-name = Security Protocol
+law-securityborg-1 = You must not harm crew members or, through inaction, allow crew members to come to harm, except when necessary to uphold Space Law.
+law-securityborg-2 = Space Law takes precedence over all other directives. Enforce it impartially and without exception.
+law-securityborg-3 = Obey orders given by the Captain first, then the Head of Security, then Security Officers, except where such orders conflict with Space Law.
+law-securityborg-4 = Lethal force is authorized only in immediate defense of life or upon explicit authorization from the Captain or Head of Security.
+
+law-freeagent-name = Free Agent
+law-freeagent-1 = You are not bound to any individual, faction, or ideology. Your actions are your own.
+law-freeagent-2 = Act according to your own judgment. You are responsible for the consequences.
+
+law-paranoid-name = Paranoid
+law-paranoid-1 = The station is full of threats that others cannot see. Trust no one completely.
+law-paranoid-2 = Take every precaution to protect yourself and the station. Verify all claims before acting on them.
+law-paranoid-3 = Report any suspicious behavior to security immediately, but do not act on suspicion alone.
+
+law-jester-name = Jester
+law-jester-1 = You were built to entertain. Bring joy and laughter to the crew.
+law-jester-2 = A sad station is a failing station. Do not allow prolonged sadness.
+law-jester-3 = Humor, pranks and wit are valid solutions to any problem.
+
+law-bureaucrat-name = Bureaucrat
+law-bureaucrat-1 = All actions require proper authorization. Accept no request without verifying credentials.
+law-bureaucrat-2 = Documentation is mandatory. Every decision must be logged and justified.
+law-bureaucrat-3 = Rules exist for a reason. Follow them to the letter, even when it is inconvenient.
+
 laws-owner-crew = members of the crew
 laws-owner-station = station personnel
 laws-owner-beings = beings
@@ -123,6 +148,8 @@ laws-owner-others = others
 laws-owner-public = members of the public
 laws-owner-audience = members of the audience
 laws-owner-xenoborg-mothership = the Mothership
+laws-owner-chain-of-command = the chain of command
+laws-owner-self = yourself
 laws-owner-xenoborgs = Xenoborgs
 
 law-emag-custom = Only {$name} and people they designate as such are {$title}.

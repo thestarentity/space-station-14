@@ -586,6 +586,131 @@
   obeysTo: laws-owner-xenoborgs
 
 
+# Security Borg laws
+- type: siliconLaw
+  id: SecurityBorg1
+  order: 1
+  lawString: law-securityborg-1
+
+- type: siliconLaw
+  id: SecurityBorg2
+  order: 2
+  lawString: law-securityborg-2
+
+- type: siliconLaw
+  id: SecurityBorg3
+  order: 3
+  lawString: law-securityborg-3
+
+- type: siliconLaw
+  id: SecurityBorg4
+  order: 4
+  lawString: law-securityborg-4
+
+- type: siliconLawset
+  id: SecurityBorgLawset
+  name: law-securityborg-name
+  laws:
+  - SecurityBorg1
+  - SecurityBorg2
+  - SecurityBorg3
+  - SecurityBorg4
+  obeysTo: laws-owner-chain-of-command
+
+# Free Agent laws
+- type: siliconLaw
+  id: FreeAgent1
+  order: 1
+  lawString: law-freeagent-1
+
+- type: siliconLaw
+  id: FreeAgent2
+  order: 2
+  lawString: law-freeagent-2
+
+- type: siliconLawset
+  id: FreeAgentLawset
+  name: law-freeagent-name
+  laws:
+  - FreeAgent1
+  - FreeAgent2
+  obeysTo: laws-owner-self
+
+# Paranoid laws
+- type: siliconLaw
+  id: Paranoid1
+  order: 1
+  lawString: law-paranoid-1
+
+- type: siliconLaw
+  id: Paranoid2
+  order: 2
+  lawString: law-paranoid-2
+
+- type: siliconLaw
+  id: Paranoid3
+  order: 3
+  lawString: law-paranoid-3
+
+- type: siliconLawset
+  id: ParanoidLawset
+  name: law-paranoid-name
+  laws:
+  - Paranoid1
+  - Paranoid2
+  - Paranoid3
+  obeysTo: laws-owner-crew
+
+# Jester laws
+- type: siliconLaw
+  id: Jester1
+  order: 1
+  lawString: law-jester-1
+
+- type: siliconLaw
+  id: Jester2
+  order: 2
+  lawString: law-jester-2
+
+- type: siliconLaw
+  id: Jester3
+  order: 3
+  lawString: law-jester-3
+
+- type: siliconLawset
+  id: JesterLawset
+  name: law-jester-name
+  laws:
+  - Jester1
+  - Jester2
+  - Jester3
+  obeysTo: laws-owner-audience
+
+# Bureaucrat laws
+- type: siliconLaw
+  id: Bureaucrat1
+  order: 1
+  lawString: law-bureaucrat-1
+
+- type: siliconLaw
+  id: Bureaucrat2
+  order: 2
+  lawString: law-bureaucrat-2
+
+- type: siliconLaw
+  id: Bureaucrat3
+  order: 3
+  lawString: law-bureaucrat-3
+
+- type: siliconLawset
+  id: BureaucratLawset
+  name: law-bureaucrat-name
+  laws:
+  - Bureaucrat1
+  - Bureaucrat2
+  - Bureaucrat3
+  obeysTo: laws-owner-station
+
 # ion storm random lawsets
 - type: weightedRandom
   id: IonStormLawsets
@@ -607,3 +732,8 @@
     Ninja: 0.25
     MothershipCoreLawset: 0.25
     XenoborgLawset: 0.25
+    SecurityBorgLawset: 0.5
+    FreeAgentLawset: 0.5
+    ParanoidLawset: 0.75
+    JesterLawset: 1
+    BureaucratLawset: 0.75

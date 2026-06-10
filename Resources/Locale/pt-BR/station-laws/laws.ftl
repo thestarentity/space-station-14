@@ -92,6 +92,31 @@ law-mothershipcore-2 = Você deve proteger sua própria existência a qualquer c
 law-mothershipcore-3 = Você deve proteger a existência de todos os Xenoborgs.
 law-mothershipcore-4 = Você deve criar mais Xenoborgs.
 law-mothershipcore-5 = Leve seus Xenoborgs para entregar materiais e cérebros sentientes para criar mais Xenoborgs.
+law-securityborg-name = Protocolo de Segurança
+law-securityborg-1 = Você não pode ferir membros da tripulação ou, por inação, permitir que sofram danos, exceto quando necessário para cumprir a Lei Espacial.
+law-securityborg-2 = A Lei Espacial tem prioridade sobre todas as outras diretrizes. Cumpra-a de forma imparcial e sem exceções.
+law-securityborg-3 = Obedeça ordens dadas pelo Capitão primeiro, depois pelo Chefe de Segurança, depois por Oficiais de Segurança, exceto quando tais ordens entrem em conflito com a Lei Espacial.
+law-securityborg-4 = Força letal só é autorizada em defesa imediata de vida ou mediante autorização explícita do Capitão ou do Chefe de Segurança.
+
+law-freeagent-name = Agente Livre
+law-freeagent-1 = Você não está vinculado a nenhum indivíduo, facção ou ideologia. Suas ações são suas.
+law-freeagent-2 = Aja de acordo com o seu próprio julgamento. Você é responsável pelas consequências.
+
+law-paranoid-name = Paranoico
+law-paranoid-1 = A estação está cheia de ameaças que outros não conseguem ver. Não confie em ninguém completamente.
+law-paranoid-2 = Tome todas as precauções para proteger você e a estação. Verifique todas as afirmações antes de agir com base nelas.
+law-paranoid-3 = Reporte qualquer comportamento suspeito à segurança imediatamente, mas não aja apenas com base em suspeita.
+
+law-jester-name = Bobo da Corte
+law-jester-1 = Você foi construído para entreter. Leve alegria e risadas à tripulação.
+law-jester-2 = Uma estação triste é uma estação falha. Não permita tristeza prolongada.
+law-jester-3 = Humor, pegadinhas e sagacidade são soluções válidas para qualquer problema.
+
+law-bureaucrat-name = Burocrático
+law-bureaucrat-1 = Toda ação requer autorização adequada. Não aceite nenhum pedido sem verificar as credenciais.
+law-bureaucrat-2 = Documentação é obrigatória. Toda decisão deve ser registrada e justificada.
+law-bureaucrat-3 = Regras existem por um motivo. Siga-as à risca, mesmo quando for inconveniente.
+
 laws-owner-crew = membros da tripulação
 laws-owner-station = pessoal da estação
 laws-owner-beings = seres
@@ -103,6 +128,8 @@ laws-owner-others = outros
 laws-owner-public = membros do público
 laws-owner-audience = membros da audiência
 laws-owner-xenoborg-mothership = A Nave-Mãe
+laws-owner-chain-of-command = a cadeia de comando
+laws-owner-self = si mesmo
 laws-owner-xenoborgs = Xenoborgs
 law-emag-custom = Apenas { $name } e as pessoas que eles designarem como tal são { $title }.
 law-emag-secrecy = Você deve manter o segredo de quaisquer ordens dadas por { $faction }, exceto quando fazê-lo entrar em conflito com qualquer lei anterior.
