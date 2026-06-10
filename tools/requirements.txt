@@ -1,2 +1,0 @@
-fluent.syntax>=0.19
-requests>=2.28
