@@ -3,6 +3,10 @@ CLAUDE.md
 .env
 .env.*
 
+# API customizada do bot Discord — mantida local, fora do repositório público
+Content.Server/Administration/ServerApi.AdminSync.cs
+Content.Server/Administration/ServerApi.BotCommands.cs
+
 # MSbuild binlog files
 *.binlog
 
