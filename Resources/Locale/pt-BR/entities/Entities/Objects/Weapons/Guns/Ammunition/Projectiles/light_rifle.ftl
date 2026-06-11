@@ -4,9 +4,9 @@ ent-BulletLightRifle = Balas (.30 rifle)
 ent-BulletLightRiflePractice = Balas (.30 fuzil treino)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletLightRifleIncendiary = balas (.30 rifle incendiária)
+ent-BulletLightRifleIncendiary = Balas (.30 fuzil incendiário)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletLightRifleUranium = balas (.30 rifle urânio)
+ent-BulletLightRifleUranium = Balas (.30 fuzil urânio)
 
     .desc = Se você pode ver isso, provavelmente está morto!

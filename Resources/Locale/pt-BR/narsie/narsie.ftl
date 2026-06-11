@@ -1,2 +1,2 @@
-narsie-has-risen = NAR'SIE HAS RISEN
+narsie-has-risen = NAR'SIE RESSURGIU
 narsie-has-risen-sender = ???

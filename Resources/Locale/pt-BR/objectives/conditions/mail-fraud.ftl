@@ -1,1 +1,1 @@
-objective-condition-mail-fraud-title = Cortar em { $count } letras ou pacotes não endereçados a você.
+objective-condition-mail-fraud-title = Abrir { $count } cartas ou pacotes não endereçados a você.

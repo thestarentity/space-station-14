@@ -57,7 +57,7 @@ barsign-prototype-description-ale-nath = Tá certo, cara. Acho que você já tom
 
 ## The Net
 
-barsign-prototype-name-the-net = The Net
+barsign-prototype-name-the-net = A Rede
 barsign-prototype-description-the-net = Você só parece se envolver nisso por horas.
 
 ## Maid Cafe

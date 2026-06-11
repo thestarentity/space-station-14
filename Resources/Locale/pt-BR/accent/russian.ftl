@@ -1,6 +1,6 @@
 accent-russian-words-1 = sim
 accent-russian-words-replace-1 = da
-accent-russian-words-2 = Okay, I'm not sure what you're asking for. Could you please clarify?
+accent-russian-words-2 = não
 accent-russian-words-replace-2 = nyet
 accent-russian-words-3 = vovó
 accent-russian-words-3-2 = vovó
