@@ -19,22 +19,22 @@ ent-RadiationCollectorFlatpack = coletor de radiação flatpack
 ent-ContainmentFieldGeneratorFlatpack = gerador de campo de contenção flatpack
     .desc = Um flatpack usado para construir um gerador de campo de contenção.
 
-ent-EmitterFlatpack = emitter flatpack
+ent-EmitterFlatpack = emissor flatpack
     .desc = Um flatpack usado para construir um emissor.
 
-ent-TeslaGeneratorFlatpack = gerador de telsa flatpack
+ent-TeslaGeneratorFlatpack = gerador de Tesla flatpack
     .desc = Um flatpack usado para construir um gerador de Tesla.
 
-ent-TeslaCoilFlatpack = tesla coil flatpack
+ent-TeslaCoilFlatpack = bobina Tesla flatpack
     .desc = Um flatpack usado para construir uma bobina de Tesla.
 
 ent-TeslaGroundingRodFlatpack = barras de aterramento em pacote plano
     .desc = Um flatpack usado para construir uma haste de aterramento.
 
-ent-GyroscopeFlatpack = gyroscope flatpack
+ent-GyroscopeFlatpack = giroscópio flatpack
     .desc = Um flatpack usado para construir um giroscópio.
 
-ent-ThrusterFlatpack = thruster flatpack
+ent-ThrusterFlatpack = propulsor flatpack
     .desc = Um flatpack usado para construir um propulsor.
 
 ent-SpaceHeaterFlatpack = aquecedor de espaço em embalagem plana
@@ -49,7 +49,7 @@ ent-CrewMonitoringServerFlatpack = servidor de monitoramento de tripulantes flat
 ent-CrewMonitoringComputerFlatpack = computador de monitoramento de tripulantes em pacote plano
     .desc = Um flatpack usado para construir um console de monitoramento de tripulantes.
 
-ent-HydroponicsTrayFlatpack = tray flatpack de hidroponia
+ent-HydroponicsTrayFlatpack = bandeja flatpack de hidroponia
     .desc = Um flatpack usado para construir uma bandeja de hidroponia.
 
 ent-SyndicateMicrowaveFlatpack = micro-ondas da donk co. em embalagem plana

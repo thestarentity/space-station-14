@@ -7,7 +7,7 @@ ent-PlushieLizardJobBartender = Lagarto de pelúcia bartender
 ent-PlushieLizardJobBotanist = Lagarto de pelúcia botanista
     .desc = Um brinquedo fofo de pelúcia que se parece com uma pessoa-reptil como um botanista. Há partes espinhosas em seus pés e ele tem um leve cheiro de fertilizante vegetal.
 
-ent-PlushieLizardJobBoxer = boxer lizard plushie
+ent-PlushieLizardJobBoxer = lagarto de pelúcia boxeador
     .desc = Um brinquedo de pelúcia adorável que se parece com uma pessoa-reptil em posição de boxeador. Os fios nos seus punhos estão começando a soltar.
 
 ent-PlushieLizardJobCaptain = Capitão Lagarto de Peluche

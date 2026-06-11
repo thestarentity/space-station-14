@@ -1,25 +1,25 @@
-ent-FloorTileItemSteelCheckerDark = tile de checker de aço escuro
+ent-FloorTileItemSteelCheckerDark = placa xadrez de aço escuro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelCheckerLight = tile de verificação de luz de aço
+ent-FloorTileItemSteelCheckerLight = placa xadrez de aço claro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDark = tile escura
+ent-FloorTileItemDark = placa de aço escuro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkDiagonalMini = tile de aço escuro diagonal mini
+ent-FloorTileItemDarkDiagonalMini = placa de aço escuro diagonal mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkDiagonal = tile de aço escuro diagonal
+ent-FloorTileItemDarkDiagonal = placa de aço escuro diagonal
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkHerringbone = aço escuro em padrão ondulado
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkMini = tile de aço escuro mini
+ent-FloorTileItemDarkMini = placa de aço escuro mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkMono = tile de aço escuro monolítica
+ent-FloorTileItemDarkMono = placa de aço escuro monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkPavement = pavimento de aço escuro
@@ -28,43 +28,43 @@ ent-FloorTileItemDarkPavement = pavimento de aço escuro
 ent-FloorTileItemDarkPavementVertical = pavimento vertical de aço escuro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkSlatsContinuous = tile de lamina de aço escuro contínua
+ent-FloorTileItemDarkSlatsContinuous = placa de ripas de aço escuro contínuas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkVerticalSlatsBordered = tile de painel vertical de aço escuro com bordas
+ent-FloorTileItemDarkVerticalSlatsBordered = placa de painéis verticais de aço escuro com bordas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkHorizontalSlatsBordered = tile de lamina horizontal com borda de aço escuro
+ent-FloorTileItemDarkHorizontalSlatsBordered = placa de ripas horizontais bordadas de aço escuro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemDarkOffset = tile de aço escuro deslocado
+ent-FloorTileItemDarkOffset = placa de aço escuro deslocada
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteel = tile de aço
+ent-FloorTileItemSteel = placa de aço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelOffset = tile de aço deslocado
+ent-FloorTileItemSteelOffset = placa de aço deslocada
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelDiagonalMini = tile de aço diagonal mini
+ent-FloorTileItemSteelDiagonalMini = placa de aço diagonal mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelDiagonal = tile de aço diagonal
+ent-FloorTileItemSteelDiagonal = placa de aço diagonal
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelSlatsContinuous = tile de slat de aço contínuo
+ent-FloorTileItemSteelSlatsContinuous = placa de ripas de aço contínuas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelVerticalSlatsBordered = tile de chão de aço com ripas verticais bordadas
+ent-FloorTileItemSteelVerticalSlatsBordered = placa de aço com ripas verticais bordadas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelHorizontalSlatsBordered = tile de chão de aço horizontal com ripas bordadas
+ent-FloorTileItemSteelHorizontalSlatsBordered = placa de aço horizontal com ripas bordadas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelHerringbone = Herringbone de aço
+ent-FloorTileItemSteelHerringbone = espinha de peixe de aço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSteelMini = tile de aço mini
+ent-FloorTileItemSteelMini = placa de aço mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelMono = tijolo de aço monolítico
@@ -76,13 +76,13 @@ ent-FloorTileItemSteelPavement = pavimento de aço
 ent-FloorTileItemSteelPavementVertical = pavimento vertical de aço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhite = tile branca
+ent-FloorTileItemWhite = placa branca de aço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteOffset = tile de aço branco com deslocamento
+ent-FloorTileItemWhiteOffset = placa de aço branco deslocada
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteDiagonalMini = tile de aço branco diagonal mini
+ent-FloorTileItemWhiteDiagonalMini = placa de aço branco diagonal mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteDiagonal = tijolo de aço branco diagonal
@@ -91,7 +91,7 @@ ent-FloorTileItemWhiteDiagonal = tijolo de aço branco diagonal
 ent-FloorTileItemWhiteHerringbone = aço branco em padrão ondulado
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteMini = tile de aço branco mini
+ent-FloorTileItemWhiteMini = placa de aço branco mini
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteMono = tijolo de aço branco monolítico
@@ -103,16 +103,16 @@ ent-FloorTileItemWhitePavement = pavimento de aço branco
 ent-FloorTileItemWhitePavementVertical = pavimento vertical de aço branco
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteVerticalSlatsBordered = tile de aço branco vertical com bordas e ripas
+ent-FloorTileItemWhiteVerticalSlatsBordered = placa de aço branco vertical com bordas e ripas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteSlatsContinuous = tile de chapa de aço branco contínua
+ent-FloorTileItemWhiteSlatsContinuous = placa de ripas de aço branco contínuas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWhiteHorizontalSlatsBordered = tile de aço branco horizontal com bordas e ripas
+ent-FloorTileItemWhiteHorizontalSlatsBordered = placa de aço branco horizontal com bordas e ripas
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemMetalDiamond = tile de aço
+ent-FloorTileItemMetalDiamond = placa de aço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWood = piso de madeira
@@ -124,7 +124,7 @@ ent-FloorTileItemTechmaint = piso de manutenção técnica
 ent-FloorTileItemTechmaintDark = piso de manutenção tecnológica escuro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemMono = tile monolítica
+ent-FloorTileItemMono = placa monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemLino = piso de linóleo
@@ -139,64 +139,64 @@ ent-FloorTileItemBrassReebe = placa de latão polida
 ent-FloorTileItemDirty = Azulejo sujo
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemElevatorShaft = tile do poço de elevador
+ent-FloorTileItemElevatorShaft = placa do poço de elevador
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemRockVault = tile de cela de rocha
+ent-FloorTileItemRockVault = placa de cela de rocha
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemBlue = azul
+ent-FloorTileItemBlue = azulejo azul
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemLime = tile de lima
+ent-FloorTileItemLime = placa de lima
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemMining = tile de mineração
+ent-FloorTileItemMining = placa de mineração
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemMiningDark = tile de mineração escura
+ent-FloorTileItemMiningDark = placa de mineração escura
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemMiningLight = tile de mineração leve
+ent-FloorTileItemMiningLight = placa de mineração clara
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemFreezer = tile de congelador
+ent-FloorTileItemFreezer = placa de congelador
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemShowroom = tile da loja de exposição
+ent-FloorTileItemShowroom = placa da loja de exposição
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemHydro = tile hidráulica
+ent-FloorTileItemHydro = placa hidráulica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemBar = tile de bar
+ent-FloorTileItemBar = placa de bar
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemClown = tile do palhaço
+ent-FloorTileItemClown = placa do palhaço
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMime = Azulejo de Mímico
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemKitchen = tile da cozinha
+ent-FloorTileItemKitchen = placa da cozinha
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemLaundry = tile de lavanderia
+ent-FloorTileItemLaundry = placa de lavanderia
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemConcrete = tijolo de concreto
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemConcreteMono = tile de concreto monolítico
+ent-FloorTileItemConcreteMono = placa de concreto monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemConcreteSmooth = concreto liso
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemGrayConcrete = tile de concreto cinza
+ent-FloorTileItemGrayConcrete = placa de concreto cinza
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemGrayConcreteMono = tile de concreto cinza monolítico
+ent-FloorTileItemGrayConcreteMono = placa de concreto cinza monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrayConcreteSmooth = concreto cinza liso
@@ -205,16 +205,16 @@ ent-FloorTileItemGrayConcreteSmooth = concreto cinza liso
 ent-FloorTileItemOldConcrete = tijolo de concreto antigo
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemOldConcreteMono = tile de concreto antigo monolítico
+ent-FloorTileItemOldConcreteMono = placa de concreto antigo monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemOldConcreteSmooth = concreto antigo liso
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemIronsandConcrete = tile de concreto com areia de ferro
+ent-FloorTileItemIronsandConcrete = placa de concreto com areia de ferro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemIronsandConcreteMono = tile de concreto de areia de ferro monolítico
+ent-FloorTileItemIronsandConcreteMono = placa de concreto de areia de ferro monolítica
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemIronsandConcreteSmooth = concreto liso de areia de ferro
@@ -268,7 +268,7 @@ ent-FloorTileItemShuttleBlack = piso do shuttle preto
 ent-FloorTileItemGold = piso de ouro
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSilver = tile prateada
+ent-FloorTileItemSilver = placa prateada
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGCircuit = piso de circuito verde
@@ -280,13 +280,13 @@ ent-FloorTileItemBCircuit = piso de circuito azul
 ent-FloorTileItemRCircuit = piso de circuito vermelho
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemGrass = tile de grama
+ent-FloorTileItemGrass = placa de grama
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemGrassJungle = tile de grama da selva
+ent-FloorTileItemGrassJungle = placa de grama da selva
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemSnow = tile de neve
+ent-FloorTileItemSnow = placa de neve
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWoodPattern = piso com padrão de madeira
@@ -301,7 +301,7 @@ ent-FloorTileItemSteelMaint = piso de manutenção de aço
 ent-FloorTileItemGratingMaint = piso de manutenção de grelha
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
-ent-FloorTileItemWeb = tile da web
+ent-FloorTileItemWeb = placa de teia
 
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemAstroGrass = grama astro
@@ -325,19 +325,19 @@ ent-FloorTileItemAstroIce = Gelo Astral
 ent-FloorTileItemAstroSnow = Neve Astral
     .desc = Neve falsa tão macia quanto a verdadeira, mas fácil de remover!
 
-ent-FloorTileItemAstroAsteroidSand = asteroid astro-sand
+ent-FloorTileItemAstroAsteroidSand = areia de asteroide astro
     .desc = Areia falsa. Felizmente, não é tão áspera quanto a verdadeira.
 
-ent-FloorTileItemAstroAsteroidSandBorderless = asteroide sem bordas de areia astro
+ent-FloorTileItemAstroAsteroidSandBorderless = areia de asteroide astro sem bordas
     .desc = Areia falsa. Felizmente, não é tão áspera quanto a verdadeira.
 
 ent-FloorTileItemAstroIronsand = areia de ferro astro
     .desc = Areia vermelha falsa. Importada de Marte falso.
 
-ent-FloorTileItemAstroIronsandBorderless = astro-ironsand sem bordas
+ent-FloorTileItemAstroIronsandBorderless = areia de ferro astro sem bordas
     .desc = Areia vermelha falsa. Importada de Marte falso.
 
-ent-FloorTileItemDesertAstroSand = deserto astro-sand
+ent-FloorTileItemDesertAstroSand = areia de deserto astro
     .desc = Areia falsa, projetada para ser fina.
 
 ent-FloorTileItemWoodLarge = piso de madeira grande
@@ -349,7 +349,7 @@ ent-FloorTileItemWhiteMarble = Azulejo de mármore branco
 ent-FloorTileItemDarkMarble = azulejo de mármore escuro
     .desc = Uma pedra de mármore espacial finamente lapidada e polida. Melhor não perdê-la.
 
-ent-FloorTileItemPlasmaMarble = tile de plasmarble
+ent-FloorTileItemPlasmaMarble = azulejo de mármore de plasma
     .desc = Uma pedra quadrada finamente lapidada e polida feita do melhor Space Marble. Infundida com plasma para algo extra...
 
 ent-FloorTileItemUraniumMarble = Azulejo de mármore de urânio

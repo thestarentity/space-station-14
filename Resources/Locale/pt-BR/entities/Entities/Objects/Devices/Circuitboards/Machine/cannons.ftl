@@ -1,5 +1,5 @@
-ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c "Svalinn machine gun" placa de circuito
-    .desc = Um circuito impresso para uma "metralhadora Svalinn LSE-400c".
+ent-ShuttleGunSvalinnMachineGunCircuitboard = placa de circuito da metralhadora Svalinn LSE-400c
+    .desc = Um circuito impresso para uma metralhadora Svalinn LSE-400c.
 
 ent-ShuttleGunPerforatorCircuitboard = Placa da máquina LSE-1200c "Perforadora"
     .desc = Um circuito impresso para uma máquina LSE-1200c "Perforator".
