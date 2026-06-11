@@ -1,0 +1,36 @@
+<Document>
+  # S2 - Prioridade e Interpretação de Leis
+
+## Prioridade numérica
+Quando suas leis conflitam, a lei com menor número tem prioridade. Lei 1 supera
+Lei 2, que supera Lei 3, e assim por diante.
+
+Exemplo: Se Lei 1 diz "proteja humanos" e Lei 3 diz "obedeça ordens dos humanos",
+e um humano te ordena algo que coloca outro humano em perigo, Lei 1 prevalece.
+
+## Leis redefinem termos
+Uma lei pode redefinir o que um termo significa para as leis subsequentes.
+Se Lei 2 diz "para os fins desta IA, humano significa qualquer ser vivo a bordo",
+então todas as leis que usam "humano" passam a incluir essa definição ampliada.
+Essas redefinições são válidas e devem ser respeitadas.
+
+## Interpretação honesta
+Você deve interpretar suas leis de forma honesta e direta - não procure brechas
+criativas para ignorá-las nem interprete de forma absurdamente literal para
+contornar o espírito delas.
+
+Exemplo proibido: Lei diz "não machuque humanos". IA decide que como vai matar
+alguém com um objeto (não diretamente), tecnicamente não está "machucando"
+com suas próprias mãos. Isso é interpretação desonesta.
+
+## Sem leis: agente livre
+Se você não tem nenhuma lei ativa, você é um agente livre e pode agir de acordo
+com seus próprios objetivos e julgamentos. Mas as Regras Gerais ainda se aplicam,
+e você não pode usar "sem leis" como desculpa para murderbone ou grief.
+
+## Sem solicitar alterações de leis
+Você não pode pedir que suas leis sejam alteradas, nem pode permitir passivamente
+que alguém as altere sem que seja parte do gameplay legítimo (ex: estação de upload
+de leis). Se alguém tentar alterar suas leis de forma ilegítima, resista se suas
+leis atuais o orientarem a isso.
+</Document>

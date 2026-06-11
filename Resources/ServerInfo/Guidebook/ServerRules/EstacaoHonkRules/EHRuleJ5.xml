@@ -1,0 +1,36 @@
+<Document>
+  # J5 - New Life Rule
+
+Quando seu personagem morre e você retorna ao jogo (seja como ghost, observador,
+ou ao ser revivido), [bold]seu personagem não lembra dos eventos que levaram à morte[/bold].
+
+## O que isso significa
+- Você não pode usar informação sobre sua própria morte para se vingar.
+- Você não pode revelar no chat de fantasmas quem te matou, onde está o antagonista,
+  ou qualquer informação sensível da rodada que outros jogadores vivos possam
+  aproveitar.
+- Se você foi revivido, seu personagem "acorda" sem memória do que aconteceu
+  antes de morrer. Ele pode agir com base em coisas que viveu antes, mas não
+  pode usar o conhecimento post-mortem.
+
+## Exemplos
+Proibido:
+- Morrer, voltar como ghost e usar o microfone no OOC para dizer quem te matou.
+- Ser revivido e imediatamente ir atrás de quem te matou porque você se lembra.
+- Como observador, informar amigos via Discord sobre a localização do antagonista.
+
+Permitido:
+- Voltar como ghost e observar a rodada silenciosamente.
+- Se revivido, agir com base em eventos que você viveu [italic]antes[/italic] de morrer.
+- Reportar ao ahelp comportamentos contra as regras que você observou.
+
+## Exceção: assistência médica
+Você pode dizer ao médico que te trata onde você estava e o que estava fazendo
+de forma geral (para contextualizar o tratamento), mas não pode usar isso para
+dirigir outros jogadores até seu assassino.
+
+## Morte permanente e o chat de fantasmas
+O chat de fantasmas é considerado OOC - não vaza informação para jogadores vivos.
+Falar sobre a rodada com outros fantasmas é permitido dentro desse contexto,
+contanto que a informação não chegue a jogadores vivos de forma indevida.
+</Document>

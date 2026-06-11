@@ -1,0 +1,93 @@
+<Document>
+  # Punições e Recursos
+
+## Como a escalada funciona
+
+Punições na Estação Honk seguem uma tabela de níveis. O nível da infração determina
+a severidade da punição, e reincidências escalam dentro do mesmo nível.
+
+A staff tem discricionariedade para ajustar punições para mais ou para menos com
+base em contexto, histórico do jogador e gravidade específica do incidente.
+
+---
+
+## Nível 0 - Banível Direto
+
+Aplicável a: [textlink="G0 (idade)" link="EHRuleG0"], [textlink="G5 (evasão de ban)" link="EHRuleG5"],
+conteúdo ilegal ([textlink="G3" link="EHRuleG3"]).
+
+-> [bold]Suspensão Indefinida imediata[/bold], sem aviso prévio. Não há progressão.
+
+---
+
+## Nível 1 - Infrações Leves
+
+Aplicável a: [textlink="G2 (spam)" link="EHRuleG2"], [textlink="G6 leve" link="EHRuleG6"],
+[textlink="J7 (arrivals)" link="EHRuleJ7"], [textlink="D2/D3 (Discord)" link="EHRuleG1"].
+
+- 1ª ocorrência: Aviso verbal / Aviso via ahelp + nota
+- 2ª ocorrência: Mute 30 minutos / Kick + nota no histórico
+- 3ª ocorrência ou mais: Mute 2 horas / Suspensão Temporária 12h
+
+---
+
+## Nível 2 - Infrações Médias
+
+Aplicável a: [textlink="G1 (respeito)" link="EHRuleG1"], [textlink="G3 (conteúdo)" link="EHRuleG3"],
+[textlink="J1 (powergaming)" link="EHRuleJ1"], [textlink="J4 (metagaming)" link="EHRuleJ4"],
+[textlink="J5 (NLR)" link="EHRuleJ5"], [textlink="A4 (self-antag)" link="EHRuleA4"],
+infrações de Discord de maior impacto.
+
+- 1ª ocorrência: Mute 6 horas + aviso formal / Suspensão Temporária 3 dias
+- 2ª ocorrência: Suspensão Temporária 7 dias (Discord e in-game)
+- 3ª ocorrência ou mais: Suspensão 30 dias ou Indefinida - critério da staff
+
+---
+
+## Nível 3 - Infrações Graves
+
+Aplicável a: [textlink="J2 (grief)" link="EHRuleJ2"], [textlink="J3 (RDM)" link="EHRuleJ3"],
+[textlink="A2 (murderbone)" link="EHRuleA2"], reincidência grave em nível 2,
+abuso flagrante de [textlink="G4 (staff)" link="EHRuleG4"].
+
+-> [bold]Suspensão Indefinida[/bold] na primeira ou subsequente ocorrência. A staff define
+se é reversível via recurso ou permanente.
+
+---
+
+## Fatores Agravantes
+
+Os seguintes fatores podem elevar uma punição para o nível acima:
+
+- Histórico de infrações em múltiplos níveis.
+- Mentir para a staff durante investigação.
+- Reincidência dentro de 30 dias de uma punição anterior.
+- Impacto grave sobre outros jogadores (rodada arruinada, múltiplas vítimas).
+- Premeditação evidente.
+
+---
+
+## Fatores Atenuantes
+
+Os seguintes fatores podem reduzir uma punição:
+
+- Admissão honesta e imediata ao ser contactado pela staff.
+- Colaboração genuína com a investigação.
+- Ausência de histórico de infrações relevantes.
+- Erro de boa-fé (ex: bug desconhecido, regra ambígua).
+
+---
+
+## Recursos
+
+Toda punição pode ser contestada via [bold]ticket de recurso[/bold] no Discord da
+Estação Honk. Ao abrir um recurso:
+
+- Informe o ID da punição (visível no seu histórico com /mod historico).
+- Descreva sua versão dos eventos com calma e objetividade.
+- Anexe evidências se tiver (prints, logs).
+- Aguarde - recursos são analisados pelo Conselho de Staff ou pela Direção.
+
+Recursos abertos de má-fé, com mentiras ou agressividade, podem resultar em
+punição adicional. A decisão final do Conselho de Staff é vinculante.
+</Document>

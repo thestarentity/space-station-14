@@ -10,7 +10,7 @@ ent-ClusterGrenade = granada de cluster
 ent-ClusterBananaPeel = casca de banana em cluster
     .desc = Divide-se em 6 cascas de banana explosivas após ser jogado, diversão garantida!
 
-ent-SlipocalypseClusterSoap = slipocalypse clustersoap
+ent-SlipocalypseClusterSoap = sabão em cluster do escorregapocalipse
     .desc = Espalha pequenos pedaços de sabão do sindicato por uma área ao tocar o chão.
 
 ent-GrenadeFoamDart = granada de dardo de espuma

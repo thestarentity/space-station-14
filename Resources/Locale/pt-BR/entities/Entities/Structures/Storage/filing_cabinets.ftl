@@ -4,7 +4,7 @@ ent-filingCabinet = armário de arquivos
 ent-filingCabinetTall = armário alto
 
     .desc = Um armário para todas as suas necessidades de arquivamento.
-ent-filingCabinetDrawer = gaveta do peito
+ent-filingCabinetDrawer = arquivo com rodas
     .desc = Um pequeno armário para todas as suas necessidades de arquivamento, agora com rodas!
 
 ent-BaseFilingCabinet = arquivo

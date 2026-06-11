@@ -31,7 +31,7 @@ ent-CrateScience = caixa de ciência
 ent-CrateSurgery = caixa de cirurgia
 
     .desc = Um grande recipiente para itens.
-ent-CrateWeb = caixa de web
+ent-CrateWeb = caixa de teia
 
     .desc = Um grande recipiente para itens.
 ent-CrateSecgear = caixa de equipamento de segurança

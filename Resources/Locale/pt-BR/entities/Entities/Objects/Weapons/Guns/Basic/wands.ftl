@@ -13,7 +13,7 @@ ent-WeaponWandLocker = vara do armário
 ent-WeaponWandDeath = vara mágica de morte instantânea
     .desc = Apenas os melhores e mais brilhantes da equipe de P&D dos Feiticeiros Espaciais trabalharam juntos para criar essa beleza.
 
-ent-WeaponWandPolymorphDoor = vara de entrada
+ent-WeaponWandPolymorphDoor = vara de transformação em porta
     .desc = Para quando você precisa de uma rota de fuga.
 
 ent-WeaponWandCluwne = vara de palhaçada

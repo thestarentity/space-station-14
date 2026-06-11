@@ -1,29 +1,29 @@
-ent-PelletShotgunSlug = Balas de Pelotas (.50 slug)
+ent-PelletShotgunSlug = bala slug (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgunBeanbag = Bolsa de Pelotas (.50)
+ent-PelletShotgunBeanbag = bolsa de areia (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgun = Balas de Pelotas (.50)
+ent-PelletShotgun = chumbinhos (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgunIncendiary = Balas de pellets (.50 incendiária)
+ent-PelletShotgunIncendiary = chumbinhos incendiários (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgunPractice = Balas de chumbo (.50 prática)
+ent-PelletShotgunPractice = chumbinhos de treino (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgunImprovised = espingarda de pellets improvisada
+ent-PelletShotgunImprovised = projétil de espingarda improvisado
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletShotgunTranquilizer = Balas (.50 tranq)
+ent-PelletShotgunTranquilizer = bala tranquilizante (.50)
 
-ent-PelletShotgunFlare = balas (.50 flare)
+ent-PelletShotgunFlare = bala sinalizadora (.50)
 
-ent-PelletShotgunUranium = Balas de urânio (.50)
+ent-PelletShotgunUranium = chumbinhos de urânio (.50)
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-PelletGrapeshot = grapeshot pellet
+ent-PelletGrapeshot = projétil de metralha
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-PelletGlass = pedaço de vidro

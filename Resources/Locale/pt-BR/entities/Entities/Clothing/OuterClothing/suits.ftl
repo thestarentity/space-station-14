@@ -22,7 +22,7 @@ ent-ClothingOuterSuitChicken = fantasia de galinha
 ent-ClothingOuterSuitShrineMaiden = quimono de moça do santuário
     .desc = Faz você querer lidar com alguns youkai problemáticos.
 
-ent-ClothingOuterSuitWitchRobes = robes de bruxa
+ent-ClothingOuterSuitWitchRobes = vestes de bruxa
     .desc = Magia é tudo sobre o poder dos feitiços, ZE!
 
 ent-ClothingOuterSuitMonkey = fantasia de macaco
@@ -31,5 +31,5 @@ ent-ClothingOuterSuitMonkey = fantasia de macaco
 ent-ClothingOuterSuitIan = traje do Ian
     .desc = Quem é um bom garoto?
 
-ent-ClothingOuterSuitCarp = traje de carp
-    .desc = Um traje especial que faz você parecer exatamente com um peixe espacial, se sua visão estiver ruim.
+ent-ClothingOuterSuitCarp = traje de carpa
+    .desc = Um traje especial que faz você parecer exatamente com uma carpa espacial, se sua visão estiver ruim.

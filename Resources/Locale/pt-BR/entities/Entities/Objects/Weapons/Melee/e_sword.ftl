@@ -10,7 +10,7 @@ ent-EnergyDagger = caneta
 ent-EnergyDaggerBox = caixa de adaga de energia
     .desc = Uma pequena caixa contendo uma adaga de energia disfarçada. A embalagem se desintegra ao ser aberta, não deixando evidências.
 
-ent-EnergyCutlass = cutlass de energia
+ent-EnergyCutlass = cutelo de energia
     .desc = Uma arma de energia exótica.
 
 ent-EnergySwordDouble = espada de energia de dupla lâmina

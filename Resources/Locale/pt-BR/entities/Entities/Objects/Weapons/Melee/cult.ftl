@@ -4,5 +4,5 @@ ent-RitualDagger = daga ritualística
 ent-EldritchBlade = espada eldríquica
     .desc = Uma espada que emite um som com energia impiedosa.
 
-ent-UnholyHalberd = halberd impiedeira
-    .desc = Um poleaxe que parece estar ligado ao seu portador.
+ent-UnholyHalberd = alabarda ímpia
+    .desc = Uma alabarda que parece estar ligada ao seu portador.

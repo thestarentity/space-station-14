@@ -1,0 +1,17 @@
+## Entity
+
+crayon-drawing-label = Desenho: [cor={ $color }]{ $state }[color={ $color }] ({ $charges }/{ $capacity })
+crayon-interact-not-enough-left-text = Não tem mais.
+crayon-interact-used-up-text = O { $owner } acabou.
+crayon-interact-invalid-location = Não consegue chegar lá!
+
+## UI
+
+crayon-window-title = Lápis de cera
+crayon-window-placeholder = Procure, ou forme uma lista separada por vírgulas de nomes
+crayon-category-1-brushes = Pincéis
+crayon-category-2-alphanum = Números e letras
+crayon-category-3-symbols = Símbolos
+crayon-category-4-info = Sinais
+crayon-category-5-graffiti = Grafite
+crayon-category-random = Aleatório

@@ -1,7 +1,7 @@
-ent-SpaceVillainArcade = arco de vilão espacial
+ent-SpaceVillainArcade = fliperama Vilão Espacial
 
 ent-BlockGameArcade = NT Block Game
-    .desc = Um gabinete de arcade com um jogo estranhamente familiar.
+    .desc = Um gabinete de fliperama com um jogo estranhamente familiar.
 
-ent-ArcadeBase = arcade
+ent-ArcadeBase = fliperama
     .desc = Um gabinete de fliperama.
