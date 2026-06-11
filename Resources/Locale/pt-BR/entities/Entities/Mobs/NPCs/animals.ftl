@@ -1,4 +1,4 @@
-ent-MobBat = bater
+ent-MobBat = morcego
     .desc = Em algumas culturas, eles são terríveis, em outras, crocantes na boca.
 
 ent-MobBee = abelha
@@ -16,7 +16,7 @@ ent-MobCockroach = barata
 ent-MobGlockroach = glockroach
     .desc = Esta estação está cheia de bu- OH DEUS, ESSE CUPIM TEM UMA ARMA!!!
 
-ent-MobMothroach = lagarto voador
+ent-MobMothroach = traça-barata
     .desc = Este é o fofo subproduto de múltiplos tentativas de misturar geneticamente mothpeople com baratas.
 
 ent-MobDuckMallard = pato mallard
@@ -46,7 +46,7 @@ ent-MobSheep = ovelha
 ent-MobSheepRainbow = ovelha arco-íris
     .desc = Uma ovelha; essa parece... brilhante.
 
-ent-MobGoose = pato
+ent-MobGoose = ganso
     .desc = Seu estômago e sua mente são um enigma além da compreensão humana.
 
 ent-MobGorilla = gorila
@@ -82,7 +82,7 @@ ent-MobMouseCancer = rato com câncer
 ent-MobLizard = lagarto
     .desc = Um dragão inofensivo.
 
-ent-MobSlug = sugue
+ent-MobSlug = lesma
     .desc = E eles chamaram isso de lagarto?
 
 ent-MobFrog = sapo
@@ -106,12 +106,12 @@ ent-MobClownSpider = aranha palhaça
 ent-MobGiantSpiderWizard = aranha-mágica
     .desc = Essa aranha parece um pouco mágica
 
-ent-MobPossum = esquilo
+ent-MobPossum = gambá
     .desc = "O Possum! Meu Possum!" -- Walt Whitman, 1865
 
-ent-MobPossumOld = esquilo
+ent-MobPossumOld = gambá
 
-ent-MobRaccoon = esquilo
+ent-MobRaccoon = guaxinim
     .desc = Lixo panda!
 
 ent-MobFox = raposa

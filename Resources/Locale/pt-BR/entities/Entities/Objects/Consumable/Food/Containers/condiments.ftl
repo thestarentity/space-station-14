@@ -10,8 +10,8 @@ ent-FoodCondimentPacketCornoil = óleo de milho
 ent-FoodCondimentPacketColdsauce = molho gelado
     .desc = Coldsauce. Deixa a língua dormitada durante sua passagem.
 
-ent-FoodCondimentPacketHorseradish = molho de raiz de salsão
-    .desc = Um pacote de molho de raiz de salsão fedorento.
+ent-FoodCondimentPacketHorseradish = molho de raiz-forte
+    .desc = Um pacote de molho de raiz-forte fedorento.
 
 ent-FoodCondimentPacketHotsauce = Pimenta de Fogo
     .desc = Você consegue quase TASTAR as úlceras estomacais agora!
@@ -52,8 +52,8 @@ ent-FoodCondimentBottleKetchup = garrafa de ketchup
 ent-FoodCondimentBottleBBQ = Garrafa de molho de churrasco
     .desc = Toalhas de limpeza não estão incluídas.
 
-ent-FoodShakerSalt = saladeira de sal
+ent-FoodShakerSalt = saleiro
     .desc = Sal. Presumivelmente, da oceanos espaciais.
 
-ent-FoodShakerPepper = peneira de pimenta
+ent-FoodShakerPepper = pimenteiro
     .desc = Muitas vezes usado para temperar alimentos ou fazer as pessoas espirrar.

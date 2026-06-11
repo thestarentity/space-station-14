@@ -9,5 +9,5 @@ ent-MobCarpRainbow = carpa arco-íris
 
 ent-MobCarpDragon = carpa espacial
 
-ent-MobShark = peixe-palhaço
+ent-MobShark = tubarão
     .desc = Um perigoso tubarão vindo das trevas do espaço infinito, que adora beber sangue.

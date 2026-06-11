@@ -1,4 +1,4 @@
-ent-MobXeno = burrower
+ent-MobXeno = escavador
     .desc = Eles geralmente vêm à noite. Geralmente.
 
 ent-MobXenoPraetorian = pretoriano
@@ -7,10 +7,10 @@ ent-MobXenoPraetorian = pretoriano
 ent-MobXenoDrone = drone
 
     .desc = Eles geralmente vêm à noite. Geralmente.
-ent-MobXenoQueen = rei
+ent-MobXenoQueen = rainha
 
     .desc = Eles geralmente vêm à noite. Geralmente.
-ent-MobXenoRavager = Ravager
+ent-MobXenoRavager = devastador
 
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRunner = corredor
@@ -19,13 +19,13 @@ ent-MobXenoRunner = corredor
 ent-MobXenoRouny = Rouny
 
     .desc = Eles geralmente vêm à noite. Geralmente.
-ent-MobXenoSpitter = jogador
+ent-MobXenoSpitter = cuspidor
 
     .desc = Eles geralmente vêm à noite. Geralmente.
-ent-MobPurpleSnake = adder roxo
+ent-MobPurpleSnake = víbora roxa
     .desc = Uma serpente roxa ameaçadora de Kepler-283c.
 
-ent-MobSmallPurpleSnake = adder roxo
+ent-MobSmallPurpleSnake = víbora roxa pequena
     .desc = Uma versão menor da ameaçadora cobra roxa de Kepler-283c.
 
 ent-MobXenoLonePraetorianNoGhost = Dale
