@@ -1,5 +1,5 @@
-ent-WeaponFlareGun = lanterna de sinalização
-    .desc = Um revólver compacto, de única descarga, que dispara casulos de霰弹枪. Vem com uma característica de segurança que impede o usuário de inserir casulos letais.
+ent-WeaponFlareGun = pistola de sinalizador
+    .desc = Uma pistola compacta de disparo único que lança cartuchos de sinalização. Possui um dispositivo de segurança que impede a inserção de cartuchos letais.
 
-ent-WeaponFlareGunSecurity = arma de casca de segurança
-    .desc = Um lançador de balas de fumaça modificado originalmente projetado para uso pela segurança para disparar casulos de霰弹枪 não letais, no entanto, também pode disparar casulos letais sem risco.
+ent-WeaponFlareGunSecurity = pistola de sinalizador de segurança
+    .desc = Um lançador de sinalização modificado originalmente projetado para a segurança, capaz de disparar cartuchos não letais — e também letais, sem risco para o usuário.

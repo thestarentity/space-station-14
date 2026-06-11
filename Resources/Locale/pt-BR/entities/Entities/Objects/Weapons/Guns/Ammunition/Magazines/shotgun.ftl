@@ -1,14 +1,14 @@
-ent-MagazineShotgunEmpty = carregador de munição (.50 cascas quaisquer)
-    .desc = Um tambor grande usado como munição por algumas metralhadoras de uso militar.
+ent-MagazineShotgunEmpty = carregador de escopeta (.50 vazio)
+    .desc = Um tambor grande usado como carregador por algumas escopetas automáticas de nível militar.
 
-ent-MagazineShotgun = carregador de munição (.50 pelota)
-    .desc = Um tambor grande usado como munição por algumas escopetas automáticas de nível militar. Foi projetado para conter munição cinética de uso geral.
+ent-MagazineShotgun = carregador de escopeta (.50 chumbo)
+    .desc = Um tambor grande usado como carregador por algumas escopetas automáticas de nível militar. Projetado para conter munição cinética de uso geral.
 
-ent-MagazineShotgunBeanbag = carregador de munição (.50 bolinha de algodão)
-    .desc = Um tambor grande usado como munição por algumas metralhadoras automáticas de nível militar. Foi projetado para conter munição de sacos de feijão, que são menos letais.
+ent-MagazineShotgunBeanbag = carregador de escopeta (.50 saco de areia)
+    .desc = Um tambor grande usado como carregador por algumas escopetas automáticas de nível militar. Projetado para conter munição de saco de areia, menos letal.
 
-ent-MagazineShotgunSlug = carregador de munição (.50 slug)
-    .desc = Um tambor grande usado por algumas metralhadoras de霰弹枪 de nível militar. Foi projetado para conter munição de balas de longa distância.
+ent-MagazineShotgunSlug = carregador de escopeta (.50 slug)
+    .desc = Um tambor grande usado como carregador por algumas escopetas de nível militar. Projetado para conter munição de slug, eficaz em longa distância.
 
-ent-MagazineShotgunIncendiary = carregador de munição (.50 incendiária)
-    .desc = Um tambor grande usado como munição por algumas metralhadoras de alto padrão militar. Foi projetado para conter munição incendiária autoignitável.
+ent-MagazineShotgunIncendiary = carregador de escopeta (.50 incendiária)
+    .desc = Um tambor grande usado como carregador por algumas escopetas de nível militar. Projetado para conter munição incendiária autoignitável.

@@ -1,21 +1,21 @@
-ent-Cutlass = cutelo
+ent-Cutlass = cutelo de pirata
     .desc = Uma lâmina curvada de forma maliciosa, frequentemente vista nas mãos de piratas espaciais.
 
-ent-Machete = machete
+ent-Machete = facão
     .desc = Uma lâmina grande e assustadora.
 
-ent-CaptainSabre = espada do capitão
+ent-CaptainSabre = sabre do capitão
     .desc = Uma arma cerimonial pertencente ao capitão da estação.
 
-ent-Katana = espada katana
-    .desc = Antiga artefato feito com plasteel não tão antigo.
+ent-Katana = katana
+    .desc = Artefato antigo feito com plasteel não tão antigo.
 
-ent-EnergyKatana = espada de energia
-    .desc = Uma katana infundida com energia forte.
+ent-EnergyKatana = katana de energia
+    .desc = Uma katana imbuída com energia potente.
 
 ent-Claymore = claymore
-    .desc = Uma antiga lâmina de guerra.
+    .desc = Uma antiga espada de guerra.
 
-ent-Throngler = throngo / throngler / thronglera
+ent-Throngler = throngler
     .desc = Se a Segurança ousar tirá-lo de você, apenas lembre-os de que eles são, de fato, mortais.
 

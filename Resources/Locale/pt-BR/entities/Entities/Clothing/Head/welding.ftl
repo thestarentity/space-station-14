@@ -1,11 +1,11 @@
 ent-ClothingHeadHatWelding = máscara de solda
-    .desc = Um cobertor facial montado na cabeça, projetado para proteger totalmente o usuário do olho de arco espacial.
+    .desc = Uma proteção facial montada na cabeça, projetada para proteger totalmente o usuário contra o arco de solda espacial.
 
-ent-ClothingHeadHatWeldingMaskFlame = máscara de solda a chama
-    .desc = Um capacete de solda pintado, este tem chamas nele.
+ent-ClothingHeadHatWeldingMaskFlame = máscara de solda com chamas
+    .desc = Uma máscara de solda pintada, esta tem chamas.
 
-ent-ClothingHeadHatWeldingMaskFlameBlue = máscara de solda de chama azul
-    .desc = Um capacete de solda pintado, este tem chamas azuis nele.
+ent-ClothingHeadHatWeldingMaskFlameBlue = máscara de solda com chamas azuis
+    .desc = Uma máscara de solda pintada, esta tem chamas azuis.
 
 ent-ClothingHeadHatWeldingMaskPainted = máscara de solda pintada
-    .desc = Um capacete de solda, pintado em vermelho.
+    .desc = Uma máscara de solda pintada de vermelho.

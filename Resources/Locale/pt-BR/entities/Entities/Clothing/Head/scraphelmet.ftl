@@ -1,14 +1,14 @@
-ent-WiredBucketBase = balde conectado
-    .desc = Um balde com fiação anexada para servir melhor como cinto de mandíbula.
+ent-WiredBucketBase = balde com fiação
+    .desc = Um balde com fiação presa para servir melhor como base de capacete.
 
-ent-SlicedBucketBase = balde fatiado
+ent-SlicedBucketBase = balde cortado
     .desc = Um balde com uma fenda cortada lateralmente.
 
 ent-SteelBucketBase = balde de aço
-    .desc = Um balde ao qual foi soldado aço em sua superfície externa. Ele requer uma forma melhor antes de poder ser usado confortavelmente.
+    .desc = Um balde ao qual foi soldado aço na superfície externa. Requer acabamento antes de poder ser usado confortavelmente.
 
-ent-ClothingHeadHelmetScrap = chapeuzinho de lixo
-    .desc = Um capacete montado apressadamente feito de cabos, aço e um balde.
+ent-ClothingHeadHelmetScrap = capacete improvisado
+    .desc = Um capacete montado às pressas feito de cabos, aço e um balde.
 
 
 

@@ -1,11 +1,11 @@
-ent-ClothingOuterVestHazard = veste de alta visibilidade
+ent-ClothingOuterVestHazard = colete de alta visibilidade
     .desc = Um colete de alta visibilidade usado em zonas de trabalho.
 
-ent-ClothingOuterVest = veste de camuflagem
-    .desc = Um blusão pesado com uma carapaça resistente à água e de textura elástica.
+ent-ClothingOuterVest = colete
+    .desc = Um colete espesso com revestimento emborrachado resistente à água.
 
-ent-ClothingOuterVestTank = cinto de tanque
-    .desc = Um simples cinto que pode segurar um tanque de gás.
+ent-ClothingOuterVestTank = suporte de tanque
+    .desc = Um suporte simples que pode segurar um tanque de gás.
 
-ent-ClothingOuterVestPress = pressione o colete
-    .desc = Um colete de tecido para o repórter corajoso no campo. Vá conseguir uma entrevista com aquele dragão espacial!
+ent-ClothingOuterVestPress = colete de imprensa
+    .desc = Um colete de tecido para o repórter corajoso em campo. Vá conseguir uma entrevista com aquele dragão espacial!

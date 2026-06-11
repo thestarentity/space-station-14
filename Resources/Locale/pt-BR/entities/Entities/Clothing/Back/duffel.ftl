@@ -1,56 +1,56 @@
-ent-ClothingBackpackDuffel = mochila de duffel
-    .desc = Uma grande mochila de malas para guardar coisas extras.
+ent-ClothingBackpackDuffel = bolsa de lona
+    .desc = Uma grande bolsa de lona para guardar coisas extras.
 
-ent-ClothingBackpackDuffelEngineering = mochila de engenharia
-    .desc = Uma grande mochila para carregar ferramentas e suprimentos extras.
+ent-ClothingBackpackDuffelEngineering = bolsa de lona de engenharia
+    .desc = Uma grande bolsa para carregar ferramentas e suprimentos extras.
 
-ent-ClothingBackpackDuffelAtmospherics = mochila de duffel atmosférica
-    .desc = Uma grande mochila de fibra resistente ao fogo. Tem o cheiro de plasma.
+ent-ClothingBackpackDuffelAtmospherics = bolsa de lona atmosférica
+    .desc = Uma grande bolsa de fibra resistente ao fogo. Tem o cheiro de plasma.
 
-ent-ClothingBackpackDuffelMedical = mochila de lona médica
-    .desc = Uma grande mochila para guardar suprimentos médicos extras.
+ent-ClothingBackpackDuffelMedical = bolsa de lona médica
+    .desc = Uma grande bolsa para guardar suprimentos médicos extras.
 
-ent-ClothingBackpackDuffelCaptain = mochila de camisa de capitão
-    .desc = Uma grande mochila para carregar itens extras do capitão.
+ent-ClothingBackpackDuffelCaptain = bolsa de lona do capitão
+    .desc = Uma grande bolsa para carregar itens extras do capitão.
 
-ent-ClothingBackpackDuffelClown = mochila de palhaço
-    .desc = Uma grande mochila para carregar itens extras de honk.
+ent-ClothingBackpackDuffelClown = bolsa de lona do palhaço
+    .desc = Uma grande bolsa para carregar itens extras de honk.
 
-ent-ClothingBackpackDuffelSecurity = mochila de segurança
-    .desc = Uma grande mochila para guardar itens extras relacionados à segurança.
+ent-ClothingBackpackDuffelSecurity = bolsa de lona de segurança
+    .desc = Uma grande bolsa para guardar itens extras relacionados à segurança.
 
-ent-ClothingBackpackDuffelBrigmedic = mochila de duffel do brigmedic
-    .desc = Uma grande mochila de malas para guardar itens médicos extras.
+ent-ClothingBackpackDuffelBrigmedic = bolsa de lona do brigmedic
+    .desc = Uma grande bolsa para guardar itens médicos extras.
 
-ent-ClothingBackpackDuffelChemistry = mochila de química
-    .desc = Uma grande mochila para guardar beakers e tubos de ensaio extras.
+ent-ClothingBackpackDuffelChemistry = bolsa de lona de química
+    .desc = Uma grande bolsa para guardar beakers e tubos de ensaio extras.
 
-ent-ClothingBackpackDuffelVirology = mochila de virologia
-    .desc = Uma grande mochila de virologia feita de fibras hiperalérgicas. Foi projetada para ajudar a prevenir a propagação de doenças. Tem o cheiro de macaco.
+ent-ClothingBackpackDuffelVirology = bolsa de lona de virologia
+    .desc = Uma grande bolsa de virologia feita de fibras hiperalérgicas. Foi projetada para ajudar a prevenir a propagação de doenças. Tem o cheiro de macaco.
 
-ent-ClothingBackpackDuffelGenetics = mochila de lona genética
-    .desc = Uma grande mochila de duffel para guardar mutações genéticas extras.
+ent-ClothingBackpackDuffelGenetics = bolsa de lona de genética
+    .desc = Uma grande bolsa para guardar mutações genéticas extras.
 
-ent-ClothingBackpackDuffelMime = mochila de duffel do mímico
-    .desc = Uma grande mochila para carregar... mímico... coisas.
+ent-ClothingBackpackDuffelMime = bolsa de lona do mímico
+    .desc = Uma grande bolsa para carregar... coisas de mímico.
 
-ent-ClothingBackpackDuffelScience = mochila de duffel de ciências
-    .desc = Uma grande mochila para guardar itens científicos extras.
+ent-ClothingBackpackDuffelScience = bolsa de lona de ciências
+    .desc = Uma grande bolsa para guardar itens científicos extras.
 
-ent-ClothingBackpackDuffelHydroponics = mochila duffel de hidroponia
-    .desc = Uma grande mochila para guardar ferramentas de jardim extras.
+ent-ClothingBackpackDuffelHydroponics = bolsa de lona de hidroponia
+    .desc = Uma grande bolsa para guardar ferramentas de jardim extras.
 
-ent-ClothingBackpackDuffelCargo = mochila de carga duffel
-    .desc = Uma grande mochila de malas para roubar itens valiosos de carga.
+ent-ClothingBackpackDuffelCargo = bolsa de lona de carga
+    .desc = Uma grande bolsa para carregar itens de carga.
 
-ent-ClothingBackpackDuffelSalvage = mochila de saco de salvamento
-    .desc = Uma grande mochila de malas para guardar tesouros exóticos extras.
+ent-ClothingBackpackDuffelSalvage = bolsa de lona de resgate
+    .desc = Uma grande bolsa para guardar tesouros exóticos extras.
 
-ent-ClothingBackpackDuffelSyndicate = mochila duffel do sindicato
-    .desc = Uma grande mochila para carregar diversos itens de traiçoeiros.
+ent-ClothingBackpackDuffelSyndicate = bolsa de lona do sindicato
+    .desc = Uma grande bolsa para carregar diversos itens traiçoeiros.
 
-ent-ClothingBackpackDuffelHolding = duffelbag de holding
-    .desc = Uma mochila que se abre em um bolso localizado de bluespace.
+ent-ClothingBackpackDuffelHolding = bolsa de lona de contenção
+    .desc = Uma bolsa que se abre em um bolso localizado de bluespace.
 
-ent-ClothingBackpackDuffelCBURN = Mochila de lona CBURN
-    .desc = Uma mochila de duffel contendo uma variedade de equipamentos de contenção biológica.
+ent-ClothingBackpackDuffelCBURN = bolsa de lona CBURN
+    .desc = Uma bolsa de lona contendo uma variedade de equipamentos de contenção biológica.

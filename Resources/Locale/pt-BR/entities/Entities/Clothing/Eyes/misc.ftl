@@ -1,5 +1,5 @@
-ent-ClothingEyesBlindfold = lenço para os olhos
+ent-ClothingEyesBlindfold = venda para os olhos
     .desc = O laço que guia os cegos.
 
-ent-ClothingEyesEyepatch = pó de olho
+ent-ClothingEyesEyepatch = tapa-olho
     .desc = Yarr.

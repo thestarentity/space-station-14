@@ -1,35 +1,35 @@
-ent-ClothingShoesFlippers = tênis de água
-    .desc = Um par de flutuadores de borracha que melhora a capacidade de natação quando usados.
+ent-ClothingShoesFlippers = nadadeiras
+    .desc = Um par de nadadeiras de borracha que melhora a capacidade de natação quando usadas.
 
-ent-ClothingShoesLeather = calçados de couro
-    .desc = Muito elegante par de botas, feitas de couro fino.
+ent-ClothingShoesLeather = sapatos de couro
+    .desc = Um par muito elegante de sapatos de couro fino.
 
 ent-ClothingShoesSlippers = chinelos
     .desc = Macio!
 
 ent-ClothingShoeSlippersDuck = chinelos de pato
-    .desc = Você deseja que esses calçados emitam sons de patos ao caminhar. É uma coisa boa que eles não o façam, no entanto.
+    .desc = Você deseja que esses chinelos emitissem sons de pato ao caminhar. É uma boa coisa que não o façam.
 
 ent-ClothingShoeSlippersLizard = chinelos de pelúcia de lagarto
-    .desc = Um par adorável de chinelos que se assemelham a um ser réptil. Combine isso com outras roupas verdes e você será o tripulante mais legal da estação!
+    .desc = Um par adorável de chinelos que se assemelham a um réptil. Use com outras roupas verdes e você será o tripulante mais legal da estação!
 
-ent-ClothingShoesTourist = calçados de turista
-    .desc = Esses chinelos baratos não parecem muito confortáveis.
+ent-ClothingShoesTourist = sandálias de turista
+    .desc = Essas sandálias baratas não parecem muito confortáveis.
 
-ent-ClothingShoesDameDane = calçados yakuza
+ent-ClothingShoesDameDane = sapatos yakuza
     .desc = Por fim...
 
 ent-ClothingShoesSnakeskinBoots = botas de couro de cobra
-    .desc = Botas feitas de pele de serpente, outrora valiosa, todos ao seu redor teriam sido ciumentos.
+    .desc = Botas feitas de pele de serpente, outrora valiosa; todos ao seu redor ficariam com inveja.
 
 ent-ClothingShoesBootsSpeed = botas de velocidade
-    .desc = Botas de alta tecnologia tecidas com fibras quânticas, capazes de converter eletricidade em pura velocidade!
+    .desc = Botas de alta tecnologia tecidas com fibras quânticas, capazes de converter eletricidade em velocidade pura!
 
-ent-ActionToggleSpeedBoots = Alternar Botas de Velocidade
-    .desc = Ativa e desativa os calçados de velocidade.
+ent-ActionToggleSpeedBoots = Alternar botas de velocidade
+    .desc = Ativa e desativa as botas de velocidade.
 
 ent-ClothingShoesBootsMoon = botas lunares
-    .desc = Botas anti-gravidade especiais desenvolvidas com uma mistura especial de gel de rocha lunar. Enviadas a partir da Holanda.
+    .desc = Botas anti-gravidade especiais desenvolvidas com uma mistura especial de gel de rocha lunar. Enviadas da Holanda.
 
 ent-ClothingShoesBootsJump = botas de salto
-    .desc = Botas de alta tecnologia que lhe dão a incrível habilidade de PULAR! Com essas botas, você pode pular sobre lava, abismos e químicos estranhos no chão!
+    .desc = Botas de alta tecnologia que conferem a incrível habilidade de PULAR! Com essas botas, você pode pular sobre lava, abismos e produtos químicos estranhos no chão!

@@ -1,16 +1,16 @@
 ent-ClothingBackpack = mochila
-    .desc = Você usa isso nas costas e coloca itens nele.
+    .desc = Você usa isso nas costas e coloca itens nela.
 
 ent-ClothingBackpackClown = risos von honkerton
     .desc = É uma mochila feita pela Honk! Co.
 
-ent-ClothingBackpackIan = A mochila de Ian
-    .desc = Às vezes ele o usa.
+ent-ClothingBackpackIan = mochila do Ian
+    .desc = Às vezes ele a usa.
 
 ent-ClothingBackpackSecurity = mochila de segurança
     .desc = É uma mochila muito resistente.
 
-ent-ClothingBackpackBrigmedic = Mochila do Brigadista Médico
+ent-ClothingBackpackBrigmedic = mochila do brigadista médico
     .desc = É uma mochila muito estéril.
 
 ent-ClothingBackpackEngineering = mochila de engenharia
@@ -44,48 +44,48 @@ ent-ClothingBackpackGenetics = mochila de genética
     .desc = Uma mochila projetada para ser super resistente, só caso alguém fique hulk no seu lugar.
 
 ent-ClothingBackpackCargo = mochila de carga
-    .desc = Uma mochila robusta para roubar itens de carga.
+    .desc = Uma mochila robusta para carregar itens de carga.
 
 ent-ClothingBackpackSalvage = mochila de resgate
     .desc = Uma mochila robusta para guardar seus despojos.
 
 ent-ClothingBackpackMerc = mochila mercenária
-    .desc = Uma mochila que esteve em muitos lugares perigosos, uma mochila confiável para combate.
+    .desc = Uma mochila que esteve em muitos lugares perigosos — confiável para combate.
 
-ent-ClothingBackpackERTLeader = Mochila do Líder da ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada pelo Líder de uma Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTLeader = mochila do líder da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada pelo líder de uma Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTSecurity = Mochila de Segurança ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada por Oficiais de Segurança de uma Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTSecurity = mochila de segurança da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada por oficiais de segurança de uma Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTMedical = Mochila Médica ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada por Oficiais Médicos de uma Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTMedical = mochila médica da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada por oficiais médicos de uma Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTEngineer = Mochila do engenheiro ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada por Engenheiros de uma Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTEngineer = mochila do engenheiro da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada por engenheiros de uma Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTJanitor = Mochila do zelador ERT
+ent-ClothingBackpackERTJanitor = mochila do zelador da ERT
     .desc = Uma mochila espaçosa com muitas bolsas, usada pelos zeladores da Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTClown = Mochila do Palhaço ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada pelos Palhaços da Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTClown = mochila do palhaço da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada pelos palhaços da Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackERTChaplain = Mochila do Chapéu de ERT
-    .desc = Uma mochila espaçosa com muitas bolsas, usada pelos Chaplains da Equipe de Resposta a Emergências.
+ent-ClothingBackpackERTChaplain = mochila do capelão da ERT
+    .desc = Uma mochila espaçosa com muitas bolsas, usada pelos capelães da Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackDeathSquad = mochila da quadrilha da morte
+ent-ClothingBackpackDeathSquad = mochila do esquadrão da morte
     .desc = Contém o kit dos agentes mais temidos do Comando Central.
 
 ent-ClothingBackpackSyndicate = mochila do sindicato
 
-ent-ClothingBackpackHolding = saco de retenção
+ent-ClothingBackpackHolding = mochila de contenção
     .desc = Uma mochila que se abre em um bolso localizado de bluespace.
 
 ent-ClothingBackpackCluwne = jiggles von jonkerton
     .desc = É uma mochila feita pela Jonk! Co.
 
 ent-ClothingBackpackElectropack = mochila eletrochoque
-    .desc = Choques no sinal. É usado para manter um criminoso particularmente perigoso sob controle.
+    .desc = Dá choques no sinal. É usada para manter um criminoso particularmente perigoso sob controle.
 
 ent-ClothingBackpackDebug = wackpack
     .desc = O que diabos é isso?

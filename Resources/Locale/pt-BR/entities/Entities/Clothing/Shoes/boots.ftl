@@ -1,11 +1,11 @@
 ent-ClothingShoesBootsWork = botas de trabalho
-    .desc = Botas de trabalho com cadarços de engenharia para o pessoal especialmente blue-collar.
+    .desc = Botas de trabalho com cadarços de engenharia para o pessoal de colarinho azul.
 
 ent-ClothingShoesBootsJack = botas de combate
-    .desc = Botas de combate de segurança com problema de Nanotrasen para cenários ou situações de combate. Todo combate, sempre.
+    .desc = Botas de combate de segurança fornecidas pela Nanotrasen para cenários ou situações de combate. Todo combate, sempre.
 
 ent-ClothingShoesBootsSalvage = botas de resgate
-    .desc = Botas de resgate com pontas de aço para resgate em ambientes perigosos.
+    .desc = Botas de resgate com biqueira de aço para ambientes perigosos.
 
 ent-ClothingShoesBootsPerformer = botas do performer
     .desc = Essas botas oferecem excelente aderência quando você está em cima do palco.
@@ -14,13 +14,13 @@ ent-ClothingShoesBootsCombat = botas de combate
     .desc = Botas de combate robustas para cenários ou situações de combate. Todo combate, sempre.
 
 ent-ClothingShoesHighheelBoots = botas de salto alto
-    .desc = Botas elegantes para quando você quer estar fashionável, mas também preparado.
+    .desc = Botas elegantes para quando você quer estar na moda, mas também preparado.
 
 ent-ClothingShoesBootsMerc = botas mercenárias
-    .desc = Botas que passaram por muitos conflitos e que provaram sua confiabilidade em combate.
+    .desc = Botas que passaram por muitos conflitos e provaram sua confiabilidade em combate.
 
-ent-ClothingShoesBootsLaceup = calçados de amarrar
-    .desc = A altura da moda, e já estão polidos!
+ent-ClothingShoesBootsLaceup = sapatos de amarrar
+    .desc = Na moda, e já estão engraxados!
 
 ent-ClothingShoesBootsWinter = botas de inverno
 
@@ -43,18 +43,18 @@ ent-ClothingShoesBootsWinterSec = botas de inverno de segurança
 ent-ClothingShoesBootsWinterSyndicate = botas de inverno do sindicato
     .desc = Botas pesadas duráveis, parecem mercadoria da "Syndieland".
 
-ent-ClothingShoesBootsWinterWeb = botas de inverno
-    .desc = Botas feitas de uma densa teia para ajudar a sobreviver até os invernos mais frios.
+ent-ClothingShoesBootsWinterWeb = botas de inverno táticas
+    .desc = Botas feitas de densa malha tática para ajudar a sobreviver até os invernos mais frios.
 
-ent-ClothingShoesBootsCowboyBrown = botas de cowboy marrons
-    .desc = Eles possuem esporas que tilintam e/ou tilintam.
+ent-ClothingShoesBootsCowboyBrown = botas de caubói marrons
+    .desc = Possuem esporas que tilintam ao caminhar.
 
-ent-ClothingShoesBootsCowboyBlack = botas de cowboy pretas
+ent-ClothingShoesBootsCowboyBlack = botas de caubói pretas
 
-    .desc = Eles têm esporas que tilintam e/ou tilintam.
-ent-ClothingShoesBootsCowboyWhite = botas de cowboy brancas
+    .desc = Possuem esporas que tilintam ao caminhar.
+ent-ClothingShoesBootsCowboyWhite = botas de caubói brancas
 
-    .desc = Eles têm esporas que tilintam e/ou tilintam.
-ent-ClothingShoesBootsCowboyFancy = botas de cowboy elegantes
+    .desc = Possuem esporas que tilintam ao caminhar.
+ent-ClothingShoesBootsCowboyFancy = botas de caubói elegantes
 
-    .desc = Eles têm esporas que tilintam e/ou tilintam.
+    .desc = Possuem esporas que tilintam ao caminhar.
