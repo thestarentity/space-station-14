@@ -1,6 +1,6 @@
 admin-ui-panic-bunker-window-title = Abrigo de Pânico
 admin-ui-panic-bunker-enabled = Bunker de Pânico Ativado
-admin-ui-panic-bunker-disabled = Pânico Bunker Desativado
+admin-ui-panic-bunker-disabled = Bunker de Pânico Desativado
 admin-ui-panic-bunker-tooltip = O abrigo de pânico restringe os jogadores de entrar se sua conta for muito nova ou se eles não tiverem tempo suficiente de jogo no total nesse servidor.
 admin-ui-panic-bunker-disable-automatically = Desativar Automaticamente
 admin-ui-panic-bunker-disable-automatically-tooltip = Desativa o abrigo de pânico automaticamente quando um administrador se conecta.
