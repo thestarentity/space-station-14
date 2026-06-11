@@ -3,5 +3,5 @@ ent-FoodBreakfastAmerican = café da manhã completo estilo americano
 ent-FoodBreakfastEnglish = café da manhã completo
     .desc = Um grande prato de proteína e carboidratos, mais provável de te mandar de volta para a cama do que te tirar dela. Não mencione a guerra!
 
-ent-FoodBreakfastBase =
+ent-FoodBreakfastBase = café da manhã
     .desc = Um café da manhã completo — bom dia!

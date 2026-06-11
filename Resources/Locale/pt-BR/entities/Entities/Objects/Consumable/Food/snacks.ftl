@@ -81,5 +81,5 @@ ent-FoodCookieFortune = papel da sorte
 ent-FoodPacketMRETrash = invólucro de MRE
     .desc = Um invólucro de uso geral para uma variedade de produtos alimentares militares.
 
-ent-FoodPacketTrash =
+ent-FoodPacketTrash = pacote de lixo
     .desc = Isso é lixo.

@@ -9,5 +9,5 @@ ent-BorgSprayBottle = jet de spray interno
 ent-BorgMegaSprayBottle = jato de spray interno
     .desc = Uma versão aprimorada da garrafa de spray integrada, instalada diretamente em um cyborg de manutenção. Esta é capaz de criar limpador espacial a partir da umidade do ar.
 ent-Vapor = vapor
-ent-MegaSprayBottleSpaceCleaner =
+ent-MegaSprayBottleSpaceCleaner = mega frasco de spray limpador espacial
     .desc = Lata de limpeza espacial BLAM! sem espuma, agora em um pacote maior para aqueles grandes charcos de sangue!

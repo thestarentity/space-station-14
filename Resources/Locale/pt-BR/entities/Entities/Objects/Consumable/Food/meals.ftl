@@ -76,5 +76,5 @@ ent-FoodSaladWatermelonFruitBowl = tigela de frutas de melancia
 ent-FoodMealCornInButter = milho na manteiga
     .desc = Manteigoso.
 
-ent-FoodMealBase =
+ent-FoodMealBase = refeição
     .desc = Uma refeição deliciosa, preparada com amor.

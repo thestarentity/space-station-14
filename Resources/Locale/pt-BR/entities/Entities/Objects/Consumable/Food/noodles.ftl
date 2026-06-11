@@ -19,5 +19,5 @@ ent-FoodNoodlesChowmein = chow mein
 ent-FoodNoodlesButter = macarrão com manteiga
     .desc = Massas cobertas com manteiga salgada. Simples e escorregadias, mas deliciosas.
 
-ent-FoodNoodlesBase =
+ent-FoodNoodlesBase = macarrão
     .desc = Isso sim é uma boa massa!
