@@ -13,7 +13,7 @@ ent-ClosetEmergencyN2 = armário de nitrogênio de emergência
 ent-ClosetFire = armário de segurança contra incêndio
     .desc = É um armário para armazenar equipamentos de combate a incêndios.
 
-ent-ClosetBomb = Closet de EOD
+ent-ClosetBomb = armário de EOD
     .desc = É um armário para roupas protetoras contra explosões.
 
 ent-ClosetJanitorBomb = armário de roupas de proteção para bombas de manutenção
