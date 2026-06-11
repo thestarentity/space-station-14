@@ -1,4 +1,4 @@
-ent-BaseStructureWall =
+ent-BaseStructureWall = parede
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallBrick = parede de tijolos

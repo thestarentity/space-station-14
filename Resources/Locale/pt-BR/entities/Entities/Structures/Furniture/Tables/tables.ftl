@@ -52,5 +52,5 @@ ent-TableCounterWood = balcão de madeira
 ent-TableCounterMetal = mesa de aço
     .desc = Parece um bom lugar para colocar um drink.
 
-ent-TableFancyBase =
+ent-TableFancyBase = mesa elegante
     .desc = Caro e requintado.

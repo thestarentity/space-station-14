@@ -76,5 +76,5 @@ ent-WardrobeScience = guarda-roupa de ciências
 ent-WardrobeBotanist = guarda-roupa do botanista
 
     .desc = Um armário repleto de roupas verdes elegantes.
-ent-WardrobeBase =
+ent-WardrobeBase = roupeiro
     .desc = É uma unidade de armazenamento para uniformes padrão da Nanotrasen.

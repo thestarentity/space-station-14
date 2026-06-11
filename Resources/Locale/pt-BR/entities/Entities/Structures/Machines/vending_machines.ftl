@@ -132,5 +132,5 @@ ent-VendingMachineWallMedical = NanoMed
     .desc = É um dispensador de equipamentos médicos montado na parede. Apenas químicos naturais!
 ent-VendingMachineWallmount = máquina de venda (parede)
 
-ent-VendingMachine =
+ent-VendingMachine = máquina de venda
     .desc = Apenas adicione capitalismo!

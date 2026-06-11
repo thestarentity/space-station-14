@@ -10,7 +10,7 @@ ent-PlastitaniumWindowDiagonalIndestructible = janela de plastitânio indestrut�
 ent-PlastitaniumWindowDiagonal = janela de plastitânio diagonal
     .desc = Não embaçar o vidro lá embaixo.
 
-ent-PlastitaniumWindowBase =
+ent-PlastitaniumWindowBase = janela de plastitânio
     .desc = Não embaçar o vidro lá embaixo.
 
 ent-PlastitaniumWindowSquareBase = janela de plastitânio (base quadrada)

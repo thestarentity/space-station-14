@@ -4,5 +4,5 @@ ent-BaseSubstationWall = montagem na parede de subestação
 ent-BaseSubstationWallFrame = quadro de subestação montado na parede
     .desc = Um quadro de subestação para construção.
 
-ent-BaseSubstation =
+ent-BaseSubstation = subestação
     .desc = Reduz a tensão da eletricidade que passa por ele.

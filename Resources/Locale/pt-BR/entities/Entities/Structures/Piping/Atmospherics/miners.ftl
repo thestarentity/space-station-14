@@ -37,5 +37,5 @@ ent-GasMinerAmmonia = minerador de gás amônia
 ent-GasMinerNitrousOxide = miner de gás óxido nitroso
 
     .desc = Gases minerados do gigante gasoso abaixo (acima?) fluem por esse grande vento.
-ent-GasMinerBase =
+ent-GasMinerBase = minerador de gás
     .desc = Gases extraídos do gigante gasoso abaixo (acima?) fluem por este enorme ventilador.

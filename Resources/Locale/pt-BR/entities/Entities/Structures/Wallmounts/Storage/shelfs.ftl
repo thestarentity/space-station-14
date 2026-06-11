@@ -25,8 +25,8 @@ ent-ShelfKitchen = Prateleira da cozinha
 ent-ShelfChemistry = Prateleira de Química
     .desc = Mantém todos os seus químicos seguros e fora das mãos... públicas!
 
-ent-ShelfBase =
+ent-ShelfBase = prateleira
     .desc = Um lugar estranho para colocar, bem, qualquer coisa. Você sente que não deveria estar vendo isso.
 
-ent-ShelfBaseReinforced =
+ent-ShelfBaseReinforced = prateleira reforçada
     .desc = Parece tão sólido quanto a própria realidade.

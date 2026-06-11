@@ -63,5 +63,5 @@ ent-WoodenBench = banco de madeira
 ent-ChairXeno = cadeira xenon
 
     .desc = Você senta nisso. Ou por vontade ou por força.
-ent-SeatBase =
+ent-SeatBase = assento
     .desc = Você se senta aqui. Por vontade própria ou à força.

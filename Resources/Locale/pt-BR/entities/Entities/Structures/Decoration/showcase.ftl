@@ -10,5 +10,5 @@ ent-ShowcaseRobotAntique = Robô de carga antigo
 ent-ShowcaseRobotMarauder = vitrine do Saqueador
     .desc = Uma réplica não funcional de um saqueador, pintada de verde.
 
-ent-BaseShowcaseRobot =
+ent-BaseShowcaseRobot = vitrine de robô
     .desc = Uma réplica não funcional de um antigo robô de segurança.

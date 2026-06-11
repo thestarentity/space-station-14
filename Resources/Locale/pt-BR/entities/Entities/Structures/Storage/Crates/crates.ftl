@@ -116,5 +116,5 @@ ent-CrateTrashCart = carrinho de lixo
 ent-CrateTrashCartJani = carrinho de lixo do zelador
 
     .desc = Um grande recipiente para itens.
-ent-CrateBaseLockBox =
+ent-CrateBaseLockBox = caixa de segurança
     .desc = Um cofre seguro. Os fundos da venda serão distribuídos de volta ao departamento. Só lembre-se: a Carga sempre fica com sua parte.

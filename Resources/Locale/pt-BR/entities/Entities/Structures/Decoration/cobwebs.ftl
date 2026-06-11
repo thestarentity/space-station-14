@@ -1,2 +1,2 @@
-ent-Cobweb1 = aranha
+ent-Cobweb1 = teia de aranha
     .desc = Alguém deveria remover isso.

@@ -28,8 +28,8 @@ ent-SurveillanceCameraWirelessRouterEntertainment = roteador de câmera de entre
 ent-SurveillanceCameraWirelessRouterXenoborg = roteador sem fio de câmera xenoborg
 
     .desc = Um roteador de câmera de vigilância sem fio. Ele roteia. Talvez.
-ent-SurveillanceCameraRouterBase =
+ent-SurveillanceCameraRouterBase = roteador de câmeras
     .desc = Um roteador de câmera de vigilância. Ele roteia. Talvez.
 
-ent-SurveillanceCameraWirelessRouterBase =
+ent-SurveillanceCameraWirelessRouterBase = roteador sem fio de câmeras
     .desc = Um roteador sem fio de câmera de vigilância. Ele roteia. Talvez.

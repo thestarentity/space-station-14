@@ -7,7 +7,7 @@ ent-ShuttersWindow = persianas da janela
 ent-ShuttersFrame = quadro de persiana
     .desc = Um quadro para construir uma persiana.
 
-ent-BaseShutter =
+ent-BaseShutter = veneziana
     .desc = Arrepia pensar no que pode estar atrás desta veneziana.
 
 ent-ShuttersNormal = veneziana

@@ -89,5 +89,5 @@ ent-StationAiFixerComputer = console de restauração da IA
 ent-ComputerNukieDelivery = computador de entrega do sindicato
     .desc = Um computador que pode teletransportar certos equipamentos para Operações Nucleares via bluespace. O circuito é integrado ao corpo e não pode ser recuperado se o equipamento for destruído.
 
-ent-BaseComputerShuttle =
+ent-BaseComputerShuttle = computador de nave
     .desc = Usado para pilotar uma nave.

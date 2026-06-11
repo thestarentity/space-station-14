@@ -5,5 +5,5 @@ ent-SyndicateBomb = bomba do sindicato
 ent-DebugHardBomb = bomba de depuração
     .desc = Caralho, isso vai explodir.
 
-ent-BaseHardBomb =
+ent-BaseHardBomb = bomba de impacto
     .desc = Continue conversando e ninguém vai explodir.
