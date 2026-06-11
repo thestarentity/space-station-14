@@ -7,7 +7,7 @@ ent-MobCarpHolo = carpa holográfica
 ent-MobCarpRainbow = carpa arco-íris
     .desc = Uau, que peixe brilhante!
 
-ent-MobCarpDragon = carpa espacial
+ent-MobCarpDragon = carpa dragão
 
 ent-MobShark = tubarão
     .desc = Um perigoso tubarão vindo das trevas do espaço infinito, que adora beber sangue.

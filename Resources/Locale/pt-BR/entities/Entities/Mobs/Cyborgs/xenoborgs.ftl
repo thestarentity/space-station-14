@@ -1,4 +1,4 @@
-ent-XenoborgEngi = engi xenoborg
+ent-XenoborgEngi = xenoborg engenheiro
     .desc = Um híbrido homem-máquina que busca replicar-se. Eles adoram extrair cérebros para inseri-los em novos chassis Xenoborg para expandir seu exército. Este parece ser do tipo engenheiro, já que possui mais ferramentas para apoiar os outros Xenoborgs.
 
 ent-XenoborgHeavy = xenoborg pesado

@@ -97,7 +97,7 @@ ent-MobGrenadePenguin = pinguim de granada
 ent-MobSnake = cobra
     .desc = Hissss! Os mordidas não são venenosas.
 
-ent-MobGiantSpider = tarantula
+ent-MobGiantSpider = aranha gigante
     .desc = Amenaçadoramente reconhecido como a coisa literalmente pior que existe.
 
 ent-MobClownSpider = aranha palhaça
