@@ -4,7 +4,7 @@ ent-MobArgocyteSlurva = Slurva
 ent-MobArgocyteBarrier = barreira
 
     .desc = Um alienígena perigoso encontrado do lado errado dos planetas, conhecido por sua propensão em devorar ruínas.
-ent-MobArgocyteSkitter = escorrega
+ent-MobArgocyteSkitter = esgueirante
     .desc = Um alienígena travesso... Certifique-se de que eles não fugirem com suas rações!
 
 ent-MobArgocyteSwiper = Swiper
@@ -13,10 +13,10 @@ ent-MobArgocyteSwiper = Swiper
 ent-MobArgocyteMolder = modelador
 
     .desc = Um alienígena perigoso encontrado do lado errado dos planetas, conhecido por sua propensão em devorar ruínas.
-ent-MobArgocytePouncer = pouncer
+ent-MobArgocytePouncer = saltador
 
     .desc = Um alienígena perigoso encontrado do lado errado dos planetas, conhecido por sua propensão em devorar ruínas.
-ent-MobArgocyteGlider = glider
+ent-MobArgocyteGlider = planador
 
     .desc = Um alienígena perigoso encontrado do lado errado dos planetas, conhecido por sua propensão em devorar ruínas.
 ent-MobArgocyteHarvester = coletor
