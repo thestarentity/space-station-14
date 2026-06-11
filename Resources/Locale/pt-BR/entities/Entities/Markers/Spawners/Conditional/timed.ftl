@@ -1,7 +1,7 @@
-ent-AITimedSpawner = Spawneador Temporizado de IA
+ent-AITimedSpawner = Gerador Temporizado de IA
 
-ent-XenoAITimedSpawner = Spawner de IA Xenon Temporizado
+ent-XenoAITimedSpawner = Gerador Temporizado de IA Xenon
 
-ent-MouseTimedSpawner = Spawneador de Rato Temporizado
+ent-MouseTimedSpawner = Gerador Temporizado de Rato
 
-ent-CockroachTimedSpawner = Gerador de Percevejos Temporizado
+ent-CockroachTimedSpawner = Gerador Temporizado de Barata

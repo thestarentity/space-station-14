@@ -1,1 +1,1 @@
-ent-SpawnPointNukies = nukies
+ent-SpawnPointNukies = Ponto de Aparecimento dos Nukies

@@ -26,15 +26,15 @@ ent-SpawnMobLizard = Gerador de Lagarto
 
 ent-SpawnMobMonkey = Gerador de Macacos
 
-ent-SpawnMobMouse = Criador de Mouse
+ent-SpawnMobMouse = Gerador de Ratos
 
-ent-SpawnMobParrot = Criador de Pássaro Papagaio
+ent-SpawnMobParrot = Gerador de Papagaios
 
 ent-SpawnMobPenguin = Gerador de Pinguim
 
-ent-SpawnMobReindeerBuck = Gerador de Carneiro Renanante
+ent-SpawnMobReindeerBuck = Gerador de Rena Macho
 
-ent-SpawnMobReindeerDoe = Gerador de Cervos Doe
+ent-SpawnMobReindeerDoe = Gerador de Rena Fêmea
 
 ent-SpawnMobSheep = Gerador de Ovelhas
 
@@ -44,4 +44,4 @@ ent-SpawnMobSheepSpace = Gerador de Ovelhas Espaciais
 
 ent-SpawnWoolyAnimalGeneric = Gerador de Animal Peludo
 
-ent-SpawnMobSlug = Criador de Slugs
+ent-SpawnMobSlug = Gerador de Lesmas

@@ -1,15 +1,15 @@
-ent-SpawnMobXenoBurrower = Criador de Xenos
+ent-SpawnMobXenoBurrower = Gerador de Escavador Xeno
 
-ent-SpawnMobXenoDrone = Criador de Xenos
+ent-SpawnMobXenoDrone = Gerador de Drone Xeno
 
-ent-SpawnMobXenoPraetorian = Criador de Xenos
+ent-SpawnMobXenoPraetorian = Gerador de Pretoriano Xeno
 
-ent-SpawnMobXenoQueen = Criador de Xenos
+ent-SpawnMobXenoQueen = Gerador de Rainha Xeno
 
-ent-SpawnMobXenoRavager = Criador de Xenos
+ent-SpawnMobXenoRavager = Gerador de Devastador Xeno
 
-ent-SpawnMobXenoRunner = Criador de Xenos
+ent-SpawnMobXenoRunner = Gerador de Corredor Xeno
 
-ent-SpawnMobXenoSpitter = Criador de Xenos
+ent-SpawnMobXenoSpitter = Gerador de Cuspidor Xeno
 
-ent-SpawnMobXenoLonePraetorian = Criador de Xenos
+ent-SpawnMobXenoLonePraetorian = Gerador de Pretoriano Solitário Xeno

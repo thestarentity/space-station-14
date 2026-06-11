@@ -1,4 +1,4 @@
-ent-SpawnClownSpider = criador de aranhas palhaço
+ent-SpawnClownSpider = Gerador de Aranha Palhaça
 
 ent-SpawnMobBear = Gerador de Urso Espacial
 
@@ -10,26 +10,26 @@ ent-SpawnMobHellspawn = Gerador de Hellspawn
 
 ent-SpawnMobKangaroo = Gerador de Canguru Espacial
 
-ent-SpawnMobLuminousEntity = criador de entidade luminosa
+ent-SpawnMobLuminousEntity = Gerador de Entidade Luminosa
 
-ent-SpawnMobLuminousObject = criador de objetos luminosos
+ent-SpawnMobLuminousObject = Gerador de Objeto Luminoso
 
-ent-SpawnMobLuminousPerson = criador de pessoa luminosa
+ent-SpawnMobLuminousPerson = Gerador de Pessoa Luminosa
 
-ent-SpawnMobOreCrab = gerador de caranguejo de minério
+ent-SpawnMobOreCrab = Gerador de Caranguejo de Minério
 
 ent-SpawnMobPurpleSnake = Gerador de Serpente Roxa
 
-ent-SpawnMobSmallPurpleSnake = Gerador de Serpente Púrpura Pequena
+ent-SpawnMobSmallPurpleSnake = Gerador de Serpente Roxa Pequena
 
 ent-SpawnMobSpaceCobra = Gerador de Cobra Espacial
 
 ent-SpawnMobSpaceSpider = Gerador de Aranha Espacial
 
-ent-SpawnMobWatcherIcewing = Gerador de Watcher Icewing
+ent-SpawnMobWatcherIcewing = Gerador de Observador de Asas de Gelo
 
-ent-SpawnMobWatcherLavaland = Gerador de Lavaland
+ent-SpawnMobWatcherLavaland = Gerador de Observador de Lavaland
 
-ent-SpawnMobWatcherMagmawing = Gerador de Guardião Magmawing
+ent-SpawnMobWatcherMagmawing = Gerador de Observador de Magmawing
 
-ent-SpawnMobWatcherPride = Gerador de Orgulho dos Vigilantes
+ent-SpawnMobWatcherPride = Gerador de Observador de Orgulho

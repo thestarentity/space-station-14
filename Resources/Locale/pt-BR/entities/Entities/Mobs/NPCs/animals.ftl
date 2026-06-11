@@ -19,8 +19,8 @@ ent-MobGlockroach = glockroach
 ent-MobMothroach = traça-barata
     .desc = Este é o fofo subproduto de múltiplos tentativas de misturar geneticamente mothpeople com baratas.
 
-ent-MobDuckMallard = pato mallard
-    .desc = Um pato-mallard adorável, é fofo e macio!
+ent-MobDuckMallard = pato-real
+    .desc = Um pato-real adorável, é fofo e macio!
 
 ent-MobDuckWhite = pato branco
     .desc = Um pato branco adorável, ele é fofo e macio!
@@ -144,10 +144,10 @@ ent-MobCatKitten = gatinho
 ent-MobSloth = preguiça
     .desc = Animal muito lento. Para pessoas com baixa energia.
 
-ent-MobFerret = rato de laboratório
+ent-MobFerret = furão
     .desc = Apenas um cara bobo!
 
-ent-MobHamster = Hamster
+ent-MobHamster = hamster
     .desc = Um hamster fofo, peludo e robusto.
 
 ent-MobPig = porco
@@ -156,10 +156,10 @@ ent-MobPig = porco
 ent-MobDionaNymph = ninfas de diona
     .desc = É como um gato, só que... mais ramificado.
 
-ent-MobReindeerBuck = cervo de renã
+ent-MobReindeerBuck = rena macho
     .desc = Você acha que ele pode puxar um trenó?
 
-ent-MobReindeerDoe = cervo doe
+ent-MobReindeerDoe = rena fêmea
 
     .desc = Você acha que ele pode puxar um trenó?
 ent-MobCorgiSmart = corgi inteligente

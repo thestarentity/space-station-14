@@ -1,7 +1,7 @@
-ent-SpawnMobCarp = Gerador de Peixe Espacial
+ent-SpawnMobCarp = Gerador de Carpa Espacial
 
-ent-SpawnMobCarpHolo = Gerador de Holocarp
+ent-SpawnMobCarpHolo = Gerador de Carpa Holográfica
 
-ent-SpawnMobCarpMagic = Criador de Magicarp
+ent-SpawnMobCarpMagic = Gerador de Magicarp
 
-ent-SpawnMobShark = Gerador de Sardinha Tubarão Espacial
+ent-SpawnMobShark = Gerador de Tubarão Espacial

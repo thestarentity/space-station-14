@@ -1,1 +1,1 @@
-ent-SpawnPointPirates = Ponto de Spawn dos Piratas
+ent-SpawnPointPirates = Ponto de Aparecimento dos Piratas

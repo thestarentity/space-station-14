@@ -1,4 +1,4 @@
-ent-SpawnMobAlexander = Alexander Spawner
+ent-SpawnMobAlexander = Gerador de Alexander
 
 ent-SpawnMobBandito = Gerador de Banditões
 
@@ -20,7 +20,7 @@ ent-SpawnMobCrabAtmos = Gerador de Tropico
 
 ent-SpawnMobFoxRenault = Gerador de Fox Renault
 
-ent-SpawnMobMcGriff = Criador de McGriff
+ent-SpawnMobMcGriff = Gerador de McGriff
 
 ent-SpawnMobHamsterHamlet = Gerador de Hamster Hamlet
 
@@ -38,6 +38,6 @@ ent-SpawnMobShiva = Gerador de Shiva
 
 ent-SpawnMobSlothPaperwork = Gerador de Documentos do Preguiçoso
 
-ent-SpawnMobSmile = Criador de Sorrisos
+ent-SpawnMobSmile = Gerador de Sorrisos
 
-ent-SpawnMobWalter = Walter Spawner
+ent-SpawnMobWalter = Gerador de Walter

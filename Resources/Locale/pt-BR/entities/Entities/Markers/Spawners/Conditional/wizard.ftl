@@ -1,1 +1,1 @@
-ent-SpawnPointWizard = Bruxo
+ent-SpawnPointWizard = Ponto de Aparecimento do Feiticeiro
