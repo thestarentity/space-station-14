@@ -17,7 +17,7 @@ ent-FoodTinBeansTrash = lata de feijão
 
     .desc = Uma lata vazia. Poderia pegar um pouco de metal disso.
 ent-FoodTinMRE = carne enlatada
-    .desc = Um lata padrão de carne com uma lingueta conveniente para abrir.
+    .desc = Uma lata padrão de carne com uma lingueta conveniente para abrir.
 
 ent-FoodTinMRETrash = carne enlatada
 

@@ -15,13 +15,13 @@ name-format-nukie-operator = Operador { $part0 }
 name-format-ert = { $part0 } { $part1 }
 name-format-ert-leader = Sargento { $part0 }
 name-format-ert-specialist = Especialista { $part0 }
-name-format-ert-pointman = Pointman { $part0 }
+name-format-ert-pointman = Explorador { $part0 }
 name-format-ert-officer = Oficial { $part0 }
-name-format-ert-rifle = Rifleman { $part0 }
+name-format-ert-rifle = Fuzileiro { $part0 }
 name-format-ert-grenade = Granadeiro { $part0 }
-name-format-ert-vanguard = Vanguard { $part0 }
+name-format-ert-vanguard = Vanguarda { $part0 }
 name-format-ert-doctor = Doutor { $part0 }
-name-format-ert-corpsman = Corpsman { $part0 }
+name-format-ert-corpsman = Enfermeiro de Combate { $part0 }
 # "<appearance> <type>"
 name-format-book = { $part0 } { $part1 }
 name-format-nuclear-operation = { $part0 } { $part1 }

@@ -29,8 +29,8 @@ ent-SheetRUGlass1 = vidro de urânio reforçado
 
     .desc = Uma chapa reforçada de urânio.
 ent-SheetClockworkGlass = vidro de relógio de engrenagens
-    .desc = Uma folha de vidro endurecido com latão,主要用于 clockwork entusiastas e remanescentes de cultos Ratvarian.
+    .desc = Uma folha de vidro endurecido com latão, para entusiastas de relógios de engrenagem e remanescentes de cultos Ratvarianos.
 
 ent-SheetClockworkGlass1 = vidro de relógio de engrenagens
 
-    .desc = Uma folha de vidro endurecido com bronze,主要用于 por entusiastas de relógios de engrenagens e remanescentes de cultos Ratvarianos.
+    .desc = Uma folha de vidro endurecido com bronze, para entusiastas de relógios de engrenagem e remanescentes de cultos Ratvarianos.

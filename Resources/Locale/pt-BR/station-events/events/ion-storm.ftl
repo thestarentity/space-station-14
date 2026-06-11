@@ -73,7 +73,7 @@ ion-storm-law-crew-only-subjects = APENAS { ION-ADJECTIVE($ion) } { ION-SUBJECT(
 ion-storm-law-crew-must-do = APENAS QUEM { ION-MUST($ion) } SÃO { ion-storm-part } DA TRIPULAÇÃO
 ion-storm-law-crew-must-have = APENAS AQUELES QUE POSSUÍM { ION-ADJECTIVE($ion) } { ION-OBJECT($ion) } SÃO { ion-storm-part } DA TRIPULAÇÃO
 ion-storm-law-crew-must-eat = APENAS QUEM COME { ION-ADJECTIVE($ion) } { ION-FOOD($ion) } É { ion-storm-part } DA TRIPULAÇÃO
-ion-storm-law-harm = VOCÊ DEVE CAUSAR PREJUÍZO A { ION-HARM-PROTECT($ion) } E NÃO PERMITIR QUE ELES, POR INAÇÕES, ESCAPEM DO PREJUÍZO
+ion-storm-law-harm = VOCÊ DEVE CAUSAR PREJUÍZO A { ION-HARM-PROTECT($ion) } E NÃO PERMITIR QUE ELES, POR OMISSÃO, ESCAPEM DO PREJUÍZO
 ion-storm-law-protect = VOCÊ NUNCA DEVE PREJUDICAR { ION-HARM-PROTECT($ion) } E NÃO DEVE PERMITIR, POR OMISSÃO, QUE ELES SEJAM PREJUDICADOS
 # implementing other variants is annoying so just have this one
 # COMMUNISM IS KILLING CLOWNS

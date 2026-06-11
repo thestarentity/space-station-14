@@ -1,4 +1,4 @@
-ent-BoxCleanerGrenades = cleanades box
+ent-BoxCleanerGrenades = caixa de granadas de limpeza
     .desc = Uma caixa cheia de cleanades.
 
 ent-BoxAgrichem = Kit "Agricultura Química é Divertido"

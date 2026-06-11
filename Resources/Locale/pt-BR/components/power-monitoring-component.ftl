@@ -3,7 +3,7 @@ power-monitoring-window-label-sources = Fontes
 power-monitoring-window-label-smes = SMES
 power-monitoring-window-label-substation = Subestação
 power-monitoring-window-label-apc = APC
-power-monitoring-window-label-misc = Misc
+power-monitoring-window-label-misc = Diversos
 power-monitoring-window-object-array = { $name } array [{ $count }]
 power-monitoring-window-station-name = [color=white][font size=14]{ $stationName }[/font][/color]
 power-monitoring-window-unknown-location = Localização desconhecida

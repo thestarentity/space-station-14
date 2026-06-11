@@ -40,7 +40,7 @@ ent-PaintingOldGuitarist = O Velho guitarrista
 ent-PaintingOlympia = Olimpia
     .desc = Este quadro mostra uma mulher nuá deitada na cama. Um servo está cuidando dela.
 
-ent-PaintingSaturn = Saturn Devorando Seu Filho
+ent-PaintingSaturn = Saturno Devorando Seu Filho
     .desc = Este quadro mostra um gigante devorando um cadáver humano. Ele tem uma expressão assustadora nos olhos.
 
 ent-PaintingSleepingGypsy = A Cigana Adormecida

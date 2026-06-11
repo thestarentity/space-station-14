@@ -43,7 +43,7 @@ ui-options-volume-label = Volume
 
 ui-options-display-label = Exibir
 ui-options-quality-label = Qualidade
-ui-options-misc-label = Misc
+ui-options-misc-label = Diversos
 ui-options-interface-label = Interface
 ui-options-auto-fill-highlights = Defina automaticamente a lista de destaques com base no nome e no cargo do seu personagem
 ui-options-highlights-color = Cor de destaque:

@@ -83,10 +83,10 @@ ent-BoxEncryptionKeySyndie = caixa de chave de criptografia do sindicato
     .desc = Dois chaves de criptografia sindical por preço de uma. Miniaturizado para facilitar o uso.
 
 ent-BoxLeadLined = caixa revestida de chumbo
-    .desc = Este caixa impede a transmissão de radiação prejudicial.
+    .desc = Esta caixa impede a transmissão de radiação prejudicial.
 
 ent-BoxCandle = caixa de vela
-    .desc = Esse caixa foi especialmente moldado para transportar apenas velas.
+    .desc = Essa caixa foi especialmente moldada para transportar apenas velas.
 
 ent-BoxCandleSmall = caixa de vela pequena
 

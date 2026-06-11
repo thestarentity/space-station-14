@@ -1,8 +1,8 @@
 ent-CrateArmorySMG = Caixa de SMG
     .desc = Contém duas SMGs com quatro carregadores. Requer acesso à Armory para abrir.
 
-ent-CrateArmoryShotgun = caixa de霰弹枪
-    .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Enforcer Combat Shotguns e algumas cartuchos de霰弹枪 padrão. Requer acesso à Armory para abrir.
+ent-CrateArmoryShotgun = caixa de espingardas
+    .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Enforcer Combat Shotguns e alguns cartuchos de espingarda padrão. Requer acesso à Armory para abrir.
 
 ent-CrateTrackingImplants = implantes de rastreamento
     .desc = Contém uma quantidade razoável de implantes de rastreamento. Ótimo para prisioneiros que você deseja soltar, mas ainda quer manter sob controle.

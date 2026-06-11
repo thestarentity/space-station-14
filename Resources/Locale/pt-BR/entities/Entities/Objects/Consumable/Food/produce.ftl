@@ -144,5 +144,5 @@ ent-FoodCherry = cereja
 ent-TrashCherryPit = caroço de cereja
 ent-FoodAnomalyBerry = baga anômala
     .desc = Uma fruta azul estranha. Algo sobre ela não parece certo.
-ent-FoodBloonion = bloonion bulb
+ent-FoodBloonion = bulbo de bloonion
     .desc = Uma estranha bola flutuante... Nada digno de chorar.

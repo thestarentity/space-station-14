@@ -47,7 +47,7 @@ ent-BarSignTheLightbulb = A Lâmpada
 ent-BarSignTheLooseGoose = O Pato Solto
     .desc = Beba até vomitar e/ou quebre as leis da realidade!
 
-ent-BarSignTheNet = The Net
+ent-BarSignTheNet = A Rede
     .desc = Você só parece se envolver nisso por horas.
 
 ent-BarSignTheOuterSpess = O Spess Exterior
