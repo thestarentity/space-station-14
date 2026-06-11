@@ -1,1 +1,1 @@
-ent-CartridgeMinigun = cartridge (.10 rifle)
+ent-CartridgeMinigun = cartucho (.10 rifle)

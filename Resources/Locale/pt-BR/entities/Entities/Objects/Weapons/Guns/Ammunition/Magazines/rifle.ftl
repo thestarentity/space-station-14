@@ -7,7 +7,7 @@ ent-MagazineRifleEmpty = carregador (.20 rifle qualquer)
 ent-MagazineRifleIncendiary = carregador (.20 rifle incendiária)
     .desc = Carregador de 25 tiros com empilhamento duplo para rifles de combate. Destinado a conter munição incendiária autoligante.
 
-ent-MagazineRiflePractice = carregador (.20 rifle practice)
+ent-MagazineRiflePractice = carregador (.20 rifle prática)
     .desc = Carregador de 25 tiros com dupla pilha para rifles de combate. Destinado a conter munição de prática inofensiva.
 
 ent-MagazineRifleUranium = carregador (.20 rifle urânio)

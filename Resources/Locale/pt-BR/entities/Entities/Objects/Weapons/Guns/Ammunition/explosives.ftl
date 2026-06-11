@@ -14,10 +14,10 @@ ent-GrenadeFrag = granada de fragmentação
 
 ent-GrenadeCleanade = granada de limpeza
 
-ent-GrenadeEMP = Granada EMP
+ent-GrenadeEMP = granada EMP
 
-ent-CannonBall = canhão de bala
+ent-CannonBall = bala de canhão
 
-ent-CannonBallGrapeshot = grapeshot
+ent-CannonBallGrapeshot = metralha
 
 ent-CannonBallGlassshot = Disparo de vidro

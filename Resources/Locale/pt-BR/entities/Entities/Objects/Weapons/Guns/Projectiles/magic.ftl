@@ -7,16 +7,16 @@ ent-ProjectileDragonsBreath = fogo de dragão
 ent-ProjectileAnomalyFireball = bola de fogo
     .desc = Bolha de fogo flutuante.
 
-ent-ProjectileLocker = locker maldito
+ent-ProjectileLocker = armário amaldiçoado
     .desc = Um armário mágico amaldiçoado! Você consegue resistir?
 
-ent-ProjectilePolyboltCarp = carp polybolt
+ent-ProjectilePolyboltCarp = polybolt de carpa
     .desc = Nãããão, não quero ser peixe!
 
-ent-ProjectilePolyboltMonkey = polvo de macaco
+ent-ProjectilePolyboltMonkey = polybolt de macaco
     .desc = Nãããão, não quero ser macaco!
 
-ent-ProjectilePolyboltDoor = porta polybolt
+ent-ProjectilePolyboltDoor = polybolt de porta
     .desc = Nãããão, não quero ser porta!
 
 ent-ProjectileHealingBolt = raio de cura
@@ -28,7 +28,7 @@ ent-BulletInstakillMagic = cilindro de chumbo mágico
 ent-ProjectilePolyboltCluwne = polybolt do palhaço
     .desc = KnoH KnoH!
 
-ent-ProjectileIcicle = espinha de gelo
+ent-ProjectileIcicle = estalactite de gelo
     .desc = Brrr.
 
 ent-ProjectilePolyboltBread = pão polybolt

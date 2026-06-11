@@ -3,7 +3,7 @@ ent-MagazineBoxLightRifleBig = caixa de munição (.30 rifle)
 ent-MagazineBoxLightRifle = caixa de munição (.30 rifle)
     .desc = Uma caixa de cartão com munição de rifle .30. Intendida para conter munição cinética de uso geral.
 
-ent-MagazineBoxLightRiflePractice = caixa de munição (.30 rifle practice)
+ent-MagazineBoxLightRiflePractice = caixa de munição (.30 rifle prática)
     .desc = Uma caixa de cartão com munição de rifle .30. Intendida para conter munição de prática inofensiva.
 
 ent-MagazineBoxLightRifleIncendiary = caixa de munição (.30 rifle incendiário)

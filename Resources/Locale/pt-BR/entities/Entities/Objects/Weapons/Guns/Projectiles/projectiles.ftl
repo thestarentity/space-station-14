@@ -16,34 +16,34 @@ ent-BulletTaser = descarga de taser
 ent-BulletTaserSuper = descarga de taser
     .desc = Se você consegue ver isso, provavelmente foi atingido por um stun-meta.
 
-ent-BulletDisabler = parafuso de desativador
+ent-BulletDisabler = projétil desativador
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletDisablerPractice = prática de parafuso de desativador
+ent-BulletDisablerPractice = projétil desativador de treino
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-EmitterBolt = bolta de emissor
+ent-EmitterBolt = projétil do emissor
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-WatcherBolt = bolto observador
+ent-WatcherBolt = projétil do observador
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BoltTempgunCold = bolto congelante
+ent-BoltTempgunCold = projétil congelante
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-WatcherBoltMagmawing = magmawing watcher bolt
+ent-WatcherBoltMagmawing = projétil do observador de magma
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BoltTempgunHot = bolto quente
+ent-BoltTempgunHot = projétil quente
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BasiliskRay = raio basilisco
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletKinetic = bolta cinética
+ent-BulletKinetic = projétil cinético
     .desc = Não está tão ruim, mas você ainda não quer ser atingido por ele.
 
-ent-BulletCharge = carregar raio
+ent-BulletCharge = raio de carga
     .desc = Marca um alvo para sofrer mais dano.
 
 ent-BulletChargeGlaive = disparo de sugador
@@ -67,10 +67,10 @@ ent-AnomalousParticleSigma = partículas sigma
 ent-AnomalousParticleSigmaStrong = partículas sigma
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletRocket = rocket
+ent-BulletRocket = foguete
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletWeakRocket = rocketeiro fraco
+ent-BulletWeakRocket = foguete fraco
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeBaton = granada de bastão
@@ -91,7 +91,7 @@ ent-BulletGrenadeCleanade = granada de limpeza
 ent-BulletGrenadeEMP = Rocha de EMP
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletCap = balas de cabeça
+ent-BulletCap = bala de espoleta
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletAcid = saliva ácida
@@ -102,23 +102,23 @@ ent-BulletWaterShot = água
 ent-BulletHivebot = balas de hivobot
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletCannonBall = canhão de bala
+ent-BulletCannonBall = bala de canhão
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-GrapplingHook = gancho de arreatação
+ent-GrapplingHook = gancho de agarrar
 
 ent-StickyHandPalm = mão adesiva
 
-ent-BulletDisablerSmg = carregador de SMG desativador
+ent-BulletDisablerSmg = projétil desativador de SMG
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletEnergyTurretBase = bolta de energia
+ent-BulletEnergyTurretBase = projétil de energia
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletEnergyTurretLaser = projétil laser
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletEnergyTurretDisabler = parafuso de desativador
+ent-BulletEnergyTurretDisabler = projétil desativador da torre
 
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-TeslaGunBullet = raio da arma de tesla
@@ -139,8 +139,8 @@ ent-BulletDisablerSmgSpread = desativando barragem de laser
 ent-BulletLaserMagnum = projétil laser de revólver
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-BulletLaserWindowPiercingMagnum = bolta de revólver perfurante de janela
+ent-BulletLaserWindowPiercingMagnum = projétil laser perfurante de revólver
 
     .desc = Se você pode ver isso, provavelmente está morto!
-ent-EnergyCrossbowBolt = bolta de energia
+ent-EnergyCrossbowBolt = virote de energia
     .desc = Isso vai doer.

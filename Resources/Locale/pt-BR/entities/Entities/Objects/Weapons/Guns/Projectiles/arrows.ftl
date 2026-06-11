@@ -10,8 +10,8 @@ ent-ArrowImprovisedPlasma = flecha de fragmento de vidro de plasma
 ent-ArrowImprovisedUranium = flecha de fragmento de vidro de urânio
     .desc = O projétil preferido do greyshirt. Agora com radiação adicionada!
 
-ent-ArrowImprovisedCarp = flecha de dente de carpinteiro
+ent-ArrowImprovisedCarp = flecha de dente de carpa
     .desc = A flecha preferida do salvador. Mate seus inimigos com os dentes de suas famílias.
 
-ent-ArrowCard = flecha de cartãoão
+ent-ArrowCard = flecha de cartão
     .desc = Cuidado, você vai furar um olho!
