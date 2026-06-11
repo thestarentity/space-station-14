@@ -13,18 +13,18 @@ ent-BorgModuleArtistry = módulo ciborgue artístico
 ent-BorgModuleFireExtinguisher = módulo ciborgue de propulsor
     .desc = NT designou uma equipe para criar um jetpack para unidades ciborgues, mas eles ficaram sem financiamento e simplesmente fizeram um extintor de incêndio maior. Ele vem com um GPS integrado e um scanner de massa porém!
 
-ent-BorgModuleTool = módulo ciborg
+ent-BorgModuleTool = módulo ciborgue de ferramentas
 
-ent-BorgModuleInflatable = módulo inflável de ciborgue
+ent-BorgModuleInflatable = módulo ciborgue inflável
 
-ent-BorgModuleAppraisal = avaliação módulo ciborg
+ent-BorgModuleAppraisal = módulo ciborgue de avaliação
 
 ent-BorgModuleMining = módulo ciborg de mineração
 
 ent-BorgModuleAdvancedMining = módulo ciborg de mineração avançada
     .desc = Módulo avançado de carga contendo equipamentos avançados de mineração. Estudos mostram que ele aumenta a produtividade de um ciborgue em 150%.
 
-ent-BorgModuleTraversal = módulo de cyborg traversal
+ent-BorgModuleTraversal = módulo ciborgue de deslocamento
 
 ent-BorgModuleAdvancedTool = módulo ciborg de ferramenta avançada
     .desc = Módulo avançado de engenharia contendo ferramentas de ponta.
@@ -35,12 +35,12 @@ ent-BorgModuleRCD = módulo ciborgue de engenharia
 
 ent-BorgModuleCustodial = módulo cibernético de manutenção
 
-ent-BorgModuleCleaning = limpeza do módulo ciborg
+ent-BorgModuleCleaning = módulo ciborgue de limpeza
 
 ent-BorgModuleAdvancedCleaning = módulo ciborg de limpeza avançada
     .desc = Módulo avançado de limpeza contendo, bem... equipamentos avançados de zeladoria. O que você esperava?
 
-ent-BorgModuleDiagnosis = diagnóstico módulo ciborg
+ent-BorgModuleDiagnosis = módulo ciborgue de diagnóstico
 
 ent-BorgModuleTopicals = módulo ciborg de primeiros socorros
 
@@ -49,26 +49,26 @@ ent-BorgModuleRescue = módulo de resgate de ciborgue
 ent-BorgModuleChemical = módulo ciborgue químico
 
 ent-BorgModuleAdvancedTopical = módulo ciborg de primeiros socorros avançados
-    .desc = Módulo médico avançado contendo a adaptação ciborgênica do altamente cobiçado hiposspray. Agora seus ciborgues podem injetar os prejudicadores da tripulação com hidrato de cloral ainda mais rápido!
+    .desc = Módulo médico avançado contendo a adaptação ciborgênica do altamente cobiçado hipospray. Agora seus ciborgues podem injetar os prejudicadores da tripulação com hidrato de cloral ainda mais rápido!
 
-ent-BorgModuleArtifact = módulo ciborg
+ent-BorgModuleArtifact = módulo ciborgue de artefatos
 
-ent-BorgModuleAnomaly = módulo ciborg anômalo
+ent-BorgModuleAnomaly = módulo ciborgue de anomalias
 
-ent-BorgModuleService = módulo ciborg
+ent-BorgModuleService = módulo ciborgue de serviço
 
-ent-BorgModuleMusique = módulo cyborg música
+ent-BorgModuleMusique = módulo ciborgue de música
 
 ent-BorgModuleGardening = módulo ciborg de jardinagem
 
-ent-BorgModuleHarvesting = coletando módulo ciborgeno
+ent-BorgModuleHarvesting = módulo ciborgue de colheita
 
 ent-BorgModuleClowning = módulo ciborgue de palhaçada
 
 ent-BorgModuleAdvancedClowning = módulo cibernético de palhaço avançado
     .desc = Módulo avançado de serviço apenas para os cyborgs mais bagunceiros! Vem com um forno integrado que assa pães de abóbora automaticamente ao longo do tempo, um projetor de holopeel e um sino de empurrar.
 
-ent-BorgModuleSyndicateWeapon = módulo ciborgue
+ent-BorgModuleSyndicateWeapon = módulo ciborgue de armas do Sindicato
 
 ent-BorgModuleOperative = módulo de operativo ciborg
     .desc = Um módulo que vem com um pé de cabra, um EMAG, um quebrador de acesso e um localizador de operativos do sindicato.
@@ -97,13 +97,13 @@ ent-XenoborgModuleBasic = módulo básico de xenoborg
 ent-XenoborgModuleTool = módulo xenoborg
     .desc = Ferramentas simples para a maioria dos Xenoborgs.
 
-ent-XenoborgModuleAccessBreaker = quebrador de acesso módulo xenoborg
+ent-XenoborgModuleAccessBreaker = módulo xenoborg de quebrar acesso
     .desc = Módulo com um quebrador de acesso.
 
-ent-XenoborgModuleFireExtinguisher = extintor de incêndio módulo xenoborg
+ent-XenoborgModuleFireExtinguisher = módulo xenoborg de extintor de incêndio
     .desc = Módulo com um extintor de incêndio auto-recarregável.
 
-ent-XenoborgModuleDoorControl = controle de porta módulo xenoborg
+ent-XenoborgModuleDoorControl = módulo xenoborg de controle de porta
     .desc = Módulo que permite que Xenoborgs controlem airlocks.
 
 ent-XenoborgModuleTileGun = canhão de mosaico xenoborg

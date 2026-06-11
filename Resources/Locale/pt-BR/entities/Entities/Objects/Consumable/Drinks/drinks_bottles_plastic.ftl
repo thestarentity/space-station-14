@@ -7,10 +7,10 @@ ent-DrinkWaterBottleFull = garrafa d'água
 ent-DrinkColaBottleFull = Barril de Cola Espacial
     .desc = Cola. Em spaaace!
 
-ent-DrinkSpaceMountainWindBottleFull = Bottle de Vento Solar Espacial
+ent-DrinkSpaceMountainWindBottleFull = garrafa de Vento Solar Espacial
     .desc = Vai direto por você como um vento solar.
 
-ent-DrinkSpaceUpBottleFull = Bottle de Space-Up cheia
+ent-DrinkSpaceUpBottleFull = garrafa de Space-Up cheia
     .desc = Tem o sabor de uma ruptura na estrutura na sua boca.
 
 ent-DrinkSodaWaterBottleFull = garrafa de água tônica

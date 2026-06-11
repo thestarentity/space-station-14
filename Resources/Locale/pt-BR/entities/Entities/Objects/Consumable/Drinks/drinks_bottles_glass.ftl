@@ -28,13 +28,13 @@ ent-DrinkBottleCoffeeLiqueur = garrafa de licor de café
 ent-DrinkMelonLiquorBottleFull = Licor de melão Emeraldine
     .desc = Uma garrafa de licor de melão Emeraldine de 46 provas. Doce e leve.
 
-ent-DrinkBottlePatron = Bottle de Patrón Wrapp Artiste
+ent-DrinkBottlePatron = garrafa de Patrón Wrapp Artiste
     .desc = Tequila prateada, servida em clubes noturnos espaciais ao longo da galáxia.
 
-ent-DrinkBottlePoisonWine = Bottle de vinho venenoso do Warlock
+ent-DrinkBottlePoisonWine = garrafa de vinho venenoso do Warlock
     .desc = Que embalagem deliciosa para um vinho de certeza alta qualidade! O ano de colheita deve ser incrível!
 
-ent-DrinkPoisonWinebottleFull = Bottle de vinho venenoso do Warlock
+ent-DrinkPoisonWinebottleFull = garrafa de vinho venenoso do Warlock
 
     .desc = Que embalagem deliciosa para um vinho certamente de alta qualidade! O ano de colheita deve ser incrível!
 ent-DrinkBottleRum = Rum cubano especiado do Capitão Pete

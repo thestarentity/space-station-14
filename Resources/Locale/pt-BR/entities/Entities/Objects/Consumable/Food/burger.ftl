@@ -1,4 +1,4 @@
-ent-FoodBreadBun = Bun
+ent-FoodBreadBun = pãozinho
     .desc = Um pão de hambúrguer. Redondo e prático para segurar.
 ent-FoodBreadBunBottom = pão de baixo
     .desc = É hora de começar a construir a torre do hambúrguer.
