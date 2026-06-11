@@ -1,32 +1,32 @@
-ent-ClothingHeadsetAltCargo = fones de ouvido de ouvido superior do mestre de provisões
+ent-ClothingHeadsetAltCargo = fone over-ear do mestre de provisões
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltCentCom = Fone de ouvido de ouvido total da CentCom
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltCentCom = fone over-ear da CentComm
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltCommand = fones de ouvido de ouvido total
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltCommand = fone over-ear de comando
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltEngineering = fones de ouvido de engenheiro-chefe
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltEngineering = fone over-ear do engenheiro-chefe
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltMedical = Headset de ouvido do Chefe Médico
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltMedical = fone over-ear do CMO
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltSecurity = fones de ouvido de segurança do chefe de segurança
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltSecurity = fone over-ear do chefe de segurança
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltScience = fones de ouvido de ouvido superior do diretor de pesquisa
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltScience = fone over-ear do diretor de pesquisa
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltSyndicate = headset de ouvido vermelho-escuro
-    .desc = Um intercomunicador sindicalatualizado, modular, que se encaixa na cabeça e aceita chaves de criptografia (existem 5 slots para chaves).
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltSyndicate = fone over-ear vermelho-sangue
+    .desc = Um intercomunicador sindical atualizado, modular, que se encaixa na cabeça e aceita chaves de criptografia (existem 5 slots para chaves).
 
-ent-ClothingHeadsetAltFreelancer = fones de ouvido de ouvido superior do freelancer
+ent-ClothingHeadsetAltFreelancer = fone over-ear do freelancer
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAltWizard = fones de ouvido de ouvido total do bruxo
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAltWizard = fone over-ear do bruxo
 
-    .desc = Um intercomunicador atualizado e modulares que se encaixa sobre a cabeça. Aceita chaves de criptografia.
-ent-ClothingHeadsetAlt =
+    .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
+ent-ClothingHeadsetAlt = fone over-ear
     .desc = Um intercomunicador modular atualizado que é usado na cabeça. Aceita chaves de criptografia.

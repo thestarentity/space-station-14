@@ -20,4 +20,4 @@ ent-ClothingNeckSecuritymedal = medalha de segurança
     .desc = Concedido pelo melhor desempenho no departamento de segurança.
 
 ent-ClothingNeckClownmedal = medalha do palhaço
-    .desc = Dado pelo melhor piada do universo. HONK!
+    .desc = Dado pela melhor piada do universo. HONK!

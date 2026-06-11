@@ -43,8 +43,8 @@ ent-ClothingNeckScarfStripedAro = lenço estampado aromântico
 ent-ClothingNeckScarfStripedAroace = lenço estampado aroace
     .desc = Um charmoso lenço estampado aroace. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
-ent-ClothingNeckScarfStripedBiSexual = lenço estampado de bisexo
-    .desc = Um charmoso lenço estampado, bisexual. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
+ent-ClothingNeckScarfStripedBiSexual = lenço listrado bissexual
+    .desc = Um charmoso lenço listrado bissexual. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
 ent-ClothingNeckScarfStripedGay = lenço estampado gay
     .desc = Um charmoso lenço estampado, ideal para o inverno. O acessório perfeito para quem tem um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
@@ -52,11 +52,11 @@ ent-ClothingNeckScarfStripedGay = lenço estampado gay
 ent-ClothingNeckScarfStripedInter = lenço listrado intersexo
     .desc = Um charmoso lenço listrado para intersexo. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
-ent-ClothingNeckScarfStripedLesbian = lenço estampado de lesbiana
-    .desc = Um charmoso lenço estampado para lesbianas. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
+ent-ClothingNeckScarfStripedLesbian = lenço listrado lésbico
+    .desc = Um charmoso lenço listrado lésbico. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
-ent-ClothingNeckScarfStripedPan = lenço de pescoço de panela listrado
-    .desc = Um charmoso lenço de pano listrado. O acessório perfeito para o inverno para aqueles com um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
+ent-ClothingNeckScarfStripedPan = lenço listrado pansexual
+    .desc = Um charmoso lenço listrado pansexual. O acessório perfeito para o inverno para aqueles com um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
 ent-ClothingNeckScarfStripedNonBinary = lenço listrado não-binário
     .desc = Um charmoso lenço listrado para pessoas não binárias. O acessório perfeito para o inverno para aqueles com um bom senso de moda, e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
@@ -64,8 +64,8 @@ ent-ClothingNeckScarfStripedNonBinary = lenço listrado não-binário
 ent-ClothingNeckScarfStripedRainbow = lenço de arco-íris
     .desc = Um charmoso lenço arco-íris. O acessório perfeito para o inverno para aqueles com um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
-ent-ClothingNeckScarfStripedTrans = lenço de pescoço listrado trans
-    .desc = Um charmoso lenço trans estampado com listras. O acessório perfeito para o inverno para aqueles com um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
+ent-ClothingNeckScarfStripedTrans = lenço listrado trans
+    .desc = Um charmoso lenço trans listrado. O acessório perfeito para o inverno para aqueles com um bom senso de moda e para aqueles que simplesmente não conseguem suportar uma brisa fria no pescoço.
 
 ent-ClothingNeckScarfStripedLesbianLong = long bacon
     .desc = Long bacon! Perfeito para compartilhar com sua namorada!

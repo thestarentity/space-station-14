@@ -1,2 +1,2 @@
-ent-ClothingNeckStoleChaplain = estola do padre
-    .desc = Um estole elegantemente projetado, com um vibrante sinal mais em cada extremidade.
+ent-ClothingNeckStoleChaplain = estola do capelão
+    .desc = Uma estola elegantemente projetada, com um vibrante sinal de mais em cada extremidade.

@@ -4,7 +4,7 @@ ent-ClothingHeadBandBlue = bandana azul
 
 ent-ClothingHeadBandBotany = lenço de botânica
 
-ent-ClothingHeadBandGold = bandana de ouro
+ent-ClothingHeadBandGold = bandana dourada
 
 ent-ClothingHeadBandGreen = bandana verde
 

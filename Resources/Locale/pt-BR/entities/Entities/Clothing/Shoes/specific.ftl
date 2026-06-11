@@ -35,7 +35,7 @@ ent-ClothingShoesJester = calçados do palhaço
     .desc = Calçados de um palhaço da corte, atualizados com tecnologia moderna de chiado.
 
 ent-ClothingShoesCluwne = calçados cluwne
-    .desc = Par de sapatos de cluwne amaldiçoada.
+    .desc = Um par de sapatos de cluwne amaldiçoados.
 
 ent-ClothingShoesClownLarge = calçados de palhaço grandes
     .desc = Quando você precisa se destacar em um quarto cheio de palhaços!

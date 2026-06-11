@@ -7,8 +7,8 @@ ent-ClothingShoesColorWhite = calçados brancos
 ent-ClothingShoesColorBlue = calçados azuis
     .desc = Calçados azuis elegantes.
 
-ent-ClothingShoesColorBrown = calçados marrom
-    .desc = Um par de sapatos marrom.
+ent-ClothingShoesColorBrown = calçados marrons
+    .desc = Um par de sapatos marrons.
 
 ent-ClothingShoesColorGreen = calçados verdes
     .desc = Calçados verdes elegantes.

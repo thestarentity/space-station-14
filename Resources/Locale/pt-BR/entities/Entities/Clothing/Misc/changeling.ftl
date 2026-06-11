@@ -2,7 +2,7 @@ ent-ChangelingFleshClothingBack = mochila de carne de changeling
 
 ent-ChangelingFleshClothingBelt = cinto de carne de changeling
 
-ent-ChangelingFleshClothingEars = changeling flesh headset
+ent-ChangelingFleshClothingEars = fone de ouvido de carne de changeling
 
 ent-ChangelingFleshClothingEyes = óculos de carne de changeling
 
