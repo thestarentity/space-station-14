@@ -187,5 +187,5 @@ ent-UniversalIDCard = cartão de identificação universal
     .desc = Um cartão de identificação que lhe dá acesso além dos seus sonhos mais loucos.
 
 
-ent-IDCardStandard =
+ent-IDCardStandard = cartão de identidade padrão
     .desc = Um cartão necessário para acessar diversas áreas a bordo da estação.

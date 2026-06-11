@@ -62,5 +62,5 @@ ent-RubberStampWizard = carimbo mágico do bruxo
     .desc = Um selo mágico caótico para servir papéis burocráticos não caóticos, como é irônico.
 
 
-ent-RubberStampBase =
+ent-RubberStampBase = carimbo de borracha
     .desc = Um carimbo de borracha para carimbar documentos importantes.

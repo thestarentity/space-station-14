@@ -1,2 +1,2 @@
-ent-ToteBase = tote de circuitos
+ent-ToteBase = sacola de circuitos
     .desc = Um grande saco para carregar placas de circuito.

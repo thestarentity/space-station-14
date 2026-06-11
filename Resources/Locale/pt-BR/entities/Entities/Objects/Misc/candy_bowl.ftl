@@ -1,2 +1,2 @@
-ent-CandyBowl = bowl de doces
+ent-CandyBowl = tigela de doces
     .desc = Pegue o máximo que conseguir encaixar nos seus bolsos!

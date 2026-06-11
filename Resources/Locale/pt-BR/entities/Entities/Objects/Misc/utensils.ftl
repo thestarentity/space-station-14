@@ -1,4 +1,4 @@
-ent-Fork = filha
+ent-Fork = garfo
     .desc = Um utensílio de alimentação, perfeito para espetar.
 
 ent-ForkPlastic = garfo plástico
@@ -10,7 +10,7 @@ ent-Spoon = colher
 ent-SpoonPlastic = colher de plástico
     .desc = Não existe colher.
 
-ent-KnifePlastic = facão de plástico
+ent-KnifePlastic = faca de plástico
     .desc = Isso não é uma faca. Isso é uma faca.
 
 ent-BarSpoon = colher de bar

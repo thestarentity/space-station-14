@@ -16,6 +16,6 @@ ent-TreasureCPUSupercharged = CPU supercarregada
 ent-TreasureSampleTube = tubo de amostra
     .desc = Um tubo de vidro com algum tipo de goop dentro. Parece propenso a quebrar.
 
-ent-TreasureCoinIron = moeda
+ent-TreasureCoinIron = moeda de ferro
     .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.
 
