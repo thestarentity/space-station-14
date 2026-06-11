@@ -1,71 +1,71 @@
-ent-FoodDonutPlain = pão de forma comum
+ent-FoodDonutPlain = rosquinha simples
 
-ent-FoodDonutJellyPlain = pão de mel com recheio de geléia
+ent-FoodDonutJellyPlain = rosquinha de geleia simples
 
-ent-FoodDonutHomer = pão de forma
+ent-FoodDonutHomer = rosquinha
 
-ent-FoodDonutChaos = pão de forma caótico
+ent-FoodDonutChaos = rosquinha caótica
     .desc = Como a vida, nunca tem o mesmo sabor.
 
-ent-FoodDonutMeat = pão de carne
+ent-FoodDonutMeat = rosquinha de carne
     .desc = Tasta tão feio quanto parece.
 
-ent-FoodDonutPink = pão de forma rosa
+ent-FoodDonutPink = rosquinha rosa
     .desc = Combina muito bem com um latte de soja.
 
-ent-FoodDonutSpaceman = pão de forma do astronauta
+ent-FoodDonutSpaceman = rosquinha do astronauta
     .desc = Combina muito bem com um beaker gelado de malk.
 
-ent-FoodDonutApple = pão de forma de maçã
+ent-FoodDonutApple = rosquinha de maçã
     .desc = Combina muito bem com uma dose de conhaque de canela.
 
-ent-FoodDonutCaramel = pão de mel caramelizado
+ent-FoodDonutCaramel = rosquinha caramelada
     .desc = Combina muito bem com uma xícara de chocolate quente.
 
-ent-FoodDonutChocolate = pão de açúcar de chocolate
+ent-FoodDonutChocolate = rosquinha de chocolate
     .desc = Combina muito bem com um copo de leite quente.
 
-ent-FoodDonutBluePumpkin = pão de forma de abóbora azul
+ent-FoodDonutBluePumpkin = rosquinha de abóbora azul
     .desc = Combina muito bem com uma xícara de suave e embriagadora abóbora azul.
 
-ent-FoodDonutBungo = donut de bungo
+ent-FoodDonutBungo = rosquinha de bungo
     .desc = Combina muito bem com um frasco de vidro de alegria hippie.
 
-ent-FoodDonut = donut de matcha
-    .desc = O L-teanina presente nesse donut é relaxante, mas não eufórico. Combina muito bem com uma xícara de chá.
+ent-FoodDonut = rosquinha de matcha
+    .desc = O L-teanina presente nessa rosquinha é relaxante, mas não eufórico. Combina muito bem com uma xícara de chá.
 
-ent-FoodDonutSweetpea = pão de mel de ervilha
+ent-FoodDonutSweetpea = rosquinha de ervilha-doce
     .desc = Combina muito bem com uma garrafa de Bastion Burbon!
 
-ent-FoodDonutJellyHomer = pão de mel jelly
+ent-FoodDonutJellyHomer = rosquinha de geleia
     .desc = Você gosta de geleia?
 
-ent-FoodDonutJellyPink = pão de forma de geleia rosa
+ent-FoodDonutJellyPink = rosquinha de geleia rosa
     .desc = Combina muito bem com um latte de soja.
 
-ent-FoodDonutJellySpaceman = pão de forma de geléia do spaceman
+ent-FoodDonutJellySpaceman = rosquinha de geleia do astronauta
     .desc = Combina muito bem com um beaker gelado de malk.
 
-ent-FoodDonutJellyApple = pão de forma de geleia de maçã
+ent-FoodDonutJellyApple = rosquinha de geleia de maçã
     .desc = Combina muito bem com uma dose de conhaque de canela.
 
-ent-FoodDonutJellyCaramel = pão de mel com geleia de caramelo
+ent-FoodDonutJellyCaramel = rosquinha de geleia caramelada
     .desc = Combina muito bem com uma xícara de chocolate quente.
 
-ent-FoodDonutJellyChocolate = pão de forma de geleia de chocolate
+ent-FoodDonutJellyChocolate = rosquinha de geleia de chocolate
     .desc = Combina muito bem com um copo de leite quente.
 
-ent-FoodDonutJellyBluePumpkin = pão de forma de abóbora azul com geleia
+ent-FoodDonutJellyBluePumpkin = rosquinha de geleia de abóbora azul
     .desc = Combina muito bem com uma xícara de suave e embriagadora abóbora azul.
 
-ent-FoodDonutJellyBungo = donut de geleia de bungo
+ent-FoodDonutJellyBungo = rosquinha de geleia de bungo
     .desc = Combina muito bem com um frasco de vidro de alegria hippie.
 
-ent-FoodDonutJelly = donut de geleia de matcha
-    .desc = O L-teanina presente nesse donut de geleia é relaxante, mas não eufórico. Combina muito bem com uma xícara de chá.
+ent-FoodDonutJelly = rosquinha de geleia de matcha
+    .desc = O L-teanina presente nessa rosquinha de geleia é relaxante, mas não eufórico. Combina muito bem com uma xícara de chá.
 
-ent-FoodDonutJellySweetpea = pão de mel de ervilha doce
+ent-FoodDonutJellySweetpea = rosquinha de geleia de ervilha-doce
     .desc = Combina muito bem com uma garrafa de Bastion Burbon!
 
-ent-FoodDonutJellyScurret = bolo de ameixa com pão de forma
-    .desc = Nenhuma furação nesse donut, caso uma haste suspeita apareça.
+ent-FoodDonutJellyScurret = rosquinha de geleia de scurret
+    .desc = Nenhuma furação nessa rosquinha, caso uma haste suspeita apareça.

@@ -1,19 +1,19 @@
-ent-FoodBakedMuffin = pão de mel
+ent-FoodBakedMuffin = bolinho
     .desc = Um delicioso e esponjoso pequeno bolo.
 
-ent-FoodBakedMuffinBerry = pão de mel com frutas vermelhas
+ent-FoodBakedMuffinBerry = bolinho com frutas vermelhas
     .desc = Um delicioso e esponjoso pequeno bolo com frutas vermelhas.
 
-ent-FoodBakedMuffinCherry = pão de mel com cereja
+ent-FoodBakedMuffinCherry = bolinho de cereja
     .desc = Um muffin doce com pedaços de cereja.
 
-ent-FoodBakedMuffinBluecherry = pão de mel azul de bluecherry
+ent-FoodBakedMuffinBluecherry = bolinho de bluecherry
     .desc = Cerejas azuis dentro de um delicioso pão de mel.
 
-ent-FoodBakedMuffinChocolate = pão de mel de chocolate
+ent-FoodBakedMuffinChocolate = bolinho de chocolate
     .desc = Um delicioso e esponjoso pão de chocolate.
 
-ent-FoodBakedMuffinBanana = pão de mel de banana
+ent-FoodBakedMuffinBanana = bolinho de banana
     .desc = Um delicioso e esponjoso pão de banana.
 
 ent-FoodBakedBunHoney = pão de mel
@@ -25,7 +25,7 @@ ent-FoodBakedBunHotX = pão de hortelã quente
 ent-FoodBakedBunMeat = pão de carne
     .desc = Pode não ser cachorro.
 
-ent-FoodBakedCookie = cookie
+ent-FoodBakedCookie = biscoito
     .desc = COOKIE!!!
 
 ent-FoodBakedCookieOatmeal = biscoito de aveia
@@ -40,7 +40,7 @@ ent-FoodBakedCookieSugar = biscoito de açúcar
 ent-FoodBakedNugget = nugget de frango
     .desc = Um "frango" nugget vagamente moldado em um objeto.
 
-ent-FoodBakedPancake = pancake
+ent-FoodBakedPancake = panqueca
     .desc = Um panqueca fofo. O parente mais suave e superior do waffle.
 
 ent-FoodBakedPancakeBb = panqueca de mirtilo
@@ -49,16 +49,16 @@ ent-FoodBakedPancakeBb = panqueca de mirtilo
 ent-FoodBakedPancakeCc = panqueca de chocolate com chips
     .desc = Um panqueca fofo e delicioso com chips de chocolate.
 
-ent-FoodBakedWaffle = waffles
+ent-FoodBakedWaffle = waffle
     .desc = Mmm, panquecas.
 
 ent-FoodBakedWaffleSoy = panquecas de soja
     .desc = Você se sente mais saudável e... mais feminina?
 
-ent-FoodBakedWaffleSoylent = soylent waffles
+ent-FoodBakedWaffleSoylent = waffles Soylent
     .desc = Não é feito de pessoas. Honestamente.
 
-ent-FoodBakedWaffleRoffle = roffle waffles
+ent-FoodBakedWaffleRoffle = waffles Roffle
     .desc = Waffles da Roffle. Co.
 
 ent-FoodBakedPretzel = pretzel de semente de papoula
@@ -67,7 +67,7 @@ ent-FoodBakedPretzel = pretzel de semente de papoula
 ent-FoodBakedCannoli = cannoli
     .desc = Um doce siciliano que transforma você em um cara esperto.
 
-ent-FoodBakedDumplings = churrasquinhos
+ent-FoodBakedDumplings = bolinhos recheados
     .desc = Receita média de carne em massa.
 
 ent-FoodBakedChevreChaud = chèvre chaud
@@ -88,7 +88,7 @@ ent-FoodBakedCannabisBrownieBatch = brownies de canabissão
 ent-FoodBakedCannabisBrownie = brownie de canabissão
     .desc = Um "especial" brownie.
 
-ent-FoodOnionRings = batatas fritas de cebola
+ent-FoodOnionRings = anéis de cebola
     .desc = Você pode comer ou propor a seus entes queridos.
 
 ent-FoodBakedCroissant = croissant

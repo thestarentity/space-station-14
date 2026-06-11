@@ -76,5 +76,5 @@ ent-ClothingMaskNinja = máscara de ninja
     .desc = Uma máscara ajustável com nanotecnologia que atua tanto como filtro de ar quanto declaração de moda pós-moderna.
 ent-ClothingMaskWeldingGas = máscara de gás de solda
     .desc = Máscara de gás com óculos de solda e escudo facial integrados. Parece um crânio, claramente projetada por um nerd.
-ent-ClothingMaskClown =
+ent-ClothingMaskClown = máscara de palhaço
     .desc = Máscara de palhaço com um chapéu de cabelo dobrável; uma verdadeira roupa de brincadeira.

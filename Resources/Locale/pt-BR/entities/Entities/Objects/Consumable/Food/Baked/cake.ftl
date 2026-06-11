@@ -46,10 +46,10 @@ ent-FoodCakeLemon = bolo de limão
 ent-FoodCakeLemonSlice = fatia de bolo de limão
 
     .desc = Só um pedaço de bolo, é suficiente para todos.
-ent-FoodCakeLemoon = lemoon cake
+ent-FoodCakeLemoon = bolo Lemoon
     .desc = Um bolo que representa a lua da terra.
 
-ent-FoodCakeLemoonSlice = fragmento de lemoon cake
+ent-FoodCakeLemoonSlice = fatia de bolo Lemoon
     .desc = Um fragmento de lua, tem o cheiro de leite.
 
 ent-FoodCakeChocolate = bolo de chocolate
@@ -103,16 +103,16 @@ ent-FoodCakeClownSlice = fatia de bolo de palhaço
 ent-FoodCakeSpaceman = bolo do astronauta
     .desc = Um bolo decorado com um trombeta de um astronauta.
 
-ent-FoodCakeSpacemanSlice = fatia de bolo de spaceman
+ent-FoodCakeSpacemanSlice = fatia de bolo do astronauta
     .desc = Um bolo decorado com um trombeta de um astronauta.
 
 ent-MobCatCake = cak
     .desc = É um bolo. É um gato. É um cak.
 
-ent-FoodCakeSuppermatter = suppermatter
+ent-FoodCakeSuppermatter = bolo Suppermatter
     .desc = Alimento extremamente denso e poderoso.
 
-ent-FoodCakeSuppermatterSlice = fragmento de suppermatter
+ent-FoodCakeSuppermatterSlice = fatia de bolo Suppermatter
     .desc = Uma única porção de energia.
 
 ent-FoodCakeCotton = bolo de algodão

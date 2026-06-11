@@ -97,7 +97,7 @@ ent-FoodBreadJellySlice = pão com geleia
 ent-FoodBreadMoldySlice = fatia de pão podre
     .desc = Toda a estação foi destruída por discutir se ainda é bom para comer.
 
-ent-FoodBreadTwoSlice = two slice
+ent-FoodBreadTwoSlice = duas fatias
     .desc = Clássico.
 
 ent-MobBreadDog = cachorro de pão
