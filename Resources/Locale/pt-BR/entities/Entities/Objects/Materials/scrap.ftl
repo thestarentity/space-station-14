@@ -1,6 +1,6 @@
-ent-ScrapSteel = pilha de aço destruída
-    .desc = Um monte de aço soldado juntos em calor extremo. É de um tamanho decente no geral; você provavelmente poderia obter uma quantidade razoável de chapas dele.
-ent-ScrapGlass = circuito descartável
+ent-ScrapSteel = pilha de aço fundida
+    .desc = Um monte de aço soldado junto em calor extremo. É de um tamanho decente no geral; você provavelmente poderia obter uma quantidade razoável de chapas dele.
+ent-ScrapGlass = circuitos sucatados
     .desc = Um grande pedaço de diversos circuitos, estranhamente fundidos juntos. Você provavelmente poderia extrair alguns materiais disso.
 ent-ScrapAirlock1 = porta do airlock
     .desc = Este usado a manter o ar. Agora parece que não está fazendo nada de jeito algum.

@@ -1,4 +1,4 @@
-ent-BookBase = ler
+ent-BookBase = livro
     .desc = Um livro capa dura.
 ent-BookSpaceEncyclopedia = Enciclopédia Espacial
     .desc = Uma enciclopédia contendo todo o conhecimento. O autor desta enciclopédia é desconhecido.
@@ -38,5 +38,5 @@ ent-BookAtmosAirAlarms = Guia de Newton sobre Atmos: Alarmes de Ar
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
 ent-BookAtmosVentsMore = Guia de Newton sobre Atmos: Válvulas e Mais
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
-ent-BookRandom =
+ent-BookRandom = livro aleatório
     .desc = Cada livro é único! O que está escondido neste?

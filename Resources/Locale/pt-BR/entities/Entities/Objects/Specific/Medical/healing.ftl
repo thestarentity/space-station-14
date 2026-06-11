@@ -1,10 +1,10 @@
 ent-Ointment = unguento
-    .desc = Usado para tratar aqueles horríveis queimaduras. Menos eficaz em queimaduras causadas por substâncias cáusticas.
+    .desc = Usado para tratar aquelas horríveis queimaduras. Menos eficaz em queimaduras causadas por substâncias cáusticas.
 
 ent-RegenerativeMesh = malha regenerativa
     .desc = Útil para tratar até as queimaduras mais graves. Também eficaz contra queimaduras causadas por substâncias corrosivas.
 
-ent-Brutepack = pacote de equimotões
+ent-Brutepack = pacote de trauma
     .desc = Um frasco de gel terapêutico e bandagens projetados para tratar traumas por força bruta.
 
 ent-MedicatedSuture = costura medicada
@@ -13,7 +13,7 @@ ent-MedicatedSuture = costura medicada
 ent-Bloodpack = pacote de sangue
     .desc = Contém uma substituição universal de sangue revolucionária criada pela avançada ciência médica da Nanotrasen.
 
-ent-Tourniquet = tornozeleira
+ent-Tourniquet = torniquete
     .desc = Para de sangrar! Esperamos que funcione.
 
 ent-Gauze = rolo de gaze

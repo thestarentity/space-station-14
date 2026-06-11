@@ -1,6 +1,6 @@
-ent-ChopSticks = palitos de arroz
+ent-ChopSticks = hashis
     .desc = Um utensílio muito tradicional.
 
-ent-PairedChopsticks = garfo de madeira
+ent-PairedChopsticks = hashis emparelhados
     .desc = Você provavelmente deveria separá-los.
 

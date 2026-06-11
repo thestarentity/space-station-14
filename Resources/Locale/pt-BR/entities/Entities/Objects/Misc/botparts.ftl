@@ -1,5 +1,5 @@
 ent-ProximitySensor = sensor de proximidade
-    .desc = Sentit coisas em proximidade próxima.
+    .desc = Detecta objetos em proximidade próxima.
 
 ent-LeftArmBorg = braço cibernético esquerdo
 
