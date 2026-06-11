@@ -1,16 +1,16 @@
-ent-GlowstickRed = glowstick vermelho
+ent-GlowstickRed = bastão luminoso vermelho
 
     .desc = Útil para festas e emergências.
-ent-GlowstickPurple = luminária roxa
+ent-GlowstickPurple = bastão luminoso roxo
 
     .desc = Útil para festas e emergências.
-ent-GlowstickYellow = Lanterna de cor amarela
+ent-GlowstickYellow = bastão luminoso amarelo
 
     .desc = Útil para festas e emergências.
-ent-GlowstickBlue = Lanterna azul
+ent-GlowstickBlue = bastão luminoso azul
 
     .desc = Útil para festas e emergências.
-ent-GlowstickGreen = luminária verde
+ent-GlowstickGreen = bastão luminoso verde
 
     .desc = Útil para festas e emergências.
 ent-LightBehaviourTest1 = teste de pulso de luz

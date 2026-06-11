@@ -13,8 +13,8 @@ ent-Multitool = multitool
 ent-NetworkConfigurator = configurador de rede
     .desc = Uma ferramenta para ligar dispositivos entre si. Possui dois modos, um modo de lista para ligar dispositivos em massa e um modo de ligação para ligação avançada de dispositivos.
 
-ent-PowerDrill = broca elétrica
-    .desc = Um simples furadeira elétrica.
+ent-PowerDrill = furadeira elétrica
+    .desc = Uma simples furadeira elétrica.
 
 ent-RCD = RCD
     .desc = O dispositivo de construção rápida pode ser usado para colocar e remover rapidamente várias estruturas e acessórios da estação. Requer matéria comprimida para funcionar.
@@ -32,7 +32,7 @@ ent-Omnitool = omnitool
     .desc = O melhor amigo de um drone.
 
 ent-Shovel = pá
-    .desc = Um grande ferramenta para cavar e mover terra.
+    .desc = Uma grande ferramenta para cavar e mover terra.
 
 ent-RollingPin = rolo de massa
     .desc = Uma ferramenta usada para modelar e amassar a massa.

@@ -1,4 +1,4 @@
-ent-JawsOfLife = mordida de vida
+ent-JawsOfLife = mandíbulas da vida
     .desc = Um conjunto de "mandíbulas da vida", comprimido através da magia da ciência.
 
 ent-SyndicateJawsOfLife = mandíbulas da morte do sindicato

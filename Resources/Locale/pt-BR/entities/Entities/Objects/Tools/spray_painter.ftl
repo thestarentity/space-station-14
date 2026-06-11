@@ -1,7 +1,7 @@
-ent-SprayPainter = pintura a jato
+ent-SprayPainter = pintor a spray
     .desc = Um pintor de aerossol para pintar airlocks, tubulações e outros itens.
 
-ent-SprayPainterBorg = Pintura experimental de spray
+ent-SprayPainterBorg = pintor a spray experimental
     .desc = Um pintor de spray experimental que pode replicar infinitamente tinta comprimida.
 
 ent-SprayPainterAmmo = tinta comprimida
