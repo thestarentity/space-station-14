@@ -1,5 +1,5 @@
-ent-ShuttleWindow = janela do shuttle
+ent-ShuttleWindow = janela de nave
     .desc = Não embaçar o vidro lá embaixo.
 
-ent-ShuttleWindowDiagonal = janela do shuttle diagonal
+ent-ShuttleWindowDiagonal = janela de nave diagonal
     .desc = Não embaçar o vidro lá embaixo.

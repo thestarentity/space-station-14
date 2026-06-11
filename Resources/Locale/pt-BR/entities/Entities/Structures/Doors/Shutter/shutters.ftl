@@ -13,4 +13,4 @@ ent-BaseShutter =
 ent-ShuttersNormal = veneziana
 ent-ShuttersNormalOpen = veneziana
 ent-ShuttersRadiationOpen = veneziana de radiação
-ent-ShuttersWindowOpen = veneziana de vidro (open)
+ent-ShuttersWindowOpen = veneziana de vidro (aberta)

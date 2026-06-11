@@ -43,11 +43,11 @@ ent-ClosetWallAtmospherics = armário de paredes atmosféricas
 ent-LockerWallMedical = armário de parede médico
 
     .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
-ent-LockerWallEvacRepair = emergência shuttle emergência parede locker
+ent-LockerWallEvacRepair = armário de parede de reparo de emergência
     .desc = É emergência do começo ao fim.
 
 ent-LockerWallBasePrisoner = closete de cela de preso
     .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
 
-ent-LockerWallSyndicate = locker de parede vermelha
+ent-LockerWallSyndicate = armário de parede vermelho-sangue
     .desc = É uma unidade de armazenamento de parede com um design vermelho-sangue.

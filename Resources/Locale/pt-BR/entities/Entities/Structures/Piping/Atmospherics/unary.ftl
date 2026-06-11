@@ -1,3 +1,5 @@
+ent-BaseGasThermoMachine = termomáquina
+
 ent-GasVentPump = ventilador de ar
     .desc = Tem uma válvula e uma bomba anexadas a ela.
 

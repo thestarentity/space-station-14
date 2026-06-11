@@ -1,12 +1,12 @@
-ent-Thruster = thruster → thruster
+ent-Thruster = propulsor
 
-ent-ThrusterLarge = thruster grande
+ent-ThrusterLarge = propulsor grande
 
 ent-Gyroscope = giroscópio
-    .desc = Aumenta o potencial de rotação angular do shuttle.
+    .desc = Aumenta o potencial de rotação angular da nave.
 
-ent-RustedThruster = thruster enferrujado
+ent-RustedThruster = propulsor enferrujado
     .desc = Um propelente irrecuperável, destruído pelo desgaste. Útil apenas para reciclagem.
 
 ent-BaseThruster =
-    .desc = Um propulsor que permite um shuttle se mover.
+    .desc = Um propulsor que permite uma nave se mover.

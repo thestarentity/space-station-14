@@ -1,11 +1,19 @@
+ent-UnanchoredChairBase = cadeira
+
+ent-ChairBase = cadeira
+
+ent-OfficeChairBase = cadeira de escritório
+
+ent-StoolBase = banco
+
 ent-Chair = cadeira
 
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairGreyscale = cadeira
 
     .desc = Você senta nisso. Ou por vontade ou por força.
-ent-Stool = banheiro
-    .desc = Aplicar traseiro.
+ent-Stool = banco
+    .desc = Acomode o traseiro.
 
 ent-StoolBar = cadeira de bar
 

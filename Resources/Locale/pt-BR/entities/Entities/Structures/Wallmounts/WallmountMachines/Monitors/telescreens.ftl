@@ -1,5 +1,5 @@
-ent-WallmountTelescreen = telescreen
+ent-WallmountTelescreen = televigilância
     .desc = Finalmente, uma recepção decente por aqui...
 
-ent-WallmountTelescreenFrame = quadro de telas de telespectro
+ent-WallmountTelescreenFrame = estrutura de televigilância
     .desc = Finalmente, uma recepção decente por aqui...

@@ -1,5 +1,5 @@
-ent-IronsandStep = passo de areia ferrosa
-    .desc = Leva seu ironsand para o nível seguinte.
+ent-IronsandStep = degrau de areia ferrosa
+    .desc = Leva sua areia ferrosa para o nível seguinte.
 
 ent-IronsandStepConvexCorner = canto convexo de degrau de areia ferrosa
 

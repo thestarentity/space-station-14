@@ -1,10 +1,10 @@
 ent-HolosignWetFloor = sinal de piso molhado
     .desc = As palavras piscam como se não significassem nada.
 
-ent-HoloFan = holofan
+ent-HoloFan = holo-ventilador
     .desc = Uma barreira de luz dura que bloqueia o ar, mas nada mais.
 
-ent-HoloPeel = holopeel
+ent-HoloPeel = holo-casca
     .desc = Uma casca de banana feita de luz dura escorregadia, cuidado com o seu passo!
 
 ent-HolosignSecurity = barreira holográfica

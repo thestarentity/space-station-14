@@ -37,19 +37,19 @@ ent-WallPlastic = parede de plástico
 ent-WallPlastitaniumIndestructible = parede de plastitânio indestrutível
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallPlastitanium = parede de plastitânio indestrutível
+ent-WallPlastitanium = parede de plastitânio
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallPlastitaniumDiagonalIndestructible = parede de plastitânio indestrutível
+ent-WallPlastitaniumDiagonalIndestructible = parede de plastitânio indestrutível diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallPlastitaniumDiagonal = parede de plastitânio indestrutível
+ent-WallPlastitaniumDiagonal = parede de plastitânio diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallReinforced = parede reforçada
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallReinforcedDiagonal = parede reforçada
+ent-WallReinforcedDiagonal = parede reforçada diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallRiveted = parede pregada
@@ -61,28 +61,28 @@ ent-WallSandstone = parede de arenito
 ent-WallSilver = parede prateada
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallShuttleDiagonal = parede do shuttle
+ent-WallShuttleDiagonal = parede de nave (diagonal)
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallShuttle = parede do shuttle
+ent-WallShuttle = parede de nave
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallSolid = parede sólida
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallSolidDiagonal = parede sólida
+ent-WallSolidDiagonal = parede sólida diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallSolidChitin = chitina sólida
+ent-WallSolidChitin = parede de quitina sólida
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallReinforcedChitin = chitina reforçada
+ent-WallReinforcedChitin = parede de quitina reforçada
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallXenoborg = parede de xenoborg
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallXenoborgDiagonal = parede de xenoborg
+ent-WallXenoborgDiagonal = parede de xenoborg diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallUranium = parede de urânio
@@ -100,7 +100,7 @@ ent-WallNecropolis = parede de pedra
 ent-WallMining = parede de mineração
     .desc = Mantém o ar dentro e o greytide fora.
 
-ent-WallMiningDiagonal = parede de mineração
+ent-WallMiningDiagonal = parede de mineração diagonal
     .desc = Mantém o ar dentro e o greytide fora.
 
 ent-WallVaultAlien = parede do cofre alienígena

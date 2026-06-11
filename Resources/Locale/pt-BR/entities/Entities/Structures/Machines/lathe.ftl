@@ -1,14 +1,16 @@
-ent-Autolathe = autolathe
+ent-BaseLathe = torno
+
+ent-Autolathe = autotorno
     .desc = Ele produz itens básicos usando metal e vidro. Tem a capacidade de processar blueprints para imprimir novas receitas.
 
-ent-AutolatheHyperConvection = autolathe de hiperconvecção
-    .desc = Uma autolathe altamente experimental que aproveita o poder do calor extremo para criar objetos de forma mais econômica, embora lentamente.
+ent-AutolatheHyperConvection = autotorno de hiperconvecção
+    .desc = Um autotorno altamente experimental que aproveita o poder do calor extremo para criar objetos de forma mais econômica, embora lentamente.
 
-ent-Protolathe = protolathe
+ent-Protolathe = prototorno
     .desc = Converte materiais crus em itens avançados.
 
-ent-ProtolatheHyperConvection = protolathe de hiperconvecção
-    .desc = Uma protolathe altamente experimental que aproveita o poder do calor extremo para criar objetos de forma mais econômica, embora lentamente.
+ent-ProtolatheHyperConvection = prototorno de hiperconvecção
+    .desc = Um prototorno altamente experimental que aproveita o poder do calor extremo para criar objetos de forma mais econômica, embora lentamente.
 
 ent-CircuitImprinter = impressor de circuitos
     .desc = Imprime placas de circuito para máquinas.

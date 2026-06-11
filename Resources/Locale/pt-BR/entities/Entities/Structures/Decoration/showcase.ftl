@@ -7,8 +7,8 @@ ent-ShowcaseRobotWhite = robô branco de demonstração
 ent-ShowcaseRobotAntique = Robô de carga antigo
     .desc = Uma réplica não funcional de um antigo robô de carga.
 
-ent-ShowcaseRobotMarauder = Marauder Showcase
-    .desc = Uma réplica não funcional de um marauder, pintada de verde.
+ent-ShowcaseRobotMarauder = vitrine do Saqueador
+    .desc = Uma réplica não funcional de um saqueador, pintada de verde.
 
 ent-BaseShowcaseRobot =
     .desc = Uma réplica não funcional de um antigo robô de segurança.

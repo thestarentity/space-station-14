@@ -1,2 +1,2 @@
-ent-PinionAirlock = airlock de pinhão
-ent-PinionAirlockGlass = airlock de pinhão
+ent-PinionAirlock = eclusa de pinhão
+ent-PinionAirlockGlass = eclusa de pinhão

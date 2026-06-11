@@ -1,5 +1,5 @@
-ent-Airlock = airlock
+ent-Airlock = eclusa de ar
     .desc = Ele abre, ele fecha, e talvez te esmague.
 
-ent-AirlockGlass = porta de vidro de ar
+ent-AirlockGlass = eclusa de ar com vidro
     .desc = Ele abre, ele fecha, e talvez te esmague.

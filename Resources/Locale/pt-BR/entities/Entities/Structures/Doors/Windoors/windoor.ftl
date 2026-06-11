@@ -1,4 +1,6 @@
-ent-Windoor = porta de vento
+ent-BaseClockworkWindoor = porta-janela de engrenagem
+
+ent-Windoor = porta-janela
     .desc = É uma janela e uma porta deslizante. Uau!
 
 ent-WindoorSecure = porta de vento segura

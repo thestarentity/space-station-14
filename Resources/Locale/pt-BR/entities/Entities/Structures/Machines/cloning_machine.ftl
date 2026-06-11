@@ -1,2 +1,2 @@
 ent-CloningPod = reator de clonagem
-    .desc = Um Pod de Clonagem. 50% confiável.
+    .desc = Um reator de clonagem. 50% confiável.

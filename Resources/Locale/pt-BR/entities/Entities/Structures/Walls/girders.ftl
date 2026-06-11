@@ -1,4 +1,4 @@
-ent-Girder = vigia
+ent-Girder = viga
     .desc = Um grande conjunto estrutural feito de metal; ele requer uma camada de metal antes de ser considerado uma parede.
 
 ent-ReinforcedGirder = viga reforçada

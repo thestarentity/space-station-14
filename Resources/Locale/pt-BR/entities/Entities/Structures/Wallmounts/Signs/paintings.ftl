@@ -13,7 +13,7 @@ ent-PaintingTheSonOfMan = O Filho do Homem
 ent-PaintingTheKiss = O Beijo
     .desc = Este quadro mostra um casal em abraço carinhoso. Ele está coberto com ornamentos dourados brilhantes.
 
-ent-PaintingTheScream = A Scream
+ent-PaintingTheScream = O Grito
     .desc = Este quadro mostra um homem perturbado em pé na ponte de comando.
 
 ent-PaintingTheGreatWave = A Grande Onda de Kanagawa
@@ -43,7 +43,7 @@ ent-PaintingOlympia = Olimpia
 ent-PaintingSaturn = Saturn Devorando Seu Filho
     .desc = Este quadro mostra um gigante devorando um cadáver humano. Ele tem uma expressão assustadora nos olhos.
 
-ent-PaintingSleepingGypsy = A Gypsy Adormecida
+ent-PaintingSleepingGypsy = A Cigana Adormecida
     .desc = Este quadro mostra um cigano dormindo entre suas posses no deserto. Um leão está atrás dele.
 
 ent-PaintingRedBlueYellow = Composição com Vermelho, Azul e Amarelo

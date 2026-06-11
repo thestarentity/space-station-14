@@ -1,4 +1,6 @@
-ent-BarSign = sinal da barra
+ent-BaseBarSign = placa de bar
+
+ent-BarSign = placa de bar
 
 ent-BarSignComboCafe = Café da Combinação
     .desc = Conhecidos em todo o sistema por suas combinações de bebidas completamente desprovidas de criatividade.

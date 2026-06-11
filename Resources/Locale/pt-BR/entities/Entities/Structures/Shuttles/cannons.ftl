@@ -1,3 +1,5 @@
+ent-ShuttleGunBase = canhão de nave
+
 ent-ShuttleGunSvalinnMachineGun = LSE-400c "metralhadora Svalinn"
     .desc = Unidade laser estacionária básica. Eficiente contra alvos vivos e eletrônicos. Utiliza células de energia comuns para disparar, e possui uma taxa de fogo extremamente alta.
 
