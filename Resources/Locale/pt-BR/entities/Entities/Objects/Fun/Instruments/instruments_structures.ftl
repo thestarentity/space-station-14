@@ -1,7 +1,7 @@
 ent-PianoInstrument = piano
     .desc = Toque o Piano dos Needles Agora.
 
-ent-UprightPianoInstrument = piano de cauda
+ent-UprightPianoInstrument = piano vertical
     .desc = Eu disse Piannie!
 
 ent-VibraphoneInstrument = vibrafone
@@ -9,7 +9,7 @@ ent-VibraphoneInstrument = vibrafone
 
 ent-MarimbaInstrument = marimba
 
-ent-ChurchOrganInstrument = orgão da igreja
+ent-ChurchOrganInstrument = órgão da igreja
     .desc = Essa coisa realmente sopra!
 
 ent-TubaInstrument = tuba

@@ -1,8 +1,8 @@
-ent-SnapPop = snap pop
+ent-SnapPop = bombinha de estalo
     .desc = Jogue-o no chão e ouça-o POP!
 
-ent-SnapPopBox = caixa de pop snap
-    .desc = Contém snap pops por alguns minutos de diversão ao estourar!
+ent-SnapPopBox = caixa de bombinhas de estalo
+    .desc = Contém bombinhas de estalo por alguns minutos de diversão ao estourar!
 
 ent-PlasticBanana = banana
     .desc = Um banana de plástico.
@@ -16,7 +16,7 @@ ent-CrazyLube = lubrificante maluco
 ent-MrChips = Mr. Chips
     .desc = É um dummy, dummy!
 
-ent-MrDips = mr dips
+ent-MrDips = Sr. Dips
 
     .desc = É um dummy, dummy!
 ent-Error = Ocorreu um erro. Por favor, tente novamente mais tarde.

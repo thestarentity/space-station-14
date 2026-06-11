@@ -10,17 +10,17 @@ ent-RockGuitarInstrument = guitarra de rock
 ent-AcousticGuitarInstrument = violão acústico
     .desc = De qualquer forma, aqui está Wonderwall.
 
-ent-GuitarlessFretsInstrument = fretos sem guitarra
+ent-GuitarlessFretsInstrument = trastes sem guitarra
     .desc = Quem precisa de um corpo, afinal?
 
 ent-BanjoInstrument = banjo
 
     .desc = Isso é um instrumento.
-ent-ViolinInstrument = violin
+ent-ViolinInstrument = violino
     .desc = O favorito de virtuosos musicais e bandas de bluegrass.
 
 ent-ViolaInstrument = viola
     .desc = Como um violino, mas pior.
 
-ent-CelloInstrument = violino baixo
+ent-CelloInstrument = violoncelo
     .desc = Os nerds chamam esses de violoncelos.

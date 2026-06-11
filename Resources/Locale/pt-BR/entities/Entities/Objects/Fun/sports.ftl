@@ -6,5 +6,5 @@ ent-TennisBall = bola de tênis
     .desc = Uma bola nebulosa de traição infinita.
 ent-BeachBall = bola de praia
     .desc = A simples bola de praia é um dos produtos mais populares da Nanotrasen. 'Por que fazemos bolas de praia? Porque podemos! (TM)' - Nanotrasen
-ent-EvilBeachBall =
+ent-EvilBeachBall = bola de praia maligna
     .desc = Alguém desenhou ">:3c" no lado dessa bola de praia com tinta indelével.

@@ -13,7 +13,7 @@ ent-PotatoAI = inteligência artificial batata
 ent-ActionPAIOpenShop = Catálogo de Software
     .desc = Instale novos softwares para ajudar seu dono.
 
-ent-ActionPAIMassScanner = Mass Scanner
+ent-ActionPAIMassScanner = Escâner de Massa
     .desc = Visualize a interface do scanner de massa.
 
 ent-ActionPAIPlayMidi = Toque MIDI

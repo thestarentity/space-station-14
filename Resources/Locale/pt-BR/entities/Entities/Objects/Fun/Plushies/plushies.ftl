@@ -67,8 +67,8 @@ ent-PlushieCarp = peixe de pelúcia
 ent-PlushieMagicarp = brinquedo de magicarp
     .desc = Um brinquedo de pelúcia adorável que se parece com o magicarp, extremamente raro.
 
-ent-PlushieRainbowCarp = brinquedo de peixe-aranha colorido
-    .desc = Um brinquedo de pelúcia adorável que se parece com o lendário peixe-aranha arco-íris.
+ent-PlushieRainbowCarp = brinquedo de carpa arco-íris
+    .desc = Um brinquedo de pelúcia adorável que se parece com a lendária carpa espacial arco-íris.
 
 ent-PlushieHolocarp = brinquedo holocarp
     .desc = Um brinquedo recheado holográfico que se parece com o inimigo da ciência - o holocarp.
@@ -79,7 +79,7 @@ ent-PlushieSlime = brinquedo de slime
 ent-PlushieSnake = brinquedo de serpente
     .desc = Um brinquedo fofo de pelúcia que se parece com uma cobra.
 
-ent-ToyMouse = brinquedo de mouse
+ent-ToyMouse = brinquedo de ratinho
     .desc = Um rato de brinquedo colorido!
 
 ent-PlushieVox = brinquedo de pelúcia vox
@@ -97,8 +97,8 @@ ent-PlushiePenguin = brinquedo de pinguim
 ent-PlushieHuman = brinquedo humano de pelúcia
     .desc = Este é um brinquedo de feltro humano. Todos os acabamentos são de qualidade extremamente baixa. O humano está nu. O humano está chorando. O humano está gritando.
 
-ent-PlushieMoth = brinquedo de moeda
-    .desc = Fofinho e fofo, um ouriço de bicho-da-seda. Divirta-se, bz!
+ent-PlushieMoth = brinquedo de mariposa
+    .desc = Fofinho e fofo, uma mariposa de pelúcia. Divirta-se, bz!
 
 ent-PlushieSheep = cordeiro de pelúcia
     .desc = Uma ovelha macia, peluda e cheia de enchimento. 100% algodão.
@@ -109,7 +109,7 @@ ent-PlushieSpaceSheep = cordeiro de pelúcia espacial
 ent-PlushieVulp = brinquedo de vulpkanin
     .desc = Um brinquedo de pelúcia adorável que se parece com um vulpkanin. Yip! Yap!
 
-ent-ToyIan = Ian Toy
+ent-ToyIan = brinquedo Ian
     .desc = Incapaz de comer, mas tão fofo quanto o verdadeiro!
 
 ent-ToyAmongPequeno = entre pequeno

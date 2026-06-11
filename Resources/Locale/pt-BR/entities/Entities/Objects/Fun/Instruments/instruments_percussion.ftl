@@ -13,5 +13,5 @@ ent-MicrophoneInstrument = microfone
 ent-WoodblockInstrument = bloco de madeira
     .desc = Se você ouvir isso o suficiente, vai começar a invadir sua mente.
 
-ent-ReverseCymbalsInstrument = cymbalos reversos
+ent-ReverseCymbalsInstrument = pratos reversos
     .desc = Acho que você está com as coisas invertidas?

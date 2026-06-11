@@ -1,4 +1,4 @@
-ent-TrumpetInstrument = trumpete
+ent-TrumpetInstrument = trompete
     .desc = O instrumento favorito de músicos de jazz e adolescentes egotistas.
 
 ent-TromboneInstrument = trombone
@@ -7,5 +7,5 @@ ent-TromboneInstrument = trombone
 ent-FrenchHornInstrument = trompa francesa
     .desc = O fato de segurá-lo envolver o uso da sua mão para abafá-lo pode sugerir algo sobre o som que ele produz.
 
-ent-EuphoniumInstrument = euphonium
+ent-EuphoniumInstrument = eufônio
     .desc = Um tuba bebê? Um barítono? O que quer que seja, é uma mistura bem legal de tubulações.

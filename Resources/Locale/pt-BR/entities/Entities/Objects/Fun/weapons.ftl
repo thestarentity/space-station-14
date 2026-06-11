@@ -10,7 +10,7 @@ ent-RevolverCapGun = revólver de brinquedo
 ent-WeaponStickyHand = mão adesiva
     .desc = Eles estão dizendo que você está esticando demais. Eles estão dizendo que é uma extensão. Você vai mostrar a todos e vai colocar o dedo na cara deles.
 
-ent-FoamBlade = espuma de corte
+ent-FoamBlade = lâmina de espuma
     .desc = Diz "Número 1 fã dos Sternside Changs" nele.
 
 ent-FoamCutlass = espada de espuma

@@ -1,7 +1,7 @@
 ent-SynthesizerInstrument = sintetizador
 
     .desc = Isso é um instrumento.
-ent-SuperSynthesizerInstrument = sintetizador super
+ent-SuperSynthesizerInstrument = supersintetizador
     .desc = Blastando o gueto com MIDIs de Touhou desde 2020.
 
 ent-AccordionInstrument = acordeão
