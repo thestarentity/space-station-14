@@ -4,9 +4,9 @@ ent-IngotGold = barra de ouro
 ent-IngotGold1 = barra de ouro
 
     .desc = Um lingote de metal pesado estampado com o logotipo da Nanotrasen.
-ent-IngotSilver = barras de prata
+ent-IngotSilver = barra de prata
 
     .desc = Um lingote de metal pesado estampado com o logotipo da Nanotrasen.
-ent-IngotSilver1 = barras de prata
+ent-IngotSilver1 = barra de prata
 
     .desc = Um lingote de metal pesado estampado com o logotipo da Nanotrasen.

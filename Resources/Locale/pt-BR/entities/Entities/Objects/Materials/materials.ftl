@@ -10,7 +10,7 @@ ent-MaterialBiomass = biomassa
 
 ent-MaterialHideBear = pele de urso
 
-ent-MaterialHideCorgi = esconder corgi
+ent-MaterialHideCorgi = pele de corgi
     .desc = Pelagem de luxo usada apenas na moda mais exclusiva. Rumores dizem que isso é encontrado quando um corgi é enviado para a fazenda agradável.
 
 ent-MaterialDiamond = diamante refinado
@@ -24,7 +24,7 @@ ent-MaterialBananium = Bananium
 ent-MaterialWebSilk = seda
     .desc = Um material em forma de teia.
 
-ent-MaterialToothSpaceCarp = dente de carpinteiro espacial
+ent-MaterialToothSpaceCarp = dente de carpa espacial
     .desc = Muito pequeno, mas bastante perigoso. Você prefere quando eles não estão se enfiando em você.
 
 ent-MaterialToothSharkminnow = dente de sharkminnow

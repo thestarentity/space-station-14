@@ -13,13 +13,13 @@ ent-FoodTacoFish = taco de peixe
 ent-FoodTacoRat = taco de rato
     .desc = Sim, parece certo...
 
-ent-FoodTacoBeefSupreme = taco de carne supreme
-    .desc = É como um taco de carne comum, mas supreme!
+ent-FoodTacoBeefSupreme = taco de carne supremo
+    .desc = É como um taco de carne comum, mas supremo!
 
 ent-FoodTacoChickenSupreme = taco de frango supremo
-    .desc = É como um taco de frango comum, mas supreme!
+    .desc = É como um taco de frango comum, mas supremo!
 
-ent-FoodTacoDragon = draco
+ent-FoodTacoDragon = taco de dragão
     .desc = Um taco de dragão, que tecnicamente também é um taco de peixe.
 
 ent-FoodMealSoftTaco = taco suave

@@ -52,7 +52,7 @@ ent-FoodOatmeal = aveia
 ent-FoodJellyDuff = duff de liberdade espacial
     .desc = Gelatina de jello, da cozinhaneta de Alfred Hubbard.
 
-ent-FoodJellyAmanita = jelly de amanita
+ent-FoodJellyAmanita = geleia de amanita
     .desc = É malvado, não toque nele!
 
 ent-FoodSoupMeatball = sopa de bolinhos de carne
@@ -64,7 +64,7 @@ ent-FoodSoupSlime = sopa de slime
 ent-FoodSoupTomatoBlood = sopa de tomate
     .desc = Cheira a cobre... é um osso?
 
-ent-FoodSoupWingFangChu = chifre de asa
+ent-FoodSoupWingFangChu = Wing Fang Chu
     .desc = Um prato saboroso de asas alienígenas em molho de soja.
 
 ent-FoodSoupClown = lágrimas do palhaço

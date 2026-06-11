@@ -67,8 +67,8 @@ ent-FoodCakeAppleSlice = fatia de bolo de maçã
 ent-FoodCakeSlime = bolo de slime
     .desc = Um bolo feito de slime. Provavelmente não eletrificado.
 
-ent-FoodCakeSlimeSlice = fatia de bolo de lama
-    .desc = Uma fatia de bolo de lama.
+ent-FoodCakeSlimeSlice = fatia de bolo de slime
+    .desc = Uma fatia de bolo de slime.
 
 ent-FoodCakePumpkin = bolo de abóbora com especiarias
     .desc = Um bolo oco com abóbora real.

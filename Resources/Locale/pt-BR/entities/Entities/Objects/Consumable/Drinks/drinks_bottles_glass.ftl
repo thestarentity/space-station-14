@@ -59,7 +59,7 @@ ent-DrinkBottleNTCahors = garrafa de Cahors
 
 ent-DrinkNTCahorsBottleFull = garrafa de Cahors
 
-ent-DrinkBeerGrowler = canso de cerveja
+ent-DrinkBeerGrowler = growler de cerveja
     .desc = Bebida alcoólica feita a partir de grãos maltados, lúpulo, levedura e água. Garrafa XL de growler.
 
 ent-DrinkAleBottleFullGrowler = Garrafa de Magm-Ale

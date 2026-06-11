@@ -1,8 +1,8 @@
 ent-LeavesCannabis = folhas de cânamba
     .desc = Recentemente legalizado na maioria das galáxias.
 
-ent-LeavesCannabisDried = folhas de canabidiol secas
-    .desc = Folhas de cânamba secas, prontas para serem moídas.
+ent-LeavesCannabisDried = folhas de cânhamo secas
+    .desc = Folhas de cânhamo secas, prontas para serem moídas.
 
 ent-GroundCannabis = cannabis terrestre
     .desc = Cannabis terrestre, pronto para levar você numa viagem.

@@ -25,7 +25,7 @@ ent-DrinkSugarJug = jarrão de açúcar
 ent-DrinkLemonLimeJug = Jug de limão e lima
     .desc = Uma dupla sensação cítrica.
 
-ent-DrinkMeadJug = jarras de melado
+ent-DrinkMeadJug = jarro de hidromel
     .desc = Colocar mel em um recipiente plástico deveria ser um crime.
 
 ent-DrinkIceJug = jarro de gelo
@@ -49,7 +49,7 @@ ent-DrinkIcedTeaJug = jarra de chá gelado
 ent-DrinkDrGibbJug = Jarrão do Dr. Gibb
     .desc = 42 sabores diferentes... em um recipiente!
 
-ent-DrinkRootBeerJug = garrafa de cerveja preta
+ent-DrinkRootBeerJug = jarro de root beer
     .desc = Esta bebida faz os australianos rirem.
 
 ent-DrinkWaterMelonJuiceJug = jarrão de suco de melancia

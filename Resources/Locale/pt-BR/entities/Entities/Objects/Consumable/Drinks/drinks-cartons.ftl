@@ -10,7 +10,7 @@ ent-DrinkCartonTomato = suco de tomate
 ent-DrinkCoconutWaterCarton = água de coco
     .desc = O que importa é o interior da coco.
 
-ent-DrinkCartonCream = leite de coco
+ent-DrinkCartonCream = caixinha de creme
     .desc = É creme. Feito de leite. O que mais você achou que encontraria ali?
 
 ent-DrinkJuiceLemonCarton = suco de limão
@@ -37,5 +37,5 @@ ent-DrinkJuiceLimeCartonXL = suco de lima XL
 ent-DrinkJuiceOrangeCartonXL = suco de laranja XL
     .desc = Cheio de vitaminas e delicioso!
 
-ent-DrinkCreamCartonXL = leite de nata XL
+ent-DrinkCreamCartonXL = caixão de creme XL
     .desc = É creme. Feito de leite. O que mais você achou que encontraria ali?
