@@ -1,7 +1,7 @@
-ent-BaseBallBat = bate de beisebol
-    .desc = Um bastão de beisebol robusto.
+ent-BaseBallBat = taco de beisebol
+    .desc = Um taco de beisebol robusto.
 
-ent-IncompleteBaseBallBat = batedor de beisebol incompleto
+ent-IncompleteBaseBallBat = taco de beisebol incompleto
     .desc = Alguns painéis de madeira presos juntos.
 
 ent-WeaponMeleeKnockbackStick = bastão de empurrão

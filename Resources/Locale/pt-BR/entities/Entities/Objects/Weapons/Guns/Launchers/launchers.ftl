@@ -1,4 +1,4 @@
-ent-WeaponLauncherChinaLake = chinês lago
+ent-WeaponLauncherChinaLake = China Lake
     .desc = PLOOP.
 
 ent-WeaponLauncherHydra = Hidra

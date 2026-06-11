@@ -1,16 +1,16 @@
 ent-ActionToggleJetpack = Ativar/Desativar jetpack
     .desc = Ativa/desativa o jetpack, dando a você movimento fora da estação.
 
-ent-JetpackBlue = Jetpack Azul
+ent-JetpackBlue = jetpack azul
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
-ent-JetpackBlueFilled = Jetpack Azul
+ent-JetpackBlueFilled = jetpack azul
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
-ent-JetpackBlack = Jetpack Azul
+ent-JetpackBlack = jetpack preto
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
-ent-JetpackBlackFilled = Jetpack Azul
+ent-JetpackBlackFilled = jetpack preto
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
 ent-JetpackCaptain = jetpack do capitão
@@ -31,10 +31,10 @@ ent-JetpackSecurity = jetpack de segurança mini
 ent-JetpackSecurityFilled = jetpack de segurança
 
     .desc = Um jetpack compacto utilizado pela segurança da estação ao patrulhar o exterior da estação. Não foi projetado para viagens de longa distância, possui apenas 1,5 L de combustível.
-ent-JetpackVoid = jetpack vazio
+ent-JetpackVoid = jetpack do vácuo
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
-ent-JetpackVoidFilled = jetpack vazio
+ent-JetpackVoidFilled = jetpack do vácuo
 
     .desc = É um jetpack. Ele pode conter 5 L de gás.
 ent-JetpackXenoborg = jetpack xenoborg
