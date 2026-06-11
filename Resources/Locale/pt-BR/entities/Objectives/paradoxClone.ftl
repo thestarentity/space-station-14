@@ -1,4 +1,4 @@
-ent-ParadoxCloneLivingObjective = Escape to CentComm vivo e sem restrições via o shuttle de
+ent-ParadoxCloneLivingObjective = Escape para o CentComm vivo e sem restrições via o shuttle de fuga.
     .desc = Volte para a sua velha vida.
 ent-ParadoxCloneKillObjective = Corrija o paradoxo do espaço-tempo.
     .desc = Lembre-se, sua missão é se misturar, não mate ninguém a menos que precise!

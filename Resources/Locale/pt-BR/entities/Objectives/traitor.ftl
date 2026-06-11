@@ -1,9 +1,9 @@
-ent-EscapeShuttleObjective = Escape to CentComm vivo e sem restrições via o shuttle de
-    .desc = Um de nossos agentes infiltrados vai te debriefar quando você chegar. Não apareça em algemas.
+ent-EscapeShuttleObjective = Escape para o CentComm vivo e sem restrições via o shuttle de fuga.
+    .desc = Um de nossos agentes infiltrados vai te fazer um debriefing quando você chegar. Não apareça de algemas.
 ent-DieObjective = Morrer de forma gloriosa
     .desc = Morrer.
-ent-HijackTradeStationObjective = Hijacke a Estação de Comércio Automatizado.
-    .desc = Seu uplink foi autorizado a usar um beacon de sequestro. Implantelo na Estação de Comércio Automatizada e proteja-o enquanto ele sequestra a estação de comércio.
+ent-HijackTradeStationObjective = Sequestre a Estação de Comércio Automatizada.
+    .desc = Seu uplink foi autorizado a usar um beacon de sequestro. Instale-o na Estação de Comércio Automatizada e proteja-o enquanto ele sequestra a estação.
 ent-KillRandomPersonObjective =
     .desc = Faça como quiser, só certifique-se de que eles não saiam da estação.
 ent-KillRandomHeadObjective =
