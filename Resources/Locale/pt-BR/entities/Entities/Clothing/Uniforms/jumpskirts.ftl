@@ -56,3 +56,120 @@ ent-ClothingUniformJumpskirtSyndieFormalDress = vestido formal do sindicato
 
 ent-ClothingUniformJumpskirtOfLife = saia da vida
     .desc = Uma saia que simboliza a alegria e a positividade da nossa vida.
+
+ent-ClothingUniformJumpskirtAtmos = macacão-saia do técnico atmosférico
+    .desc = Estou no trabalho. Não posso sair do trabalho. O trabalho é respirar. Estou testando a qualidade do ar.
+
+ent-ClothingUniformJumpskirtBrigmedic = macacão-saia da médica da cela
+    .desc = Este uniforme é emitido para pessoal qualificado que foi treinado. Ninguém liga que o treinamento durou meio dia.
+
+ent-ClothingUniformJumpskirtCapFormalDress = vestido formal do capitão
+    .desc = Um vestido para ocasiões especiais.
+
+ent-ClothingUniformJumpskirtCasualBlue = macacão-saia casual azul
+    .desc = Uma camisa azul desgastada com saia cinza, perfeita para quem quer relaxar.
+
+ent-ClothingUniformJumpskirtCasualGreen = macacão-saia casual verde
+    .desc = Uma camisa verde desgastada com saia cinza, perfeita para quem quer relaxar.
+
+ent-ClothingUniformJumpskirtCasualPurple = macacão-saia casual roxa
+    .desc = Uma camisa roxa desgastada com saia cinza, perfeita para quem quer relaxar.
+
+ent-ClothingUniformJumpskirtCasualRed = macacão-saia casual vermelha
+    .desc = Uma camisa vermelha desgastada com saia cinza, perfeita para quem quer relaxar.
+
+ent-ClothingUniformJumpskirtCentcomFormalDress = vestido formal do Comando Central
+    .desc = Um vestido para ocasiões especiais.
+
+ent-ClothingUniformJumpskirtClown = saia da palhaça
+    .desc = HONK!
+
+ent-ClothingUniformJumpskirtCurator = saia sensata
+    .desc = É sensata. Sensata demais...
+
+ent-ClothingUniformJumpskirtHosFormal = vestido formal da chefe de segurança
+    .desc = Um vestido para ocasiões especiais.
+
+ent-ClothingUniformJumpskirtJanimaid = uniforme de maid da zeladora
+    .desc = Para profissionais, não para impostoras.
+
+ent-ClothingUniformJumpskirtLawyerBlack = terno-saia preto do advogado
+    .desc = Um terno-saia preto discreto usado por advogadas e gangsters.
+
+ent-ClothingUniformJumpskirtLawyerBlue = terno-saia azul do advogado
+    .desc = Um terno-saia azul chamativo usado por advogadas e exibicionistas.
+
+ent-ClothingUniformJumpskirtLawyerGood = terno-saia do bom advogado
+    .desc = Um terno-saia chamativo perfeito para uma advogada CRIMINAL!
+
+ent-ClothingUniformJumpskirtLawyerPurple = terno-saia roxo do advogado
+    .desc = Uma peça roxa elegante usada por advogadas e pessoas do showbiz.
+
+ent-ClothingUniformJumpskirtLawyerRed = terno-saia vermelho do advogado
+    .desc = Um terno-saia vermelho chamativo usado por advogadas e exibicionistas.
+
+ent-ClothingUniformJumpskirtLibrarian = macacão-saia do bibliotecário
+    .desc = Um suéter verde aconchegante adequado para uma curadora de livros.
+
+ent-ClothingUniformJumpskirtMusician = saia do músico
+    .desc = Uma saia elegante para os musicalmente inclinados. Perfeita para qualquer apresentação em um lounge!
+
+ent-ClothingUniformJumpskirtOldDress = vestido antigo
+    .desc = Um vestido desgastado de uma época muito distante.
+
+ent-ClothingUniformJumpskirtOperative = macacão-saia da operativa
+    .desc = Uniforme para operativas de elite do sindicato realizando operações táticas no espaço profundo.
+
+ent-ClothingUniformJumpskirtPerformer = macacão-saia da artista
+    .desc = Olá, sou o Scott, presidente da Donk Pizza. Você já ouviu falar de [FAMOUS VIRTUAL PERFORMER]?
+
+ent-ClothingUniformJumpskirtPrisoner = macacão-saia de presidiária
+    .desc = Um macacão-saia usado para prisioneiras. Possui sensores de uniforme ativados automaticamente em todos os momentos.
+
+ent-ClothingUniformJumpskirtPsychologist = terno-saia da psicóloga
+    .desc = Não perco coisas. Coloco coisas em locais que depois me fogem da memória.
+
+ent-ClothingUniformJumpskirtQM = macacão-saia do comissário de abastecimento
+    .desc = O que o marrom pode fazer por você?
+
+ent-ClothingUniformJumpskirtQMTurtleneck = gola-alta do comissário de abastecimento
+    .desc = Um blusão de gola alta elegante feito para o ambiente de trabalho exigente do abastecimento.
+
+ent-ClothingUniformJumpskirtResearchDirector = gola-alta da diretora de pesquisa
+    .desc = É um blusão de gola alta usado por aquelas com o conhecimento para alcançar a posição de Diretora de Pesquisa. Seu tecido oferece uma proteção mínima contra contaminantes biológicos.
+
+ent-ClothingUniformJumpskirtRoboticist = macacão-saia do roboticista
+    .desc = É uma roupa preta ajustada com costuras reforçadas; ideal para trabalhos industriais.
+
+ent-ClothingUniformJumpskirtScientist = macacão-saia do cientista
+    .desc = É feito de uma fibra especial que aumenta a percepção de inteligência e diminui a ética pessoal. Possui marcas que indicam que a portadora é uma cientista.
+
+ent-ClothingUniformJumpskirtSec = macacão-saia de segurança
+    .desc = Um macacão-saia feito de material resistente, oferecendo proteção robusta.
+
+ent-ClothingUniformJumpskirtSecGrey = macacão-saia cinza de segurança
+    .desc = Uma relíquia tática dos anos anteriores, antes de a Nanotrasen decidir que era mais barato tingir os trajes de vermelho do que lavar o sangue.
+
+ent-ClothingUniformJumpskirtSeniorEngineer = macacão-saia de engenheira sênior
+    .desc = Um sinal de habilidade e prestígio dentro do departamento de engenharia.
+
+ent-ClothingUniformJumpskirtSeniorOfficer = macacão-saia de oficial sênior
+    .desc = Um sinal de habilidade e prestígio dentro do departamento de segurança.
+
+ent-ClothingUniformJumpskirtSeniorPhysician = macacão-saia de médica sênior
+    .desc = Um sinal de habilidade e prestígio dentro do departamento médico.
+
+ent-ClothingUniformJumpskirtSeniorResearcher = macacão-saia de pesquisadora sênior
+    .desc = Um sinal de habilidade e prestígio dentro do departamento de ciências.
+
+ent-ClothingUniformJumpskirtTacticalMaid = terno-saia tático de maid
+    .desc = Presume-se que as melhores maids devem ter trajes de grife.
+
+ent-ClothingUniformJumpskirtTacticool = macacão-saia tático
+    .desc = Uniforme para operativas medíocres de LARP realizando furto tático de luvas isolantes no espaço profundo.
+
+ent-ClothingUniformJumpskirtWarden = uniforme da carcereira
+    .desc = Um traje formal de segurança para oficiais, completo com fivela de cinto da Nanotrasen.
+
+ent-ClothingUniformJumpskirtWeb = macacão-saia de teia
+    .desc = Deixa claro que você é uma com as teias.

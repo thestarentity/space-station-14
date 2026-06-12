@@ -28,3 +28,6 @@ ent-MiningBorgChassisDerelict = ciborg de mineração abandonado
     .desc = Um híbrido homem-máquina que auxilia o departamento de carga. Este já viu o lado errado de um pedaço de gibtonite.
 ent-SyndicateAssaultBorgChassisDerelict = ciborg de assalto do sindicato abandonado
     .desc = Um corpo magro e letal, com acesso a uma variedade de módulos mortais. Este em particular é mais enferrujado-alaranjado do que vermelho-sangue.
+
+ent-BorgChassisSecurity = ciborg de segurança
+    .desc = Uma unidade ciborg dedicada à segurança e aplicação das leis da estação.
