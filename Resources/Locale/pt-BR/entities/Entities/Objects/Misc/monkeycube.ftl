@@ -17,5 +17,4 @@ ent-SyndicateSpongeBox = caixa de cubo de macaco
     .desc = Marcas Drymate de cubos de macaco. Basta adicionar água!
 
 ent-SyndicateSpongeWrapped = cubo de macaco
-
     .desc = Desembrulhe isso para obter um cubo de macaco.

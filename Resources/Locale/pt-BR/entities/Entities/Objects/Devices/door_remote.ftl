@@ -21,7 +21,6 @@ ent-DoorRemoteAll = controle remoto de porta super
     .desc = Um dispositivo que pode abrir e trancar portas remotamente. Este funciona até mesmo em portas de madeira!
 
 ent-DoorRemoteXenoborg = controle remoto da porta do xenoborg
-
     .desc = Um gadget que pode abrir e trancar portas remotamente.
 ent-DoorRemoteDefault =
     .desc = Um dispositivo capaz de abrir e trancar portas remotamente.

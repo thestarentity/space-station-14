@@ -8,12 +8,14 @@ ent-MaterialWoodPlank = madeira
 
 ent-MaterialBiomass = biomassa
 
-ent-MaterialHideBear = pele de urso
+ent-MaterialHideBear = pele de urso espacial
+    .desc = Uma pele espessa arrancada de um urso espacial. Ficou em bom estado.
 
 ent-MaterialHideCorgi = pele de corgi
     .desc = Pelagem de luxo usada apenas na moda mais exclusiva. Rumores dizem que isso é encontrado quando um corgi é enviado para a fazenda agradável.
 
 ent-MaterialDiamond = diamante refinado
+    .desc = Um diamante cuidadosamente lapidado. Excepcionalmente duro e valioso.
 
 ent-MaterialCotton = algodão
 

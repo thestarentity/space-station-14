@@ -1,6 +1,6 @@
-ent-AlwaysPoweredWallLight = brilhante
+ent-AlwaysPoweredWallLight = luminária
     .desc = Uma luz que sempre está ligada.
-ent-PoweredlightEmpty = brilhante
+ent-PoweredlightEmpty = luminária
     .desc = Um dispositivo de iluminação. Consome energia e produz luz quando equipado com um tubo de luz.
 ent-SmallLight = luz pequena
     .desc = Uma luz que sempre está ligada.

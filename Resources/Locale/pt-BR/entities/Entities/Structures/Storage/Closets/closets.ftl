@@ -19,8 +19,8 @@ ent-ClosetBomb = armário de EOD
 ent-ClosetJanitorBomb = armário de roupas de proteção para bombas de manutenção
     .desc = É uma unidade de armazenamento para trajes de proteção contra explosões do zelador.
 
-ent-ClosetL3 = armário de equipamentos de biohazard nível 3
-    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+ent-ClosetL3 = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
 
 ent-ClosetMaintenance = armário de manutenção
     .desc = É um armário de armazenamento.
@@ -34,15 +34,15 @@ ent-ClosetBluespace = armário suspeito
 ent-ClosetBluespaceUnstable = armário suspeito
     .desc = É uma unidade de armazenamento... certo?
 
-ent-ClosetL3Janitor = armário de equipamentos de biohazard nível 3
-    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+ent-ClosetL3Janitor = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
 
-ent-ClosetL3Science = armário de equipamentos de biohazard nível 3
-    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+ent-ClosetL3Science = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
 
-ent-ClosetL3Security = armário de equipamentos de biohazard nível 3
-    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+ent-ClosetL3Security = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
 
-ent-ClosetL3Virology = armário de equipamentos de biohazard nível 3
-    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+ent-ClosetL3Virology = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
 
