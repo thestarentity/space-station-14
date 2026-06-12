@@ -1,4 +1,4 @@
-construction-condition-machine-container-empty = Remova as partes do quadro usando um [color=cyan]Ponteiro de Pique[/color].
+construction-condition-machine-container-empty = Remova as partes do quadro usando um [color=cyan]pé de cabra[/color].
 # MachineFrameComplete
 construction-condition-machine-frame-requirement-label = Componente de placa de circuito.
 construction-condition-machine-frame-insert-circuit-board-message = Insira [color=cyan]qualquer placa de circuito de máquina[/color].
