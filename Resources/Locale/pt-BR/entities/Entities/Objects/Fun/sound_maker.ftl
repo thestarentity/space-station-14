@@ -1,3 +1,7 @@
+ent-BaseWhistle = apito
+    .desc = Um apito. Assopre para fazer barulho.
+ent-Whistle = apito
+    .desc = Tweeeet! Tweeeet!
 ent-BikeHorn = buzina de bicicleta
     .desc = Um corneta de uma bicicleta.
 ent-CluwneHorn = Corneta de bicicleta quebrada

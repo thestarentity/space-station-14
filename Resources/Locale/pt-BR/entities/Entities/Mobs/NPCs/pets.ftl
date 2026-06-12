@@ -1,3 +1,7 @@
+ent-MobCorgi = corgi
+    .desc = Um cão dócil que late ocasionalmente.
+ent-MobParrot = papagaio
+    .desc = Raaark! Você é um tripulante e está aqui para trabalhar!
 ent-MobCorgiIan = Ian
     .desc = Corgi favorito.
 

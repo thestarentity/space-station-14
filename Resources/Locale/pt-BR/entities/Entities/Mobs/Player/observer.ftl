@@ -1,3 +1,5 @@
+ent-MobObserver = observador
+    .desc = Bu!
 ent-ActionGhostBoo = Ué!
     .desc = Escarre os seus tripulantes por tédio!
 ent-ActionToggleLighting = Alternar Iluminação

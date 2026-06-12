@@ -63,8 +63,14 @@ ent-MobMonkey = macaco
 ent-MobBaseSyndicateMonkey = macaco
     .desc = A nova igreja dos neodarwinistas acredita realmente que TODO animal evoluiu de um macaco. Tem sabor de porco, e matá-los é tanto divertido quanto relaxante.
 
-ent-MobKobold = Kobold
-    .desc = Parentes da raça sensível de seres répteis, os kobolds se misturam com seu habitat natural e são tão fedorentos quanto macacos; prontos para arrancar seus cabelos e te estocar até a morte.
+ent-MobBaseKobold = kobold
+    .desc = Parentes da raça sensível de seres répteis, os kobolds se misturam com seu habitat natural e são tão selvagens quanto macacos; prontos para arrancar seus cabelos e te esfaquear até a morte.
+
+ent-MobKobold = kobold
+    .desc = Parentes da raça sensível de seres répteis, os kobolds se misturam com seu habitat natural e são tão selvagens quanto macacos; prontos para arrancar seus cabelos e te esfaquear até a morte.
+
+ent-MobBaseSyndicateKobold = kobold do sindicato
+    .desc = Um kobold recrutado pelo Sindicato. Tão perigoso quanto parece.
 
 ent-MobGuidebookMonkey = macaco do guia
     .desc = Um macaco que espera ser útil, cujo único propósito na vida é você clicar nele. Isso conta como um macaco dando um tutorial a você?

@@ -1,3 +1,5 @@
+ent-ClothingOuterBaseToggleable = capuz
+    .desc = Uma peça de roupa com capuz retrátil.
 ent-ClothingOuterCoatBomber = jaqueta de aviador
     .desc = Um casaco de aviador de couro bem desgastado da Segunda Guerra Mundial.
 ent-ClothingOuterCoatDetective = sobretudo blindado do detetive

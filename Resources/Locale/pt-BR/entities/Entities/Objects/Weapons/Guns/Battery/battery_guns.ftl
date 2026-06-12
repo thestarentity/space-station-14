@@ -1,3 +1,6 @@
+ent-BorgCombatRifle = rifle de combate borg
+    .desc = Um rifle de precisão integrado ao ciborgue que dispara projéteis de choque de alta velocidade alimentados pela célula de energia da unidade. Uso letal autorizado somente.
+
 ent-WeaponLaserSvalinn = pistola laser Svalinn
     .desc = Uma pistola laser barata e amplamente utilizada.
 

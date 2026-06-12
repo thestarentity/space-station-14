@@ -1,3 +1,5 @@
+ent-ClothingOuterArmorBasic = colete de proteção
+    .desc = Um colete de proteção básico. Oferece alguma proteção contra danos.
 ent-ClothingOuterArmorBasicSlim = colete de armadura slim
     .desc = Um colete de armadura Tipo I fino que oferece boa proteção contra a maioria dos tipos de dano.
 ent-ClothingOuterArmorBulletproof = colete à prova de balas

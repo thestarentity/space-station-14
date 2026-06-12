@@ -1,3 +1,19 @@
+ent-BasePhotograph = fotografia
+    .desc = Uma fotografia.
+ent-PhotographBlack = fotografia preta
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographRed = fotografia vermelha
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographBlue = fotografia azul
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographGreen = fotografia verde
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographPurple = fotografia roxa
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographRainbow = fotografia colorida
+    .desc = Uma foto tirada pela câmera de viagem.
+ent-PhotographYellow = fotografia amarela
+    .desc = Uma foto tirada pela câmera de viagem.
 ent-TravelCamera = câmera de viagem
     .desc = Uma imagem vale mais que mil palavras. Vem com um flash ultrabrilhante e um carregamento interno de rolo fotográfico.
 

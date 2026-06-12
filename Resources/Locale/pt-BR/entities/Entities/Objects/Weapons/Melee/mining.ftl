@@ -7,6 +7,12 @@ ent-MiningDrill = broca de mineração
 ent-MiningDrillDiamond = broca de mineração com ponta de diamante
     .desc = Um perfurador de mineração significativamente mais eficiente com ponta de diamante.
 
+ent-BaseWeaponCrusher = esmagador
+    .desc = Um projeto inicial do acelerador proto-cinético.
+
+ent-WeaponCrusher = esmagador
+    .desc = Um projeto inicial do acelerador proto-cinético.
+
 ent-WeaponCrusherDagger = adaga esmagadora
     .desc = Uma versão reduzida de um protocentrífugo cinético. Utiliza energia cinética para vibrar a lâmina a altas velocidades.
 

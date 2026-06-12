@@ -8,6 +8,8 @@ ent-GoliathTentacle = tentáculo
 
 ent-EffectGoliathTentacleSpawn = tentáculo
 
+ent-EffectGoliathTentacleRetract = tentáculo
+
 ent-MobHivelord = Hivelord
     .desc = Um verdadeiro ser alienígena, é uma massa de material orgânico desconhecido, constantemente oscilando. Ao atacar, pedaços dele se separam e atacam em conjunto com o original.
 

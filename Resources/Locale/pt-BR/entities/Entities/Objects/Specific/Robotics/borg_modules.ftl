@@ -68,6 +68,12 @@ ent-BorgModuleClowning = módulo ciborgue de palhaçada
 ent-BorgModuleAdvancedClowning = módulo cibernético de palhaço avançado
     .desc = Módulo avançado de serviço apenas para os cyborgs mais bagunceiros! Vem com um forno integrado que assa pães de abóbora automaticamente ao longo do tempo, um projetor de holopeel e um sino de empurrar.
 
+ent-BorgModuleSecurity = módulo de segurança para ciborgue
+    .desc = Um módulo de segurança para ciborgues contendo ferramentas de manutenção da lei.
+
+ent-BorgModuleSecurityCombat = módulo de combate de segurança para ciborgue
+    .desc = Um módulo de segurança avançado para ciborgues, especializado em contenção de ameaças.
+
 ent-BorgModuleSyndicateWeapon = módulo ciborgue de armas do Sindicato
 
 ent-BorgModuleOperative = módulo de operativo ciborg
