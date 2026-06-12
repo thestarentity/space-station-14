@@ -48,3 +48,11 @@ ent-ClothingUniformJumpskirtMime = macacão-saia do mímico
     .desc = ...
 ent-ClothingUniformJumpskirtParamedic = macacão-saia de paramédico
     .desc = Tem um plus nele, isso é uma coisa boa, certo?
+ent-ClothingUniformJumpskirtJanimaidmini = uniforme de maid da zeladora com minissaia
+    .desc = Serviço de elite, não são simples embrulhos de bala.
+
+ent-ClothingUniformJumpskirtSyndieFormalDress = vestido formal do sindicato
+    .desc = O uniforme do sindicato é feito em um estilo elegante, é até pena fazer trabalho sujo com ele.
+
+ent-ClothingUniformJumpskirtOfLife = saia da vida
+    .desc = Uma saia que simboliza a alegria e a positividade da nossa vida.

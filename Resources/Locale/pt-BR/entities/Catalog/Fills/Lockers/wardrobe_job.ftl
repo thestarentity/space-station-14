@@ -33,3 +33,9 @@ ent-WardrobeEngineeringFilled = armário de engenharia
 
 ent-WardrobeMedicalDoctorFilled = armário do médico
     .desc = Já brincamos todos de doutor alguma vez. Agora pratique medicina de verdade.
+
+ent-WardrobeSecurityFilled = guarda-roupa de segurança
+    .desc = Cruzar a linha vermelha nunca pareceu tão bem vestido.
+
+ent-WardrobeCargoFilled = guarda-roupa de carga
+    .desc = Esse armário? Talvez 500 espesos. Camaradagem? Não tem preço.

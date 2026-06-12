@@ -15,7 +15,7 @@ ent-ShipBattlemap = mapa de batalha do navio
 
 ent-GrassBoardTabletop = mapa de batalha de grama
 
-ent-MoonBoardTabletop = mapa de batalha de grama
+ent-MoonBoardTabletop = mapa de batalha da lua
 
 ent-SandBoardTabletop = mapa de batalha de areia
 
