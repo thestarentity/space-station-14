@@ -44,11 +44,13 @@ ent-FoodDonkpocketStonk = stonk-pocket
     .desc = Saboroso, mas um triste lembrete do grande acidente de '24.
 
 ent-FoodDonkpocketStonkWarm = stonk-pocket quente
+    .desc = Saboroso, mas um triste lembrete do grande acidente de '24.
 
 ent-FoodDonkpocketCarp = carp-pocket
     .desc = Uma edição perdida há muito tempo do donk-pocket, feita especificamente para salvadores trabalhadores.
 
 ent-FoodDonkpocketCarpWarm = carp-pocket quente
+    .desc = Uma edição perdida há muito tempo do donk-pocket, feita especificamente para salvadores trabalhadores. Agora bem quente.
 
 ent-FoodDonkpocketDink = dink-pocket
     .desc = Um donk-pocket de marca não oficial, recheado com cenoura em conserva e envolto em algas. Melhor consumido frio, ou ainda melhor, não consumido de jeito nenhum.
@@ -57,3 +59,4 @@ ent-FoodDonkpocketMoth = moth-pocket
     .desc = Edição buzzy do donk-pocket criado durante protestos em massa ab-... Na verdade, quem se importa? Apenas donk-pockets para mariposas.
 
 ent-FoodDonkpocketMothWarm = moth-pocket quente
+    .desc = Edição buzzy do donk-pocket para mariposas, agora quentinho e ainda mais intrigante.

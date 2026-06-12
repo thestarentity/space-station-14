@@ -1,8 +1,11 @@
 ent-FoodDonutPlain = rosquinha simples
+    .desc = Combina muito bem com um café robusto.
 
 ent-FoodDonutJellyPlain = rosquinha de geleia simples
+    .desc = Combina muito bem com um café robusto.
 
 ent-FoodDonutHomer = rosquinha
+    .desc = Combina muito bem com um café robusto.
 
 ent-FoodDonutChaos = rosquinha caótica
     .desc = Como a vida, nunca tem o mesmo sabor.

@@ -37,6 +37,7 @@ ent-ClothingUniformJumpsuitGenetics = macacão de genética
 ent-ClothingUniformJumpsuitClown = traje de palhaço
     .desc = HONK!
 ent-ClothingUniformJumpsuitClownBanana = macacão de palhaço de banana
+    .desc = HONK!
 ent-ClothingUniformJumpsuitJester = traje do bobo da corte
     .desc = Um traje alegre, bem adequado para entreter seu senhor.
 ent-ClothingUniformJumpsuitCMO = macacão do chefe médico
