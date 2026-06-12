@@ -26,3 +26,22 @@ ent-AllTraitorCodesPaper = Registro de palavras-código do Sindicato
     .desc = Um registro de todos os códigos ativos do Sindicato.
 ent-Envelope = envelope
     .desc = Um pequeno envelope para manter olhos curiosos longe de seus documentos sensíveis.
+
+ent-PaperAcquisitionSlipCargo = formulário de aquisição de carga
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+
+ent-PaperAcquisitionSlipEngineering = formulário de aquisição de engenharia
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+
+ent-PaperAcquisitionSlipMedical = formulário de aquisição médica
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+
+ent-PaperAcquisitionSlipScience = formulário de aquisição de ciências
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+
+ent-PaperAcquisitionSlipSecurity = formulário de aquisição de segurança
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+
+ent-PaperAcquisitionSlipService = formulário de aquisição de serviço
+    .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
+

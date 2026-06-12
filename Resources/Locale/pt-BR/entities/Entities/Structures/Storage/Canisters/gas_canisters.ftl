@@ -1,5 +1,4 @@
 ent-StorageCanister = canister de armazenamento
-
     .desc = Um cilindro que pode conter qualquer tipo de gás. Ele pode ser conectado a portas de conexão usando uma chave de roda.
 ent-AirCanister = cilindro de ar
     .desc = Um cilindro que pode conter qualquer tipo de gás. Este deveria conter uma mistura de ar. Pode ser conectado a portas de conexão usando uma chave inglesa.
@@ -41,13 +40,11 @@ ent-FrezonCanister = cilindro de frezon
     .desc = Um cilindro que pode conter qualquer tipo de gás. Este deveria conter frezon. Pode ser conectado a portas de conexão usando uma chave inglesa.
 
 ent-MaxCapCanister = máximo de capacidade em um recipiente
-
     .desc = Um cilindro que pode conter qualquer tipo de gás. Ele pode ser conectado a portas de conexão usando uma chave de roda.
 ent-GasCanisterBrokenBase = cânister de gás quebrado
     .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
 
 ent-WaterVaporCanisterBroken = canister de vapor de água quebrado
-
 
 
 

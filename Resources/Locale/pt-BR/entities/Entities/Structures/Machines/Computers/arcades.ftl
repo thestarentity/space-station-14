@@ -6,3 +6,7 @@ ent-BlockGameArcade = NT Block Game
 
 ent-ArcadeBase = fliperama
     .desc = Um gabinete de fliperama.
+
+ent-SpaceVillainArcadeFilled = fliperama Vilão Espacial
+    .desc = Um gabinete de fliperama.
+

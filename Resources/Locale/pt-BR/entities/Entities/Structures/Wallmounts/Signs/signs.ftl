@@ -310,3 +310,7 @@ ent-SignSurvival = sinal de sobrevivência
     .desc = Um sinal. "Sobrevivência" está escrito nele.
 ent-SignNTMine = Mineração
     .desc = Um sinal. "Mine" está escrito nele.
+
+ent-SignCansScience = sinal de cilindros de ciências
+    .desc = Um sinal indicando a presença auspiciosa de cilindros de gás.
+

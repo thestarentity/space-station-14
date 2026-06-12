@@ -41,5 +41,8 @@ ent-ClothingEyesEyepatchHudBeerFlipped = HUD de cerveja de tapa-olho
 ent-ClothingEyesEyepatchHudDiag = HUD de diagnóstico de tapa-olho
     .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueletais. Feito de see-borg-ium.
 ent-ClothingEyesEyepatchHudDiagFlipped = HUD de diagnóstico de tapa-olho
-
     .desc = Um visor de apoio capaz de analisar a integridade e o status de robótica e trajes exoesqueléticos. Feito de see-borg-ium.
+
+ent-ClothingEyesGlassesHiddenSecurity = óculos de sol
+    .desc = Um par de óculos de sol pretos.
+

@@ -2,68 +2,47 @@ ent-Candle = vela
     .desc = Um fio fino de vela passado por gordura.
 
 ent-CandleRed = vela vermelha
-
     .desc = Um fio fino passado por gordura.
 ent-CandleBlue = vela azul
-
     .desc = Um fio fino passado por gordura.
 ent-CandleBlack = vela preta
-
     .desc = Um fio fino passado por gordura.
 ent-CandleGreen = vela verde
-
     .desc = Um fio fino passado por gordura.
 ent-CandlePurple = vela roxa
-
     .desc = Um fio fino passado por gordura.
 ent-CandleSmall = vela pequena
-
     .desc = Um fio fino passado por gordura.
 ent-CandleRedSmall = vela vermelha pequena
-
     .desc = Um fio fino passado por gordura.
 ent-CandleBlueSmall = vela azul pequena
-
     .desc = Um fio fino passado por gordura.
 ent-CandleBlackSmall = vela pequena preta
-
     .desc = Um fio fino passado por gordura.
 ent-CandleGreenSmall = vela verde pequena
-
     .desc = Um fio fino passado por gordura.
 ent-CandlePurpleSmall = vela lilás pequena
-
     .desc = Um fio fino passado por gordura.
 ent-CandleInfinite = vela mágica
     .desc = É magia ou alta tecnologia, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 
 ent-CandleRedInfinite = vela vermelha mágica
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleBlueInfinite = vela azul mágica
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleBlackInfinite = vela negra mágica
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleGreenInfinite = vela verde mágica
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandlePurpleInfinite = vela roxa mágica
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleRedSmallInfinite = vela mágica vermelha pequena
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleBlueSmallInfinite = vela mágica azul pequena
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleBlackSmallInfinite = vela negra mágica pequena
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandleGreenSmallInfinite = vela mágica verde pequena
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.
 ent-CandlePurpleSmallInfinite = vela mágica lilás pequena
-
     .desc = É magia ou tecnologia avançada, mas essa vela nunca se apaga. Por outro lado, sua chama é bastante fria.

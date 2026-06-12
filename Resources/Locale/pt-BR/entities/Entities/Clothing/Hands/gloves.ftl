@@ -63,3 +63,7 @@ ent-ClothingHandsKnuckleDustersStun = soco-inglês de choque
     .desc = Um par de soco-inglês combinado com a tecnologia de um bastão de choque. Facilita muito derrubar os greyshirts.
 ent-ClothingHandsKnuckleBoneCrushers = esmagadores de ossos
     .desc = Abençoado pelos Deuses para quebrar todos aqueles que não obedecem.
+
+ent-ClothingHandsGlovesConducting = luvas isolantes
+    .desc = Estas luvas protegerão o usuário de choques elétricos.
+

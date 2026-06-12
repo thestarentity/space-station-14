@@ -1,5 +1,4 @@
 ent-ClothingHeadsetGrey = fone de ouvido de passageiro
-
     .desc = Um intercomunicador atualizado e modular que se encaixa sobre a cabeça. Aceita chaves de criptografia.
 ent-ClothingHeadsetCargo = fone de ouvido de carga
     .desc = Um fone de ouvido usado por funcionários de suprimentos.

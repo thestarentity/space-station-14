@@ -100,3 +100,7 @@ ent-ClothingHeadHatHoodWinterColorYellow = capuz do casaco de inverno amarelo
     .desc = Um capuz para manter sua cabeça aquecida.
 ent-ClothingHeadHatHoodVoidCloak = capuz da capa do vácuo
     .desc = O capuz de um manto do vácuo. Para aqueles que seguiram o lado sombrio da força.
+
+ent-ClothingHeadHelmetHardsuitCarp = capuz de carp
+    .desc = Um capuz feio adornado com dentes de peixe espacial de plástico.
+

@@ -2,25 +2,18 @@ ent-MobXeno = escavador
     .desc = Eles geralmente vêm à noite. Geralmente.
 
 ent-MobXenoPraetorian = pretoriano
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoDrone = drone
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoQueen = rainha
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRavager = devastador
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRunner = corredor
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoRouny = Rouny
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobXenoSpitter = cuspidor
-
     .desc = Eles geralmente vêm à noite. Geralmente.
 ent-MobPurpleSnake = víbora roxa
     .desc = Uma serpente roxa ameaçadora de Kepler-283c.

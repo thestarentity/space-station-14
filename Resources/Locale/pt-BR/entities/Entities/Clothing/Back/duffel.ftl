@@ -54,3 +54,10 @@ ent-ClothingBackpackDuffelHolding = bolsa de lona de contenção
 
 ent-ClothingBackpackDuffelCBURN = bolsa de lona CBURN
     .desc = Uma bolsa de lona contendo uma variedade de equipamentos de contenção biológica.
+
+ent-ClothingBackpackDuffelSyndicateAmmo = bolsa de lona do sindicato
+    .desc = Uma grande bolsa para carregar diversos itens traiçoeiros.
+
+ent-ClothingBackpackDuffelSyndicateMedical = bolsa de lona do sindicato
+    .desc = Uma grande bolsa para carregar diversos itens traiçoeiros.
+

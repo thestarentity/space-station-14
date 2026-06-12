@@ -1,308 +1,206 @@
 ent-FloorTileItemSteelCheckerDark = placa xadrez de aço escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelCheckerLight = placa xadrez de aço claro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDark = placa de aço escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkDiagonalMini = placa de aço escuro diagonal mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkDiagonal = placa de aço escuro diagonal
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkHerringbone = aço escuro em padrão ondulado
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkMini = placa de aço escuro mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkMono = placa de aço escuro monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkPavement = pavimento de aço escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkPavementVertical = pavimento vertical de aço escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkSlatsContinuous = placa de ripas de aço escuro contínuas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkVerticalSlatsBordered = placa de painéis verticais de aço escuro com bordas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkHorizontalSlatsBordered = placa de ripas horizontais bordadas de aço escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkOffset = placa de aço escuro deslocada
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteel = placa de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelOffset = placa de aço deslocada
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelDiagonalMini = placa de aço diagonal mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelDiagonal = placa de aço diagonal
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelSlatsContinuous = placa de ripas de aço contínuas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelVerticalSlatsBordered = placa de aço com ripas verticais bordadas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelHorizontalSlatsBordered = placa de aço horizontal com ripas bordadas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelHerringbone = espinha de peixe de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelMini = placa de aço mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelMono = tijolo de aço monolítico
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelPavement = pavimento de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelPavementVertical = pavimento vertical de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhite = placa branca de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteOffset = placa de aço branco deslocada
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteDiagonalMini = placa de aço branco diagonal mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteDiagonal = tijolo de aço branco diagonal
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteHerringbone = aço branco em padrão ondulado
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteMini = placa de aço branco mini
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteMono = tijolo de aço branco monolítico
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhitePavement = pavimento de aço branco
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhitePavementVertical = pavimento vertical de aço branco
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteVerticalSlatsBordered = placa de aço branco vertical com bordas e ripas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteSlatsContinuous = placa de ripas de aço branco contínuas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteHorizontalSlatsBordered = placa de aço branco horizontal com bordas e ripas
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMetalDiamond = placa de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWood = piso de madeira
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemTechmaint = piso de manutenção técnica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemTechmaintDark = piso de manutenção tecnológica escuro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMono = placa monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemLino = piso de linóleo
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBrassFilled = Placa de latão cheia
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBrassReebe = placa de latão polida
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDirty = Azulejo sujo
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemElevatorShaft = placa do poço de elevador
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemRockVault = placa de cela de rocha
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBlue = azulejo azul
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemLime = placa de lima
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMining = placa de mineração
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMiningDark = placa de mineração escura
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMiningLight = placa de mineração clara
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemFreezer = placa de congelador
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShowroom = placa da loja de exposição
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemHydro = placa hidráulica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBar = placa de bar
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemClown = placa do palhaço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemMime = Azulejo de Mímico
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemKitchen = placa da cozinha
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemLaundry = placa de lavanderia
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemConcrete = tijolo de concreto
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemConcreteMono = placa de concreto monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemConcreteSmooth = concreto liso
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrayConcrete = placa de concreto cinza
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrayConcreteMono = placa de concreto cinza monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrayConcreteSmooth = concreto cinza liso
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemOldConcrete = tijolo de concreto antigo
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemOldConcreteMono = placa de concreto antigo monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemOldConcreteSmooth = concreto antigo liso
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemIronsandConcrete = placa de concreto com areia de ferro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemIronsandConcreteMono = placa de concreto de areia de ferro monolítica
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemIronsandConcreteSmooth = concreto liso de areia de ferro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemArcadeBlue = piso de arcade azul
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemArcadeBlue2 = piso de arcade azul
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemArcadeRed = chão de arcade vermelho
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemEighties = piso dos anos 80
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemCarpetClown = piso de carpete de palhaço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemCarpetOffice = piso de carpete de escritório
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBoxing = piso do ringue de boxe
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGym = piso da academia
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleWhite = piso do shuttle branco
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleBlue = piso do shuttle azul
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleOrange = piso do shuttle laranja
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttlePurple = piso do shuttle roxo
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleRed = piso do shuttle vermelho
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleGrey = piso do shuttle cinza
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemShuttleBlack = piso do shuttle preto
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGold = piso de ouro
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSilver = placa prateada
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGCircuit = piso de circuito verde
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemBCircuit = piso de circuito azul
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemRCircuit = piso de circuito vermelho
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrass = placa de grama
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGrassJungle = placa de grama da selva
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSnow = placa de neve
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWoodPattern = piso com padrão de madeira
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemFlesh = piso de carne
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemSteelMaint = piso de manutenção de aço
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemGratingMaint = piso de manutenção de grelha
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWeb = placa de teia
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemAstroGrass = grama astro
     .desc = Gramado falso que cobre fios e até vem com NanoTrimmings realistas!
@@ -341,7 +239,6 @@ ent-FloorTileItemDesertAstroSand = areia de deserto astro
     .desc = Areia falsa, projetada para ser fina.
 
 ent-FloorTileItemWoodLarge = piso de madeira grande
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemWhiteMarble = Azulejo de mármore branco
     .desc = Uma pedra de mármore espacial finamente lapidada e polida. Melhor não perdê-la.
@@ -356,20 +253,14 @@ ent-FloorTileItemUraniumMarble = Azulejo de mármore de urânio
     .desc = Uma pedra quadrada finamente lapidada e polida feita do melhor Space Marble. Infundida com urânio para torná-la ainda mais rad! Brincadeira de mau gosto!
 
 ent-FloorTileItemXeno = piso xenomorfo
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemXenoSteel = piso de aço xenoniano
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemXenoSteelCorner = piso de aço xeno canto
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemXenoMaint = piso de manutenção de tecnologia xenon
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemXenoborg = piso xenoborg
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.
 ent-FloorTileItemDarkSquiggly = Azulejo de aço escuro sinuoso
-
     .desc = Esses poderiam funcionar como uma arma de arremesso razoavelmente decente.

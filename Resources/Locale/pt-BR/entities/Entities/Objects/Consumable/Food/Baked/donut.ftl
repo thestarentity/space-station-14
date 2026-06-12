@@ -72,3 +72,7 @@ ent-FoodDonutJellySweetpea = rosquinha de geleia de ervilha-doce
 
 ent-FoodDonutJellyScurret = rosquinha de geleia de scurret
     .desc = Nenhuma furação nessa rosquinha, caso uma haste suspeita apareça.
+
+ent-FoodDonutPoison = rosquinha rosa
+    .desc = Combina muito bem com um latte de soja.
+

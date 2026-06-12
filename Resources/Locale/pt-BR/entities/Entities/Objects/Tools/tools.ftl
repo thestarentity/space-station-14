@@ -36,3 +36,7 @@ ent-Shovel = pá
 
 ent-RollingPin = rolo de massa
     .desc = Uma ferramenta usada para modelar e amassar a massa.
+
+ent-RCDEmpty = RCD
+    .desc = O dispositivo de construção rápida pode ser usado para colocar e remover rapidamente várias estruturas e acessórios da estação. Sem matéria comprimida.
+

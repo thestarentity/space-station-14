@@ -56,7 +56,6 @@ ent-MobKangaroo = canguru
     .desc = Um grande marsupial herbívoro. Ele possui pernas traseiras poderosas, com unhas que se assemelham a garras longas.
 
 ent-MobBoxingKangaroo = canguru boxeador
-
     .desc = Um grande herbívoro marsupial. Ele possui pernas traseiras poderosas, com unhas que se assemelham a garras longas.
 ent-MobMonkey = macaco
     .desc = A nova igreja dos neodarwinistas acredita realmente que TODO animal evoluiu de um macaco. Tem sabor de porco, e matá-los é tanto divertido quanto relaxante.
@@ -160,7 +159,6 @@ ent-MobReindeerBuck = rena macho
     .desc = Você acha que ele pode puxar um trenó?
 
 ent-MobReindeerDoe = rena fêmea
-
     .desc = Você acha que ele pode puxar um trenó?
 ent-MobCorgiSmart = corgi inteligente
     .desc = Um cão particularmente inteligente.

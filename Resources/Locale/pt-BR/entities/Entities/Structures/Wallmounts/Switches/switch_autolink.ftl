@@ -1,15 +1,10 @@
 ent-SignalButtonExt1 = botão exterior 1
-
     .desc = É um botão para ativar algo.
 ent-SignalButtonExt2 = botão exterior 2
-
     .desc = É um botão para ativar algo.
 ent-SignalButtonExt3 = botão exterior 3
-
     .desc = É um botão para ativar algo.
 ent-SignalButtonBridge = botão das janelas da ponte
-
     .desc = É um botão para ativar algo.
 ent-SignalButtonWindows = botão das janelas externas
-
     .desc = É um botão para ativar algo.

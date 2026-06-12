@@ -1,44 +1,31 @@
 ent-BaseBulletPractice = prática de tiro com balas básicas
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BaseBulletIncendiary = balas de fogo base
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BaseBulletAP = munição perfurante
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BaseBulletUranium = bala de urânio base
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletTaser = descarga de taser
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletTaserSuper = descarga de taser
     .desc = Se você consegue ver isso, provavelmente foi atingido por um stun-meta.
 
 ent-BulletDisabler = projétil desativador
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletDisablerPractice = projétil desativador de treino
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-EmitterBolt = projétil do emissor
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-WatcherBolt = projétil do observador
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BoltTempgunCold = projétil congelante
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-WatcherBoltMagmawing = projétil do observador de magma
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BoltTempgunHot = projétil quente
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BasiliskRay = raio basilisco
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletKinetic = projétil cinético
     .desc = Não está tão ruim, mas você ainda não quer ser atingido por ele.
@@ -47,100 +34,70 @@ ent-BulletCharge = raio de carga
     .desc = Marca um alvo para sofrer mais dano.
 
 ent-BulletChargeGlaive = disparo de sugador
-
     .desc = Marca um alvo para receber dano adicional.
 ent-AnomalousParticleDelta = partículas delta
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-AnomalousParticleEpsilon = partículas epsilon
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-AnomalousParticleZeta = partículas zeta
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-AnomalousParticleOmegaStrong = partículas ômega
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-AnomalousParticleSigma = partículas sigma
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-AnomalousParticleSigmaStrong = partículas sigma
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletRocket = foguete
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletWeakRocket = foguete fraco
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeBaton = granada de bastão
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeBlast = granada de explosão
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeFlash = granada de flash
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeFrag = granada de fragmentação
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeCleanade = granada de limpeza
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletGrenadeEMP = Rocha de EMP
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletCap = bala de espoleta
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletAcid = saliva ácida
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletWaterShot = água
 
 ent-BulletHivebot = balas de hivobot
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletCannonBall = bala de canhão
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-GrapplingHook = gancho de agarrar
 
 ent-StickyHandPalm = mão adesiva
 
 ent-BulletDisablerSmg = projétil desativador de SMG
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletEnergyTurretBase = projétil de energia
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletEnergyTurretLaser = projétil laser
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletEnergyTurretDisabler = projétil desativador da torre
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-TeslaGunBullet = raio da arma de tesla
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletLaser = projétil laser
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletLaserSpread = barragem de laser ampla
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletLaserSpreadNarrow = barragem letal de laser
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletDisablerSmgSpread = desativando barragem de laser
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletLaserMagnum = projétil laser de revólver
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-BulletLaserWindowPiercingMagnum = projétil laser perfurante de revólver
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-EnergyCrossbowBolt = virote de energia
     .desc = Isso vai doer.

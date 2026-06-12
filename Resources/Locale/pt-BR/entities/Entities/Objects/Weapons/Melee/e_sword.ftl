@@ -24,3 +24,7 @@ ent-CyborgEnergySword = espada de energia (cyborg)
 
 ent-CyborgEnergySwordDouble = espada de energia de dupla lâmina (cyborg)
     .desc = Os estagiários de Comando do Sindicato acharam que ter uma lâmina na espada de energia não era suficiente. Especialmente projetada para cyborgs do Sindicato.
+
+ent-EnergyDaggerLoudBlue = adaga de energia (exposta azul)
+    .desc = Uma faca não tão silenciosa com um feixe azul feito de plasma puro e concentrado. Esta não possui nenhum disfarce.
+

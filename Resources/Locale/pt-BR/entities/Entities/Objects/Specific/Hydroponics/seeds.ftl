@@ -163,3 +163,7 @@ ent-CherrySeeds = pacote de sementes de cereja
 ent-AnomalyBerrySeeds = pacote de sementes de amoras anômalas
 
 ent-BloonionSeeds = pacote de sementes de bloonion
+
+ent-FakeCapfruitSeeds = pacote de sementes de capfruit
+    .desc = É real, ou é falso?
+

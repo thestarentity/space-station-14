@@ -38,50 +38,36 @@ ent-SodiumLightTube = tubo de luz de sódio
     .desc = Uma lâmpada de alta potência e alta energia para as profundezas do espaço. Salgada.
 
 ent-LightTubeCrystalCyan = tubo de luz cristal ciano
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalBlue = tubo de luz cristal azul
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalYellow = tubo de luz cristal amarelo
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalPink = tubo de luz de cristal rosa
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalOrange = tubo de luz cristal laranja
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalBlack = tubo de luz de cristal preto
     .desc = Uma lâmpada de alta potência e alta energia que possui um pequeno cristal colorido dentro. Ela não é muito brilhante.
 
 ent-LightTubeCrystalRed = tubo de luz de cristal vermelho
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightTubeCrystalGreen = tubo de luz cristal verde
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalCyan = lâmpada de cristal ciano
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalBlue = Lâmpada de cristal azul
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalYellow = lâmpada de cristal amarela
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalPink = lâmpada de cristal rosa
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalOrange = lâmpada de cristal laranja
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalBlack = lâmpada de cristal preto
     .desc = Uma lâmpada de alta potência e alta energia que possui um pequeno cristal colorido dentro. Ela não é muito brilhante.
 
 ent-LightBulbCrystalRed = lâmpada de cristal vermelho
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.
 ent-LightBulbCrystalGreen = lâmpada de cristal verde
-
     .desc = Uma lâmpada de alta potência e alta energia que possui um cristal colorido pequeno dentro.

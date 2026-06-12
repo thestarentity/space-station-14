@@ -1,56 +1,38 @@
 ent-AltarNanotrasen = altar da Nanotrasen
-
     .desc = Altar dos Deuses.
 ent-AltarChaos = altar do caos
-
     .desc = Altar dos Deuses.
 ent-AltarDruid = altar do druida
-
     .desc = Altar dos Deuses.
 ent-AltarToolbox = altar da ferramenta
-
     .desc = Altar dos Deuses.
 ent-AltarSpaceChristian = altar cristão espacial
-
     .desc = Altar dos Deuses.
 ent-AltarSatana = altar satânico
-
     .desc = Altar dos Deuses.
 ent-AltarTechnology = altar de tecnologia
-
     .desc = Altar dos Deuses.
 ent-AltarConvertFestival = altar do festival
-
     .desc = Altar dos Deuses.
 ent-AltarConvertMaint = manutenção do altar
-
     .desc = Altar dos Deuses.
 ent-AltarConvertBlue = altar azul
-
     .desc = Altar dos Deuses.
 ent-AltarConvertBurden = altar da carga
-
     .desc = Altar dos Deuses.
 ent-AltarConvert = converte altar
-
     .desc = Altar dos Deuses.
 ent-AltarConvertOrange = altar laranja
-
     .desc = Altar dos Deuses.
 ent-AltarConvertRed = altar vermelho
-
     .desc = Altar dos Deuses.
 ent-AltarConvertWhite = altar branco
-
     .desc = Altar dos Deuses.
 ent-AltarConvertYellow = altar amarelo
-
     .desc = Altar dos Deuses.
 ent-AltarHeaven = altar do céu
-
     .desc = Altar dos Deuses.
 ent-AltarFangs = altar com presas
-
     .desc = Altar dos Deuses.
 ent-AltarBananium = altar da honkmãe
     .desc = Um altar de bananium dedicado à honkmother.

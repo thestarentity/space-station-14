@@ -33,3 +33,16 @@ ent-ClosetBluespace = armário suspeito
 
 ent-ClosetBluespaceUnstable = armário suspeito
     .desc = É uma unidade de armazenamento... certo?
+
+ent-ClosetL3Janitor = armário de equipamentos de biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+
+ent-ClosetL3Science = armário de equipamentos de biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+
+ent-ClosetL3Security = armário de equipamentos de biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+
+ent-ClosetL3Virology = armário de equipamentos de biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de nível 3 de biohazards.
+

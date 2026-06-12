@@ -2,7 +2,6 @@ ent-MopBucket = balde de vassoura
     .desc = Guarda água e as lágrimas do zelador.
 
 ent-MopBucketFull = balde de vassoura
-
     .desc = Retém água e as lágrimas do porteiro.
 ent-MopBucketCubeWrapped = balde de esfregão envolto em cubo
     .desc = Desembrulhe isso para obter um cubo de balde de vassoura.

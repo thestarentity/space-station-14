@@ -7,25 +7,19 @@ ent-OfficeChairBase = cadeira de escritório
 ent-StoolBase = banco
 
 ent-Chair = cadeira
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairGreyscale = cadeira
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-Stool = banco
     .desc = Acomode o traseiro.
 
 ent-StoolBar = cadeira de bar
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairBrass = cadeira de bronze
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairOfficeLight = cadeira de escritório branca
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairOfficeDark = cadeira de escritório escura
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ComfyChair = cadeira confortável
     .desc = Parece confortável.
@@ -34,7 +28,6 @@ ent-ChairPilotSeat = cadeira do piloto
     .desc = O assento do piloto de um navio prestigiado.
 
 ent-ChairWood = cadeira de madeira
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-ChairRitual = cadeira ritualística
     .desc = Parece desconfortável.
@@ -61,7 +54,6 @@ ent-WoodenBench = banco de madeira
     .desc = Você pegou um pregador? Bem, pelo menos é ecológico.
 
 ent-ChairXeno = cadeira xenon
-
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-SeatBase = assento
     .desc = Você se senta aqui. Por vontade própria ou à força.

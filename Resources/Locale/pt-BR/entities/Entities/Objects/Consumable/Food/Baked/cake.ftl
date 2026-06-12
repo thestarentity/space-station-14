@@ -8,7 +8,6 @@ ent-FoodCakePlain = bolo
     .desc = Um bolo simples, nada de mentiras.
 
 ent-FoodCakePlainSlice = fatia de bolo
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeCarrot = bolo de cenoura
     .desc = Um doce favorito de um certo coelho travesso.
@@ -32,19 +31,16 @@ ent-FoodCakeOrange = bolo laranja
     .desc = Um bolo com laranja adicionada.
 
 ent-FoodCakeOrangeSlice = fatia de bolo laranja
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeLime = bolo de lima
     .desc = Um bolo com lima adicionada.
 
 ent-FoodCakeLimeSlice = fatia de bolo de lima
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeLemon = bolo de limão
     .desc = Um bolo com limão adicionado.
 
 ent-FoodCakeLemonSlice = fatia de bolo de limão
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeLemoon = bolo Lemoon
     .desc = Um bolo que representa a lua da terra.
@@ -56,7 +52,6 @@ ent-FoodCakeChocolate = bolo de chocolate
     .desc = Um bolo com chocolate adicionado.
 
 ent-FoodCakeChocolateSlice = fatia de bolo de chocolate
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeApple = bolo de maçã
     .desc = Um bolo com uma maçã no centro.
@@ -80,7 +75,6 @@ ent-FoodCakeChristmas = bolo de natal
     .desc = Um bolo feito de natal.
 
 ent-FoodCakeChristmasSlice = fatia de bolo de natal
-
     .desc = Só um pedaço de bolo, é suficiente para todos.
 ent-FoodCakeBirthday = bolo de aniversário
     .desc = Feliz aniversário, palhaço...

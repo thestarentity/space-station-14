@@ -218,3 +218,7 @@ ent-ClothingUniformJumpsuitCasualGreen = roupa casual verde
     .desc = Uma camisa verde solta usada com calças cinzas, perfeita para alguém que quer relaxar.
 ent-ClothingUniformJumpsuitFamilyGuy = roupa familiar
     .desc = Lembra você do tempo em que fez algo engraçado.
+
+ent-ClothingUniformJumpsuitJesterAlt = traje do bobo da corte
+    .desc = Um traje alegre, bem adequado para entreter seu senhor.
+

@@ -29,7 +29,6 @@ ent-DrinkCartonOatMilk = leite de aveia
     .desc = É leite de aveia. Ton e nutrientes!
 
 ent-DrinkOatMilkCarton = leite de aveia
-
     .desc = É leite de aveia. Tonificante e nutritivo!
 ent-DrinkJuiceLimeCartonXL = suco de lima XL
     .desc = Bom sabor doce e azedo.
@@ -39,3 +38,13 @@ ent-DrinkJuiceOrangeCartonXL = suco de laranja XL
 
 ent-DrinkCreamCartonXL = caixão de creme XL
     .desc = É creme. Feito de leite. O que mais você achou que encontraria ali?
+
+ent-DrinkJuiceLimeCarton = suco de lima
+    .desc = Bom sabor doce e azedo.
+
+ent-DrinkJuiceOrangeCarton = suco de laranja
+    .desc = Cheio de vitaminas e delicioso!
+
+ent-DrinkJuiceTomatoCarton = suco de tomate
+    .desc = Bem, pelo menos PARECE suco de tomate. Você não consegue dizer com todo aquele vermelho.
+

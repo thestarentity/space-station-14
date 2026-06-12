@@ -29,7 +29,6 @@ ent-WeaponShotgunImprovised = espingarda improvisada
     .desc = Uma escopeta feita à mão, de baixa qualidade, que usa cartuchos de escopeta .50. Só pode conter uma munição no tambor.
 
 ent-WeaponShotgunImprovisedLoaded = espingarda improvisada (carregada)
-
     .desc = Uma escopeta feita à mão e de baixa qualidade que utiliza cartuchos de escopeta .50. Só pode conter uma munição no tambor.
 ent-WeaponShotgunHushpup = Hushpup
     .desc = Uma modificação obscura do Enforcer, equipada com um silenciador experimental. Ideal para aqueles com um código moral rigoroso. Utiliza cartuchos de escopeta .50.

@@ -41,7 +41,6 @@ ent-MobPossumMorty = Morty
     .desc = O morcego residente da estação. Um cara sensível, mas resiliente.
 
 ent-MobPossumMortyOld = Morty
-
     .desc = O residente da estação Didelphis virginiana. Um cara sensível, mas resiliente.
 ent-MobPossumPoppy = Papoula
     .desc = É um possum, um pequeno marsupial que se alimenta de lixo. Ele está usando equipamento de proteção pessoal apropriado.

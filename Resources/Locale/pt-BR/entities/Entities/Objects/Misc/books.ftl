@@ -40,3 +40,7 @@ ent-BookAtmosVentsMore = Guia de Newton sobre Atmos: Válvulas e Mais
     .desc = Há anotações ilegíveis infinitas rabiscadas nas margens. A maioria do texto está coberta por questionamentos manuscritos.
 ent-BookRandom = livro aleatório
     .desc = Cada livro é único! O que está escondido neste?
+
+ent-BookRandomStory = livro
+    .desc = Cada livro é único! O que estará escondido neste?
+

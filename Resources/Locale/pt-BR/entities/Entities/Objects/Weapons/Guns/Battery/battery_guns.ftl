@@ -71,6 +71,5 @@ ent-WeaponTemperatureGun = canhão de temperatura
     .desc = Uma arma avançada que dispara feixes que alteram a temperatura corporal. Provavelmente constitui algum tipo de crime de guerra.
 
 ent-WeaponLaserGunXenoborg = arma laser xenoborg
-
     .desc = Uma pistola laser de alta energia experimental com bateria nuclear auto-recarregável.
 ent-WeaponLaserCannonXenoborg = canhão laser xenoborg

@@ -23,7 +23,6 @@ ent-ClosetWallGreen = armário de parede verde
     .desc = Um armário repleto de roupas elegantes de cor verde.
 
 ent-ClosetWallOrange = armário de parede da cela
-
     .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-ClosetWallYellow = armário na parede amarela
     .desc = Um armário repleto de roupas elegantes de cor amarela.
@@ -38,10 +37,8 @@ ent-ClosetWallMixed = armário de parede mista
     .desc = Um armário repleto de uma mistura de roupas coloridas.
 
 ent-ClosetWallAtmospherics = armário de paredes atmosféricas
-
     .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-LockerWallMedical = armário de parede médico
-
     .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
 ent-LockerWallEvacRepair = armário de parede de reparo de emergência
     .desc = É emergência do começo ao fim.
@@ -51,3 +48,25 @@ ent-LockerWallBasePrisoner = closete de cela de preso
 
 ent-LockerWallSyndicate = armário de parede vermelho-sangue
     .desc = É uma unidade de armazenamento de parede com um design vermelho-sangue.
+
+ent-LockerWallPrisoner2 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner3 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner4 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner5 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner6 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner7 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerWallPrisoner8 = closete de cela de preso
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+

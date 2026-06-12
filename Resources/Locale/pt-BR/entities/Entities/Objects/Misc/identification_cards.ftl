@@ -198,3 +198,7 @@ ent-NukieAgentIDCard = cartão de identificação de agente nukies
 
 ent-IDCardStandard = cartão de identidade padrão
     .desc = Um cartão necessário para acessar diversas áreas a bordo da estação.
+
+ent-AgentIDCard = cartão de identificação
+    .desc = Um cartão necessário para acessar várias áreas a bordo da estação.
+

@@ -30,3 +30,28 @@ ent-PowerCageMedium = gaiola de energia de capacidade média
 
 ent-PowerCageHigh = gaiola de energia de alta capacidade
     .desc = Uma gaiola de energia recarregável para dispositivos grandes. Capacidade aumentada para níveis de energia elevados.
+
+ent-PowerCellSmallPrinted = célula de energia de pequena capacidade
+    .desc = Uma célula de energia recarregável. Este é o tipo mais barato que você pode encontrar.
+
+ent-PowerCellMediumPrinted = célula de energia de capacidade média
+    .desc = Uma célula de energia recarregável. Esta é a versão popular e confiável.
+
+ent-PowerCellHighPrinted = célula de energia de alta capacidade
+    .desc = Uma célula de energia recarregável e padronizada. Armazena até 50% mais energia do que a concorrência.
+
+ent-PowerCellHyperPrinted = célula de energia de capacidade máxima
+    .desc = Uma célula de energia recarregável e padronizada. Oferece 66% mais capacidade que seu predecessor.
+
+ent-PowerCellMicroreactorPrinted = célula de energia do microreator
+    .desc = Uma célula de microreator padrão recarregável. Possui menor capacidade, mas se recarrega lentamente por si só.
+
+ent-PowerCageSmallEmpty = gaiola de energia de pequena capacidade
+    .desc = Uma gaiola de energia recarregável para dispositivos grandes. Este é o tipo mais barato que você pode encontrar.
+
+ent-PowerCageMediumEmpty = gaiola de energia de capacidade média
+    .desc = Uma gaiola de energia recarregável para dispositivos grandes. O padrão de capacidade e custo.
+
+ent-PowerCageHighEmpty = gaiola de energia de alta capacidade
+    .desc = Uma gaiola de energia recarregável para dispositivos grandes. Capacidade aumentada para níveis de energia elevados.
+

@@ -13,3 +13,7 @@ ent-ReinforcementRadioSyndicateSyndiCat = rádio de reforço do sindicato
 ent-ReinforcementRadioSyndicateCyborgAssault = rádio de reforço de ciborgues de assalto do sindicato
     .desc = Chame um ciborgue de assalto bem armado instantaneamente!
 
+
+ent-ReinforcementRadioSyndicateAncestorNukeops = rádio de reforço de operativo nuclear ancestral
+    .desc = Chama um ancestral especialmente treinado para operações nucleares.
+

@@ -9,3 +9,7 @@ ent-FireballSpellbook = livro de feitiços de bola de fogo
 ent-ScrollRunes = pergaminho de runas
 ent-WizardsGrimoireDebug = grimoire do feiticeiro (debug)
     .desc = Um livro pesado contendo fórmulas arcanas complicadas para preparar feitiços e conjurar equipamentos sobrenaturais. Alguém escreveu "APENAS PARA USO EXPERIMENTAL" na capa interna.
+
+ent-WizardsGrimoireNoRefund = grimoire do feiticeiro (sem reembolso)
+    .desc = Um livro pesado contendo fórmulas arcanas complexas para preparar feitiços e conjurar equipamentos sobrenaturais. Cuidado: não reembolsável.
+

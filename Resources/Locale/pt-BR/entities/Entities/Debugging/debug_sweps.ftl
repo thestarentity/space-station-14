@@ -9,7 +9,6 @@ ent-WeaponPistolDebug = tiro, dedo
 ent-MagazinePistolDebug = bang, ded mag
 
 ent-BulletDebug = tiro de dedo, tiro de dedo
-
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-CartridgeDebug = bang, ded cartucho
 

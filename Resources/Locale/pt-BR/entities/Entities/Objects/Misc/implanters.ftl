@@ -2,65 +2,44 @@ ent-Implanter = extrator de implante
     .desc = Uma seringa de dupla finalidade projetada para a remoção de implantes subdérmicos específicos. Uma vez que um implante é extraído, ele é armazenado dentro e pode ser re-administrado novamente. AVISO: Erros operacionais, como selecionar um tipo de implante que não está presente, causam graves traumas genéticos ao operador.
 
 ent-SadTromboneImplanter = implantador de trombone triste
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-LightImplanter = implantador de luz
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-BikeHornImplanter = implantador de campainha de bicicleta
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-TrackingImplanter = implantador de rastreamento
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-StorageImplanter = implantador de armazenamento
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-FreedomImplanter = implantador de liberdade
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-RadioImplanter = implantador de rádio do sindicato
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-UplinkImplanter = implantador de uplink
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-EmpImplanter = Implantador de EMP
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-ScramImplanter = implantador de embaraço
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-DnaScramblerImplanter = Implantador de DNA embaralhador
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-ChameleonControllerImplanter = implantador de controlador de camuflagem
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-VoiceMaskImplanter = implantador de máscara de identidade
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-MicroBombImplanter = implantador de bomba-mínima
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-MacroBombImplanter = implantador de bomba macro
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-DeathRattleImplanter = implantador de sussurro de morte
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-DeathAcidifierImplanter = implantador de ácido letal
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-FakeMindShieldImplanter = implantador falso de escudo mental
-
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdermais. Certifique-se de esfregar com sabão para remover o DNA residual após o uso!
 ent-MindShieldImplanter = implantador de escudo mental
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-RadioImplanterCentcomm = implantador de rádio do comandocentral
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-DeathRattleImplanterCentcomm = implantador de sussurro da morte do comandocentral
-
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.

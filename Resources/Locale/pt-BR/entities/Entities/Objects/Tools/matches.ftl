@@ -9,3 +9,7 @@ ent-GorlexMatchbox = Caixa de fósforos Gorlex
 
 ent-GorlexMatchstick = palito de fósforo
     .desc = Um fósforo de grau militar, usado para acender substâncias inflamáveis e não combatentes.
+
+ent-MatchstickSpent = palito de fósforo
+    .desc = Um simples palito de fósforo, usado para acender substâncias inflamáveis finas.
+

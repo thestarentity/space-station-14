@@ -37,3 +37,19 @@ ent-MaterialGunpowder = pólvora
 
 ent-MaterialGoliathHide = placas de pele de goliath
     .desc = Peças da pele rochosa de um goliath, estas podem tornar seu traje um pouco mais durável para se defender da fauna local.
+
+ent-MaterialGoliathHide1 = placas de pele de goliath
+    .desc = Peças da pele rochosa de um goliath, estas podem tornar seu traje um pouco mais durável para se defender da fauna local.
+
+ent-MaterialToothSpaceCarp1 = dente de carpa espacial
+    .desc = Muito pequeno, mas bastante perigoso. Você prefere quando eles não estão se enfiando em você.
+
+ent-MaterialToothSharkminnow1 = dente de sharkminnow
+    .desc = Parece afiado. Afiado o suficiente para furar um olho de alguém. Merda, é gigante.
+
+ent-MaterialWebSilk1 = seda
+    .desc = Um material em forma de teia.
+
+ent-MaterialWebSilk25 = seda
+    .desc = Um material em forma de teia.
+

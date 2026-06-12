@@ -18,5 +18,4 @@ ent-SyndicateSpongeBox = caixa de cubo de macaco
 
 ent-SyndicateSpongeWrapped = cubo de macaco
 
-
     .desc = Desembrulhe isso para obter um cubo de macaco.

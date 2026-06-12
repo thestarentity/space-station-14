@@ -11,7 +11,6 @@ ent-WardrobeGreen = guarda-roupa verde
     .desc = Um armário repleto de roupas elegantes de cor verde.
 
 ent-WardrobePrison = guarda-roupa da prisão
-
     .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeYellow = guarda-roupa amarelo
     .desc = Um armário repleto de roupas elegantes de cor amarela.
@@ -26,10 +25,8 @@ ent-WardrobeMixed = guarda-roupa sortido
     .desc = Um armário repleto de uma mistura de roupas coloridas.
 
 ent-WardrobeSecurity = guarda-roupa de segurança
-
     .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeAtmospherics = guarda-roupa atmosférico
-
     .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-ClosetJanitor = armário do zelador
     .desc = É um armário para roupas e equipamentos do zelador.
@@ -47,34 +44,25 @@ ent-ClosetLegal = armário jurídico
     .desc = É um armário para guardar roupas e itens usados em tribunais.
 
 ent-WardrobeCargo = guarda-roupa de carga
-
     .desc = É uma unidade de armazenamento para roupas padrão da Nanotrasen.
 ent-WardrobeSalvage = guarda-roupa de resgate
     .desc = Notavelmente não resgatado.
 
 ent-WardrobeEngineering = guarda-roupa de engenharia
-
     .desc = Um armário cheio de roupas amarelas elegantes.
 ent-WardrobeMedicalDoctor = guarda-roupa do médico
-
     .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeRobotics = guarda-roupa de robótica
-
     .desc = Um armário cheio de roupas pretas elegantes.
 ent-WardrobeChemistry = guarda-roupa de química
-
     .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeGenetics = guarda-roupa de genética
-
     .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeVirology = guarda-roupa de virologia
-
     .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeScience = guarda-roupa de ciências
-
     .desc = Um armário cheio de roupas brancas elegantes.
 ent-WardrobeBotanist = guarda-roupa do botanista
-
     .desc = Um armário repleto de roupas verdes elegantes.
 ent-WardrobeBase = roupeiro
     .desc = É uma unidade de armazenamento para uniformes padrão da Nanotrasen.
