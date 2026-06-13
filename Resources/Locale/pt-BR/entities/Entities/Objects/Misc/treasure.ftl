@@ -19,3 +19,16 @@ ent-TreasureSampleTube = tubo de amostra
 ent-TreasureCoinIron = moeda de ferro
     .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.
 
+
+
+ent-TreasureCoinAdamantine = moeda de ferro
+    .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.
+
+ent-TreasureCoinDiamond = moeda de ferro
+    .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.
+
+ent-TreasureCoinGold = moeda de ferro
+    .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.
+
+ent-TreasureCoinSilver = moeda de ferro
+    .desc = Um pedaço plano de metal. Se ainda estivesse em circulação, a inflação teria feito dele algo inútil. Como não está, ele tem valor suficiente para ser guardado em um livro.

@@ -102,3 +102,7 @@ ent-FoodBakedGrilledCheeseSandwich = sanduíche de queijo grelhado
 
 ent-FoodBakedGrilledCheeseSandwichCotton = sanduíche de queijo grelhado de algodão
     .desc = Pão de algodão levemente queimado em manteiga, com queijo derretido. As mariposas têm dificuldade em resistir a essa combinação.
+
+
+ent-WeaponCroissant = croissant
+    .desc = Bom sabor crocante e recheado com manteiga.

@@ -138,3 +138,7 @@ ent-ToyAmongPequeno = entre pequeno
 
 
 
+
+
+ent-PlushieLizardMirrored = brinquedo de lagarto
+    .desc = Um brinquedo de pelúcia adorável que se parece com uma pessoa-reptil. Feito pelo Comando Central como uma iniciativa simbólica para combater o especismo no ambiente de trabalho. "Bem-vindo seus novos colegas como você faz com este brinquedo, com braços abertos!"

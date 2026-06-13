@@ -57,3 +57,7 @@ ent-ChairXeno = cadeira xenon
     .desc = Você senta nisso. Ou por vontade ou por força.
 ent-SeatBase = assento
     .desc = Você se senta aqui. Por vontade própria ou à força.
+
+
+ent-ChairFoldingSpawnFolded = cadeira dobrável
+    .desc = Se você carregar seis desses, você se torna o garoto mais legal da igreja.

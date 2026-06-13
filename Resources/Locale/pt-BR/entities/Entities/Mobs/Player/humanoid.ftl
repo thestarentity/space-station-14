@@ -35,3 +35,16 @@ ent-RandomHumanoidSpawnerSyndicateAgent = agente do sindicato
 ent-RandomHumanoidSpawnerNukeOp = Operativo Nuclear
 
 ent-RandomHumanoidSpawnerCluwne = Palhaço
+
+
+ent-RandomHumanoidSpawnerERTEngineerArmed = Engenheiro ERT
+
+ent-RandomHumanoidSpawnerERTEngineerEVA = Engenheiro ERT
+
+ent-RandomHumanoidSpawnerERTJanitorEVA = Zelador ERT
+
+ent-RandomHumanoidSpawnerERTLeaderArmed = Líder da ERT
+
+ent-RandomHumanoidSpawnerERTMedicalArmed = Médico da ERT
+
+ent-RandomHumanoidSpawnerERTMedicalEVA = Médico da ERT

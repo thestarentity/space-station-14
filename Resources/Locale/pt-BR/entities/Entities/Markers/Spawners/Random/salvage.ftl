@@ -17,3 +17,6 @@ ent-SpawnMobCobraSalvage = Coletor de Cobras Espaciais
 ent-SalvageFleshSpawner = Gerador de Carne de Resgate
 
 ent-SalvageLivingLightSpawner = Gerador de Luz Viva de Recuperação
+
+
+ent-SalvageMobSpawner75 = Gerador de Criaturas para Recuperação

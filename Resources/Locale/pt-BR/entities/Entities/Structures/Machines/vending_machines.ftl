@@ -133,3 +133,22 @@ ent-VendingMachineWallmount = máquina de venda (parede)
 
 ent-VendingMachine = máquina de venda
     .desc = Apenas adicione capitalismo!
+
+
+ent-VendingMachineColaBlack = Bebidas Suaves Robustas
+    .desc = Um vendedor de refrigerantes fornecido pela Robust Industries, LLC.
+
+ent-VendingMachineSnackBlue = Getmore Chocolate Corp
+    .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, baseada em Marte.
+
+ent-VendingMachineSnackGreen = Getmore Chocolate Corp
+    .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, baseada em Marte.
+
+ent-VendingMachineSnackOrange = Getmore Chocolate Corp
+    .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, baseada em Marte.
+
+ent-VendingMachineSnackTeal = Getmore Chocolate Corp
+    .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, baseada em Marte.
+
+ent-VendingMachineSoda = Bebidas Suaves Robustas
+    .desc = Um vendedor de refrigerantes fornecido pela Robust Industries, LLC.

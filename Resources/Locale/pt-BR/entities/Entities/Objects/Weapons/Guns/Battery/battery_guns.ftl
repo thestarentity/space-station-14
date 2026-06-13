@@ -76,3 +76,13 @@ ent-WeaponTemperatureGun = canhão de temperatura
 ent-WeaponLaserGunXenoborg = arma laser xenoborg
     .desc = Uma pistola laser de alta energia experimental com bateria nuclear auto-recarregável.
 ent-WeaponLaserCannonXenoborg = canhão laser xenoborg
+
+
+ent-BorgDisabler = desativador
+    .desc = Uma arma de autodefesa que esgota alvos orgânicos, enfraquecendo-os até que desmaiem.
+
+ent-BorgLaserGun = blaster laser retrô
+    .desc = Uma arma que usa luz amplificada pela emissão estimulada de radiação.
+
+ent-WeaponPistolCHIMPUpgraded = pistola C.H.I.M.P.
+    .desc = Só porque é um pequeno C.H.I.M.P. não significa que não possa socar como um A.P.E.

@@ -3,3 +3,7 @@ ent-AmeController = Controlador AME
 
 ent-AmeShielding = Escudo AME
     .desc = Mantém a antimateria dentro e a matéria fora.
+
+
+ent-AmeControllerUnanchored = Controlador AME
+    .desc = É um controlador para o motor de antimateria.

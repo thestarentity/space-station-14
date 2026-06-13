@@ -45,3 +45,10 @@ ent-PaperAcquisitionSlipSecurity = formulário de aquisição de segurança
 ent-PaperAcquisitionSlipService = formulário de aquisição de serviço
     .desc = Um formulário padrão de requisição. Preencha e apresente ao departamento responsável.
 
+
+
+ent-NukeCodePaperStation = códigos de autenticação nuclear
+    .desc = Um pedaço de papel branco.
+
+ent-PaperWritten = papel
+    .desc = Um pedaço de papel branco.

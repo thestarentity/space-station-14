@@ -196,3 +196,31 @@ ent-WallRockAndesiteArtifactFragment = parede rochosa de andesito com fragmento 
     .desc = Uma parede de rocha. O que é aquilo que está saindo dela?
 ent-WallRockAndesiteSalt = parede rochosa de andesito com sal
     .desc = Veio de minério rico em sal.
+
+
+ent-AsteroidRockBananiumCrab = rocha de asteroide com bananium
+    .desc = Uma veia mineral rica em banânio.
+
+ent-AsteroidRockCoalCrab = rocha de asteroide com carvão
+    .desc = Um veio de minério rico em carvão.
+
+ent-AsteroidRockGibtonite = pedra de asteroide
+    .desc = Um asteroide rochoso.
+
+ent-AsteroidRockGoldCrab = rocha de asteroide com ouro
+    .desc = Um veio de minério rico em ouro.
+
+ent-AsteroidRockQuartzCrab = rocha de asteroide com quartzo
+    .desc = Uma veia mineral rica em quartzo.
+
+ent-AsteroidRockSilverCrab = rocha de asteroide com prata
+    .desc = Um veio de minério rico em prata.
+
+ent-AsteroidRockTinCrab = rocha de asteroide com estanho
+    .desc = Um veio de minério rico em ferro.
+
+ent-AsteroidRockUraniumCrab = rocha de asteroide com urânio
+    .desc = Uma veia mineral rica em urânio.
+
+ent-IronRockGibtonite = rocha de ferro
+    .desc = Um asteroide rochoso.

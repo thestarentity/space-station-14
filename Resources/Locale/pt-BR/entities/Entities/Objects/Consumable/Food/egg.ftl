@@ -5,3 +5,8 @@ ent-FoodEgg = ovo
 
 ent-FoodEggBoiled = ovo cozido
     .desc = Um delicioso ovo cozido.
+
+
+ent-FoodEggChickenFertilized = ovo
+
+ent-FoodEggDuckFertilized = ovo

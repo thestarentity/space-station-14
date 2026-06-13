@@ -78,3 +78,7 @@ ent-MobCrabAtmos = Tropico
 
 ent-MobPollyParrot = Polly, o papagaio
     .desc = Um especialista em teoria de quebradores quânticos
+
+
+ent-MobHamsterHamletSlippery = Hamlet
+    .desc = Um hamster irritável, fofo e peludo.

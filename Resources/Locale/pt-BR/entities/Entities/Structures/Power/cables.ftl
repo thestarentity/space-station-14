@@ -9,3 +9,13 @@ ent-CableApcExtension = Cabo de alimentação LV
 
 ent-CableDet = corda explosiva
     .desc = Spaghetti para pessoas que odeiam paredes.
+
+
+ent-CableApcExtensionUncuttable = Cabo de alimentação LV
+    .desc = Um cabo usado para conectar máquinas a um APC.
+
+ent-CableHVUncuttable = Cabo de energia HV
+    .desc = Um cabo de alta tensão laranja.
+
+ent-CableMVUncuttable = Cabo de energia MV
+    .desc = Um cabo de energia de tensão média.

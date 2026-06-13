@@ -6,3 +6,7 @@ ent-ClosetBase = armário
 
 ent-BaseWallCloset = armário de parede
     .desc = Uma unidade de armazenamento padrão da Nanotrasen, agora nas paredes.
+
+
+ent-ClosetSteelBase = armário
+    .desc = Uma unidade de armazenamento padrão da Nanotrasen.

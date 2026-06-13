@@ -7,3 +7,7 @@ ent-DebugHardBomb = bomba de depuração
 
 ent-BaseHardBomb = bomba de impacto
     .desc = Continue conversando e ninguém vai explodir.
+
+
+ent-SyndicateBombFake = bomba do sindicato
+    .desc = A bomba para operativos e agentes do Sindicato. A coisa real, sem mais treinamento, vamos lá!

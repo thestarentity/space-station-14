@@ -12,3 +12,10 @@ ent-PenHop = Caneta de tinta da HoP
     .desc = Uma caneta de tinta luxuosa para o HoP da estação.
 ent-PenWiz = caneta mágica do feiticeiro
     .desc = Uma caneta de tinta luxuosa. Parece ter um apagador mágico de cristal.
+
+
+ent-Hypopen = caneta
+    .desc = Uma caneta de tinta escura.
+
+ent-PenExploding = caneta
+    .desc = Uma caneta de tinta escura.

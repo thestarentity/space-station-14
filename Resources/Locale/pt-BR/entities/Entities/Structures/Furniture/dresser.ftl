@@ -1,2 +1,6 @@
 ent-Dresser = cômoda
     .desc = Uma cômoda de madeira que pode armazenar coisas dentro de si mesma. Ideal para roupas íntimas, e talvez os rins de alguém?...
+
+
+ent-DresserFilled = cômoda
+    .desc = Uma cômoda de madeira que pode armazenar coisas dentro de si mesma. Ideal para roupas íntimas, e talvez os rins de alguém?...

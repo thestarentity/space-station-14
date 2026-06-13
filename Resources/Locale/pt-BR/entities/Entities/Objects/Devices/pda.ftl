@@ -124,3 +124,34 @@ ent-ChameleonPDA = PDA do passageiro
     .desc = Por que não está cinza?
 ent-WizardPDA = PDA Mágico
     .desc = Você ouve sussurros leves vindo dele.
+
+
+ent-ChameleonAgentPDA = PDA do passageiro
+    .desc = Por que não está cinza?
+
+ent-DeathsquadPDA = PDA do Comando Central
+    .desc = Sinal verde-claro de burocracia andante.
+
+ent-ScurretPDA = limpar PDA
+    .desc = 99 e 44/100 por cento puro plástico.
+
+ent-VisitorChaplainPDA = PDA do Capelão
+    .desc = PDA escolhido por Deus.
+
+ent-VisitorClownPDA = PDA do Palhaço
+    .desc = A aparência pode enganar.
+
+ent-VisitorLawyerPDA = PDA do Advogado
+    .desc = Para advogados que desejam atrair clientes duvidosos.
+
+ent-VisitorLibrarianPDA = PDA da Bibliotecária
+    .desc = Cheira a livros.
+
+ent-VisitorMedicalPDA = PDA Médico
+    .desc = Brilhante e estéril.
+
+ent-VisitorMusicianPDA = PDA do músico
+    .desc = Ele te inspira.
+
+ent-VisitorPDA = limpar PDA
+    .desc = 99 e 44/100 por cento puro plástico.

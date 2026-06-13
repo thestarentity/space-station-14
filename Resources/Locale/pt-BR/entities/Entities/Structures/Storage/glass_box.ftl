@@ -6,3 +6,16 @@ ent-GlassBoxBroken = caixa de vidro quebrada
 
 ent-GlassBox = caixa de vidro
     .desc = Uma vitrine resistente para uma exposição cara.
+
+
+ent-GlassBoxLaser = caixa de vidro
+    .desc = Uma vitrine resistente para uma exposição cara.
+
+ent-GlassBoxLaserFilled = caixa de vidro
+    .desc = Uma vitrine resistente para uma exposição cara.
+
+ent-GlassBoxLaserFilledOpen = caixa de vidro
+    .desc = Uma vitrine resistente para uma exposição cara.
+
+ent-GlassBoxLaserOpen = caixa de vidro
+    .desc = Uma vitrine resistente para uma exposição cara.

@@ -17,3 +17,6 @@ ent-FoodTinMRE = carne enlatada
 
 ent-FoodTinMRETrash = carne enlatada
     .desc = Uma lata vazia. Poderia pegar um pouco de metal disso.
+
+ent-FoodTinPeachesMaintOpen = manutenção de pêssegos
+    .desc = Apenas uma linda lata de pêssegos maduros nadando em seus próprios sucos.

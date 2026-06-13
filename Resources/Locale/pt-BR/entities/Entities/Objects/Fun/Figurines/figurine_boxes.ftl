@@ -6,3 +6,7 @@ ent-MysteryFigureBox = caixa de mini-figuras de spacemen misteriosos
 
 ent-MysteryLighterBox = Caixa misteriosa de isqueiro de novidade
     .desc = Uma caixa de isqueiros promocionais descontinuados, muitos dos quais já foram declarados "contrabando".
+
+
+ent-UplinkLighterBox = Caixa misteriosa de isqueiro de novidade
+    .desc = Uma caixa de isqueiros promocionais descontinuados, muitos dos quais já foram declarados "contrabando".

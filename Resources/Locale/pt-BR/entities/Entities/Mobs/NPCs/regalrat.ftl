@@ -21,3 +21,7 @@ ent-ActionRatKingOrderCheeseEm = Queijo 'Em
 
 ent-ActionRatKingOrderLoose = Solto
     .desc = Comande seu exército para agir à sua própria vontade.
+
+
+ent-MobRatKingBuff = Rei das Ratas
+    .desc = Ele é o rato. Ele faz as regras.

@@ -38,3 +38,7 @@ ent-ClothingHeadHatHairflower = flor de cabelo
     .desc = Uma linda flor de cabelo que pode ser inserida entre os fios de cabelo.
 ent-ClothingHeadPerformerWig = peruca do performer
     .desc = Ao inspecionar mais de perto, parece que é feita de fibra óptica.
+
+
+ent-ClothingHeadHatCatEarsValid = orelhas de gato
+    .desc = NYAH!

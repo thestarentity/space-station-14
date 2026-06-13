@@ -17,3 +17,6 @@ ent-FoamedIronMetal = metal de ferro espumado
 
 ent-FoamedAluminiumMetal = metal de alumínio espumado
     .desc = Espuma residual de uma granada de espuma de alumínio. Fácil de destruir.
+
+
+ent-TearGasSmokeWhite = gás lacrimogêneo

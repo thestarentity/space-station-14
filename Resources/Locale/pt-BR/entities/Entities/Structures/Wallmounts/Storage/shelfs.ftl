@@ -30,3 +30,7 @@ ent-ShelfBase = prateleira
 
 ent-ShelfBaseReinforced = prateleira reforçada
     .desc = Parece tão sólido quanto a própria realidade.
+
+
+ent-ShelfChemistryChemistrySecure = Prateleira de Química
+    .desc = Mantém todos os seus químicos seguros e fora das mãos... públicas!

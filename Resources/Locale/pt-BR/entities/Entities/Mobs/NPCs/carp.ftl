@@ -11,3 +11,7 @@ ent-MobCarpDragon = carpa dragão
 
 ent-MobShark = tubarão
     .desc = Um perigoso tubarão vindo das trevas do espaço infinito, que adora beber sangue.
+
+
+ent-MobSharkSalvage = tubarão
+    .desc = Um perigoso tubarão vindo das trevas do espaço infinito, que adora beber sangue.

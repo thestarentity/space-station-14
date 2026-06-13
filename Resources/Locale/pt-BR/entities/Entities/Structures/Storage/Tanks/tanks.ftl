@@ -12,3 +12,10 @@ ent-WaterCooler = água gelada
 
 ent-WaterTankHighCapacity = tanque de água de alta capacidade
     .desc = Um tanque de água altamente pressurizado, feito para armazenar enormes quantidades de água.
+
+
+ent-WaterTankFull = tanque de água
+    .desc = Um tanque de água. É usado para armazenar grandes quantidades de água.
+
+ent-WeldingFuelTankFull = tanque de combustível
+    .desc = Um tanque de combustível. É usado para armazenar grandes quantidades de combustível.

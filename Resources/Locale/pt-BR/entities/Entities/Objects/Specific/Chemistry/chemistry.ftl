@@ -30,3 +30,28 @@ ent-Pill = pílula
 
 ent-PillCanister = frasco de pílulas
     .desc = Comporta até 10 pílulas.
+
+
+ent-BeakerSmallArith = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-BeakerSmallBruiz = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-BeakerSmallDiph = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-BeakerSmallLace = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-BeakerSmallPhal = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-BeakerSmallSigy = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-CryoxadoneBeakerSmall = frasco
+    .desc = Usado para conter uma quantidade moderada de químicos e soluções.
+
+ent-PillCanisterRandom = frasco de pílulas
+    .desc = Comporta até 10 pílulas.

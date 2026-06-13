@@ -16,3 +16,70 @@ ent-PoweredlightExterior = luminária exterior
     .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
 ent-PoweredlightSodium = luminária de sódio
     .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+
+ent-AlwaysPoweredLightExterior = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredLightLED = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredLightSodium = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightBlack = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightBlue = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightCyan = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightGreen = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightOrange = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightPink = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightRed = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-AlwaysPoweredlightYellow = luminária
+    .desc = Uma luz que sempre está ligada.
+
+ent-PoweredDimSmallLight = luz pequena
+    .desc = Um dispositivo de iluminação. Consome energia e produz luz quando equipado com uma lâmpada.
+
+ent-PoweredLEDSmallLight = luz pequena
+    .desc = Um dispositivo de iluminação. Consome energia e produz luz quando equipado com uma lâmpada.
+
+ent-PoweredWarmSmallLight = luz pequena
+    .desc = Um dispositivo de iluminação. Consome energia e produz luz quando equipado com uma lâmpada.
+
+ent-PoweredlightBlack = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightBlue = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightCyan = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightGreen = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightOrange = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightPink = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightRed = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+
+ent-PoweredlightYellow = luminária
+    .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.

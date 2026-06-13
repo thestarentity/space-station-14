@@ -42,3 +42,27 @@ ent-LockerBluespaceStation = armário de bluespace
 ent-LockerClown = armário do palhaço
 ent-LockerMime = armário do mímico
 ent-LockerRepresentative = armário do representante
+
+
+ent-GunSafeBaseSecure = cofre de armas
+
+ent-LockerPrisoner2 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner3 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner4 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner5 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner6 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner7 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.
+
+ent-LockerPrisoner8 = armário de presidiário
+    .desc = É um armário seguro para pertences pessoais de um preso durante o tempo em que está na prisão.

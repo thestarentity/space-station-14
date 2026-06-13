@@ -171,3 +171,7 @@ ent-ClothingHeadPropellerHat = chapéu de hélice
     .desc = Você é o melhor garoto.
 ent-ClothingHeadHatMitreClown = mitra da honkmãe
     .desc = É difícil para os fiéis verem uma casca de banana no chão quando estão olhando para cima para admirar seu glorioso chapéu.
+
+
+ent-ClothingHeadHatJesterAlt = chapéu de bobo da corte
+    .desc = Um chapéu com sinos, para adicionar um pouco de alegria à sua cabeça.

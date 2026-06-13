@@ -19,3 +19,16 @@ ent-HoloprojectorField = projetor de campo de força
 ent-HoloprojectorSecurity = projetor de barreira holográfica
     .desc = Cria uma barreira holográfica sólida, mas frágil.
 
+
+
+ent-HolofanProjectorEmpty = projetor holofan
+    .desc = Impedir passageiros suicidas de matar todos durante emergências de atmosfera.
+
+ent-HoloprojectorEmpty = projetor de sinal holográfico
+    .desc = Um projetor holográfico prático que exibe um sinal de zelador.
+
+ent-HoloprojectorFieldEmpty = projetor de campo de força
+    .desc = Cria um campo de força impenetrável que não deixa nada passar. Proximidade próxima pode ou não causar câncer.
+
+ent-HoloprojectorSecurityEmpty = projetor de barreira holográfica
+    .desc = Cria uma barreira holográfica sólida, mas frágil.

@@ -11,3 +11,11 @@ ent-BorgMegaSprayBottle = jato de spray interno
 ent-Vapor = vapor
 ent-MegaSprayBottleSpaceCleaner = mega frasco de spray limpador espacial
     .desc = Lata de limpeza espacial BLAM! sem espuma, agora em um pacote maior para aqueles grandes charcos de sangue!
+
+
+ent-BigVapor = vapor
+
+ent-FlowerVapor = vapor
+
+ent-SprayBottleSpaceCleaner = garrafa de spray
+    .desc = Uma garrafa de spray com uma tampa que pode ser destorcida.

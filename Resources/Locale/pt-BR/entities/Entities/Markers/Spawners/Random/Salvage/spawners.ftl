@@ -19,3 +19,12 @@ ent-SalvageSpawnerStructuresVarious = Gerador de Estruturas de Resíduos Espacia
 ent-SalvageSpawnerMobShark = Gerador de Salmão de Resgate
 
 ent-SalvageSpawnerMobMiningAsteroid = Gerador de Mob de Asteróide de Mineração
+
+
+ent-SalvageSpawnerMobMagnet100 = Gerador de Entidades do Ímã de Recuperação
+
+ent-SalvageSpawnerMobMagnet75 = Gerador de Entidades do Ímã de Recuperação
+
+ent-SalvageSpawnerScrapCommon75 = Gerador de Escória de Resgate
+
+ent-SalvageSpawnerScrapValuable75 = Gerador de Escória de Resgate

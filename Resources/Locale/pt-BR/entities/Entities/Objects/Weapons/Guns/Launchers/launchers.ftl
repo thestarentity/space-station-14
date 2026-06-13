@@ -32,3 +32,7 @@ ent-WeaponLauncherAdmemeMeteorLarge = lançador de meteoros
 
 ent-WeaponLauncherAdmemeImmovableRodSlow = lançador de haste imóvel
     .desc = Ele dispara hastes imóveis lentamente.
+
+
+ent-WeaponLauncherHydraLethal = Hidra
+    .desc = PLOOP... FSSSSSS...

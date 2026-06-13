@@ -33,3 +33,7 @@ ent-ClothingOuterSuitIan = traje do Ian
 
 ent-ClothingOuterSuitCarp = traje de carpa
     .desc = Um traje especial que faz você parecer exatamente com uma carpa espacial, se sua visão estiver ruim.
+
+
+ent-ClothingOuterHardsuitCarp = traje de carpa
+    .desc = Um traje especial que faz você parecer exatamente com uma carpa espacial, se sua visão estiver ruim.

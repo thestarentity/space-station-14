@@ -142,3 +142,10 @@ ent-WallIronsandCobblebrick = parede de tijolo de areia ferrosa
 
 ent-Cardwall = parede de papelão
     .desc = Os cortes no orçamento estão sendo sentidos com força.
+
+
+ent-WallReinforcedRust = parede reforçada
+    .desc = Mantém o ar dentro e o greytide fora.
+
+ent-WallSolidRust = parede sólida
+    .desc = Mantém o ar dentro e o greytide fora.

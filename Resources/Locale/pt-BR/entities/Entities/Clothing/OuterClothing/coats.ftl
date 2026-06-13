@@ -67,3 +67,7 @@ ent-ClothingOuterCoatSpaceAsshole = o casaco do trouxa do espaço
 ent-ClothingOuterCoatExpensive = casaco caro
     .desc = Casaco rosa muito fofo, feito com pelo muito caro (claro).
 ent-ClothingOuterCoatExpensiveOpened = casaco caro
+
+
+ent-ClothingOuterCoatJensenSyndie = casaco Jensen
+    .desc = Um casaco Jensen.

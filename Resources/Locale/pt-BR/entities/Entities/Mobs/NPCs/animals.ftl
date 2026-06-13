@@ -168,3 +168,31 @@ ent-MobReindeerDoe = rena fêmea
     .desc = Você acha que ele pode puxar um trenó?
 ent-MobCorgiSmart = corgi inteligente
     .desc = Um cão particularmente inteligente.
+
+
+ent-MobChicken1 = frango
+    .desc = Vem antes de um ovo, e É um dinossauro!
+
+ent-MobChicken2 = frango
+    .desc = Vem antes de um ovo, e É um dinossauro!
+
+ent-MobDionaNymphAccent = ninfas de diona
+    .desc = É como um gato, só que... mais ramificado.
+
+ent-MobKoboldSyndicateAgent = kobold do sindicato
+    .desc = Um kobold recrutado pelo Sindicato. Tão perigoso quanto parece.
+
+ent-MobKoboldSyndicateAgentNukeops = kobold do sindicato
+    .desc = Um kobold recrutado pelo Sindicato. Tão perigoso quanto parece.
+
+ent-MobMonkeySyndicateAgent = macaco
+    .desc = A nova igreja dos neodarwinistas acredita realmente que TODO animal evoluiu de um macaco. Tem sabor de porco, e matá-los é tanto divertido quanto relaxante.
+
+ent-MobMonkeySyndicateAgentNukeops = macaco
+    .desc = A nova igreja dos neodarwinistas acredita realmente que TODO animal evoluiu de um macaco. Tem sabor de porco, e matá-los é tanto divertido quanto relaxante.
+
+ent-MobMouse1 = camundongo
+    .desc = Raspar!
+
+ent-MobMouse2 = camundongo
+    .desc = Raspar!

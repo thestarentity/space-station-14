@@ -3,3 +3,7 @@ ent-GravityGenerator = gerador de gravidade
 
 ent-GravityGeneratorMini = gerador de gravidade mini
     .desc = É o que mantém você no chão, agora em tamanho divertido.
+
+
+ent-GravityGeneratorMiniUncharged = gerador de gravidade mini
+    .desc = É o que mantém você no chão, agora em tamanho divertido.

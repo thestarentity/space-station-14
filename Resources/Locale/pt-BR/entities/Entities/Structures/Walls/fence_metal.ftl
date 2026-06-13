@@ -6,3 +6,13 @@ ent-FenceMetalGate = portão de cerca de arame farpado
 
 ent-BaseFenceMetal = cerca de metal
     .desc = Uma cerca metálica que isola algo provavelmente muito importante.
+
+
+ent-FenceMetalCorner = cerca de metal
+    .desc = Uma cerca metálica que isola algo provavelmente muito importante.
+
+ent-FenceMetalEnd = cerca de metal
+    .desc = Uma cerca metálica que isola algo provavelmente muito importante.
+
+ent-FenceMetalStraight = cerca de metal
+    .desc = Uma cerca metálica que isola algo provavelmente muito importante.

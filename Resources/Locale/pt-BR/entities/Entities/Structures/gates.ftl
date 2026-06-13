@@ -15,3 +15,19 @@ ent-MemoryCell = célula de memória
 
 ent-RandomGate = porta aleatória
     .desc = Um portão lógico que emite um sinal aleatório quando a entrada muda.
+
+
+ent-LogicGateAnd = porta lógica
+    .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem alterar seu modo de operação usando uma chave de fenda.
+
+ent-LogicGateNand = porta lógica
+    .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem alterar seu modo de operação usando uma chave de fenda.
+
+ent-LogicGateNor = porta lógica
+    .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem alterar seu modo de operação usando uma chave de fenda.
+
+ent-LogicGateXnor = porta lógica
+    .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem alterar seu modo de operação usando uma chave de fenda.
+
+ent-LogicGateXor = porta lógica
+    .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem alterar seu modo de operação usando uma chave de fenda.

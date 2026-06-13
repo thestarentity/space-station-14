@@ -21,3 +21,7 @@ ent-WireBrush = escova de fio
 
 ent-WireBrushElectrical = escova de fio elétrica
     .desc = Uma escova de fio de aço com cerdas, com uma cabeça móvel, permitindo uma limpeza muito mais fácil.
+
+
+ent-WetFloorSignMineExplosive = sinal de piso molhado
+    .desc = Cuidado! Piso molhado!

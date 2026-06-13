@@ -54,3 +54,34 @@ ent-TableCounterMetal = mesa de aço
 
 ent-TableFancyBase = mesa elegante
     .desc = Caro e requintado.
+
+
+ent-TableFancyBlack = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyBlue = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyCyan = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyGreen = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyOrange = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyPink = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyPurple = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyRed = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancySkyBlue = mesa elegante
+    .desc = Caro e requintado.
+
+ent-TableFancyWhite = mesa elegante
+    .desc = Caro e requintado.

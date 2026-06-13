@@ -24,3 +24,19 @@ ent-ImmovableRodGibstick = gibstick imóvel
 
 ent-ImmovableRodWeh = vara imóvel
     .desc = WEH!
+
+
+ent-ImmovableRodDespawn = vara imóvel
+    .desc = Você consegue sentir que ele está faminto. Isso normalmente é um sinal ruim.
+
+ent-ImmovableRodKeepTiles = vara imóvel
+    .desc = Você consegue sentir que ele está faminto. Isso normalmente é um sinal ruim.
+
+ent-ImmovableRodKeepTilesStill = vara imóvel
+    .desc = Você consegue sentir que ele está faminto. Isso normalmente é um sinal ruim.
+
+ent-ImmovableRodSlow = vara imóvel
+    .desc = Você consegue sentir que ele está faminto. Isso normalmente é um sinal ruim.
+
+ent-ImmovableRodWizard = vara imóvel
+    .desc = Você consegue sentir que ele está faminto. Isso normalmente é um sinal ruim.

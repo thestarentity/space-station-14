@@ -13,3 +13,6 @@ ent-MobHumanNukeOp = Operativo Nuclear
 ent-MobHumanLoneNuclearOperative = Operativo Solitário
 
 ent-MobHumanWizard = Feiticeiro
+
+
+ent-MobHumanSyndicateAgentNukeops = agente do sindicato

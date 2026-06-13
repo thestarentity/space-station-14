@@ -88,3 +88,21 @@ ent-PillAmbuzol = pílula ambuzol
     .desc = Não é um supositório.
 ent-PillAmbuzolPlus = pílula ambuzol plus
     .desc = Não é um supositório.
+
+ent-Bloodpack1 = pacote de sangue
+    .desc = Contém uma substituição universal de sangue revolucionária criada pela avançada ciência médica da Nanotrasen.
+
+ent-Brutepack1 = pacote de trauma
+    .desc = Um frasco de gel terapêutico e bandagens projetados para tratar traumas por força bruta.
+
+ent-BrutepackAdvanced1 = costura medicada
+    .desc = Um ponto de sutura embebido em medicamento, trata efetivamente traumas por força bruta e fecha feridas.
+
+ent-Gauze1 = rolo de gaze
+    .desc = Algumas gaze estéreis para envolver amputações sangrentas.
+
+ent-Ointment1 = unguento
+    .desc = Usado para tratar aquelas horríveis queimaduras. Menos eficaz em queimaduras causadas por substâncias cáusticas.
+
+ent-OintmentAdvanced1 = malha regenerativa
+    .desc = Útil para tratar até as queimaduras mais graves. Também eficaz contra queimaduras causadas por substâncias corrosivas.

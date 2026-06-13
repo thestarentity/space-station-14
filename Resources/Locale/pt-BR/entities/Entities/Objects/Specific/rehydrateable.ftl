@@ -21,3 +21,6 @@ ent-MopBucketCube = balde de esfregão
     .desc = Só adicione água! E depois mais água!
 ent-cube = cube
     .desc = se você está lendo isso, não! reporte um bug.
+
+
+ent-SyndicateSponge = cubo de macaco

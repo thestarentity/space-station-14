@@ -25,3 +25,7 @@ ent-DisposalRouterFlipped = roteador de descarte invertido
     .desc = Um roteador de três vias. Entidades com etiquetas correspondentes são direcionadas para o lado.
 ent-DisposalJunctionFlipped = junção de descarte invertida
     .desc = Um cruzamento de três vias. A seta indica onde os itens saem.
+
+
+ent-DisposalSignalRouterFlipped = roteador de sinal de descarte
+    .desc = Um roteador de três vias controlado por sinal.

@@ -18,3 +18,7 @@ ent-FoodPlateTin = tigela de pão de ló
 
 ent-FoodPlateMuffinTin = tigela de muffin
     .desc = Um frasco de alumínio barato para bolos.
+
+
+ent-FoodPlateSmallTrash = prato quebrado
+    .desc = Um prato quebrado. Inútil.

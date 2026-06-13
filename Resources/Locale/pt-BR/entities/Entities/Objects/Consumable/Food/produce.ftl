@@ -146,3 +146,6 @@ ent-FoodAnomalyBerry = baga anômala
     .desc = Uma fruta azul estranha. Algo sobre ela não parece certo.
 ent-FoodBloonion = bulbo de bloonion
     .desc = Uma estranha bola flutuante... Nada digno de chorar.
+
+
+ent-TrashBananaPeelExplosive = casca de banana

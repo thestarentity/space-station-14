@@ -55,3 +55,31 @@ ent-MaterialWebSilk1 = seda
 ent-MaterialWebSilk25 = seda
     .desc = Um material em forma de teia.
 
+
+
+ent-MaterialBananium1 = Bananium
+
+ent-MaterialBiomass1 = biomassa
+
+ent-MaterialBones1 = ossos
+
+ent-MaterialCardboard1 = cartão de papelão
+
+ent-MaterialCardboard10 = cartão de papelão
+
+ent-MaterialCloth1 = tecido
+
+ent-MaterialCloth10 = tecido
+
+ent-MaterialCotton1 = algodão
+
+ent-MaterialDiamond1 = diamante refinado
+    .desc = Um diamante cuidadosamente lapidado. Excepcionalmente duro e valioso.
+
+ent-MaterialDurathread1 = Fio de duratejo
+
+ent-MaterialPyrotton1 = Pyrotton
+
+ent-MaterialWoodPlank1 = madeira
+
+ent-MaterialWoodPlank10 = madeira

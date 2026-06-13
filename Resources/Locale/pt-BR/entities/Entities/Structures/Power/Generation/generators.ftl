@@ -18,3 +18,13 @@ ent-BaseGenerator = gerador
 
 ent-BaseGeneratorWallmount = gerador de parede
     .desc = Um gerador termoelétrico de alta eficiência embutido em um armário de parede.
+
+
+ent-GeneratorBasic = gerador
+    .desc = Um gerador termoelétrico de alta eficiência.
+
+ent-GeneratorBasic15kW = gerador
+    .desc = Um gerador termoelétrico de alta eficiência.
+
+ent-GeneratorWallmountBasic = gerador de parede
+    .desc = Um gerador termoelétrico de alta eficiência embutido em um armário de parede.

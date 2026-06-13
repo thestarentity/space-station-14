@@ -23,3 +23,10 @@ ent-Error = Ocorreu um erro. Por favor, tente novamente mais tarde.
 
 ent-SpectralLocatorUnpowered = localizador espectral
     .desc = Parece ser um localizador de anomalias modificado. Parece muito antigo.
+
+
+ent-SnapPopExplosive = bombinha de estalo
+    .desc = Jogue-o no chão e ouça-o POP!
+
+ent-SpectralLocatorEmpty = localizador espectral
+    .desc = Parece ser um localizador de anomalias modificado. Parece muito antigo.

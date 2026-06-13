@@ -101,3 +101,13 @@ ent-BulletLaserWindowPiercingMagnum = projétil laser perfurante de revólver
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-EnergyCrossbowBolt = virote de energia
     .desc = Isso vai doer.
+
+
+ent-AnomalousParticleDeltaStrong = partículas delta
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-AnomalousParticleEpsilonStrong = partículas epsilon
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-AnomalousParticleZetaStrong = partículas zeta
+    .desc = Se você pode ver isso, provavelmente está morto!

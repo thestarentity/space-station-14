@@ -26,3 +26,22 @@ ent-GasThermoMachineHellfireHeater = aquecedor de fogo do inferno
 
 ent-BaseGasCondenser = condensador
     .desc = Condensa gases em líquidos. Agora só precisamos de alguns encanamentos.
+
+
+ent-GasThermoMachineFreezerEnabled = congelador
+    .desc = Resfria gás em tubulações conectadas.
+
+ent-GasThermoMachineHeaterEnabled = aquecedor
+    .desc = Aquece o gás em tubulações conectadas.
+
+ent-GasVentPumpFreezer = ventilador de ar
+    .desc = Tem uma válvula e uma bomba anexadas a ela.
+
+ent-GasVentPumpVox = ventilador de ar
+    .desc = Tem uma válvula e uma bomba anexadas a ela.
+
+ent-GasVentScrubberFreezer = scrubber de ar
+    .desc = Tem uma válvula e uma bomba anexadas a ela.
+
+ent-GasVentScrubberVox = scrubber de ar
+    .desc = Tem uma válvula e uma bomba anexadas a ela.

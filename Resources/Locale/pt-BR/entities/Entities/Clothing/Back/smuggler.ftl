@@ -9,3 +9,7 @@ ent-BriefcaseSmugglerCash = malas de contrabando
 ent-ClothingBackpackDuffelClownSmuggler = mochila de palhaço traficante
 
 ent-RandomSatchelSpawner = mochila de contrabando aleatória
+
+
+ent-ClothingBackpackSatchelSmugglerFilled = mochila de contrabandista
+    .desc = Uma mochila prática e suspeita. Suficientemente plana para caber sob os azulejos do chão.

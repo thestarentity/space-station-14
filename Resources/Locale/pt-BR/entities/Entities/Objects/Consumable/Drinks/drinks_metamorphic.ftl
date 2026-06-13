@@ -476,3 +476,7 @@ ent-RubberneckGlass = vidro metamórfico
 
 ent-XenoBasherGlass = vidro metamórfico
     .desc = Um vidro metamórfico que se transforma automaticamente em um copo apropriado para o drink dentro. Há um número de patente lixado no fundo.
+
+
+ent-BudgetInsulsDrinkGlass = vidro metamórfico
+    .desc = Um vidro metamórfico que se transforma automaticamente em um copo apropriado para o drink dentro. Há um número de patente lixado no fundo.

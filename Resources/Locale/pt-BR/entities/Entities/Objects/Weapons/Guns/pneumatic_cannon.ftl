@@ -9,3 +9,10 @@ ent-BorgLauncherCreamPie = barril de lançamento de torta experimental
 
 ent-LauncherSyringe = caneta de seringa
     .desc = Carregado com seringas envenenadas para o máximo de diversão.
+
+
+ent-WeaponImprovisedPneumaticCannonAdmeme = canhão pneumático improvisado
+    .desc = Feito de forma improvisada usando apenas um tubo, alguns zipties e um canhão pneumático. Não aceita tanques com pouco gás.
+
+ent-WeaponImprovisedPneumaticCannonGun = canhão pneumático improvisado
+    .desc = Feito de forma improvisada usando apenas um tubo, alguns zipties e um canhão pneumático. Não aceita tanques com pouco gás.

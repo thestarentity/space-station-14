@@ -48,3 +48,10 @@ ent-DrinkJuiceOrangeCarton = suco de laranja
 ent-DrinkJuiceTomatoCarton = suco de tomate
     .desc = Bem, pelo menos PARECE suco de tomate. Você não consegue dizer com todo aquele vermelho.
 
+
+
+ent-DrinkMilkCarton = leite
+    .desc = Um líquido branco opaco produzido pelas glândulas mamárias dos mamíferos.
+
+ent-DrinkSoyMilkCarton = leite de soja
+    .desc = Branco e nutritivo, a boa qualidade do leite de soja!

@@ -108,3 +108,7 @@ ent-FoodBreadNutriBatard = nutri-bâtard
 
 ent-FoodBreadCottonNutriBatard = nutri-bâtard de algodão
     .desc = bon 'pétite!
+
+
+ent-WeaponBaguette = baguette
+    .desc = Bom apetite!

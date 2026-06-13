@@ -19,3 +19,6 @@ ent-RedShuttleLaser = raio laser vermelho de classe shuttle
 ent-DebugLaser = raio do laser de depuração
 
 ent-DebugLaserGib = raio de gibbing de depuração
+
+
+ent-BulletBorgRifle = raio laser básico

@@ -9,3 +9,28 @@ ent-BaseFenceWood = cerca de madeira
 
 ent-BaseFenceWoodSmall = cerca de madeira pequena
     .desc = Uma cerca de madeira pequena. A melhor proteção para delimitar um território privado!
+
+
+ent-FenceWoodHighCorner = cerca de madeira
+    .desc = Uma cerca de madeira. Espero que haja o jardim da vovó atrás dela.
+
+ent-FenceWoodHighEnd = cerca de madeira
+    .desc = Uma cerca de madeira. Espero que haja o jardim da vovó atrás dela.
+
+ent-FenceWoodHighStraight = cerca de madeira
+    .desc = Uma cerca de madeira. Espero que haja o jardim da vovó atrás dela.
+
+ent-FenceWoodHighTJunction = cerca de madeira
+    .desc = Uma cerca de madeira. Espero que haja o jardim da vovó atrás dela.
+
+ent-FenceWoodSmallCorner = cerca de madeira pequena
+    .desc = Uma cerca de madeira pequena. A melhor proteção para delimitar um território privado!
+
+ent-FenceWoodSmallEnd = cerca de madeira pequena
+    .desc = Uma cerca de madeira pequena. A melhor proteção para delimitar um território privado!
+
+ent-FenceWoodSmallStraight = cerca de madeira pequena
+    .desc = Uma cerca de madeira pequena. A melhor proteção para delimitar um território privado!
+
+ent-FenceWoodSmallTJunction = cerca de madeira pequena
+    .desc = Uma cerca de madeira pequena. A melhor proteção para delimitar um território privado!

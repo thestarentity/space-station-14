@@ -77,3 +77,46 @@ ent-DrinkSakeBottleFull = pequena garrafa de sakê
 
 
 
+
+
+ent-DrinkAbsintheBottleFull = Bebida de Absinto
+    .desc = Um gole disso e você já sabe que vai ter um bom tempo.
+
+ent-DrinkBeerBottleFull = garrafa de cerveja
+    .desc = Uma bebida alcoólica feita a partir de grãos maltados, lúpulo, levedura e água.
+
+ent-DrinkBlueCuracaoBottleFull = Miss Blue Curaçao
+    .desc = Uma bebida frutada, azul excepcionalmente claro. Não permite que o bebido use a quinta magia.
+
+ent-DrinkCoffeeLiqueurBottleFull = garrafa de licor de café
+    .desc = O excelente sabor do café sem nenhum dos benefícios.
+
+ent-DrinkCognacBottleFull = garrafa de conhaque
+    .desc = Uma bebida doce e fortemente alcoólica, feita após diversas destilações e anos de amadurecimento. Nesta vez, você pode bem gritar 'SHITCURITY'.
+
+ent-DrinkGildlagerBottleFull = Garrafa de Gildlager
+    .desc = 100 proof cinnamon schnapps, feito para garotas adolescentes alcoólatras em férias de primavera.
+
+ent-DrinkGinBottleFull = Gin de Griffeater
+    .desc = Uma garrafa de gin de alta qualidade, produzido na Estação Espacial de New London.
+
+ent-DrinkPatronBottleFull = garrafa de Patrón Wrapp Artiste
+    .desc = Tequila prateada, servida em clubes noturnos espaciais ao longo da galáxia.
+
+ent-DrinkRumBottleFull = Rum cubano especiado do Capitão Pete
+    .desc = Isso não é só rum, oh não. É praticamente GRIFF em uma garrafa.
+
+ent-DrinkTequilaBottleFull = Garrafa de tequila Caccavo Garantida Qualidade
+    .desc = Feito a partir de destilados premium de petróleo, puro talidomida e outros ingredientes de excelente qualidade!
+
+ent-DrinkVermouthBottleFull = Garrafa de Vermouth Goldeneye
+    .desc = Doce, doce secura!
+
+ent-DrinkVodkaBottleFull = garrafa de vodka
+    .desc = Aah, vodka. Escolha número um para bebida E combustível pelos russos ao redor do mundo.
+
+ent-DrinkWhiskeyBottleFull = Reserva Especial do Tio Git
+    .desc = Um whiskey premium de malt único, amadurecido gentilmente nos túneis de um abrigo nuclear. REGRAS DO WHISKEY DE TÚNEL.
+
+ent-DrinkWineBottleFull = Garrafa de vinho especial de barbado de dois bigodes
+    .desc = Uma leve aura de inquietação e asspainery envolve a garrafa.

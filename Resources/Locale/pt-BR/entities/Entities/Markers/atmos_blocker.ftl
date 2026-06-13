@@ -12,3 +12,7 @@ ent-AtmosFixFreezerMarker = Marcador de Freezer de Correção de Atmosfera
     .desc = Mude a temperatura do ar para 235K, para o congelador, com um pouco de folga para conseguir se organizar.
 ent-AtmosFixAirMarker = Marcador de Ar para Correção de Atmosfera
     .desc = Oxigênio (21%) e nitrogênio (79%) @ pressão de minerador de gás, T20C
+
+
+ent-AtmosFixVoxMarker = Marcador de Nitrogênio para Correção de Atmosfera
+    .desc = Nitrogênio @ pressão de minerador de gás, T20C

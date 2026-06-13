@@ -40,3 +40,16 @@ ent-FoodBoxCloth = caixa de tecido marca FlutterSoft
     .desc = A fibra é a refeição mais importante das moças hoje! Não pule ela ou use lixo do fundo do armário, compre tecido de alta qualidade da marca FlutterSoft em vez disso.
 ent-HappyHonkMime = Happy Honk do mímico
     .desc = Uma edição limitada de mime do happy honk meal.
+
+
+ent-EggBoxBroken = caixa de ovos
+    .desc = Não os deixe cair!
+
+ent-FoodBoxPizzaCotton = caixa de pizza
+    .desc = Uma caixa para pizza. Ela mantém o calor, o cheiro e as lembranças dos melhores cinco minutos da sua vida.
+
+ent-FoodBoxPizzaFilled = caixa de pizza
+    .desc = Uma caixa para pizza. Ela mantém o calor, o cheiro e as lembranças dos melhores cinco minutos da sua vida.
+
+ent-FoodMealHappyHonkClown = happy honk meal
+    .desc = O brinquedo é mais comestível do que a comida.

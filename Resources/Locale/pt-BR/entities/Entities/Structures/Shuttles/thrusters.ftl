@@ -12,3 +12,19 @@ ent-RustedThruster = propulsor enferrujado
 
 ent-BaseThruster = propulsor
     .desc = Um propulsor que permite uma nave se mover.
+
+
+ent-DebugGyroscope = propulsor
+    .desc = Um propulsor que permite uma nave se mover.
+
+ent-DebugThruster = propulsor
+    .desc = Um propulsor que permite uma nave se mover.
+
+ent-GyroscopeUnanchored = giroscópio
+    .desc = Aumenta o potencial de rotação angular da nave.
+
+ent-ThrusterUnanchored = propulsor
+    .desc = Um propulsor que permite uma nave se mover.
+
+ent-ThrusterXenoborg = propulsor
+    .desc = Um propulsor que permite uma nave se mover.

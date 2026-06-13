@@ -43,3 +43,6 @@ ent-RadioImplanterCentcomm = implantador de rádio do comandocentral
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
 ent-DeathRattleImplanterCentcomm = implantador de sussurro da morte do comandocentral
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subdermais.
+
+ent-ImplanterAdmeme = extrator de implante
+    .desc = Uma seringa de dupla finalidade projetada para a remoção de implantes subdérmicos específicos. Uma vez que um implante é extraído, ele é armazenado dentro e pode ser re-administrado novamente. AVISO: Erros operacionais, como selecionar um tipo de implante que não está presente, causam graves traumas genéticos ao operador.

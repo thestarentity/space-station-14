@@ -50,3 +50,7 @@ ent-ActionToggleJusticeHelm = Alternar capacete da justiça
     .desc = Ativa e desativa o capacete da justiça.
 ent-CardHelmet = capacete de papelão
     .desc = Um capacete medieval feito de papelão.
+
+
+ent-ClothingHeadHelmetJusticeEmpty = capacete da justiça
+    .desc = Equipamento de segurança avançado. Protege a estação de indivíduos mal-intencionados.

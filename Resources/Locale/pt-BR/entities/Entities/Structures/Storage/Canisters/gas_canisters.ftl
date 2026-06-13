@@ -48,3 +48,34 @@ ent-WaterVaporCanisterBroken = canister de vapor de água quebrado
     .desc = Um cilindro de gás quebrado. Ainda não inútil, pois pode ser reciclado para obter materiais de alta qualidade.
 ent-GasCanister = botijão de gás
     .desc = Um recipiente que pode conter qualquer tipo de gás. Pode ser conectado a portas de conexão com uma chave inglesa.
+
+
+ent-AirCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-AmmoniaCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-CarbonDioxideCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-FrezonCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-NitrogenCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-NitrousOxideCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-OxygenCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-PlasmaCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-StorageCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.
+
+ent-TritiumCanisterBroken = cânister de gás quebrado
+    .desc = Um cilindro de gás quebrado. Ainda não é inútil, pois pode ser reciclado para obter materiais de alta qualidade.

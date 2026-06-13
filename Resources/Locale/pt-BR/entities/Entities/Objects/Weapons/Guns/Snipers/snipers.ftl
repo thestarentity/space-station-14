@@ -9,3 +9,7 @@ ent-Musket = mosquete
 
 ent-WeaponPistolFlintlock = pistola de fogo de pedra
     .desc = Um companheiro de pirata. Yarrr! Utiliza munição .45 magnum.
+
+
+ent-WeaponPistolFlintlockEmpty = pistola de fogo de pedra
+    .desc = Um companheiro de pirata. Yarrr! Utiliza munição .45 magnum.

@@ -24,3 +24,7 @@ ent-ShadowTree = madeira escura
 
 ent-LightTree = árvore brilhante
     .desc = Uma maravilhosa árvore cheia de energia estranha.
+
+
+ent-FloraGreyStalagmite = estalagmite
+    .desc = Espigas de pedra naturais.

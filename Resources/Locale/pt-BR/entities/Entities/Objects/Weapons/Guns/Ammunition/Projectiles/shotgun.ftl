@@ -20,3 +20,25 @@ ent-PelletGrapeshot = projétil de metralha
     .desc = Se você pode ver isso, provavelmente está morto!
 ent-PelletGlass = pedaço de vidro
     .desc = Se você pode ver isso, provavelmente está morto!
+
+
+ent-PelletGlassSpread = pedaço de vidro
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletGrapeshotSpread = projétil de metralha
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletShotgunImprovisedSpread = projétil de espingarda improvisado
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletShotgunIncendiarySpread = chumbinhos incendiários (.50)
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletShotgunPracticeSpread = chumbinhos de treino (.50)
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletShotgunSpread = chumbinhos (.50)
+    .desc = Se você pode ver isso, provavelmente está morto!
+
+ent-PelletShotgunUraniumSpread = chumbinhos de urânio (.50)
+    .desc = Se você pode ver isso, provavelmente está morto!

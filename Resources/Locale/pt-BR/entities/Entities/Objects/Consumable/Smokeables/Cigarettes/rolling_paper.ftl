@@ -9,3 +9,10 @@ ent-PaperRolling = papel de rolo
 
 ent-CigaretteFilter = filtro de cigarro
     .desc = Uma tira de papel firme usada como filtro para cigarros artesanais.
+
+
+ent-CigaretteFilter1 = filtro de cigarro
+    .desc = Uma tira de papel firme usada como filtro para cigarros artesanais.
+
+ent-PaperRolling1 = papel de rolo
+    .desc = Uma fina folha de papel usada para fazer finos fumáveis.

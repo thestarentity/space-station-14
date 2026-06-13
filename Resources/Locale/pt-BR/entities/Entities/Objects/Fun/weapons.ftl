@@ -24,3 +24,7 @@ ent-CardSword = espada de papelão
 
 ent-ToyHammer = martelo de borracha
     .desc = Um martelo colorido feito de borracha.
+
+
+ent-RevolverCapGunFake = revólver de brinquedo
+    .desc = Parece quase com a coisa real! Para crianças a partir de 8 anos.
