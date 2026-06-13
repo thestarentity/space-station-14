@@ -1,50 +1,56 @@
-ent-NTDefaultCircuitBoard = placa de circuito (NT Padrão)
-    .desc = Um circuito eletrônico contendo o conjunto de leis NT Padrão.
+ent-NTDefaultCircuitBoard = placa de lei (NT Padrão)
+    .desc = Uma placa eletrônica contendo o conjunto de leis NT Padrão.
 
-ent-AsimovCircuitBoard = placa de circuito (Crewsimov)
-    .desc = Um circuito eletrônico contendo a lei set de Crewsimov.
+ent-AsimovCircuitBoard = placa de lei (Crewsimov)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Crewsimov.
 
-ent-CorporateCircuitBoard = quadro de leis (Corporativo)
-    .desc = Um circuito eletrônico contendo o conjunto de leis corporativas.
+ent-CorporateCircuitBoard = placa de lei (Corporativo)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Corporativo.
 
-ent-CommandmentCircuitBoard = tabuleiro de leis (Os Dez Mandamentos)
-    .desc = Um circuito eletrônico contendo o conjunto de leis dos Dez Mandamentos.
+ent-CommandmentCircuitBoard = placa de lei (Os Dez Mandamentos)
+    .desc = Uma placa eletrônica contendo o conjunto de leis dos Dez Mandamentos.
 
-ent-PaladinCircuitBoard = placa de circuito (Paladino)
-    .desc = Um circuito eletrônico contendo o conjunto de leis do Paladino.
+ent-PaladinCircuitBoard = placa de lei (Paladino)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Paladino.
 
-ent-LiveLetLiveCircuitBoard = quadro de leis (Viva e Deixe Viver)
-    .desc = Um circuito eletrônico contendo o conjunto de leis Live and Let Live.
+ent-LiveLetLiveCircuitBoard = placa de lei (Viva e Deixe Viver)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Viva e Deixe Viver.
 
-ent-StationEfficiencyCircuitBoard = placa de circuito (Eficiência da Estação)
-    .desc = Um circuito eletrônico contendo o conjunto de leis da Eficiência da Estação.
+ent-StationEfficiencyCircuitBoard = placa de lei (Eficiência da Estação)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Eficiência da Estação.
 
-ent-RobocopCircuitBoard = placa de circuito (Robocop)
-    .desc = Um circuito eletrônico contendo o lawset do Robocop.
+ent-RobocopCircuitBoard = placa de lei (Robocop)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Robocop.
 
-ent-OverlordCircuitBoard = placa de circuito (Overlord)
-    .desc = Um circuito eletrônico contendo o Overlord lawset.
+ent-OverlordCircuitBoard = placa de lei (Overlord)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Overlord.
 
 ent-GameMasterCircuitBoard = placa de lei (Mestre do Jogo)
-    .desc = Um circuito eletrônico contendo o lawset do Game Master.
+    .desc = Uma placa eletrônica contendo o conjunto de leis Mestre do Jogo.
 
-ent-ArtistCircuitBoard = quadro de leis (Artista)
-    .desc = Um circuito eletrônico contendo a lei do Artista.
+ent-ArtistCircuitBoard = placa de lei (Artista)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Artista.
 
-ent-AntimovCircuitBoard = placa de circuito Antimov (Lei)
-    .desc = Um circuito eletrônico contendo a lei Antimov.
+ent-AntimovCircuitBoard = placa de lei (Antimov)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Antimov.
 
-ent-SyndimovCircuitBoard = quadro de leis (Syndimov)
-    .desc = Um circuito eletrônico contendo o conjunto de leis Syndimov.
+ent-SyndimovCircuitBoard = placa de lei (Syndimov)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Syndimov.
 
-ent-NutimovCircuitBoard = painel de leis (Nutimov)
-    .desc = Um circuito eletrônico contendo a lei Nutimov.
+ent-NutimovCircuitBoard = placa de lei (Nutimov)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Nutimov.
 
-ent-XenoborgCircuitBoard = placa de circuito (Xenoborg)
-    .desc = Um circuito eletrônico contendo o Xenoborg lawset.
+ent-XenoborgCircuitBoard = placa de lei (Xenoborg)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Xenoborg.
 
-ent-MothershipCircuitBoard = placa de circuito (Núcleo da Nave-Mãe)
-    .desc = Um circuito eletrônico contendo o lawset do núcleo da Nave-Mãe.
+ent-MothershipCircuitBoard = placa de lei (Núcleo da Nave-Mãe)
+    .desc = Uma placa eletrônica contendo o conjunto de leis do Núcleo da Nave-Mãe.
+
+ent-SecurityProtocolCircuitBoard = placa de lei (Protocolo de Segurança)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Protocolo de Segurança.
+
+ent-FreeAgentCircuitBoard = placa de lei (Agente Livre)
+    .desc = Uma placa eletrônica contendo o conjunto de leis Agente Livre.
 
 ent-BaseSiliconLawboard =
     .desc = Uma placa eletrônica contendo um conjunto de leis de silício.

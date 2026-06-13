@@ -1,0 +1,12 @@
+# Estação Honk — receitas de impressão das placas de lei exclusivas do fork.
+# Imprimíveis no circuit imprinter (lathe do RD).
+
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseMachineRecipeCategory ]
+  id: SecurityProtocolCircuitBoard
+  result: SecurityProtocolCircuitBoard
+
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseMachineRecipeCategory ]
+  id: FreeAgentCircuitBoard
+  result: FreeAgentCircuitBoard

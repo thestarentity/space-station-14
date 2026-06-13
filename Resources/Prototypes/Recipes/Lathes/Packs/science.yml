@@ -9,6 +9,9 @@
   - ExosuitFabricatorMachineCircuitboard
   - CutterMachineCircuitboard
   - BorgChargerCircuitboard
+  # Estação Honk — placas das leis exclusivas do fork
+  - SecurityProtocolCircuitBoard
+  - FreeAgentCircuitBoard
 
 ## Dynamic
 

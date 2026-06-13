@@ -164,3 +164,22 @@
   components:
   - type: SiliconLawProvider
     laws: MothershipCoreLawset
+
+# Estação Honk — placas das leis exclusivas do fork
+- type: entity
+  id: SecurityProtocolCircuitBoard
+  parent: BaseSiliconLawboard
+  name: law board (Security Protocol)
+  description: An electronics board containing the Security Protocol lawset.
+  components:
+  - type: SiliconLawProvider
+    laws: SecurityBorgLawset
+
+- type: entity
+  id: FreeAgentCircuitBoard
+  parent: BaseSiliconLawboard
+  name: law board (Free Agent)
+  description: An electronics board containing the Free Agent lawset.
+  components:
+  - type: SiliconLawProvider
+    laws: FreeAgentLawset
