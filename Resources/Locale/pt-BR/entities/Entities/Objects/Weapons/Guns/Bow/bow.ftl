@@ -1,2 +1,2 @@
 ent-BowImprovised = arco curto improvisado
-    .desc = O original rooty tooty point and shooty.
+    .desc = O clássico aponta-e-atira, versão raiz.

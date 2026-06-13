@@ -16,10 +16,10 @@ ent-GoldenPlunger = desentupidor dourado
 ent-RagItem = pano úmido
     .desc = Para limpar bagunças, supostamente.
 
-ent-WireBrush = escova de fio
-    .desc = Uma escova de fio de aço com cerdas rígidas, perfeita para remover até as manchas mais resistentes de ferrugem.
+ent-WireBrush = escova de arame
+    .desc = Uma escova de arame com cerdas de aço rígidas, perfeita para remover até as manchas mais resistentes de ferrugem.
 
-ent-WireBrushElectrical = escova de fio elétrica
+ent-WireBrushElectrical = escova de arame elétrica
     .desc = Uma escova de fio de aço com cerdas, com uma cabeça móvel, permitindo uma limpeza muito mais fácil.
 
 
