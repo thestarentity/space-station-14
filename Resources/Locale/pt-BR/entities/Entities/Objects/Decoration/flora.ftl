@@ -28,3 +28,4 @@ ent-LightTree = árvore brilhante
 
 ent-FloraGreyStalagmite = estalagmite
     .desc = Espigas de pedra naturais.
+ent-FloraRockSolid = pedregulho

@@ -3,3 +3,4 @@ ent-CargoPalletSell = paleta de venda de carga
 
 ent-CargoPalletBuy = paletes de compra de carga
     .desc = Indica onde as encomendas aparecerão após a compra. Feito de plastitanium para desencorajar vândalos irritantes.
+ent-CargoPallet = palete de carga

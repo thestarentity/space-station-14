@@ -30,3 +30,5 @@ ent-SnapPopExplosive = bombinha de estalo
 
 ent-SpectralLocatorEmpty = localizador espectral
     .desc = Parece ser um localizador de anomalias modificado. Parece muito antigo.
+ent-SpectralLocator = localizador espectral
+    .desc = Parece ser um localizador de anomalias modificado. Parece muito antigo.

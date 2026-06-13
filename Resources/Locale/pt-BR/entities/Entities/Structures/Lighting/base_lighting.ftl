@@ -83,3 +83,5 @@ ent-PoweredlightRed = luminária
 
 ent-PoweredlightYellow = luminária
     .desc = Um dispositivo de luz. Consome energia e produz luz quando equipado com um tubo de luz.
+ent-PoweredSmallLight = luz pequena
+    .desc = Um dispositivo de iluminação. Consome energia e produz luz quando equipado com uma lâmpada.

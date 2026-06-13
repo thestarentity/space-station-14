@@ -55,3 +55,5 @@ ent-DrinkMilkCarton = leite
 
 ent-DrinkSoyMilkCarton = leite de soja
     .desc = Branco e nutritivo, a boa qualidade do leite de soja!
+ent-DrinkCreamCarton = caixinha de creme
+    .desc = É creme. Feito de leite. O que mais você achou que encontraria ali?

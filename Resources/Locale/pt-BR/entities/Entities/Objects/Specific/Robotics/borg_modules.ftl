@@ -147,3 +147,4 @@ ent-XenoborgModuleCloakDevice = módulo xenoborg do dispositivo de camuflagem
 
 ent-XenoborgModuleSuperCloakDevice = dispositivo de invisibilidade módulo xenoborg
     .desc = Módulo com um dispositivo que permite aos xenoborgs ficarem verdadeiramente invisíveis por um curto período de tempo.
+ent-BorgModuleConstructionMaterialPlaceholder = item

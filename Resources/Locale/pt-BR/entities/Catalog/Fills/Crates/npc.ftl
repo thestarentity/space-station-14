@@ -66,3 +66,7 @@ ent-CrateNPCMothroach = caixa de mothroaches
 
 ent-CrateNPCSheep = caixa de carneiros
     .desc = Um container contendo uma única ovelha.
+ent-CrateNPCHamster = gaiola de hamster
+    .desc = Um grande recipiente para itens.
+ent-CrateNPCHamlet = gaiola de hamster
+    .desc = Um grande recipiente para itens.

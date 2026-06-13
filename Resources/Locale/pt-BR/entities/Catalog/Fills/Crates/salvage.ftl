@@ -27,3 +27,5 @@ ent-CrateCrusherGlaive = caixa de glávio de esmagador
 
 ent-CrateSupremeSalvagerCloak = caixa de manto de salvador supremo
     .desc = Contém um manto que só pode ser usado por salvadores supremos. Usá-lo indevidamente resultará no seu fim.
+ent-CrateSalvageAssortedGoodies = caixa
+    .desc = Um grande recipiente para itens.

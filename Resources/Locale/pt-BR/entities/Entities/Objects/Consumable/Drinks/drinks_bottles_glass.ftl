@@ -120,3 +120,5 @@ ent-DrinkWhiskeyBottleFull = Reserva Especial do Tio Git
 
 ent-DrinkWineBottleFull = Garrafa de vinho especial de barbado de dois bigodes
     .desc = Uma leve aura de inquietação e asspainery envolve a garrafa.
+ent-DrinkAleBottleFull = Garrafa de Magm-Ale
+    .desc = A bebida preferida de um verdadeiro dorf.

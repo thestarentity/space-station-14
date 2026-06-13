@@ -16,3 +16,5 @@ ent-DartPurple = dardo
 
 ent-DartYellow = dardo
     .desc = Dardo leve para jogar darts. Não acerte nos olhos!
+ent-HypoDart = dardo
+    .desc = Dardo leve para jogar darts. Não acerte nos olhos!

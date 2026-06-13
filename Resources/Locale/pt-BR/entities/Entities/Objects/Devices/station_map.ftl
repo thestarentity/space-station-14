@@ -4,3 +4,6 @@ ent-HandheldStationMapEmpty = mapa da estação (vazio)
 ent-HandheldStationMapNukeops = mapa da estação (nukeops)
     .desc = Exibe uma leitura da estação-alvo.
 
+ent-HandheldStationMap = mapa da estação
+ent-HandheldStationMapUnpowered = mapa da estação
+ent-HandheldStationMapStatic = mapa da estação

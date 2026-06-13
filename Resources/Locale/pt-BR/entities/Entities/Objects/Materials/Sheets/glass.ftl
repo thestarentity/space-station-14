@@ -28,3 +28,6 @@ ent-SheetClockworkGlass = vidro de relógio de engrenagens
 
 ent-SheetClockworkGlass1 = vidro de relógio de engrenagens
     .desc = Uma folha de vidro endurecido com bronze, para entusiastas de relógios de engrenagem e remanescentes de cultos Ratvarianos.
+ent-SheetGlass = solução
+ent-SheetGlass10 = solução
+ent-SheetGlass1 = solução

@@ -7,3 +7,5 @@ ent-StationAnchorIndestructible = âncora da estação
 
 ent-StationAnchorOff = âncora da estação
     .desc = Impede que as estações se movam.
+ent-StationAnchor = âncora da estação
+    .desc = Impede que as estações se movam.

@@ -71,3 +71,5 @@ ent-ClothingOuterCoatExpensiveOpened = casaco caro
 
 ent-ClothingOuterCoatJensenSyndie = casaco Jensen
     .desc = Um casaco Jensen.
+ent-ClothingOuterCoatDetectiveLoadout = sobretudo blindado do detetive
+    .desc = Um sobretudo do século XX com revestimento interno blindado. Quem usa isso está levando a sério.

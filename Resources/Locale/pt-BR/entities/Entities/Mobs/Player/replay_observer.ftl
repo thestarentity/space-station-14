@@ -1,0 +1,1 @@
+ent-ReplayObserver = observador

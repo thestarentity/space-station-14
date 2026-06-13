@@ -80,3 +80,4 @@ ent-PlayerMiningBorgDerelictGhostRole = ciborg de mineração abandonado
 
 ent-PlayerSyndicateAssaultBorgDerelict = ciborg de assalto do sindicato abandonado
     .desc = Um corpo magro e letal, com acesso a uma variedade de módulos mortais. Este em particular é mais enferrujado-alaranjado do que vermelho-sangue.
+ent-BorgChassisSelectable = ciborgue

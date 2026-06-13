@@ -13,3 +13,6 @@ ent-AiHeld = IA inserida
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um núcleo de IA.
 ent-AiHeldIntellicard = IA no intellicard
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um Intellicard.
+ent-PlayerStationAi = Núcleo de IA
+    .desc = O mais recente em Inteligências Artificiais.
+ent-PlayerBorgBattery = ciborgue

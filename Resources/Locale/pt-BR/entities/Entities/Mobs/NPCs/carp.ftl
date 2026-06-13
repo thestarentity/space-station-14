@@ -15,3 +15,6 @@ ent-MobShark = tubarão
 
 ent-MobSharkSalvage = tubarão
     .desc = Um perigoso tubarão vindo das trevas do espaço infinito, que adora beber sangue.
+ent-MobCarp = carpa espacial
+ent-MobCarpSalvage = carpa espacial
+ent-MobCarpDungeon = carpa espacial

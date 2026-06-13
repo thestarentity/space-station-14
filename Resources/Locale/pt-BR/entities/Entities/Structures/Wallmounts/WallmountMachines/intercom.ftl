@@ -35,3 +35,5 @@ ent-IntercomService = intercom
 
 ent-IntercomSupply = intercom
     .desc = Um intercom. Para quando a estação simplesmente precisa saber de algo.
+ent-Intercom = intercom
+    .desc = Um intercom. Para quando a estação simplesmente precisa saber de algo.

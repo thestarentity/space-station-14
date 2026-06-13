@@ -1,3 +1,23 @@
 ent-AppearanceVox = aparência do vox
 
 ent-MobVox = Urist McVox
+ent-OrganVoxTorso = tronco
+ent-OrganVoxHead = cabeça
+ent-OrganVoxArmLeft = braço esquerdo
+ent-OrganVoxArmRight = braço direito
+ent-OrganVoxHandLeft = mão esquerda
+ent-OrganVoxHandRight = mão direita
+ent-OrganVoxLegLeft = perna esquerda
+ent-OrganVoxLegRight = perna direita
+ent-OrganVoxFootLeft = pé esquerdo
+ent-OrganVoxFootRight = pé direito
+ent-OrganVoxBrain = cérebro
+ent-OrganVoxEyes = olhos
+ent-OrganVoxTongue = língua
+ent-OrganVoxAppendix = apêndice
+ent-OrganVoxEars = orelhas
+ent-OrganVoxLungs = pulmões
+ent-OrganVoxHeart = coração
+ent-OrganVoxStomach = estômago
+ent-OrganVoxLiver = fígado
+ent-OrganVoxKidneys = rins

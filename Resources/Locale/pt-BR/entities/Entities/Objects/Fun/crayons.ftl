@@ -25,3 +25,5 @@ ent-CrayonPurple = lápisl de cor roxa
 
 ent-CrayonBoxEmpty = caixa de lápis de cor
     .desc = É uma caixa de lápis de cor.
+ent-CrayonBox = caixa de lápis de cor
+    .desc = É uma caixa de lápis de cor.

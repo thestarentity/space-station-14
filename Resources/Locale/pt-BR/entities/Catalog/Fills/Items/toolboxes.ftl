@@ -12,3 +12,7 @@ ent-ToolboxMechanicalFilledAllTools = caixa de ferramentas mecânica
     .desc = Uma caixa azul, abastecida com ferramentas mecânicas.
 ent-ToolboxGoldFilled = caixa de ferramentas dourada
     .desc = Uma caixa de ferramentas de ouro maciço. Um rapper morreria por isso.
+ent-ToolboxSyndicateFilled = caixa de ferramentas suspeita
+    .desc = Uma caixa de ferramentas sinistra cheia de ferramentas elite do sindicato.
+ent-FoolboxFilled = Caixa de Engano
+    .desc = Uma caixa de ferramentas para tolos, abastecida com equipamentos de palhaço.

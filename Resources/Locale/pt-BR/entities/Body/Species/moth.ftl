@@ -1,3 +1,23 @@
 ent-AppearanceMoth = Aparencia de borboleta
 
 ent-MobMoth = Urist McFluff
+ent-OrganMothTorso = tronco
+ent-OrganMothHead = cabeça
+ent-OrganMothArmLeft = braço esquerdo
+ent-OrganMothArmRight = braço direito
+ent-OrganMothHandLeft = mão esquerda
+ent-OrganMothHandRight = mão direita
+ent-OrganMothLegLeft = perna esquerda
+ent-OrganMothLegRight = perna direita
+ent-OrganMothFootLeft = pé esquerdo
+ent-OrganMothFootRight = pé direito
+ent-OrganMothBrain = cérebro
+ent-OrganMothEyes = olhos
+ent-OrganMothTongue = língua
+ent-OrganMothAppendix = apêndice
+ent-OrganMothEars = orelhas
+ent-OrganMothLungs = pulmões
+ent-OrganMothHeart = coração
+ent-OrganMothStomach = estômago
+ent-OrganMothLiver = fígado
+ent-OrganMothKidneys = rins

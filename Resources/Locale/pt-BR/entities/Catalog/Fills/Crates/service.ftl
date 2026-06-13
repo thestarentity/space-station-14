@@ -36,3 +36,4 @@ ent-CrateJanitorBiosuit = caixa de traje biológico do zelador
     .desc = Contém 2 trajes de biosegurança para garantir que nenhuma doença te distraia da limpeza.
 ent-CrateCandles = caixa de velas
     .desc = Contém 4 caixas de velas, 2 grandes e 2 pequenas. Para atmosfera ou algo assim.
+ent-CrateTrashCartFilled = carrinho de lixo

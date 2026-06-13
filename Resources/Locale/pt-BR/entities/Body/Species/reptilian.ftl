@@ -1,3 +1,23 @@
 ent-AppearanceReptilian = aparência reptiliana
 
 ent-MobReptilian = Urist McScales
+ent-OrganReptilianTorso = tronco
+ent-OrganReptilianHead = cabeça
+ent-OrganReptilianArmLeft = braço esquerdo
+ent-OrganReptilianArmRight = braço direito
+ent-OrganReptilianHandLeft = mão esquerda
+ent-OrganReptilianHandRight = mão direita
+ent-OrganReptilianLegLeft = perna esquerda
+ent-OrganReptilianLegRight = perna direita
+ent-OrganReptilianFootLeft = pé esquerdo
+ent-OrganReptilianFootRight = pé direito
+ent-OrganReptilianBrain = cérebro
+ent-OrganReptilianEyes = olhos
+ent-OrganReptilianTongue = língua
+ent-OrganReptilianAppendix = apêndice
+ent-OrganReptilianEars = orelhas
+ent-OrganReptilianLungs = pulmões
+ent-OrganReptilianHeart = coração
+ent-OrganReptilianStomach = estômago
+ent-OrganReptilianLiver = fígado
+ent-OrganReptilianKidneys = rins

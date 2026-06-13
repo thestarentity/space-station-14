@@ -55,3 +55,5 @@ ent-AnomalyShadow = anomalia
 
 ent-AnomalyTech = anomalia
     .desc = Um objeto impossível. Você deveria estar tão perto disso?
+ent-AnomalyFlora = anomalia
+    .desc = Um objeto impossível. Você deveria estar tão perto disso?

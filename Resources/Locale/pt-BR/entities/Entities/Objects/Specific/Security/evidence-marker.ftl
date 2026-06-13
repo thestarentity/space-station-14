@@ -1,2 +1,11 @@
 ent-BoxEvidenceMarkers = caixa de marcador de evidência
     .desc = Um pacote de marcadores amarelos numerados, úteis para rotular evidências em uma cena de crime.
+ent-EvidenceMarkerOne = marcador de evidência
+ent-EvidenceMarkerTwo = marcador de evidência
+ent-EvidenceMarkerThree = marcador de evidência
+ent-EvidenceMarkerFour = marcador de evidência
+ent-EvidenceMarkerFive = marcador de evidência
+ent-EvidenceMarkerSix = marcador de evidência
+ent-EvidenceMarkerSeven = marcador de evidência
+ent-EvidenceMarkerEight = marcador de evidência
+ent-EvidenceMarkerNine = marcador de evidência

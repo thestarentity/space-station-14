@@ -44,3 +44,7 @@ ent-CrateFunDartsSet = conjunto de caixas de dardos
     .desc = Uma caixa com tudo que você precisa para jogar darts de forma divertida.
 ent-CrateFunScurret = scurret hidratado
     .desc = Espera, o que?
+ent-CrateFunPirate = baú do pirata
+    .desc = Um baú de pirata espacial, não para tripulantes da estação.
+ent-CrateFunToyBox = caixa de brinquedos
+    .desc = Uma caixa transbordando de diversão.

@@ -111,3 +111,5 @@ ent-AnomalousParticleEpsilonStrong = partículas epsilon
 
 ent-AnomalousParticleZetaStrong = partículas zeta
     .desc = Se você pode ver isso, provavelmente está morto!
+ent-BaseBulletTrigger = projétil
+ent-BulletKineticShuttle = projétil

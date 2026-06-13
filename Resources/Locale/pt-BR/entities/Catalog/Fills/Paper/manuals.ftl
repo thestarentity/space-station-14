@@ -6,3 +6,5 @@ ent-PaperAgrichemManual = Agricultura Química é Divertida!
 
 ent-PaperWrittenCombatBakeryKit = instruções do kit de combate de panificação
     .desc = Coma a nota após ler.
+ent-PaperWrittenAMEScribbles = papel
+    .desc = Um pedaço de papel branco.

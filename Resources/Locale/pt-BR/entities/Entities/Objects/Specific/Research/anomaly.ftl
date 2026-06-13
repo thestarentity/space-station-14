@@ -19,3 +19,7 @@ ent-AnomalyLocatorEmpty = localizador de anomalias
 
 ent-AnomalyLocatorWideEmpty = localizador de anomalias de espectro amplo
     .desc = Um dispositivo que procura por anomalias de uma distância ampla, mas não tem como determinar a distância até elas.
+ent-AnomalyLocator = localizador de anomalias
+    .desc = Um dispositivo projetado para ajudar na localização de anomalias. Você verificou os mineradores de gás?
+ent-AnomalyLocatorWide = localizador de anomalias de espectro amplo
+    .desc = Um dispositivo que procura por anomalias de uma distância ampla, mas não tem como determinar a distância até elas.

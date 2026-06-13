@@ -11,3 +11,5 @@ ent-ActionDragonsBreath = [color=orange]Fogo do Dragão[/color]
     .desc = Jogue fogo em qualquer um tolo o suficiente para atacar você!
 
 ent-BloodSmoke = fumaça de sangue
+ent-MobDragon = dragão espacial
+ent-MobDragonDungeon = dragão espacial

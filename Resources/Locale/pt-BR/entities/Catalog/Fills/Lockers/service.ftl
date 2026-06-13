@@ -1,0 +1,14 @@
+ent-LockerBoozeFilled = armário de bebidas alcoólicas
+    .desc = Este é o lugar onde o barman guarda a bebida alcoólica.
+ent-ClosetChefFilled = armário do chef
+    .desc = É um armário para armazenar roupas de serviço de alimentação e armadilhas de rato.
+ent-ClosetJanitorFilled = armário do zelador
+    .desc = É um armário para roupas e equipamentos do zelador.
+ent-ClosetLegalFilled = armário jurídico
+    .desc = É um armário para guardar roupas e itens usados em tribunais.
+ent-LockerBotanistFilled = armário do botanista
+    .desc = O armário pessoal do botanista. Contém ferramentas e sementes.
+ent-LockerBotanistLoot = armário do botanista
+    .desc = O armário pessoal do botanista. Contém ferramentas e sementes.
+ent-ClosetJanitorBombFilled = armário de roupas de proteção para bombas de manutenção
+    .desc = É uma unidade de armazenamento para trajes de proteção contra explosões do zelador.

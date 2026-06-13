@@ -6,3 +6,5 @@ ent-ActionCluwne = A Maldição do Cluwne
 
 ent-ActionSlippery = Pendente Perigoso
     .desc = Torne alguém escorregadio.
+ent-ActionSmiteNoReq = Fulminar
+    .desc = Destroça instantaneamente um alvo.

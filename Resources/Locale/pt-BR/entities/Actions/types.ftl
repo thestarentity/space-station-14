@@ -64,3 +64,9 @@ ent-ActionChameleonController = Controle roupas
     .desc = Mude seu completo de roupa rapidamente!
 ent-ActionIntrinsicStore = Loja
     .desc = Abre a loja
+ent-ActionCombatModeToggleOff = [color=red]Modo de Combate[/color]
+    .desc = Entrar no modo combate
+ent-ActionToggleWaggingVulpkanin = Cauda balançando
+    .desc = Comece ou pare de balançar sua cauda.
+ent-ActionChangeVoiceMaskImplant = Definir nome
+    .desc = Mude o nome que os outros ouvem para algo diferente.

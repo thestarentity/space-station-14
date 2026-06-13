@@ -86,3 +86,5 @@ ent-BoxEnvelope = caixa de envelope
 
 ent-BoxUtensil = caixa de utensílios
     .desc = Uma caixa cheia de garfos e colheres.
+ent-BoxHugHealing = caixa de abraços
+    .desc = Uma caixa especial para pessoas sensíveis.

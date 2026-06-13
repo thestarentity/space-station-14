@@ -1,3 +1,23 @@
 ent-AppearanceArachnid = aparência de aranha
 
 ent-MobArachnid = Urist McTeias
+ent-OrganArachnidTorso = tronco
+ent-OrganArachnidHead = cabeça
+ent-OrganArachnidArmLeft = braço esquerdo
+ent-OrganArachnidArmRight = braço direito
+ent-OrganArachnidHandLeft = mão esquerda
+ent-OrganArachnidHandRight = mão direita
+ent-OrganArachnidLegLeft = perna esquerda
+ent-OrganArachnidLegRight = perna direita
+ent-OrganArachnidFootLeft = pé esquerdo
+ent-OrganArachnidFootRight = pé direito
+ent-OrganArachnidBrain = cérebro
+ent-OrganArachnidEyes = olhos
+ent-OrganArachnidTongue = língua
+ent-OrganArachnidAppendix = apêndice
+ent-OrganArachnidEars = orelhas
+ent-OrganArachnidLungs = pulmões
+ent-OrganArachnidHeart = coração
+ent-OrganArachnidStomach = estômago
+ent-OrganArachnidLiver = fígado
+ent-OrganArachnidKidneys = rins

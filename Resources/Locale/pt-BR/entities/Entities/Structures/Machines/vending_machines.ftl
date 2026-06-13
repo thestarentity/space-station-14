@@ -152,3 +152,5 @@ ent-VendingMachineSnackTeal = Getmore Chocolate Corp
 
 ent-VendingMachineSoda = Bebidas Suaves Robustas
     .desc = Um vendedor de refrigerantes fornecido pela Robust Industries, LLC.
+ent-VendingMachineSeeds = Dispensador de Sementes MegaSeed
+    .desc = Para quando você precisa de sementes rapidamente. Sem dúvida a melhor seleção de sementes da estação!

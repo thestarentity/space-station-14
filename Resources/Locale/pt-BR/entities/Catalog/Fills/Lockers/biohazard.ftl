@@ -1,0 +1,10 @@
+ent-ClosetL3Filled = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
+ent-ClosetL3VirologyFilled = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
+ent-ClosetL3SecurityFilled = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
+ent-ClosetL3JanitorFilled = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.
+ent-ClosetL3ScienceFilled = armário de equipamentos biohazard nível 3
+    .desc = É uma unidade de armazenamento para equipamentos de biohazard nível 3.

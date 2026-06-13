@@ -96,3 +96,7 @@ ent-PottedPlant7 = planta em vaso
 
 ent-PottedPlant8 = planta em vaso
     .desc = Um pedacinho da natureza contido em um vaso.
+ent-PottedPlant1 = planta em vaso
+    .desc = Um pedacinho da natureza contido em um vaso.
+ent-PottedPlant2 = planta em vaso
+    .desc = Um pedacinho da natureza contido em um vaso.

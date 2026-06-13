@@ -8,3 +8,6 @@ ent-MeteorClown = Honksteroid
     .desc = O honkening final!
 ent-MeteorPotato = Batata espacial
     .desc = Uma ameaça farinhenta vinda das profundezas do espaço. Contém 200% da sua ingestão diária de sódio!
+ent-MeteorSmall = meteoro
+ent-MeteorMedium = meteoro
+ent-MeteorLarge = meteoro

@@ -1,3 +1,23 @@
 ent-AppearanceHuman = aparência humana
 
 ent-MobHuman = Urist McMãos
+ent-OrganHumanTorso = tronco
+ent-OrganHumanHead = cabeça
+ent-OrganHumanArmLeft = braço esquerdo
+ent-OrganHumanArmRight = braço direito
+ent-OrganHumanHandLeft = mão esquerda
+ent-OrganHumanHandRight = mão direita
+ent-OrganHumanLegLeft = perna esquerda
+ent-OrganHumanLegRight = perna direita
+ent-OrganHumanFootLeft = pé esquerdo
+ent-OrganHumanFootRight = pé direito
+ent-OrganHumanBrain = cérebro
+ent-OrganHumanEyes = olhos
+ent-OrganHumanTongue = língua
+ent-OrganHumanAppendix = apêndice
+ent-OrganHumanEars = orelhas
+ent-OrganHumanLungs = pulmões
+ent-OrganHumanHeart = coração
+ent-OrganHumanStomach = estômago
+ent-OrganHumanLiver = fígado
+ent-OrganHumanKidneys = rins

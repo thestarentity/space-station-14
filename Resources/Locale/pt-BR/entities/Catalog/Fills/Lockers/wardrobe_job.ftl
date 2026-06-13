@@ -39,3 +39,7 @@ ent-WardrobeSecurityFilled = guarda-roupa de segurança
 
 ent-WardrobeCargoFilled = guarda-roupa de carga
     .desc = Esse armário? Talvez 500 espesos. Camaradagem? Não tem preço.
+ent-ClosetWallWardrobePrisonFilled = armário de parede da cela
+    .desc = Um armário de armazenamento padrão da Nanotrasen, agora nas paredes.
+ent-WardrobeSalvageFilled = guarda-roupa de resgate
+    .desc = Notavelmente não resgatado.

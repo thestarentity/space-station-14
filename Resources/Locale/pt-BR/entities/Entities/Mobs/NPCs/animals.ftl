@@ -196,3 +196,5 @@ ent-MobMouse1 = camundongo
 
 ent-MobMouse2 = camundongo
     .desc = Raspar!
+ent-MobGiantSpiderAngry = aranha gigante
+    .desc = Amenaçadoramente reconhecido como a coisa literalmente pior que existe.

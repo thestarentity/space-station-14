@@ -33,3 +33,5 @@ ent-CarpetSBlue = tapete
 
 ent-CarpetWhite = tapete
     .desc = Superfície para caminhada sofisticada.
+ent-Carpet = tapete
+    .desc = Superfície para caminhada sofisticada.
