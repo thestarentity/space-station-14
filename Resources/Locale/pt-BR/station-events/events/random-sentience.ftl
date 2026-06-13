@@ -21,12 +21,12 @@ random-sentience-event-strength-8 = IA
 ## Announcement text
 
 station-event-random-sentience-announcement =
-    Com base em { $data }, acreditamos que alguns dos tripulantes da estação possuem consciência.{ $amount ->
+    Com base em { $data }, acreditamos que alguns dos seres da estação do tipo { $amount ->
         [1] { $kind1 }
         [2] { $kind1 } e { $kind2 }
         [3] { $kind1 }, { $kind2 } e { $kind3 }
        *[other] { $kind1 }, { $kind2 }, { $kind3 }, etc.
-    } seres desenvolveram inteligência de nível { $strength }, e a capacidade de se comunicar.
+    } desenvolveram inteligência de nível { $strength } e a capacidade de se comunicar.
 
 ## Ghost role description
 
