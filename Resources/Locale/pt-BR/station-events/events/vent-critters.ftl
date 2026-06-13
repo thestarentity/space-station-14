@@ -1,1 +1,1 @@
-station-event-vent-creatures-start-horde-announcement = Atenção. Um grande influxo de formas de vida desconhecidas foi detectado se movendo pelos sistemas de ventilação da estação. Eles são esperados para emergir perto de { $location }. Por favor, evacue a área para evitar perda de pessoal.
+station-event-vent-creatures-start-horde-announcement = Atenção. Um grande influxo de formas de vida desconhecidas foi detectado se movendo pelos sistemas de ventilação da estação. Espera-se que surjam perto de { $location }. Por favor, evacue a área para evitar perda de pessoal.

@@ -1,9 +1,9 @@
 nukeops-title = Operativos Nucleares
-nukeops-description = Operativos nucleares estão alvo da estação. Tente impedir que eles ativem e detonem a bomba nuclear protegendo o disco da bomba!
+nukeops-description = Operativos nucleares miraram a estação. Tente impedir que eles ativem e detonem a bomba nuclear protegendo o disco da bomba!
 nukeops-welcome =
     Você é um operativo nuclear. Seu objetivo é destruir { $station } e garantir que fique apenas um monte de escombros. Seus patrões, o Sindicato, forneceram as ferramentas necessárias para a tarefa.
     Operação { $name } está em andamento! Morte à Nanotrasen!
-nukeops-briefing = Seus objetivos são simples. Entregue a carga e saia antes que ela detonar. Iniciar missão.
+nukeops-briefing = Seus objetivos são simples. Entregue a carga e saia antes que ela detone. Iniciar missão.
 nukeops-opsmajor = [color=crimson]Vitória importante do Sindicato![/color]
 nukeops-opsminor = [color=crimson]Vitória menor do Sindicato![/color]
 nukeops-neutral = [color=yellow]Resultado neutro![/color]

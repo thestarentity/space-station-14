@@ -1,4 +1,4 @@
-bluespace-artifact-event-announcement = Nossas leituras detectaram um objeto de origem alienígena se aproximando. Por favor, informe a equipe de pesquisa de { $sighting }.
+bluespace-artifact-event-announcement = Nossas leituras detectaram um objeto de origem alienígena se aproximando. Por favor, informe a equipe de pesquisa sobre { $sighting }.
 bluespace-artifact-sighting-1 = brilhos intensos de luz
 bluespace-artifact-sighting-2 = som estranho vindo dos túneis de manutenção
 bluespace-artifact-sighting-3 = estruturas alheias ao mundo conhecido

@@ -1,1 +1,1 @@
-station-event-zombie-outbreak-announcement = Confirmados relatos de vários mortos-vivos a bordo da estação. Todos os tripulantes devem se armarem, trancar as portas e se protegerem para evitar uma infecção maior.
+station-event-zombie-outbreak-announcement = Confirmados relatos de vários mortos-vivos a bordo da estação. Todos os tripulantes devem se armar, trancar as portas e se proteger para evitar uma infecção maior.
