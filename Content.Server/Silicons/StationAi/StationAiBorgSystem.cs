@@ -4,6 +4,7 @@ using Content.Shared.Database;
 using Content.Shared.Emag.Components;
 using Content.Shared.Emag.Systems;
 using Content.Shared.Popups;
+using Content.Shared.Movement.Systems;
 using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Silicons.StationAi;
 using Content.Shared.Wires;
@@ -25,6 +26,7 @@ public sealed partial class StationAiBorgSystem : EntitySystem
     [Dependency] private StationAiBulkDoorSystem _hostile = default!;
     [Dependency] private BorgSystem _borg = default!;
     [Dependency] private SharedWiresSystem _wires = default!;
+    [Dependency] private MovementSpeedModifierSystem _movement = default!;
     [Dependency] private IGameTiming _timing = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
@@ -41,6 +43,28 @@ public sealed partial class StationAiBorgSystem : EntitySystem
         SubscribeLocalEvent<BorgChassisComponent, StationAiDisableBorgEvent>(OnDisable);
         SubscribeLocalEvent<BorgChassisComponent, StationAiDetonateBorgEvent>(OnDetonate);
         SubscribeLocalEvent<BorgChassisComponent, StationAiTogglePanelLockEvent>(OnTogglePanelLock);
+        SubscribeLocalEvent<BorgChassisComponent, StationAiToggleImmobilizeEvent>(OnToggleImmobilize);
+    }
+
+    private void OnToggleImmobilize(EntityUid uid, BorgChassisComponent comp, StationAiToggleImmobilizeEvent args)
+    {
+        // Disponível sob QUALQUER lei (toggle reversível). O borg-jogador não consegue remover o marcador.
+        if (args.Immobilize)
+        {
+            EnsureComp<StationAiBorgImmobilizedComponent>(uid);
+            _popup.PopupEntity(Loc.GetString("station-ai-borg-immobilize-on", ("name", Name(uid))), args.User, args.User, PopupType.Medium);
+        }
+        else
+        {
+            RemComp<StationAiBorgImmobilizedComponent>(uid);
+            _popup.PopupEntity(Loc.GetString("station-ai-borg-immobilize-off", ("name", Name(uid))), args.User, args.User, PopupType.Medium);
+        }
+
+        // Reaplica os modificadores → a velocidade passa a contar (ou não) o zero do marcador.
+        _movement.RefreshMovementSpeedModifiers(uid);
+
+        _adminLogger.Add(LogType.Action, LogImpact.Medium,
+            $"{ToPrettyString(args.User):user} {(args.Immobilize ? "imobilizou" : "liberou")} o borg {ToPrettyString(uid):target} pela IA de estação.");
     }
 
     private void OnTogglePanelLock(EntityUid uid, BorgChassisComponent comp, StationAiTogglePanelLockEvent args)

@@ -43,3 +43,14 @@ public sealed class StationAiTogglePanelLockEvent : BaseStationAiAction
 {
     public bool Lock;
 }
+
+/// <summary>
+/// Ação da IA para imobilizar/liberar um borg pelo menu radial (enraíza no lugar, zerando a
+/// velocidade). Disponível sob qualquer lei. Toggle: o cliente decide <see cref="Immobilize"/>
+/// a partir do estado atual (tem ou não <c>StationAiBorgImmobilizedComponent</c>).
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiToggleImmobilizeEvent : BaseStationAiAction
+{
+    public bool Immobilize;
+}

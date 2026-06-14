@@ -32,6 +32,15 @@ public sealed partial class StationAiSystem
             Event = new StationAiTogglePanelLockEvent { Lock = !locked },
         });
 
+        // Imobilizar/Liberar: enraíza o borg no lugar. Também sob QUALQUER lei. Toggle.
+        var immobilized = HasComp<StationAiBorgImmobilizedComponent>(ent.Owner);
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/anchor.svg.192dpi.png")),
+            Tooltip = Loc.GetString(immobilized ? "ai-borg-release" : "ai-borg-immobilize"),
+            Event = new StationAiToggleImmobilizeEvent { Immobilize = !immobilized },
+        });
+
         // As demais (subverter/desligar/detonar) só aparecem sob lei hostil (o servidor reconfirma).
         if (!LocalAiIsHostile())
             return;

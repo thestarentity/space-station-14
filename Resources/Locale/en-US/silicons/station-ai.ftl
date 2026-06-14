@@ -59,6 +59,8 @@ ai-borg-disable = Disable cyborg
 ai-borg-detonate = Detonate cyborg
 ai-borg-panel-lock = Lock panel
 ai-borg-panel-unlock = Unlock panel
+ai-borg-immobilize = Immobilize cyborg
+ai-borg-release = Release cyborg
 station-ai-subvert-denied = Your laws don't allow subverting a cyborg.
 station-ai-subvert-already = This cyborg is already subverted.
 station-ai-subvert-success = Cyborg { $name } subverted. It now serves the AI.
@@ -68,6 +70,8 @@ station-ai-borg-detonate-arm = Click again to confirm DETONATING cyborg { $name 
 station-ai-borg-panel-locked = Panel locked by the AI.
 station-ai-borg-panel-lock-on = Cyborg { $name }'s panel locked.
 station-ai-borg-panel-lock-off = Cyborg { $name }'s panel unlocked.
+station-ai-borg-immobilize-on = Cyborg { $name } immobilized.
+station-ai-borg-immobilize-off = Cyborg { $name } released.
 
 toggle-light = Toggle light
 
