@@ -26,16 +26,22 @@ public sealed partial class StationAiAdminVerbSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<StationAiCoreComponent, GetVerbsEvent<Verb>>(OnGetVerbs);
+        // Broadcast (não component-directed) porque o SharedStationAiSystem já tem uma subscrição
+        // component-directed de GetVerbsEvent<Verb> no StationAiCore — duas no mesmo comp+evento
+        // crasham o servidor ("Duplicate Subscriptions"). Mesmo padrão do AdminVerbSystem.
+        SubscribeLocalEvent<GetVerbsEvent<Verb>>(OnGetVerbs);
     }
 
-    private void OnGetVerbs(Entity<StationAiCoreComponent> ent, ref GetVerbsEvent<Verb> args)
+    private void OnGetVerbs(GetVerbsEvent<Verb> args)
     {
+        if (!TryComp(args.Target, out StationAiCoreComponent? core))
+            return;
+
         if (!TryComp(args.User, out ActorComponent? actor) || !_admin.IsAdmin(actor.PlayerSession))
             return;
 
         // Acha o cérebro da IA (a entidade controlável com as funções) dentro do núcleo.
-        if (!_stationAi.TryGetHeld((ent.Owner, ent.Comp), out var held) || held == null)
+        if (!_stationAi.TryGetHeld((args.Target, core), out var held) || held == null)
             return;
 
         var user = args.User;
