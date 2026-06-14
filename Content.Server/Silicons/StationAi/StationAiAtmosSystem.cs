@@ -4,6 +4,8 @@ using Content.Shared.Administration.Logs;
 using Content.Shared.Atmos.Monitor.Components;
 using Content.Shared.Database;
 using Content.Shared.DeviceNetwork.Components;
+using Content.Shared.Doors.Components;
+using Content.Shared.Doors.Systems;
 using Content.Shared.Popups;
 using Content.Shared.Silicons.StationAi;
 
@@ -19,6 +21,8 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
     [Dependency] private SharedPopupSystem _popup = default!;
     [Dependency] private StationAiBulkDoorSystem _hostile = default!;
     [Dependency] private AirAlarmSystem _airAlarm = default!;
+    [Dependency] private SharedFirelockSystem _firelock = default!;
+    [Dependency] private SharedDoorSystem _door = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
     public override void Initialize()
@@ -26,6 +30,20 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<AirAlarmComponent, StationAiAirAlarmModeEvent>(OnSetMode);
+        SubscribeLocalEvent<FirelockComponent, StationAiFirelockEvent>(OnFirelock);
+    }
+
+    private void OnFirelock(EntityUid uid, FirelockComponent comp, StationAiFirelockEvent args)
+    {
+        // Disponível sob qualquer lei. Fechar = fechamento de emergência; abrir = só se não estiver
+        // travado por perigo (o próprio firelock recusa/refecha em pressão/temperatura).
+        if (args.Close)
+            _firelock.EmergencyPressureStop(uid, comp);
+        else
+            _door.TryOpen(uid, user: args.User);
+
+        _adminLogger.Add(LogType.Action, LogImpact.Medium,
+            $"{ToPrettyString(args.User):user} {(args.Close ? "fechou" : "abriu")} o firelock {ToPrettyString(uid):target} pela IA de estação.");
     }
 
     private void OnSetMode(EntityUid uid, AirAlarmComponent comp, StationAiAirAlarmModeEvent args)

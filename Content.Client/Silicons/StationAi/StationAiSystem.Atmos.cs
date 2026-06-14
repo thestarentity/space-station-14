@@ -1,4 +1,5 @@
 using Content.Shared.Atmos.Monitor.Components;
+using Content.Shared.Doors.Components;
 using Content.Shared.Silicons.StationAi;
 using Robust.Shared.Utility;
 
@@ -14,6 +15,20 @@ public sealed partial class StationAiSystem
     private void InitializeAtmos()
     {
         SubscribeLocalEvent<StationAiAirAlarmControllableComponent, GetStationAiRadialEvent>(OnAirAlarmGetRadial);
+        SubscribeLocalEvent<FirelockComponent, GetStationAiRadialEvent>(OnFirelockGetRadial);
+    }
+
+    private void OnFirelockGetRadial(Entity<FirelockComponent> ent, ref GetStationAiRadialEvent args)
+    {
+        // Fechar/abrir firelock (toggle pelo estado da porta) — qualquer lei.
+        var open = !TryComp<DoorComponent>(ent.Owner, out var door) || door.State != DoorState.Closed;
+
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, open ? "lowpressure2" : "highpressure2"),
+            Tooltip = Loc.GetString(open ? "ai-firelock-close" : "ai-firelock-open"),
+            Event = new StationAiFirelockEvent { Close = open },
+        });
     }
 
     private void OnAirAlarmGetRadial(Entity<StationAiAirAlarmControllableComponent> ent, ref GetStationAiRadialEvent args)

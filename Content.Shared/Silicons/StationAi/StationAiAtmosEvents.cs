@@ -13,3 +13,15 @@ public sealed class StationAiAirAlarmModeEvent : BaseStationAiAction
 {
     public AirAlarmMode Mode;
 }
+
+/// <summary>
+/// Ação da IA para fechar (emergência) ou abrir um firelock pelo menu radial. Disponível sob
+/// qualquer lei. <see cref="Close"/> decidido no cliente a partir do estado da porta (toggle).
+/// Abrir só vale se o firelock não estiver travado por perigo (pressão/temperatura) — nesse caso
+/// ele reabre/refecha sozinho, então abrir não é uma arma.
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiFirelockEvent : BaseStationAiAction
+{
+    public bool Close;
+}

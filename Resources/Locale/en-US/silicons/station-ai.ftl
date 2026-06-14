@@ -83,6 +83,8 @@ ai-atmos-fill = Atmos: fill with air
 ai-atmos-panic = Atmos: evacuate air (panic)
 station-ai-atmos-denied = Your laws don't allow evacuating the air.
 station-ai-atmos-mode-set = Air alarm mode changed.
+ai-firelock-close = Close firelock
+ai-firelock-open = Open firelock
 
 toggle-light = Toggle light
 

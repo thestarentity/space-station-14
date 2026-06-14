@@ -118,6 +118,9 @@
       interfaces:
         enum.WiresUiKey.Key:
           type: WiresBoundUserInterface
+        # Permite à IA de estação fechar/abrir o firelock pelo menu radial (alt-clique).
+        enum.AiUi.Key:
+          type: StationAiBoundUserInterface
     - type: Physics
       canCollide: false
     - type: Airtight
