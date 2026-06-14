@@ -1,3 +1,4 @@
+using Content.Shared.Examine;
 using Content.Shared.Popups;
 using Content.Shared.Wires;
 
@@ -18,6 +19,14 @@ public sealed partial class SharedStationAiBorgPanelLockSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<StationAiBorgPanelLockComponent, AttemptChangePanelEvent>(OnAttemptChangePanel);
+        SubscribeLocalEvent<StationAiBorgPanelLockComponent, ExaminedEvent>(OnExamine);
+    }
+
+    private void OnExamine(EntityUid uid, StationAiBorgPanelLockComponent comp, ExaminedEvent args)
+    {
+        // Indicador visível de que o painel está travado (senão um painel trancado fechado
+        // parece igual a um destrancado fechado).
+        args.PushMarkup(Loc.GetString("station-ai-borg-panel-locked-examine"));
     }
 
     private void OnAttemptChangePanel(Entity<StationAiBorgPanelLockComponent> ent, ref AttemptChangePanelEvent args)

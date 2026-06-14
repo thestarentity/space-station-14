@@ -64,6 +64,9 @@ station-ai-borg-panel-lock-on = Painel do borg { $name } trancado.
 station-ai-borg-panel-lock-off = Painel do borg { $name } destrancado.
 station-ai-borg-immobilize-on = Borg { $name } imobilizado.
 station-ai-borg-immobilize-off = Borg { $name } liberado.
+station-ai-borg-panel-locked-examine = O painel de manutenção está travado pela IA.
+# Verbo de admin no núcleo da IA
+station-ai-admin-control-verb = Controlar IA
 toggle-light = Alternar luz
 ai-device-not-responding = Dispositivo não está respondendo
 ai-device-no-access = Você não tem acesso a este dispositivo

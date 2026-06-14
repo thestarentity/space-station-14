@@ -72,6 +72,9 @@ station-ai-borg-panel-lock-on = Cyborg { $name }'s panel locked.
 station-ai-borg-panel-lock-off = Cyborg { $name }'s panel unlocked.
 station-ai-borg-immobilize-on = Cyborg { $name } immobilized.
 station-ai-borg-immobilize-off = Cyborg { $name } released.
+station-ai-borg-panel-locked-examine = The maintenance panel is locked by the AI.
+# Admin verb on the AI core
+station-ai-admin-control-verb = Control AI
 
 toggle-light = Toggle light
 
