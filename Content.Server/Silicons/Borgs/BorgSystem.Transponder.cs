@@ -93,7 +93,11 @@ public sealed partial class BorgSystem
             Destroy(ent.Owner);
     }
 
-    private void Disable(Entity<BorgTransponderComponent, BorgChassisComponent?> ent)
+    /// <summary>
+    /// Inicia o desligamento de um borg (ejeta o cérebro após um atraso), igual ao comando do
+    /// console de robótica. Público para a IA de estação poder reaproveitar pelo menu radial.
+    /// </summary>
+    public void Disable(Entity<BorgTransponderComponent, BorgChassisComponent?> ent)
     {
         if (!Resolve(ent, ref ent.Comp2) || ent.Comp2.BrainEntity == null || ent.Comp1.NextDisable != null)
             return;

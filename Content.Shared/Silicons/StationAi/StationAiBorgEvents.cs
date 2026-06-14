@@ -12,3 +12,23 @@ namespace Content.Shared.Silicons.StationAi;
 public sealed class StationAiSubvertBorgEvent : BaseStationAiAction
 {
 }
+
+/// <summary>
+/// Ação da IA para desligar um borg pelo menu radial (só sob lei hostil). Reaproveita o mesmo
+/// "disable" do console de robótica (ejeta o cérebro do borg após um curto atraso). Um borg
+/// subvertido finge desligar, mas continua funcional (proteção já existente do emag).
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiDisableBorgEvent : BaseStationAiAction
+{
+}
+
+/// <summary>
+/// Ação da IA para detonar (explodir) um borg pelo menu radial (só sob lei hostil + confirmação
+/// por duplo-clique). Reaproveita o mesmo "destroy" do console de robótica. Um borg subvertido
+/// não explode de fato (proteção já existente do emag).
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiDetonateBorgEvent : BaseStationAiAction
+{
+}

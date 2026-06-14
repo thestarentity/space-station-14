@@ -10,9 +10,11 @@ public sealed partial class StationAiSystem
 {
     [Dependency] private EmagSystem _emag = default!;
 
-    // Placeholder: usa o ícone do cartão emag (tematicamente combina com "subverter").
-    // O usuário pode desenhar um PNG próprio depois e trocar este caminho.
+    // Ícones PLACEHOLDER (o usuário pode desenhar PNGs próprios depois e trocar estes caminhos):
+    // subverter = cartão emag; desligar = "no-action" dos borgs; detonar = bomba cluster.
     private readonly ResPath _emagRsi = new ResPath("/Textures/Objects/Tools/emag.rsi");
+    private readonly ResPath _borgActionsRsi = new ResPath("/Textures/Interface/Actions/actions_borg.rsi");
+    private readonly ResPath _clusterbombRsi = new ResPath("/Textures/Objects/Weapons/Grenades/clusterbomb.rsi");
 
     private void InitializeBorg()
     {
@@ -25,15 +27,31 @@ public sealed partial class StationAiSystem
         if (!LocalAiIsHostile())
             return;
 
-        // Já subvertido/emagado? não oferece de novo.
-        if (_emag.CheckFlag(ent.Owner, EmagType.Interaction))
-            return;
+        // Subverter: some se o borg já estiver subvertido/emagado.
+        if (!_emag.CheckFlag(ent.Owner, EmagType.Interaction))
+        {
+            args.Actions.Add(new StationAiRadial
+            {
+                Sprite = new SpriteSpecifier.Rsi(_emagRsi, "icon"),
+                Tooltip = Loc.GetString("ai-borg-subvert"),
+                Event = new StationAiSubvertBorgEvent(),
+            });
+        }
 
+        // Desligar borg (ejeta o cérebro).
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_emagRsi, "icon"),
-            Tooltip = Loc.GetString("ai-borg-subvert"),
-            Event = new StationAiSubvertBorgEvent(),
+            Sprite = new SpriteSpecifier.Rsi(_borgActionsRsi, "no-action"),
+            Tooltip = Loc.GetString("ai-borg-disable"),
+            Event = new StationAiDisableBorgEvent(),
+        });
+
+        // Detonar borg (irreversível; confirma no servidor por duplo-clique).
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(_clusterbombRsi, "icon"),
+            Tooltip = Loc.GetString("ai-borg-detonate"),
+            Event = new StationAiDetonateBorgEvent(),
         });
     }
 }
