@@ -15,7 +15,7 @@ namespace Content.Server.Silicons.StationAi;
 /// subvertido, e fica imune a tempestade iônica. O gate de "lei hostil" reusa a checagem já mantida
 /// por <see cref="StationAiBulkDoorSystem"/>.
 /// </summary>
-public sealed class StationAiBorgSystem : EntitySystem
+public sealed partial class StationAiBorgSystem : EntitySystem
 {
     [Dependency] private SharedPopupSystem _popup = default!;
     [Dependency] private EmagSystem _emag = default!;
