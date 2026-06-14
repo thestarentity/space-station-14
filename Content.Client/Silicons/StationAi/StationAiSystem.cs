@@ -24,6 +24,7 @@ public sealed partial class StationAiSystem : SharedStationAiSystem
         InitializeBorg();
         InitializeAtmos();
         InitializeTurret();
+        InitializeStructures();
 
         SubscribeLocalEvent<StationAiOverlayComponent, LocalPlayerAttachedEvent>(OnAiAttached);
         SubscribeLocalEvent<StationAiOverlayComponent, LocalPlayerDetachedEvent>(OnAiDetached);

@@ -67,6 +67,11 @@
     interfaces:
       enum.WiresUiKey.Key:
         type: WiresBoundUserInterface
+      enum.AiUi.Key:
+        type: StationAiBoundUserInterface
+  # Permite à IA de estação abrir/fechar a comporta pelo menu radial (alt-clique). Fase 4 — estruturas.
+  - type: StationAiWhitelist
+  - type: StationAiBlastDoorControllable
   - type: Airtight
   - type: RadiationBlocker
     resistance: 2

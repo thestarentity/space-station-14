@@ -98,6 +98,10 @@ ai-firelocks-trigger = Trigger firelocks (area)
 ai-firelocks-reset = Reset firelocks (area)
 station-ai-firelocks-triggered = Area firelocks triggered.
 station-ai-firelocks-reset = Area firelocks reset.
+ai-blastdoor-close = Close blast door
+ai-blastdoor-open = Open blast door
+station-ai-blastdoor-closed = Blast door closed.
+station-ai-blastdoor-opened = Blast door opened.
 
 toggle-light = Toggle light
 
