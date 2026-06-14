@@ -1,6 +1,7 @@
 using Content.Server.Atmos.Monitor.Components;
 using Content.Server.Atmos.Monitor.Systems;
 using Content.Shared.Administration.Logs;
+using Content.Shared.Atmos.Monitor;
 using Content.Shared.Atmos.Monitor.Components;
 using Content.Shared.Database;
 using Content.Shared.DeviceNetwork.Components;
@@ -23,6 +24,7 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
     [Dependency] private AirAlarmSystem _airAlarm = default!;
     [Dependency] private SharedFirelockSystem _firelock = default!;
     [Dependency] private SharedDoorSystem _door = default!;
+    [Dependency] private AtmosAlarmableSystem _atmosAlarmable = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
     public override void Initialize()
@@ -31,6 +33,20 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
 
         SubscribeLocalEvent<AirAlarmComponent, StationAiAirAlarmModeEvent>(OnSetMode);
         SubscribeLocalEvent<FirelockComponent, StationAiFirelockEvent>(OnFirelock);
+        SubscribeLocalEvent<StationAiFireAlarmControllableComponent, StationAiFireAlarmEvent>(OnFireAlarm);
+    }
+
+    private void OnFireAlarm(EntityUid uid, StationAiFireAlarmControllableComponent comp, StationAiFireAlarmEvent args)
+    {
+        // Disponível sob qualquer lei. Dispara (Danger → fecha firelocks da área) ou reseta (Normal → reabre).
+        if (args.Alert)
+            _atmosAlarmable.ForceAlert(uid, AtmosAlarmType.Danger);
+        else
+            _atmosAlarmable.Reset(uid);
+
+        _adminLogger.Add(LogType.Action, LogImpact.Medium,
+            $"{ToPrettyString(args.User):user} {(args.Alert ? "disparou" : "resetou")} o alarme de incêndio {ToPrettyString(uid):target} (firelocks) pela IA de estação.");
+        _popup.PopupEntity(Loc.GetString(args.Alert ? "station-ai-firelocks-triggered" : "station-ai-firelocks-reset"), args.User, args.User, PopupType.Medium);
     }
 
     private void OnFirelock(EntityUid uid, FirelockComponent comp, StationAiFirelockEvent args)

@@ -16,6 +16,25 @@ public sealed partial class StationAiSystem
     {
         SubscribeLocalEvent<StationAiAirAlarmControllableComponent, GetStationAiRadialEvent>(OnAirAlarmGetRadial);
         SubscribeLocalEvent<FirelockComponent, GetStationAiRadialEvent>(OnFirelockGetRadial);
+        SubscribeLocalEvent<StationAiFireAlarmControllableComponent, GetStationAiRadialEvent>(OnFireAlarmGetRadial);
+    }
+
+    private void OnFireAlarmGetRadial(Entity<StationAiFireAlarmControllableComponent> ent, ref GetStationAiRadialEvent args)
+    {
+        // Disparar firelocks (fecha a área) e Resetar (reabre) — qualquer lei. Botões fixos.
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "lowpressure2"),
+            Tooltip = Loc.GetString("ai-firelocks-trigger"),
+            Event = new StationAiFireAlarmEvent { Alert = true },
+        });
+
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "highpressure2"),
+            Tooltip = Loc.GetString("ai-firelocks-reset"),
+            Event = new StationAiFireAlarmEvent { Alert = false },
+        });
     }
 
     private void OnFirelockGetRadial(Entity<FirelockComponent> ent, ref GetStationAiRadialEvent args)

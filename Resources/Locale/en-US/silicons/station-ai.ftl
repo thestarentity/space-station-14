@@ -85,6 +85,10 @@ station-ai-atmos-denied = Your laws don't allow evacuating the air.
 station-ai-atmos-mode-set = Air alarm mode changed.
 ai-firelock-close = Close firelock
 ai-firelock-open = Open firelock
+ai-firelocks-trigger = Trigger firelocks (area)
+ai-firelocks-reset = Reset firelocks (area)
+station-ai-firelocks-triggered = Area firelocks triggered.
+station-ai-firelocks-reset = Area firelocks reset.
 
 toggle-light = Toggle light
 
