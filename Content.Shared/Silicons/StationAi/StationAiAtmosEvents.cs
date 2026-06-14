@@ -36,3 +36,14 @@ public sealed class StationAiFireAlarmEvent : BaseStationAiAction
 {
     public bool Alert;
 }
+
+/// <summary>
+/// Ação da IA num alarme de ar para TRAVAR/DESTRAVAR o setor (lockdown de emergência): tranca todas
+/// as airlocks da grade (ferrolho, sem como abrir) + dispara os firelocks da rede do alarme. Travar
+/// só sob lei hostil; destravar é seguro (qualquer lei). <see cref="Lock"/> true = travar.
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiAtmosLockdownEvent : BaseStationAiAction
+{
+    public bool Lock;
+}

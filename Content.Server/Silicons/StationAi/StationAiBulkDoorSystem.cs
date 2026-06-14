@@ -223,6 +223,32 @@ public sealed partial class StationAiBulkDoorSystem : EntitySystem
     }
 
     /// <summary>
+    /// Tranca (ou destranca) à força TODAS as portas com ferrolho da grade, IGNORANDO acesso —
+    /// para o lockdown atmosférico da IA (StationAiAtmosSystem). Mantém a checagem de energia/fio.
+    /// Retorna quantas portas foram afetadas.
+    /// </summary>
+    public int BoltGridForced(EntityUid user, EntityUid? grid, bool bolted)
+    {
+        if (grid == null)
+            return 0;
+
+        var affected = 0;
+        var query = EntityQueryEnumerator<DoorBoltComponent, TransformComponent>();
+        while (query.MoveNext(out var uid, out var bolt, out var xform))
+        {
+            if (xform.GridUid != grid || bolt.BoltsDown == bolted)
+                continue;
+            if (bolt.BoltWireCut || !_power.IsPowered(uid))
+                continue;
+
+            if (_doors.TrySetBoltDown((uid, bolt), bolted, user))
+                affected++;
+        }
+
+        return affected;
+    }
+
+    /// <summary>
     /// A IA controlada por <paramref name="user"/> está sob um lawset hostil?
     /// Reutilizável por outros sistemas (ex.: subverter borg) para o mesmo gate de
     /// "só sob lei hostil" das ações perigosas.

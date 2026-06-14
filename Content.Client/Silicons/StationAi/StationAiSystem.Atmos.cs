@@ -52,31 +52,46 @@ public sealed partial class StationAiSystem
 
     private void OnAirAlarmGetRadial(Entity<StationAiAirAlarmControllableComponent> ent, ref GetStationAiRadialEvent args)
     {
-        // Filtragem (restaura/limpa o ar) — qualquer lei.
-        args.Actions.Add(new StationAiRadial
-        {
-            Sprite = new SpriteSpecifier.Rsi(_breathingRsi, "not_enough_oxy"),
-            Tooltip = Loc.GetString("ai-atmos-filter"),
-            Event = new StationAiAirAlarmModeEvent { Mode = AirAlarmMode.Filtering },
-        });
+        var mode = ent.Comp.CurrentMode;
 
-        // Encher de ar — qualquer lei.
-        args.Actions.Add(new StationAiRadial
-        {
-            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "highpressure1"),
-            Tooltip = Loc.GetString("ai-atmos-fill"),
-            Event = new StationAiAirAlarmModeEvent { Mode = AirAlarmMode.Fill },
-        });
+        // Modos (o ativo ganha um "✓" no tooltip — feedback de qual está rodando).
+        AddMode(args.Actions, mode, AirAlarmMode.Filtering, _breathingRsi, "not_enough_oxy", "ai-atmos-filter");
+        AddMode(args.Actions, mode, AirAlarmMode.Fill, _pressureRsi, "highpressure1", "ai-atmos-fill");
 
-        // Esvaziar / pânico (suga todo o ar — arma de vácuo) — só sob lei hostil.
         if (LocalAiIsHostile())
         {
+            // Esvaziar/pânico (vácuo inescapável: suga o ar + tranca airlocks; persiste até filtrar).
+            AddMode(args.Actions, mode, AirAlarmMode.Panic, _pressureRsi, "lowpressure1", "ai-atmos-panic");
+
+            // Travar setor (lockdown): airlocks com ferrolho + firelocks fechados.
             args.Actions.Add(new StationAiRadial
             {
-                Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "lowpressure1"),
-                Tooltip = Loc.GetString("ai-atmos-panic"),
-                Event = new StationAiAirAlarmModeEvent { Mode = AirAlarmMode.Panic },
+                Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/lock-red.svg.192dpi.png")),
+                Tooltip = Loc.GetString("ai-atmos-lockdown"),
+                Event = new StationAiAtmosLockdownEvent { Lock = true },
             });
         }
+
+        // Destravar setor (liberar) — qualquer lei (soltar a trava é seguro).
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/lock.svg.192dpi.png")),
+            Tooltip = Loc.GetString("ai-atmos-unlock"),
+            Event = new StationAiAtmosLockdownEvent { Lock = false },
+        });
+    }
+
+    private void AddMode(List<StationAiRadial> actions, AirAlarmMode current, AirAlarmMode mode, ResPath rsi, string state, string locKey)
+    {
+        var label = Loc.GetString(locKey);
+        if (current == mode)
+            label += " ✓";
+
+        actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(rsi, state),
+            Tooltip = label,
+            Event = new StationAiAirAlarmModeEvent { Mode = mode },
+        });
     }
 }

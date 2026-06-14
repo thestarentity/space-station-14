@@ -32,6 +32,7 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<AirAlarmComponent, StationAiAirAlarmModeEvent>(OnSetMode);
+        SubscribeLocalEvent<StationAiAirAlarmControllableComponent, StationAiAtmosLockdownEvent>(OnLockdown);
         SubscribeLocalEvent<FirelockComponent, StationAiFirelockEvent>(OnFirelock);
         SubscribeLocalEvent<StationAiFireAlarmControllableComponent, StationAiFireAlarmEvent>(OnFireAlarm);
     }
@@ -71,6 +72,10 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
             return;
         }
 
+        // Desliga o auto-modo: senão, quando o ar entra em perigo, o alarme troca sozinho de volta
+        // p/ Filtering (era por isso que o pânico parava em segundos). Agora o modo da IA persiste.
+        comp.AutoMode = false;
+
         // origin = endereço de rede do próprio alarme (igual ao caminho normal da UI).
         var addr = string.Empty;
         if (TryComp<DeviceNetworkComponent>(uid, out var netConn))
@@ -79,8 +84,46 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
         // uiOnly: false → executa de verdade (comanda vents/scrubbers).
         _airAlarm.SetMode(uid, addr, args.Mode, false, comp);
 
+        // Espelha o modo no marcador p/ o cliente mostrar qual está ativo (feedback do radial).
+        if (TryComp<StationAiAirAlarmControllableComponent>(uid, out var marker))
+        {
+            marker.CurrentMode = args.Mode;
+            Dirty(uid, marker);
+        }
+
+        // Pânico tranca todas as airlocks da grade (vácuo inescapável); Filtragem destranca (tudo ok).
+        var grid = Transform(uid).GridUid;
+        if (args.Mode == AirAlarmMode.Panic)
+            _hostile.BoltGridForced(args.User, grid, true);
+        else if (args.Mode == AirAlarmMode.Filtering)
+            _hostile.BoltGridForced(args.User, grid, false);
+
         _adminLogger.Add(LogType.AtmosDeviceSetting, LogImpact.Medium,
             $"{ToPrettyString(args.User):user} definiu o alarme de ar {ToPrettyString(uid):target} para o modo {args.Mode} pela IA de estação.");
         _popup.PopupEntity(Loc.GetString("station-ai-atmos-mode-set"), args.User, args.User, PopupType.Medium);
+    }
+
+    private void OnLockdown(EntityUid uid, StationAiAirAlarmControllableComponent comp, StationAiAtmosLockdownEvent args)
+    {
+        // Travar só sob lei hostil (destravar/liberar é seguro, qualquer lei).
+        if (args.Lock && !_hostile.IsUserUnderHostileLaw(args.User))
+        {
+            _popup.PopupEntity(Loc.GetString("station-ai-atmos-denied"), args.User, args.User, PopupType.MediumCaution);
+            return;
+        }
+
+        var grid = Transform(uid).GridUid;
+
+        // Tranca/destranca todas as airlocks da grade E dispara/reseta os firelocks da rede do alarme
+        // (simula uma emergência de ar: tudo fecha e não abre).
+        _hostile.BoltGridForced(args.User, grid, args.Lock);
+        if (args.Lock)
+            _atmosAlarmable.ForceAlert(uid, AtmosAlarmType.Danger);
+        else
+            _atmosAlarmable.Reset(uid);
+
+        _adminLogger.Add(LogType.Action, LogImpact.High,
+            $"{ToPrettyString(args.User):user} {(args.Lock ? "travou" : "destravou")} o setor (lockdown atmos) via alarme de ar {ToPrettyString(uid):target} pela IA de estação.");
+        _popup.PopupEntity(Loc.GetString(args.Lock ? "station-ai-atmos-lockdown-on" : "station-ai-atmos-lockdown-off"), args.User, args.User, PopupType.Medium);
     }
 }
