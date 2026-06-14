@@ -2,6 +2,7 @@ using Content.Server.Power.Components;
 using Content.Server.Power.EntitySystems;
 using Content.Shared.APC;
 using Content.Shared.Silicons.StationAi;
+using Content.Shared.UserInterface;
 
 namespace Content.Server.Silicons.StationAi;
 
@@ -23,6 +24,14 @@ public sealed partial class StationAiApcSystem : EntitySystem
         SubscribeLocalEvent<StationAiApcControllableComponent, MapInitEvent>(OnMapInit);
         SubscribeLocalEvent<StationAiApcControllableComponent, StationAiApcToggleEvent>(OnToggle);
         SubscribeLocalEvent<StationAiApcControllableComponent, ApcMainBreakerChangedEvent>(OnBreakerChanged);
+        SubscribeLocalEvent<StationAiApcControllableComponent, ActivatableUIOpenAttemptEvent>(OnUiOpenAttempt);
+    }
+
+    private void OnUiOpenAttempt(EntityUid uid, StationAiApcControllableComponent comp, ActivatableUIOpenAttemptEvent args)
+    {
+        // A IA só pode mexer na APC pelo menu radial (alt-clique), nunca pelo painel padrão de humano.
+        if (HasComp<StationAiHeldComponent>(args.User))
+            args.Cancel();
     }
 
     private void OnMapInit(EntityUid uid, StationAiApcControllableComponent comp, MapInitEvent args)

@@ -104,6 +104,11 @@ public sealed partial class StationAiSystem
 
     private void OnDoorElectrifiedGetRadial(Entity<ElectrifiedComponent> ent, ref GetStationAiRadialEvent args)
     {
+        // Só portas devem mostrar as ações de eletrificar. Outras entidades com ElectrifiedComponent
+        // (ex.: a APC, que dá choque ao ser hackeada) não devem ganhar esses botões no radial.
+        if (!HasComp<DoorComponent>(ent.Owner))
+            return;
+
         var willElectrify = !ent.Comp.Enabled;
 
         // Porta individual (safe).
