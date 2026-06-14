@@ -22,6 +22,7 @@ public sealed partial class StationAiSystem : SharedStationAiSystem
         InitializePowerToggle();
         InitializeApc();
         InitializeBorg();
+        InitializeAtmos();
 
         SubscribeLocalEvent<StationAiOverlayComponent, LocalPlayerAttachedEvent>(OnAiAttached);
         SubscribeLocalEvent<StationAiOverlayComponent, LocalPlayerDetachedEvent>(OnAiDetached);

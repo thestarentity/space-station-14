@@ -77,6 +77,12 @@ station-ai-borg-immobilize-off = Cyborg { $name } released.
 station-ai-borg-panel-locked-examine = The maintenance panel is locked by the AI.
 # Admin verb on the AI core
 station-ai-admin-control-verb = Control AI
+# Atmospherics control (air alarm)
+ai-atmos-filter = Atmos: filter air
+ai-atmos-fill = Atmos: fill with air
+ai-atmos-panic = Atmos: evacuate air (panic)
+station-ai-atmos-denied = Your laws don't allow evacuating the air.
+station-ai-atmos-mode-set = Air alarm mode changed.
 
 toggle-light = Toggle light
 

@@ -5,6 +5,7 @@
   description: An air alarm. Alarms... air?
   components:
   - type: StationAiWhitelist
+  - type: StationAiAirAlarmControllable
   - type: Electrified
     enabled: false
     usesApcPower: true
@@ -57,6 +58,9 @@
         type: AirAlarmBoundUserInterface
       enum.WiresUiKey.Key:
         type: WiresBoundUserInterface
+      # Permite à IA de estação controlar o modo do alarme pelo menu radial (alt-clique).
+      enum.AiUi.Key:
+        type: StationAiBoundUserInterface
   - type: WiresPanel
   - type: Wires
     boardName: wires-board-name-airalarm
