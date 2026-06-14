@@ -223,22 +223,28 @@ public sealed partial class StationAiBulkDoorSystem : EntitySystem
     }
 
     /// <summary>
-    /// Tranca (ou destranca) à força TODAS as portas com ferrolho da grade, IGNORANDO acesso —
-    /// para o lockdown atmosférico da IA (StationAiAtmosSystem). Mantém a checagem de energia/fio.
-    /// Retorna quantas portas foram afetadas.
+    /// Tranca (ou destranca) à força as portas com ferrolho num RAIO ao redor de <paramref name="center"/>,
+    /// IGNORANDO acesso — para o lockdown atmosférico da IA (StationAiAtmosSystem). Só a área local do
+    /// alarme, não a estação inteira. Mantém a checagem de energia/fio. Retorna quantas portas afetou.
     /// </summary>
-    public int BoltGridForced(EntityUid user, EntityUid? grid, bool bolted)
+    public int BoltAreaForced(EntityUid user, EntityUid center, float radius, bool bolted)
     {
+        var grid = Transform(center).GridUid;
         if (grid == null)
             return 0;
 
+        var centerPos = _xforms.GetWorldPosition(center);
+        var radiusSq = radius * radius;
         var affected = 0;
+
         var query = EntityQueryEnumerator<DoorBoltComponent, TransformComponent>();
         while (query.MoveNext(out var uid, out var bolt, out var xform))
         {
             if (xform.GridUid != grid || bolt.BoltsDown == bolted)
                 continue;
             if (bolt.BoltWireCut || !_power.IsPowered(uid))
+                continue;
+            if ((_xforms.GetWorldPosition(uid) - centerPos).LengthSquared() > radiusSq)
                 continue;
 
             if (_doors.TrySetBoltDown((uid, bolt), bolted, user))

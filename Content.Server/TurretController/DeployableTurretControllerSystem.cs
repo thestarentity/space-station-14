@@ -98,6 +98,15 @@ public sealed partial class DeployableTurretControllerSystem : SharedDeployableT
         }
     }
 
+    /// <summary>
+    /// Define o armamento de todas as torretas ligadas IGNORANDO a checagem de acesso — para a IA de
+    /// estação acionar pelo menu radial (ela fura o ID, como faz com portas/APC). (Fork Estação Honk.)
+    /// </summary>
+    public void SetArmamentFromAi(Entity<DeployableTurretControllerComponent> ent, int armamentState, EntityUid user)
+    {
+        ChangeArmamentSetting(ent, armamentState, user);
+    }
+
     protected override void ChangeArmamentSetting(Entity<DeployableTurretControllerComponent> ent, int armamentState, EntityUid? user = null)
     {
         base.ChangeArmamentSetting(ent, armamentState, user);

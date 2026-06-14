@@ -27,6 +27,12 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
     [Dependency] private AtmosAlarmableSystem _atmosAlarmable = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
+    /// <summary>
+    /// Raio (em tiles) ao redor do alarme de ar em que o pânico tranca/destranca as airlocks.
+    /// Pequeno de propósito: só a área local, nunca a estação inteira.
+    /// </summary>
+    private const float PanicBoltRadius = 4.5f;
+
     public override void Initialize()
     {
         base.Initialize();
@@ -90,12 +96,12 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
             Dirty(uid, marker);
         }
 
-        // Pânico tranca todas as airlocks da grade (vácuo inescapável); Filtragem destranca (tudo ok).
-        var grid = Transform(uid).GridUid;
+        // Pânico tranca as airlocks SÓ NA ÁREA LOCAL do alarme (vácuo inescapável ali); Filtragem
+        // destranca a mesma área. Raio pequeno — não trava a estação inteira.
         if (args.Mode == AirAlarmMode.Panic)
-            _hostile.BoltGridForced(args.User, grid, true);
+            _hostile.BoltAreaForced(args.User, uid, PanicBoltRadius, true);
         else if (args.Mode == AirAlarmMode.Filtering)
-            _hostile.BoltGridForced(args.User, grid, false);
+            _hostile.BoltAreaForced(args.User, uid, PanicBoltRadius, false);
 
         _adminLogger.Add(LogType.AtmosDeviceSetting, LogImpact.Medium,
             $"{ToPrettyString(args.User):user} definiu o alarme de ar {ToPrettyString(uid):target} para o modo {args.Mode} pela IA de estação.");

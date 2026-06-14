@@ -7,6 +7,7 @@ using Content.Shared.IdentityManagement;
 using Content.Shared.Interaction;
 using Content.Shared.Interaction.Events;
 using Content.Shared.Popups;
+using Content.Shared.Silicons.StationAi;
 using Content.Shared.Storage;
 using Content.Shared.Storage.Components;
 using Content.Shared.UserInterface;
@@ -361,6 +362,11 @@ public sealed partial class LockSystem : EntitySystem
     private void AddToggleLockVerb(EntityUid uid, LockComponent component, GetVerbsEvent<AlternativeVerb> args)
     {
         if (!args.CanAccess || !args.CanInteract || !args.CanComplexInteract || !component.ShowLockVerbs)
+            return;
+
+        // A IA de estação trava/destrava pelo menu radial, não pelo verbo de alt-clique — esconde o
+        // verbo pra ela pra o alt-clique dela ficar limpo (só o radial). (Fork Estação Honk.)
+        if (HasComp<StationAiHeldComponent>(args.User))
             return;
 
         AlternativeVerb verb = new()

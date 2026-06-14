@@ -84,6 +84,14 @@ ai-atmos-panic = Atmos: evacuate air (panic)
 station-ai-atmos-denied = Your laws don't allow evacuating the air.
 station-ai-atmos-mode-set = Air alarm mode changed.
 ai-atmos-active = (active)
+# Turret control (panel)
+ai-turret-off = Turrets: disable
+ai-turret-stun = Turrets: stun
+ai-turret-lethal = Turrets: hostile (lethal)
+ai-turret-lock = Lock panel
+ai-turret-unlock = Unlock panel
+station-ai-turret-denied = Your laws don't allow arming the turrets to lethal.
+station-ai-turret-set = Turret armament changed.
 ai-firelock-close = Close firelock
 ai-firelock-open = Open firelock
 ai-firelocks-trigger = Trigger firelocks (area)

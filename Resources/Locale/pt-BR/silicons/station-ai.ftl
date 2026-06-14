@@ -76,6 +76,14 @@ ai-atmos-panic = Atmos: esvaziar (pânico)
 station-ai-atmos-denied = Suas leis não permitem esvaziar o ar.
 station-ai-atmos-mode-set = Modo do alarme de ar alterado.
 ai-atmos-active = (ativo)
+# Controle de torretas (painel)
+ai-turret-off = Torretas: desligar
+ai-turret-stun = Torretas: atordoar
+ai-turret-lethal = Torretas: hostil (letal)
+ai-turret-lock = Trancar painel
+ai-turret-unlock = Destrancar painel
+station-ai-turret-denied = Suas leis não permitem armar as torretas como letais.
+station-ai-turret-set = Armamento das torretas alterado.
 ai-firelock-close = Fechar firelock
 ai-firelock-open = Abrir firelock
 ai-firelocks-trigger = Disparar firelocks (área)
