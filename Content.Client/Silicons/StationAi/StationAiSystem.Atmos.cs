@@ -7,11 +7,6 @@ namespace Content.Client.Silicons.StationAi;
 
 public sealed partial class StationAiSystem
 {
-    // Ícones PLACEHOLDER (usuário pode desenhar próprios depois):
-    // filtrar = pulmão; encher = alta pressão; esvaziar = baixa pressão.
-    private readonly ResPath _breathingRsi = new ResPath("/Textures/Interface/Alerts/breathing.rsi");
-    private readonly ResPath _pressureRsi = new ResPath("/Textures/Interface/Alerts/pressure.rsi");
-
     private void InitializeAtmos()
     {
         SubscribeLocalEvent<StationAiAirAlarmControllableComponent, GetStationAiRadialEvent>(OnAirAlarmGetRadial);
@@ -24,14 +19,14 @@ public sealed partial class StationAiSystem
         // Disparar firelocks (fecha a área) e Resetar (reabre) — qualquer lei. Botões fixos.
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "lowpressure2"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, "turn_on_firealarm"),
             Tooltip = Loc.GetString("ai-firelocks-trigger"),
             Event = new StationAiFireAlarmEvent { Alert = true },
         });
 
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, "highpressure2"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, "turn_off_firealarm"),
             Tooltip = Loc.GetString("ai-firelocks-reset"),
             Event = new StationAiFireAlarmEvent { Alert = false },
         });
@@ -39,12 +34,12 @@ public sealed partial class StationAiSystem
 
     private void OnFirelockGetRadial(Entity<FirelockComponent> ent, ref GetStationAiRadialEvent args)
     {
-        // Fechar/abrir firelock (toggle pelo estado da porta) — qualquer lei.
+        // Fechar/abrir firelock (toggle pelo estado da porta) — qualquer lei. Reusa os ícones do alarme de fogo.
         var open = !TryComp<DoorComponent>(ent.Owner, out var door) || door.State != DoorState.Closed;
 
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_pressureRsi, open ? "lowpressure2" : "highpressure2"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, open ? "turn_on_firealarm" : "turn_off_firealarm"),
             Tooltip = Loc.GetString(open ? "ai-firelock-close" : "ai-firelock-open"),
             Event = new StationAiFirelockEvent { Close = open },
         });
@@ -54,25 +49,21 @@ public sealed partial class StationAiSystem
     {
         var mode = ent.Comp.CurrentMode;
 
-        // Modos. O ativo mostra o texto "(ativo)" no tooltip — feedback de qual está rodando.
-        AddMode(args.Actions, mode, AirAlarmMode.Filtering, _breathingRsi, "not_enough_oxy", "ai-atmos-filter");
-        AddMode(args.Actions, mode, AirAlarmMode.Fill, _pressureRsi, "highpressure1", "ai-atmos-fill");
+        // Modos: o ícone reflete o estado (versão "_on" quando aquele modo está ativo).
+        AddMode(args.Actions, mode, AirAlarmMode.Filtering, "airfilter", "ai-atmos-filter");
+        AddMode(args.Actions, mode, AirAlarmMode.Fill, "airadd", "ai-atmos-fill");
 
         // Esvaziar/pânico (vácuo inescapável: suga o ar + tranca as airlocks; persiste até filtrar) — só lei hostil.
         if (LocalAiIsHostile())
-            AddMode(args.Actions, mode, AirAlarmMode.Panic, _pressureRsi, "lowpressure1", "ai-atmos-panic");
+            AddMode(args.Actions, mode, AirAlarmMode.Panic, "airdepravation", "ai-atmos-panic");
     }
 
-    private void AddMode(List<StationAiRadial> actions, AirAlarmMode current, AirAlarmMode mode, ResPath rsi, string state, string locKey)
+    private void AddMode(List<StationAiRadial> actions, AirAlarmMode current, AirAlarmMode mode, string stateBase, string locKey)
     {
-        var label = Loc.GetString(locKey);
-        if (current == mode)
-            label += " " + Loc.GetString("ai-atmos-active");
-
         actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(rsi, state),
-            Tooltip = label,
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, current == mode ? $"{stateBase}_on" : $"{stateBase}_off"),
+            Tooltip = Loc.GetString(locKey),
             Event = new StationAiAirAlarmModeEvent { Mode = mode },
         });
     }

@@ -11,11 +11,8 @@ public sealed partial class StationAiSystem
 {
     [Dependency] private EmagSystem _emag = default!;
 
-    // Ícones PLACEHOLDER (o usuário pode desenhar PNGs próprios depois e trocar estes caminhos):
-    // subverter = cartão emag; desligar = "no-action" dos borgs; detonar = bomba cluster.
-    private readonly ResPath _emagRsi = new ResPath("/Textures/Objects/Tools/emag.rsi");
-    private readonly ResPath _borgActionsRsi = new ResPath("/Textures/Interface/Actions/actions_borg.rsi");
-    private readonly ResPath _clusterbombRsi = new ResPath("/Textures/Objects/Weapons/Grenades/clusterbomb.rsi");
+    // Ícones próprios da Estação Honk (feitos pelo usuário) para o menu radial da IA.
+    private readonly ResPath _aiCustomRsi = new ResPath("/Textures/Interface/Actions/actions_ai_custom.rsi");
 
     private void InitializeBorg()
     {
@@ -28,7 +25,7 @@ public sealed partial class StationAiSystem
         var locked = HasComp<StationAiBorgPanelLockComponent>(ent.Owner);
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_aiActionsRsi, locked ? "unbolt_door" : "bolt_door"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, locked ? "lockborgpanel_on" : "lockborgpanel_off"),
             Tooltip = Loc.GetString(locked ? "ai-borg-panel-unlock" : "ai-borg-panel-lock"),
             Event = new StationAiTogglePanelLockEvent { Lock = !locked },
         });
@@ -37,7 +34,7 @@ public sealed partial class StationAiSystem
         var immobilized = HasComp<StationAiBorgImmobilizedComponent>(ent.Owner);
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/anchor.svg.192dpi.png")),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, immobilized ? "freezeborg_on" : "freezeborg_off"),
             Tooltip = Loc.GetString(immobilized ? "ai-borg-release" : "ai-borg-immobilize"),
             Event = new StationAiToggleImmobilizeEvent { Immobilize = !immobilized },
         });
@@ -48,9 +45,7 @@ public sealed partial class StationAiSystem
         {
             args.Actions.Add(new StationAiRadial
             {
-                Sprite = new SpriteSpecifier.Texture(new ResPath(borgLock.Locked
-                    ? "/Textures/Interface/VerbIcons/lock.svg.192dpi.png"
-                    : "/Textures/Interface/VerbIcons/lock-red.svg.192dpi.png")),
+                Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, borgLock.Locked ? "lockborg_on" : "lockborg_off"),
                 Tooltip = Loc.GetString(borgLock.Locked ? "ai-borg-unlock" : "ai-borg-lock"),
                 Event = new StationAiToggleBorgLockEvent { Lock = !borgLock.Locked },
             });
@@ -65,7 +60,7 @@ public sealed partial class StationAiSystem
         {
             args.Actions.Add(new StationAiRadial
             {
-                Sprite = new SpriteSpecifier.Rsi(_emagRsi, "icon"),
+                Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, "hackborg"),
                 Tooltip = Loc.GetString("ai-borg-subvert"),
                 Event = new StationAiSubvertBorgEvent(),
             });
@@ -74,7 +69,7 @@ public sealed partial class StationAiSystem
         // Desligar borg (ejeta o cérebro).
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_borgActionsRsi, "no-action"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, "turnoffborg"),
             Tooltip = Loc.GetString("ai-borg-disable"),
             Event = new StationAiDisableBorgEvent(),
         });
@@ -82,7 +77,7 @@ public sealed partial class StationAiSystem
         // Detonar borg (irreversível; confirma no servidor por duplo-clique).
         args.Actions.Add(new StationAiRadial
         {
-            Sprite = new SpriteSpecifier.Rsi(_clusterbombRsi, "icon"),
+            Sprite = new SpriteSpecifier.Rsi(_aiCustomRsi, "detonateborg"),
             Tooltip = Loc.GetString("ai-borg-detonate"),
             Event = new StationAiDetonateBorgEvent(),
         });

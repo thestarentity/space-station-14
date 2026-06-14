@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by juliocesarmendesrod for Estacao Honk",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "airadd_off"
+    },
+    {
+      "name": "airadd_on"
+    },
+    {
+      "name": "airdepravation_off"
+    },
+    {
+      "name": "airdepravation_on"
+    },
+    {
+      "name": "airfilter_off"
+    },
+    {
+      "name": "airfilter_on"
+    },
+    {
+      "name": "detonateborg"
+    },
+    {
+      "name": "freezeborg_off"
+    },
+    {
+      "name": "freezeborg_on"
+    },
+    {
+      "name": "hackborg"
+    },
+    {
+      "name": "lockborg_off"
+    },
+    {
+      "name": "lockborg_on"
+    },
+    {
+      "name": "lockborgpanel_off"
+    },
+    {
+      "name": "lockborgpanel_on"
+    },
+    {
+      "name": "sentry_harmless_off"
+    },
+    {
+      "name": "sentry_harmless_on"
+    },
+    {
+      "name": "sentry_lethal_off"
+    },
+    {
+      "name": "sentry_lethal_on"
+    },
+    {
+      "name": "sentry_panellock_off"
+    },
+    {
+      "name": "sentry_panellock_on"
+    },
+    {
+      "name": "sentry_stun_off"
+    },
+    {
+      "name": "sentry_stun_on"
+    },
+    {
+      "name": "turn_off"
+    },
+    {
+      "name": "turn_off_firealarm"
+    },
+    {
+      "name": "turn_on"
+    },
+    {
+      "name": "turn_on_firealarm"
+    },
+    {
+      "name": "turnoffborg"
+    }
+  ]
+}
