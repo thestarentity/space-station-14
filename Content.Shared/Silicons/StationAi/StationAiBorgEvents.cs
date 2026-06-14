@@ -54,3 +54,15 @@ public sealed class StationAiToggleImmobilizeEvent : BaseStationAiAction
 {
     public bool Immobilize;
 }
+
+/// <summary>
+/// Ação da IA para trancar/destrancar o BORG em si (o <c>LockComponent</c>, que normalmente exige
+/// ID com acesso). Trancado, o borg não pode ter os módulos reconfigurados (UI bloqueada por
+/// <c>UIRequiresLock</c>). Disponível sob qualquer lei. Toggle: o cliente decide <see cref="Lock"/>
+/// a partir do estado atual do lock.
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiToggleBorgLockEvent : BaseStationAiAction
+{
+    public bool Lock;
+}

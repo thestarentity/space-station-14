@@ -1,5 +1,6 @@
 using Content.Shared.Emag.Components;
 using Content.Shared.Emag.Systems;
+using Content.Shared.Lock;
 using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Silicons.StationAi;
 using Robust.Shared.Utility;
@@ -40,6 +41,20 @@ public sealed partial class StationAiSystem
             Tooltip = Loc.GetString(immobilized ? "ai-borg-release" : "ai-borg-immobilize"),
             Event = new StationAiToggleImmobilizeEvent { Immobilize = !immobilized },
         });
+
+        // Trancar/Destrancar o borg em si (LockComponent — bloqueia reconfigurar módulos).
+        // A IA fura o ID. Também sob QUALQUER lei. Toggle.
+        if (TryComp<LockComponent>(ent.Owner, out var borgLock))
+        {
+            args.Actions.Add(new StationAiRadial
+            {
+                Sprite = new SpriteSpecifier.Texture(new ResPath(borgLock.Locked
+                    ? "/Textures/Interface/VerbIcons/lock.svg.192dpi.png"
+                    : "/Textures/Interface/VerbIcons/lock-red.svg.192dpi.png")),
+                Tooltip = Loc.GetString(borgLock.Locked ? "ai-borg-unlock" : "ai-borg-lock"),
+                Event = new StationAiToggleBorgLockEvent { Lock = !borgLock.Locked },
+            });
+        }
 
         // As demais (subverter/desligar/detonar) só aparecem sob lei hostil (o servidor reconfirma).
         if (!LocalAiIsHostile())

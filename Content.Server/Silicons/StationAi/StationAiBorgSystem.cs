@@ -3,6 +3,7 @@ using Content.Shared.Administration.Logs;
 using Content.Shared.Database;
 using Content.Shared.Emag.Components;
 using Content.Shared.Emag.Systems;
+using Content.Shared.Lock;
 using Content.Shared.Popups;
 using Content.Shared.Movement.Systems;
 using Content.Shared.Silicons.Borgs.Components;
@@ -27,6 +28,7 @@ public sealed partial class StationAiBorgSystem : EntitySystem
     [Dependency] private BorgSystem _borg = default!;
     [Dependency] private SharedWiresSystem _wires = default!;
     [Dependency] private MovementSpeedModifierSystem _movement = default!;
+    [Dependency] private LockSystem _lock = default!;
     [Dependency] private IGameTiming _timing = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
@@ -44,6 +46,23 @@ public sealed partial class StationAiBorgSystem : EntitySystem
         SubscribeLocalEvent<BorgChassisComponent, StationAiDetonateBorgEvent>(OnDetonate);
         SubscribeLocalEvent<BorgChassisComponent, StationAiTogglePanelLockEvent>(OnTogglePanelLock);
         SubscribeLocalEvent<BorgChassisComponent, StationAiToggleImmobilizeEvent>(OnToggleImmobilize);
+        SubscribeLocalEvent<BorgChassisComponent, StationAiToggleBorgLockEvent>(OnToggleBorgLock);
+    }
+
+    private void OnToggleBorgLock(EntityUid uid, BorgChassisComponent comp, StationAiToggleBorgLockEvent args)
+    {
+        // Disponível sob QUALQUER lei. A IA fura o ID e a exigência de painel: chama Lock/Unlock cru
+        // (versões sem checagem de acesso), trancando/destrancando o LockComponent do borg.
+        if (!TryComp<LockComponent>(uid, out var lockComp))
+            return;
+
+        if (args.Lock)
+            _lock.Lock(uid, args.User, lockComp);
+        else
+            _lock.Unlock(uid, args.User, lockComp);
+
+        _adminLogger.Add(LogType.Action, LogImpact.Medium,
+            $"{ToPrettyString(args.User):user} {(args.Lock ? "trancou" : "destrancou")} o borg {ToPrettyString(uid):target} (lock) pela IA de estação.");
     }
 
     private void OnToggleImmobilize(EntityUid uid, BorgChassisComponent comp, StationAiToggleImmobilizeEvent args)
