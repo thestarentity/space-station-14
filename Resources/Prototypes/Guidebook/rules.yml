@@ -377,3 +377,173 @@
   name: guide-entry-rules-ban-durations
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/BanDurations.xml"
+
+# === Estação Honk — conjunto de regras do fork (pt-BR MRP) ===
+- type: guideEntry
+  id: EstacaoHonkRuleset
+  name: guide-entry-rules-estacaohonk
+  ruleEntry: true
+  priority: 10
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules.xml"
+  children:
+  - EHRuleG0
+  - EHRuleG1
+  - EHRuleG2
+  - EHRuleG3
+  - EHRuleG4
+  - EHRuleG5
+  - EHRuleG6
+  - EHRuleJ1
+  - EHRuleJ2
+  - EHRuleJ3
+  - EHRuleJ4
+  - EHRuleJ5
+  - EHRuleJ6
+  - EHRuleJ7
+  - EHRuleJ8
+  - EHRuleA1
+  - EHRuleA2
+  - EHRuleA3
+  - EHRuleA4
+  - EHRuleS1
+  - EHRuleS2
+  - EHRuleStaff
+  - EHPunishments
+
+- type: guideEntry
+  id: EHRuleG0
+  name: guide-entry-rules-eh-g0
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG0.xml"
+
+- type: guideEntry
+  id: EHRuleG1
+  name: guide-entry-rules-eh-g1
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG1.xml"
+
+- type: guideEntry
+  id: EHRuleG2
+  name: guide-entry-rules-eh-g2
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG2.xml"
+
+- type: guideEntry
+  id: EHRuleG3
+  name: guide-entry-rules-eh-g3
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG3.xml"
+
+- type: guideEntry
+  id: EHRuleG4
+  name: guide-entry-rules-eh-g4
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG4.xml"
+
+- type: guideEntry
+  id: EHRuleG5
+  name: guide-entry-rules-eh-g5
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG5.xml"
+
+- type: guideEntry
+  id: EHRuleG6
+  name: guide-entry-rules-eh-g6
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleG6.xml"
+
+- type: guideEntry
+  id: EHRuleJ1
+  name: guide-entry-rules-eh-j1
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ1.xml"
+
+- type: guideEntry
+  id: EHRuleJ2
+  name: guide-entry-rules-eh-j2
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ2.xml"
+
+- type: guideEntry
+  id: EHRuleJ3
+  name: guide-entry-rules-eh-j3
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ3.xml"
+
+- type: guideEntry
+  id: EHRuleJ4
+  name: guide-entry-rules-eh-j4
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ4.xml"
+
+- type: guideEntry
+  id: EHRuleJ5
+  name: guide-entry-rules-eh-j5
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ5.xml"
+
+- type: guideEntry
+  id: EHRuleJ6
+  name: guide-entry-rules-eh-j6
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ6.xml"
+
+- type: guideEntry
+  id: EHRuleJ7
+  name: guide-entry-rules-eh-j7
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ7.xml"
+
+- type: guideEntry
+  id: EHRuleJ8
+  name: guide-entry-rules-eh-j8
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleJ8.xml"
+
+- type: guideEntry
+  id: EHRuleA1
+  name: guide-entry-rules-eh-a1
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleA1.xml"
+
+- type: guideEntry
+  id: EHRuleA2
+  name: guide-entry-rules-eh-a2
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleA2.xml"
+
+- type: guideEntry
+  id: EHRuleA3
+  name: guide-entry-rules-eh-a3
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleA3.xml"
+
+- type: guideEntry
+  id: EHRuleA4
+  name: guide-entry-rules-eh-a4
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleA4.xml"
+
+- type: guideEntry
+  id: EHRuleS1
+  name: guide-entry-rules-eh-s1
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleS1.xml"
+
+- type: guideEntry
+  id: EHRuleS2
+  name: guide-entry-rules-eh-s2
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleS2.xml"
+
+- type: guideEntry
+  id: EHRuleStaff
+  name: guide-entry-rules-eh-staff
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHRuleStaff.xml"
+
+- type: guideEntry
+  id: EHPunishments
+  name: guide-entry-rules-eh-punishments
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/EstacaoHonkRules/EHPunishments.xml"

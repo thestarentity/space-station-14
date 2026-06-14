@@ -206,3 +206,29 @@ guide-entry-rules-ban-durations = Ban Durations
 
 guide-entry-writing = Writing
 guide-entry-glossary = Glossary
+
+# Estacao Honk rules (fork)
+guide-entry-rules-estacaohonk = Estação Honk Rules
+guide-entry-rules-eh-g0 = G0
+guide-entry-rules-eh-g1 = G1
+guide-entry-rules-eh-g2 = G2
+guide-entry-rules-eh-g3 = G3
+guide-entry-rules-eh-g4 = G4
+guide-entry-rules-eh-g5 = G5
+guide-entry-rules-eh-g6 = G6
+guide-entry-rules-eh-j1 = J1
+guide-entry-rules-eh-j2 = J2
+guide-entry-rules-eh-j3 = J3
+guide-entry-rules-eh-j4 = J4
+guide-entry-rules-eh-j5 = J5
+guide-entry-rules-eh-j6 = J6
+guide-entry-rules-eh-j7 = J7
+guide-entry-rules-eh-j8 = J8
+guide-entry-rules-eh-a1 = A1
+guide-entry-rules-eh-a2 = A2
+guide-entry-rules-eh-a3 = A3
+guide-entry-rules-eh-a4 = A4
+guide-entry-rules-eh-s1 = S1
+guide-entry-rules-eh-s2 = S2
+guide-entry-rules-eh-staff = Staff
+guide-entry-rules-eh-punishments = Punishments
