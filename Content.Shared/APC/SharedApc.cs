@@ -222,6 +222,14 @@ namespace Content.Shared.APC
     {
     }
 
+    /// <summary>
+    /// Levantado na APC sempre que seu disjuntor principal muda de estado
+    /// (qualquer caminho: UI manual, sobrecarga, ou controle da IA).
+    /// Usado por features do fork para espelhar o estado (ex.: StationAiApcSystem).
+    /// </summary>
+    [ByRefEvent]
+    public readonly record struct ApcMainBreakerChangedEvent(bool On);
+
     public enum ApcExternalPowerState : byte
     {
         None,

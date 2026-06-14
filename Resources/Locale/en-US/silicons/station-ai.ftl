@@ -50,6 +50,10 @@ station-ai-doors-emergency-on = Enabled emergency access on { $count } doors.
 station-ai-doors-emergency-off = Disabled emergency access on { $count } doors.
 station-ai-bulk-denied = Your laws do not permit this action.
 
+# APC power control
+ai-apc-power-off = Cut area power
+ai-apc-power-on = Restore area power
+
 toggle-light = Toggle light
 
 ai-device-not-responding = Device is not responding

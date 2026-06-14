@@ -8,6 +8,7 @@
     mode: SnapgridCenter
   components:
   - type: StationAiWhitelist
+  - type: StationAiApcControllable
   - type: AmbientOnPowered
   - type: AmbientSound
     volume: -9

@@ -42,6 +42,9 @@ station-ai-doors-deelectrified = Parou de eletrificar { $count } portas.
 station-ai-doors-emergency-on = Ativou acesso de emergência em { $count } portas.
 station-ai-doors-emergency-off = Desativou acesso de emergência em { $count } portas.
 station-ai-bulk-denied = Suas leis não permitem esta ação.
+# Controle de energia da APC
+ai-apc-power-off = Cortar energia da área
+ai-apc-power-on = Restaurar energia da área
 toggle-light = Alternar luz
 ai-device-not-responding = Dispositivo não está respondendo
 ai-device-no-access = Você não tem acesso a este dispositivo

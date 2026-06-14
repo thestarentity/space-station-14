@@ -150,6 +150,9 @@ public sealed partial class ApcSystem : EntitySystem
             _adminLogger.Add(LogType.ItemConfigure, LogImpact.Medium,
                 $"{ToPrettyString(user):user} set the main breaker state of {ToPrettyString(uid):entity} to {humanReadableState:state}.");
         }
+
+        var changedEv = new ApcMainBreakerChangedEvent(apc.MainBreakerEnabled);
+        RaiseLocalEvent(uid, ref changedEv);
     }
 
     private void OnEmagged(EntityUid uid, ApcComponent comp, ref GotEmaggedEvent args)
