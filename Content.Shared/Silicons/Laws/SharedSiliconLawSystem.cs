@@ -3,6 +3,7 @@ using Content.Shared.Mind;
 using Content.Shared.Overlays;
 using Content.Shared.Popups;
 using Content.Shared.Silicons.Laws.Components;
+using Content.Shared.Silicons.StationAi;
 using Content.Shared.Stunnable;
 using Content.Shared.Wires;
 using Robust.Shared.Audio;
@@ -41,7 +42,10 @@ public abstract partial class SharedSiliconLawSystem : EntitySystem
             return;
         }
 
+        // A IA de estação subverte o borg à distância (pelo menu radial), então não exige
+        // painel de fios aberto — diferente de um humano usando um cartão emag na mão.
         if (component.RequireOpenPanel &&
+            !HasComp<StationAiHeldComponent>(args.UserUid) &&
             TryComp<WiresPanelComponent>(uid, out var panel) &&
             !panel.Open)
         {

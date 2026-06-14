@@ -53,6 +53,11 @@ station-ai-bulk-denied = Your laws do not permit this action.
 # APC power control
 ai-apc-power-off = Cut area power
 ai-apc-power-on = Restore area power
+# Subvert cyborg (AI radial menu, hostile law only)
+ai-borg-subvert = Subvert cyborg
+station-ai-subvert-denied = Your laws don't allow subverting a cyborg.
+station-ai-subvert-already = This cyborg is already subverted.
+station-ai-subvert-success = Cyborg { $name } subverted. It now serves the AI.
 
 toggle-light = Toggle light
 

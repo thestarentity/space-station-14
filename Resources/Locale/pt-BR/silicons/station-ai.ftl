@@ -45,6 +45,11 @@ station-ai-bulk-denied = Suas leis não permitem esta ação.
 # Controle de energia da APC
 ai-apc-power-off = Cortar energia da área
 ai-apc-power-on = Restaurar energia da área
+# Subverter borg (menu radial da IA, só sob lei hostil)
+ai-borg-subvert = Subverter borg
+station-ai-subvert-denied = Suas leis não permitem subverter um borg.
+station-ai-subvert-already = Este borg já está subvertido.
+station-ai-subvert-success = Borg { $name } subvertido. Agora ele serve à IA.
 toggle-light = Alternar luz
 ai-device-not-responding = Dispositivo não está respondendo
 ai-device-no-access = Você não tem acesso a este dispositivo

@@ -73,8 +73,12 @@
       # Only used for NT borgs that can switch type, defined here to avoid copy-pasting the rest of this component.
       enum.BorgSwitchableTypeUiKey.SelectBorgType:
         type: BorgSelectTypeUserInterface
+      # Permite à IA de estação interagir com o borg pelo menu radial (alt-clique).
+      enum.AiUi.Key:
+        type: StationAiBoundUserInterface
   - type: ActivatableUI
     key: enum.BorgUiKey.Key
+  - type: StationAiWhitelist
   - type: SiliconLawBound
   - type: ActionGrant
     actions:

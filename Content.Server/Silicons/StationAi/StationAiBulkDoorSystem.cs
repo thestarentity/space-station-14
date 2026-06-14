@@ -223,11 +223,21 @@ public sealed partial class StationAiBulkDoorSystem : EntitySystem
     }
 
     /// <summary>
+    /// A IA controlada por <paramref name="user"/> está sob um lawset hostil?
+    /// Reutilizável por outros sistemas (ex.: subverter borg) para o mesmo gate de
+    /// "só sob lei hostil" das ações perigosas.
+    /// </summary>
+    public bool IsUserUnderHostileLaw(EntityUid user)
+    {
+        return TryGetLawEntity(user, out var lawEnt) && IsLawsetHostile(lawEnt);
+    }
+
+    /// <summary>
     /// Mostra o popup de "negado" e retorna true se a IA NÃO pode usar ações de estação inteira.
     /// </summary>
     private bool DenyIfNotHostile(EntityUid user)
     {
-        if (TryGetLawEntity(user, out var lawEnt) && IsLawsetHostile(lawEnt))
+        if (IsUserUnderHostileLaw(user))
             return false;
 
         _popup.PopupEntity(Loc.GetString("station-ai-bulk-denied"), user, user, PopupType.MediumCaution);
