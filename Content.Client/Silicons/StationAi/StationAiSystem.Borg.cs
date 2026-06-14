@@ -23,7 +23,16 @@ public sealed partial class StationAiSystem
 
     private void OnBorgGetRadial(Entity<BorgChassisComponent> ent, ref GetStationAiRadialEvent args)
     {
-        // Subverter só aparece sob lei hostil (o servidor reconfirma).
+        // Trancar/Destrancar painel: disponível sob QUALQUER lei (defensivo ou ofensivo). Toggle.
+        var locked = HasComp<StationAiBorgPanelLockComponent>(ent.Owner);
+        args.Actions.Add(new StationAiRadial
+        {
+            Sprite = new SpriteSpecifier.Rsi(_aiActionsRsi, locked ? "unbolt_door" : "bolt_door"),
+            Tooltip = Loc.GetString(locked ? "ai-borg-panel-unlock" : "ai-borg-panel-lock"),
+            Event = new StationAiTogglePanelLockEvent { Lock = !locked },
+        });
+
+        // As demais (subverter/desligar/detonar) só aparecem sob lei hostil (o servidor reconfirma).
         if (!LocalAiIsHostile())
             return;
 

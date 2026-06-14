@@ -32,3 +32,14 @@ public sealed class StationAiDisableBorgEvent : BaseStationAiAction
 public sealed class StationAiDetonateBorgEvent : BaseStationAiAction
 {
 }
+
+/// <summary>
+/// Ação da IA para trancar/destrancar o painel de manutenção de um borg pelo menu radial.
+/// Disponível sob qualquer lei (uso defensivo ou ofensivo). É um toggle: o cliente decide
+/// <see cref="Lock"/> a partir do estado atual (tem ou não <c>StationAiBorgPanelLockComponent</c>).
+/// </summary>
+[Serializable, NetSerializable]
+public sealed class StationAiTogglePanelLockEvent : BaseStationAiAction
+{
+    public bool Lock;
+}

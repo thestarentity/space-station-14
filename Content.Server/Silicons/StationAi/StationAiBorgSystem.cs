@@ -6,6 +6,7 @@ using Content.Shared.Emag.Systems;
 using Content.Shared.Popups;
 using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Silicons.StationAi;
+using Content.Shared.Wires;
 using Robust.Shared.Timing;
 
 namespace Content.Server.Silicons.StationAi;
@@ -23,6 +24,7 @@ public sealed partial class StationAiBorgSystem : EntitySystem
     [Dependency] private EmagSystem _emag = default!;
     [Dependency] private StationAiBulkDoorSystem _hostile = default!;
     [Dependency] private BorgSystem _borg = default!;
+    [Dependency] private SharedWiresSystem _wires = default!;
     [Dependency] private IGameTiming _timing = default!;
     [Dependency] private ISharedAdminLogManager _adminLogger = default!;
 
@@ -38,6 +40,30 @@ public sealed partial class StationAiBorgSystem : EntitySystem
         SubscribeLocalEvent<BorgChassisComponent, StationAiSubvertBorgEvent>(OnSubvert);
         SubscribeLocalEvent<BorgChassisComponent, StationAiDisableBorgEvent>(OnDisable);
         SubscribeLocalEvent<BorgChassisComponent, StationAiDetonateBorgEvent>(OnDetonate);
+        SubscribeLocalEvent<BorgChassisComponent, StationAiTogglePanelLockEvent>(OnTogglePanelLock);
+    }
+
+    private void OnTogglePanelLock(EntityUid uid, BorgChassisComponent comp, StationAiTogglePanelLockEvent args)
+    {
+        // Disponível sob QUALQUER lei (uso defensivo de IA leal ou ofensivo de IA malf).
+        if (args.Lock)
+        {
+            // Fecha o painel antes de trancar (senão ficaria aberto e travado). Fecha enquanto o
+            // marcador ainda não existe, então o AttemptChangePanelEvent não é cancelado.
+            if (TryComp<WiresPanelComponent>(uid, out var panel) && panel.Open)
+                _wires.TogglePanel(uid, panel, false, args.User);
+
+            EnsureComp<StationAiBorgPanelLockComponent>(uid);
+            _popup.PopupEntity(Loc.GetString("station-ai-borg-panel-lock-on", ("name", Name(uid))), args.User, args.User, PopupType.Medium);
+        }
+        else
+        {
+            RemComp<StationAiBorgPanelLockComponent>(uid);
+            _popup.PopupEntity(Loc.GetString("station-ai-borg-panel-lock-off", ("name", Name(uid))), args.User, args.User, PopupType.Medium);
+        }
+
+        _adminLogger.Add(LogType.Action, LogImpact.Medium,
+            $"{ToPrettyString(args.User):user} {(args.Lock ? "trancou" : "destrancou")} o painel do borg {ToPrettyString(uid):target} pela IA de estação.");
     }
 
     private void OnDisable(EntityUid uid, BorgChassisComponent comp, StationAiDisableBorgEvent args)
