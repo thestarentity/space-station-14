@@ -65,7 +65,9 @@ public abstract partial class SharedSiliconLawSystem : EntitySystem
 
     public virtual void NotifyLawsChanged(EntityUid uid, SoundSpecifier? cue = null)
     {
-
+        // Hook para sistemas reagirem a mudança de leis (ex.: ações hostis da IA de estação).
+        var ev = new SiliconLawsUpdatedEvent();
+        RaiseLocalEvent(uid, ref ev);
     }
 
     protected virtual void EnsureSubvertedSiliconRole(EntityUid mindId)

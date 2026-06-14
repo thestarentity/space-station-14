@@ -16,60 +16,127 @@ public sealed partial class StationAiSystem
         SubscribeLocalEvent<ElectrifiedComponent, GetStationAiRadialEvent>(OnDoorElectrifiedGetRadial);
     }
 
+    private SpriteSpecifier.Rsi Icon(string state) => new(_aiActionsRsi, state);
+
+    /// <summary>
+    /// A IA local está sob lei hostil? Só então as opções de "estação inteira" aparecem.
+    /// </summary>
+    private bool LocalAiIsHostile()
+    {
+        return _player.LocalEntity is { } ent && HasComp<StationAiHostileLawComponent>(ent);
+    }
+
     private void OnDoorBoltGetRadial(Entity<DoorBoltComponent> ent, ref GetStationAiRadialEvent args)
     {
+        var willBolt = !ent.Comp.BoltsDown;
+
+        // Porta individual (safe).
         args.Actions.Add(
             new StationAiRadial
             {
-                Sprite = ent.Comp.BoltsDown
-                    ? new SpriteSpecifier.Rsi(_aiActionsRsi, "unbolt_door")
-                    : new SpriteSpecifier.Rsi(_aiActionsRsi, "bolt_door"),
-                Tooltip = ent.Comp.BoltsDown
-                    ? Loc.GetString("bolt-open")
-                    : Loc.GetString("bolt-close"),
-                Event = new StationAiBoltEvent
-                {
-                    Bolted = !ent.Comp.BoltsDown,
-                }
+                Sprite = Icon(willBolt ? "bolt_door_safe" : "unbolt_door_safe"),
+                Tooltip = Loc.GetString(ent.Comp.BoltsDown ? "bolt-open" : "bolt-close"),
+                Event = new StationAiBoltEvent { Bolted = willBolt },
             }
         );
+
+        // Área (cautious).
+        args.Actions.Add(
+            new StationAiRadial
+            {
+                Sprite = Icon(willBolt ? "bolt_door_cautious" : "unbolt_door_cautious"),
+                Tooltip = Loc.GetString(willBolt ? "bolt-area" : "unbolt-area"),
+                Event = new StationAiBoltAreaEvent { Bolted = willBolt },
+            }
+        );
+
+        // Estação inteira (dangereous) — só sob lei hostil.
+        if (LocalAiIsHostile())
+        {
+            args.Actions.Add(
+                new StationAiRadial
+                {
+                    Sprite = Icon(willBolt ? "bolt_door_dangereous" : "unbolt_door_dangereous"),
+                    Tooltip = Loc.GetString(willBolt ? "bolt-station" : "unbolt-station"),
+                    Event = new StationAiBoltStationEvent { Bolted = willBolt },
+                }
+            );
+        }
     }
 
     private void OnEmergencyAccessGetRadial(Entity<AirlockComponent> ent, ref GetStationAiRadialEvent args)
     {
+        var willEnable = !ent.Comp.EmergencyAccess;
+
+        // Porta individual (safe).
         args.Actions.Add(
             new StationAiRadial
             {
-                Sprite = ent.Comp.EmergencyAccess
-                    ? new SpriteSpecifier.Rsi(_aiActionsRsi, "emergency_off")
-                    : new SpriteSpecifier.Rsi(_aiActionsRsi, "emergency_on"),
-                Tooltip = ent.Comp.EmergencyAccess
-                    ? Loc.GetString("emergency-access-off")
-                    : Loc.GetString("emergency-access-on"),
-                Event = new StationAiEmergencyAccessEvent
-                {
-                    EmergencyAccess = !ent.Comp.EmergencyAccess,
-                }
+                Sprite = Icon(ent.Comp.EmergencyAccess ? "emergency_off_safe" : "emergency_on_safe"),
+                Tooltip = Loc.GetString(ent.Comp.EmergencyAccess ? "emergency-access-off" : "emergency-access-on"),
+                Event = new StationAiEmergencyAccessEvent { EmergencyAccess = willEnable },
             }
         );
+
+        // Área (cautious).
+        args.Actions.Add(
+            new StationAiRadial
+            {
+                Sprite = Icon(willEnable ? "emergency_on_cautious" : "emergency_off_cautious"),
+                Tooltip = Loc.GetString(willEnable ? "emergency-access-area-on" : "emergency-access-area-off"),
+                Event = new StationAiEmergencyAccessAreaEvent { EmergencyAccess = willEnable },
+            }
+        );
+
+        // Estação inteira (dangereous) — só sob lei hostil.
+        if (LocalAiIsHostile())
+        {
+            args.Actions.Add(
+                new StationAiRadial
+                {
+                    Sprite = Icon(willEnable ? "emergency_on_dangereous" : "emergency_off_dangereous"),
+                    Tooltip = Loc.GetString(willEnable ? "emergency-access-station-on" : "emergency-access-station-off"),
+                    Event = new StationAiEmergencyAccessStationEvent { EmergencyAccess = willEnable },
+                }
+            );
+        }
     }
 
     private void OnDoorElectrifiedGetRadial(Entity<ElectrifiedComponent> ent, ref GetStationAiRadialEvent args)
     {
+        var willElectrify = !ent.Comp.Enabled;
+
+        // Porta individual (safe).
         args.Actions.Add(
             new StationAiRadial
             {
-                Sprite = ent.Comp.Enabled
-                    ? new SpriteSpecifier.Rsi(_aiActionsRsi, "door_overcharge_off")
-                    : new SpriteSpecifier.Rsi(_aiActionsRsi, "door_overcharge_on"),
-                Tooltip = ent.Comp.Enabled
-                    ? Loc.GetString("electrify-door-off")
-                    : Loc.GetString("electrify-door-on"),
-                Event = new StationAiElectrifiedEvent
-                {
-                    Electrified = !ent.Comp.Enabled,
-                }
+                Sprite = Icon(ent.Comp.Enabled ? "door_overcharge_off_safe" : "door_overcharge_on_safe"),
+                Tooltip = Loc.GetString(ent.Comp.Enabled ? "electrify-door-off" : "electrify-door-on"),
+                Event = new StationAiElectrifiedEvent { Electrified = willElectrify },
             }
         );
+
+        // Área (cautious).
+        args.Actions.Add(
+            new StationAiRadial
+            {
+                Sprite = Icon(willElectrify ? "door_overcharge_on_cautious" : "door_overcharge_off_cautious"),
+                Tooltip = Loc.GetString(willElectrify ? "electrify-area" : "electrify-area-off"),
+                Event = new StationAiElectrifyAreaEvent { Electrified = willElectrify },
+            }
+        );
+
+        // Estação inteira (dangereous) — só sob lei hostil.
+        if (LocalAiIsHostile())
+        {
+            args.Actions.Add(
+                new StationAiRadial
+                {
+                    Sprite = Icon(willElectrify ? "door_overcharge_on_dangereous" : "door_overcharge_off_dangereous"),
+                    Tooltip = Loc.GetString(willElectrify ? "electrify-station" : "electrify-station-off"),
+                    Event = new StationAiElectrifyStationEvent { Electrified = willElectrify },
+                }
+            );
+        }
     }
 }

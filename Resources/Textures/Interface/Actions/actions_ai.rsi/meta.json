@@ -48,6 +48,60 @@
 		},
 		{
 			"name": "door_overcharge_off"
+		},
+		{
+			"name": "bolt_door_safe"
+		},
+		{
+			"name": "bolt_door_cautious"
+		},
+		{
+			"name": "bolt_door_dangereous"
+		},
+		{
+			"name": "unbolt_door_safe"
+		},
+		{
+			"name": "unbolt_door_cautious"
+		},
+		{
+			"name": "unbolt_door_dangereous"
+		},
+		{
+			"name": "door_overcharge_on_safe"
+		},
+		{
+			"name": "door_overcharge_on_cautious"
+		},
+		{
+			"name": "door_overcharge_on_dangereous"
+		},
+		{
+			"name": "door_overcharge_off_safe"
+		},
+		{
+			"name": "door_overcharge_off_cautious"
+		},
+		{
+			"name": "door_overcharge_off_dangereous"
+		},
+		{
+			"name": "emergency_on_safe"
+		},
+		{
+			"name": "emergency_on_cautious"
+		},
+		{
+			"name": "emergency_on_dangereous"
+		},
+		{
+			"name": "emergency_off_safe"
+		},
+		{
+			"name": "emergency_off_cautious"
+		},
+		{
+			"name": "emergency_off_dangereous"
 		}
 	]
 }

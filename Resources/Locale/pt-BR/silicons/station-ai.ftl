@@ -15,12 +15,33 @@ station-ai-ghost-role-description = Sirva a tripulação da estação como sua i
 # Radial actions
 ai-open = Abrir ações
 ai-close = Fechar ações
-bolt-close = Fechar ferrolho
-bolt-open = Abrir ferrolho
+bolt-close = Trancar porta
+bolt-open = Destrancar porta
 emergency-access-on = Ativar acesso de emergência
 emergency-access-off = Desativar acesso de emergência
 electrify-door-on = Ativar sobrecarga elétrica
 electrify-door-off = Desativar sobrecarga elétrica
+# Opções de radial em massa
+bolt-area = Trancar área
+unbolt-area = Destrancar área
+bolt-station = Trancar estação inteira
+unbolt-station = Destrancar estação inteira
+electrify-area = Eletrificar área
+electrify-area-off = Deseletrificar área
+electrify-station = Eletrificar estação inteira
+electrify-station-off = Deseletrificar estação inteira
+emergency-access-area-on = Acesso de emergência na área
+emergency-access-area-off = Desativar emergência na área
+emergency-access-station-on = Acesso de emergência na estação
+emergency-access-station-off = Desativar emergência na estação
+# Ações em massa de portas
+station-ai-doors-bolted = Trancou { $count } portas.
+station-ai-doors-unbolted = Destrancou { $count } portas.
+station-ai-doors-electrified = Eletrificou { $count } portas.
+station-ai-doors-deelectrified = Parou de eletrificar { $count } portas.
+station-ai-doors-emergency-on = Ativou acesso de emergência em { $count } portas.
+station-ai-doors-emergency-off = Desativou acesso de emergência em { $count } portas.
+station-ai-bulk-denied = Suas leis não permitem esta ação.
 toggle-light = Alternar luz
 ai-device-not-responding = Dispositivo não está respondendo
 ai-device-no-access = Você não tem acesso a este dispositivo

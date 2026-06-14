@@ -27,6 +27,29 @@ emergency-access-off = Disable emergency access
 electrify-door-on = Enable overcharge
 electrify-door-off = Disable overcharge
 
+# Bulk door radial options
+bolt-area = Bolt area
+unbolt-area = Unbolt area
+bolt-station = Bolt entire station
+unbolt-station = Unbolt entire station
+electrify-area = Overcharge area
+electrify-area-off = Stop overcharging area
+electrify-station = Overcharge entire station
+electrify-station-off = Stop overcharging station
+emergency-access-area-on = Emergency access (area)
+emergency-access-area-off = Disable emergency access (area)
+emergency-access-station-on = Emergency access (station)
+emergency-access-station-off = Disable emergency access (station)
+
+# Bulk door actions
+station-ai-doors-bolted = Bolted { $count } doors.
+station-ai-doors-unbolted = Unbolted { $count } doors.
+station-ai-doors-electrified = Overcharged { $count } doors.
+station-ai-doors-deelectrified = Stopped overcharging { $count } doors.
+station-ai-doors-emergency-on = Enabled emergency access on { $count } doors.
+station-ai-doors-emergency-off = Disabled emergency access on { $count } doors.
+station-ai-bulk-denied = Your laws do not permit this action.
+
 toggle-light = Toggle light
 
 ai-device-not-responding = Device is not responding
