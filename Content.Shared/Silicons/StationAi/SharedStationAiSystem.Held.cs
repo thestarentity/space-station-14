@@ -2,6 +2,7 @@ using Content.Shared.Actions.Events;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Interaction.Events;
 using Content.Shared.Popups;
+using Content.Shared.UserInterface;
 using Content.Shared.Verbs;
 using Robust.Shared.Serialization;
 using Robust.Shared.Utility;
@@ -19,6 +20,7 @@ public abstract partial class SharedStationAiSystem
     {
         SubscribeLocalEvent<StationAiRadialMessage>(OnRadialMessage);
         SubscribeLocalEvent<StationAiWhitelistComponent, BoundUserInterfaceMessageAttempt>(OnMessageAttempt);
+        SubscribeLocalEvent<StationAiWhitelistComponent, ActivatableUIOpenAttemptEvent>(OnTargetActivatableUiOpenAttempt);
         SubscribeLocalEvent<StationAiWhitelistComponent, GetVerbsEvent<AlternativeVerb>>(OnTargetVerbs);
 
         SubscribeLocalEvent<StationAiHeldComponent, InteractionAttemptEvent>(OnHeldInteraction);
@@ -142,6 +144,16 @@ public abstract partial class SharedStationAiSystem
             }
             ev.Cancel();
         }
+    }
+
+    private void OnTargetActivatableUiOpenAttempt(Entity<StationAiWhitelistComponent> ent, ref ActivatableUIOpenAttemptEvent args)
+    {
+        // A IA de estação só interage pelas máquinas pelo menu radial (alt-clique), nunca pelo
+        // painel padrão de humano (ActivatableUI). Tratado aqui no shared (e não só no servidor)
+        // para a predição do cliente já cancelar a abertura — assim o painel não chega a "piscar".
+        // Vale para qualquer máquina com StationAiWhitelist (APC e as próximas fases).
+        if (HasComp<StationAiHeldComponent>(args.User))
+            args.Cancel();
     }
 
     private void OnHeldInteraction(Entity<StationAiHeldComponent> ent, ref InteractionAttemptEvent args)
