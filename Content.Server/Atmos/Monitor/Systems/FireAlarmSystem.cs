@@ -7,6 +7,7 @@ using Content.Shared.DeviceNetwork.Components;
 using Content.Shared.DeviceNetwork.Systems;
 using Content.Shared.Interaction;
 using Content.Shared.Emag.Systems;
+using Content.Shared.Silicons.StationAi;
 using Robust.Shared.Configuration;
 
 namespace Content.Server.Atmos.Monitor.Systems;
@@ -46,6 +47,11 @@ public sealed partial class FireAlarmSystem : EntitySystem
 
     private void OnInteractHand(EntityUid uid, FireAlarmComponent component, InteractHandEvent args)
     {
+        // A IA de estação só controla o alarme de incêndio pelo menu radial (alt-clique), nunca pelo
+        // clique normal. (Fork Estação Honk.)
+        if (HasComp<StationAiHeldComponent>(args.User))
+            return;
+
         if (!_interactionSystem.InRangeUnobstructed(args.User, args.Target))
             return;
 

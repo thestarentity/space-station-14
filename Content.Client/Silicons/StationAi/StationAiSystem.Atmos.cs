@@ -54,38 +54,20 @@ public sealed partial class StationAiSystem
     {
         var mode = ent.Comp.CurrentMode;
 
-        // Modos (o ativo ganha um "✓" no tooltip — feedback de qual está rodando).
+        // Modos. O ativo mostra o texto "(ativo)" no tooltip — feedback de qual está rodando.
         AddMode(args.Actions, mode, AirAlarmMode.Filtering, _breathingRsi, "not_enough_oxy", "ai-atmos-filter");
         AddMode(args.Actions, mode, AirAlarmMode.Fill, _pressureRsi, "highpressure1", "ai-atmos-fill");
 
+        // Esvaziar/pânico (vácuo inescapável: suga o ar + tranca as airlocks; persiste até filtrar) — só lei hostil.
         if (LocalAiIsHostile())
-        {
-            // Esvaziar/pânico (vácuo inescapável: suga o ar + tranca airlocks; persiste até filtrar).
             AddMode(args.Actions, mode, AirAlarmMode.Panic, _pressureRsi, "lowpressure1", "ai-atmos-panic");
-
-            // Travar setor (lockdown): airlocks com ferrolho + firelocks fechados.
-            args.Actions.Add(new StationAiRadial
-            {
-                Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/lock-red.svg.192dpi.png")),
-                Tooltip = Loc.GetString("ai-atmos-lockdown"),
-                Event = new StationAiAtmosLockdownEvent { Lock = true },
-            });
-        }
-
-        // Destravar setor (liberar) — qualquer lei (soltar a trava é seguro).
-        args.Actions.Add(new StationAiRadial
-        {
-            Sprite = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/lock.svg.192dpi.png")),
-            Tooltip = Loc.GetString("ai-atmos-unlock"),
-            Event = new StationAiAtmosLockdownEvent { Lock = false },
-        });
     }
 
     private void AddMode(List<StationAiRadial> actions, AirAlarmMode current, AirAlarmMode mode, ResPath rsi, string state, string locKey)
     {
         var label = Loc.GetString(locKey);
         if (current == mode)
-            label += " ✓";
+            label += " " + Loc.GetString("ai-atmos-active");
 
         actions.Add(new StationAiRadial
         {

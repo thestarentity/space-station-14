@@ -32,7 +32,6 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<AirAlarmComponent, StationAiAirAlarmModeEvent>(OnSetMode);
-        SubscribeLocalEvent<StationAiAirAlarmControllableComponent, StationAiAtmosLockdownEvent>(OnLockdown);
         SubscribeLocalEvent<FirelockComponent, StationAiFirelockEvent>(OnFirelock);
         SubscribeLocalEvent<StationAiFireAlarmControllableComponent, StationAiFireAlarmEvent>(OnFireAlarm);
     }
@@ -101,29 +100,5 @@ public sealed partial class StationAiAtmosSystem : EntitySystem
         _adminLogger.Add(LogType.AtmosDeviceSetting, LogImpact.Medium,
             $"{ToPrettyString(args.User):user} definiu o alarme de ar {ToPrettyString(uid):target} para o modo {args.Mode} pela IA de estação.");
         _popup.PopupEntity(Loc.GetString("station-ai-atmos-mode-set"), args.User, args.User, PopupType.Medium);
-    }
-
-    private void OnLockdown(EntityUid uid, StationAiAirAlarmControllableComponent comp, StationAiAtmosLockdownEvent args)
-    {
-        // Travar só sob lei hostil (destravar/liberar é seguro, qualquer lei).
-        if (args.Lock && !_hostile.IsUserUnderHostileLaw(args.User))
-        {
-            _popup.PopupEntity(Loc.GetString("station-ai-atmos-denied"), args.User, args.User, PopupType.MediumCaution);
-            return;
-        }
-
-        var grid = Transform(uid).GridUid;
-
-        // Tranca/destranca todas as airlocks da grade E dispara/reseta os firelocks da rede do alarme
-        // (simula uma emergência de ar: tudo fecha e não abre).
-        _hostile.BoltGridForced(args.User, grid, args.Lock);
-        if (args.Lock)
-            _atmosAlarmable.ForceAlert(uid, AtmosAlarmType.Danger);
-        else
-            _atmosAlarmable.Reset(uid);
-
-        _adminLogger.Add(LogType.Action, LogImpact.High,
-            $"{ToPrettyString(args.User):user} {(args.Lock ? "travou" : "destravou")} o setor (lockdown atmos) via alarme de ar {ToPrettyString(uid):target} pela IA de estação.");
-        _popup.PopupEntity(Loc.GetString(args.Lock ? "station-ai-atmos-lockdown-on" : "station-ai-atmos-lockdown-off"), args.User, args.User, PopupType.Medium);
     }
 }
